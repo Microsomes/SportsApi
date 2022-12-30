@@ -1,0 +1,61 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Microsomes 
+marcel-dempers
+/
+docker-development-youtube-series
+Public
+Code
+Issues
+8
+Pull requests
+7
+Actions
+Projects
+Security
+Insightsxzxn
+xn
+docker-development-youtube-series/kubernetes/services/service.yaml
+@marcel-dempers
+marcel-dempers add files
+Latest commit b2aae26 on Jun 12, 2020
+ History
+ 1 contributor
+15 lines (15 sloc)  251 Bytes
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: example-service
+  labels:
+    app: example-app
+spec:
+  type: LoadBalancer
+  selector:
+    app: example-app
+  ports:
+    - protocol: TCP
+      name: http
+      port: 80
+      targetPort: 5000
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+docker-development-youtube-series/service.yaml at master · marcel-dempers/docker-development-youtube-series
