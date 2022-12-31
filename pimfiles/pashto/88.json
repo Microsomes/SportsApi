@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6453,
+    "languageName": "Spanish",
+    "languageId": 166,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_01.jpg?versionId=lVD64RDyMaqNxYp3ODTxbdLhbGqTtr.u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_01.jpg?versionId=Rllo_Q3oqF8IrQnw3kT_XJ7xyu0R4KZT",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U01_Lesson.mp3?versionId=Dw1sceCXTQFjlJJVAcWRfmNb44wn8.we",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2321835,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "Spain has an active and growing senior population. In 2014, seniors accounted for roughly 18% of the population. According to the Pew Research Center, by 2064 nearly 40% of the population will be aged sixty-five or older. This is due to a variety of factors, including decreasing birth rates, lower immigration rates, and longer life expectancy.",
+    "imageCredits": "Ronnie Kaufman / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_02.jpg?versionId=6DX8pRTWlRTdaNuKOTB4IVLvQfkfykJK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_02.jpg?versionId=qGKvucVwqu52gNprSsqIL17HoR.DJMUH",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U02_Lesson.mp3?versionId=5Y4BurQfzNz1jTdKmh.48ZfPONpWwOKF",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2321857,
+    "cultureContent": {
+    "imageLocation": "La Boca district, Buenos Aires, Argentina.",
+    "imageDescription": "Founded in 1905 by working class residents of Boca, a port neighborhood in Buenos Aires, the Boca Juniors are one of the most celebrated soccer teams in Argentina. Fans from around the world come to the team's home stadium, La Bombonera, to watch intense and passionate matches. The team colors of blue and gold are reflected throughout the city, decorating buildings, homes, stores, and statues.",
+    "imageCredits": "Holger Leue / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_03.jpg?versionId=ad1SY.AZW8WodcXOrP4gXMs0TBNDqV0N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_03.jpg?versionId=OljjVQLPDStfhGkKtjhVw5VivN1JB.TJ",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U03_Lesson.mp3?versionId=enCGeIdlAlt9x82Pknap3lVxuXKHsrIt",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2321881,
+    "cultureContent": {
+    "imageLocation": "Antigua, Guatemala",
+    "imageDescription": "Semana Santa (Easter or Holy Week) is celebrated throughout Guatemala every year. The most extravagant celebration takes place in Antigua, attracting thousands to the city. Commemorating the last days of Jesus, the event begins on Ash Wednesday, the first day of Lent. Local artists cover the streets with \"alfombras,\" large \"carpets\" made of flowers, colored sawdust, fruits, and other materials. On Good Friday, hundreds of men dressed in purple robes carry large statues of Jesus and the cross down these carpets.",
+    "imageCredits": "Danny Lehman / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_04.jpg?versionId=XLLNnKwZS4W2rpRrmmxACrhKSYD2BMpl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_04.jpg?versionId=6VHCZhqoeciCgjHyGZEOLQrKEDbicgPw",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U04_Lesson.mp3?versionId=jFUZWW6Gx1uHIBAXZh6B2vLD17Ooofwe",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2321911,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "The Mayans, one of the dominant indigenous peoples of Mesoamerica, were known for their significant advancements in writing, mathematics, astronomy, pottery, architecture, and calendar-making. They built huge cities of stone, with temples, pyramids, palaces, and even courts for various games. Although the majority of these great cities were abandoned by 900 AD, a large amount of architecture and art survived, and Mayan ruins can be found throughout many Spanish-speaking countries.",
+    "imageCredits": "Rafal Cichawa / Getty Images (Restricted Access)"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_05.jpg?versionId=O.A431z6IIWiIrqsx5cBVmhx6WcGmxel",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_05.jpg?versionId=aVF24P3rOGuPR_HHDVrz8gaUIJWUaT9J",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U05_Lesson.mp3?versionId=qUvmKqmcbbqjGveWIenF_L10g22NwhoO",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2321943,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "Tapas are appetizers or small portions, often combined or shared to create a full meal. In Spain, it is traditional to eat dinner between 9 and 11 PM, so it is very common for friends to meet after work and share a few tapas, some drinks, and casual conversation before going home. Tapas restaurants are now a common sight in North America, Canada, Ireland, Mexico, and many other countries.",
+    "imageCredits": "Will Heap for Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_06.jpg?versionId=NLCnATVzCeox_xJlsNjUFeZdb8XB9w42",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_06.jpg?versionId=BWSBJ1jn3ZTOcKF9OuZVL4fcrdbK3g.e",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U06_Lesson.mp3?versionId=xAVYwtuk7WoAyvy8t4PAgeVqjUHq38Sx",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2321972,
+    "cultureContent": {
+    "imageLocation": "Cartagena, Spain",
+    "imageDescription": "The Roman Theater in Cartagena, Spain was built at the end of the 1st century BC, when Rome was at the height of its power. The theatre seated 6000 people and stayed in use for nearly 200 years. During the fall of the Roman Empire, it was buried under rubble and was not rediscovered until 1987. Today, many of the original structures and artwork have been reconstructed and the Theatre Museum is open to the public.",
+    "imageCredits": "Luis Davilla / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_07.jpg?versionId=K.qR_K.xaoX82kiwrN4j5eAR3gupf_nP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_07.jpg?versionId=jz4Fey1UeDJbVORy185rp0O6sztsAHEu",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U07_Lesson.mp3?versionId=ZDPMGpWVuLbx5HsbChphRINK6sXQDFpM",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2322018,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "In large Spanish cities like Barcelona and Madrid, you won't find the best local music in expensive concert venues; you'll find it on street corners and in transit stations. Both cities embrace the culture of street performance, and there is someone somewhere playing music at nearly every hour of the day, seven days a week. While some musicians perform in order to earn a living, many others play for free, sharing their art in an effort to make people happier and add a bit of levity to their day.",
+    "imageCredits": "Russ Schleipman / Corbis / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_08.jpg?versionId=a4Dd1cZe6rrpiJhYqHp_UpzvMEd2H9YK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_08.jpg?versionId=p3.oQDSHc2s4aTjml69uH8ahkiyRUer.",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U08_Lesson.mp3?versionId=AIlbXnLsLcxRT2CeCwtL93kOJAICmIwF",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2322045,
+    "cultureContent": {
+    "imageLocation": "Seville, Spain",
+    "imageDescription": "The Metropol Parasol in Seville, Spain, claims to be the world's largest wooden structure. Consisting of six massive mushroom-shaped \"parasols,\" the Metropol was designed by German architect Jürgen Mayer. Construction began in 2006 and in 2011 the Metropol Parasol officially opened and now serves as a communal gathering space in the center of the city.",
+    "imageCredits": "Allan Baxter / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_09.jpg?versionId=dwI7QfZdBXx.qUb3wXtmBTqioJBN9quW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_09.jpg?versionId=mARN.fsuALCYOOHMJOpgzGshPdrEUOa3",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U09_Lesson.mp3?versionId=7e3_kr3mRGv4pL3k_DlS4Kl9p6CWwPh9",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2322079,
+    "cultureContent": {
+    "imageLocation": "San Salvador, El Salvador",
+    "imageDescription": "Located in the historic downtown San Salvadorian neighborhood, Plaza Barrios, the Metropolitan Cathedral of San Salvador has a rich history. The square in front of the original church was the site of several deadly massacres prior to El Salvador's Civil War. It became a place of celebration in 1992, when the war ended and the Chapultepec Peace Accords were signed. Damaged and rebuilt three times, the church still stands strong, serving as a symbol of the nation's rebirth from tragedy.",
+    "imageCredits": "John Coletti / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_10.jpg?versionId=xCOKTRCVJniaoA4wFoyLrcRRarIJJVPe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_10.jpg?versionId=z1mZbc4BZXB0hh35ScR5.unu9mwoSeGw",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U10_Lesson.mp3?versionId=U6H6lQBfs74CwDb58_UDvzMPY.3BrkBb",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2322112,
+    "cultureContent": {
+    "imageLocation": "Eastern Republic of Uruguay",
+    "imageDescription": "Rice farms are a common site in Uruguay. The country is the world's third largest producer of rice, following China and India. Around 95% of Uruguay's rice production is exported to other countries, including Iran, Iraq, Peru, and Brazil. The global demand for rice is estimated to reach 116 million additional tons by 2035, and Uruguay is responding to this need by embracing an integrated approach to rice production and the most advanced agricultural technologies.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_11.jpg?versionId=4kX3F8s77etw4TOA8obbfsfytfnWAe8w",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_11.jpg?versionId=5tdD.DTgHDvfKTcYt6tSDWXLXm8D88P1",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U11_Lesson.mp3?versionId=oZc0mTJR_RM51FNXx6KgYk_f1cTtSvyX",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2322144,
+    "cultureContent": {
+    "imageLocation": "Santiago, Chile",
+    "imageDescription": "Built under the socialist rule of Salvador Allende in 1972, this complex served as the site of the United Nations Conference on Trade and Development (UNCTD). It remained in use as a convention center when the Chilean government fell to a 1973 military coup in 1973. After a fire damaged much of the complex, it was remodeled as a cultural center and reopened in 2010 with a new name: the Centro Cultural Gabriela Mistral (CGM).",
+    "imageCredits": "Walter Bibikow / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_12.jpg?versionId=R8_b6K.6sRGg4LbfDaAeL5QeeT_LFcnd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_12.jpg?versionId=KE.bJvageOYXI3IKMmqTFV2DsazbFv2Y",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U12_Lesson.mp3?versionId=evLOKKhlNnP9XrUYlwW_M2OPjuvy.ZK3",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2322178,
+    "cultureContent": {
+    "imageLocation": "Quetzaltenango, Guatemala",
+    "imageDescription": "The small village of San Andrés Xecul is home to a brightly painted, extravagantly decorated Catholic church. The bright yellow facade of the church displays roughly two hundred painted sculptures, mixing Catholic, Mayan, and agricultural symbols. Prominently featured are two carved jaguars, which represent the twin heroes of the Mayan Scriptures, the Popol Vuh. It is a true representation of the mixed heritage of the inhabitants of the village, many of whom are of Mayan descent.",
+    "imageCredits": "Danny Lehman / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_13.jpg?versionId=Z3lBC91nRlAtn7GRO335mwHtDbzluXJV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_13.jpg?versionId=iwFHvL4pA8bLzj8YJ0vCNqAHI6S5QAj4",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U13_Lesson.mp3?versionId=Pc9Y68P2nAR9xBOVTDEuTR7iqMfn3Yi1",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2322209,
+    "cultureContent": {
+    "imageLocation": "Antigua, Guatemala",
+    "imageDescription": "Built in 1694, Antigua's Santa Catalina Arch originally connected the Santa Catalina convent with the convent school, enabling nuns to travel between the two without being seen by outsiders. Today, the popular street that runs over the arch is known as the Calle del Arco and is a famous landmark seen in numerous photographs and paintings. From the top of the arch, one has a clear view of the entire Volcán de Agua.",
+    "imageCredits": "Jeremy Woodhouse / Holly Wilmeth / Blend Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_14.jpg?versionId=0CK12vP1h435ZKAS8I_LpxrUFRe4gD5U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_14.jpg?versionId=AYn0Ec0O8Mu7Yv7VX2q.mtLOfVqBtiWa",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U14_Lesson.mp3?versionId=ps5EqI6WAaUdpDrwMd3yql3R2MutsheA",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2322239,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "The pale-throated three-toed sloth belongs to the family Bradypus, which is derived from the Ancient Greek words meaning \"slow feet.\" Indeed, these creatures live a very leisurely and slow-moving lifestyle. These animals live in the lowlands and tropical forests located north of the Amazon River. Although their primary color is brown, these sloths can often take on a greenish appearance, due to a symbiotic algae that lives within their fur. This helps to camouflage the sloth, allowing it to blend into its arboreal habitat and protecting it from predators.",
+    "imageCredits": "Roland Seitre / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_15.jpg?versionId=pwuO86F2xpWuhDR_dCw6ixBgVcNtziFO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_15.jpg?versionId=dgbgx2KAvMqgT_K2LCBMfCKj0swqMW1Z",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U15_Lesson.mp3?versionId=uzSZ9mihHqJ5CoFr4eW_15R2OlHIoIjq",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2322267,
+    "cultureContent": {
+    "imageLocation": "Santiago, Chile",
+    "imageDescription": "This twenty-meter high statue marks the entryway of Santiago's Bicentennial Park, which encompasses an area totalling nearly 315,000 acres. There are many attractions, including two artificial lakes, an amphitheatre built to hold 10,000 people, a restaurant, and numerous bike and walking paths. One of the innovative features of the park is its Garden for the Blind, which was designed to increase social and cultural awareness and to ensure the safe participation of the local blind population.",
+    "imageCredits": "Walter Bibikow / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_16.jpg?versionId=alH9k584tyXS_Qh5wf8bhjakpXqB5tMb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_16.jpg?versionId=OFkviEGPRMCpa15cMJb6XdRXXBMaf_nF",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U16_Lesson.mp3?versionId=Y1gr3P.pjVA3t650dTF5LBZJksGmDJkG",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2322295,
+    "cultureContent": {
+    "imageLocation": "Antigua, Guatemala",
+    "imageDescription": "Franciscan missionaries began construction of The San Francisco Church at its current location in the city of Antigua in 1579, where it stood for over 200 years until an earthquake reduced much of the building to ashes. Seen by some as a miracle, the shrine to Central America's first Saint, Saint Peter of Joseph Betancur, survived. The church was partially reconstructed in the 1960s, and aspects of its original baroque facade are visible, though much still lies in ruin. Today, many people visit the tomb of St. Peter to ask him for favors and miracles.",
+    "imageCredits": "Luis Davilla / aga fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_17.jpg?versionId=gutvHWp0jqjfIYRFWfOEI0gwp2xetBd1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_17.jpg?versionId=k7n_swDSTvoZkTcqjig3uBUkocSBeveQ",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U17_Lesson.mp3?versionId=n6EAdx_l5Vgh2lkRyaX.p24USn.pTmNB",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2322323,
+    "cultureContent": {
+    "imageLocation": "Tlaxcala, Mexico",
+    "imageDescription": "The feast day of Saint Michael is celebrated annually on September 29th. On this day, pilgrims travel to San Miguel del Milagro, a Catholic church in Tlaxcala, Mexico. The stone wall in the church's courtyard is said to be the site of many miraculous events. People bring offerings to St. Michael, then place their hands upon the stone and ask blessings and miracles.",
+    "imageCredits": "Holly Wilmeth / Photonica World / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_18.jpg?versionId=kkDwe_v5fzdzNiE7YFYP0SUzCZ8AmB1z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_18.jpg?versionId=sgHjDl3kjl2EOD332To2shk7OWmxvgk8",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U18_Lesson.mp3?versionId=VBHApeLYAot2GTthJut4dvVAqJB39NDX",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2322349,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "La Recoleta Cemetery is one of the oldest and most famous cemeteries in Argentina. Many famous historical figures are buried here, including several presidents, the founder of the Argentinian Navy, and Eva Perón. One of the most impressive monuments is the Panteón de los Guerreros del Paraguay, which was built to commemorate the Argentine heroes of the late 19th century Triple War of Alliance.",
+    "imageCredits": "Dan Hallman / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_19.jpg?versionId=XP8IV0mxZVcOnnzMgReTl2klBtlZSO8z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_19.jpg?versionId=lVoYA84woffmV3UpcdCB.OGsYHDjd6yX",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U19_Lesson.mp3?versionId=qIYpJEWzawblP02sOBgtx1dtMAq9aEiP",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2322373,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "Often called the “Spirit of Mexico,” tequila is a liquor distilled from blue agave, a plant that grows abundantly in the volcanic soil of the area surrounding the city of Tequila, and in the highlands of the state of Jalisco. To begin the process of distilling tequila, workers place the blue agave into extremely hot ovens. It is then covered and steamed for a period of three days, after which it is distilled into the final product.",
+    "imageCredits": "Randy Plett / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_20.jpg?versionId=wqD4OkYFRniUXP4IaHHQO0XFPJeA4bAl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_20.jpg?versionId=sdwV8I0b3DXfYUiI8uPYH1Okv.tyCP0g",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U20_Lesson.mp3?versionId=ePql3KVCA.JJG1kTEEKAnqZY9PrmKX4m",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2322394,
+    "cultureContent": {
+    "imageLocation": "Cuzco, Peru",
+    "imageDescription": "Cuzco was once the political, military, and religious center of the Inca Empire. When Spanish conquistadors came to the city, they began to convert the Inca to Catholicism. As their influence grew, they built a number of grand cathedrals throughout the city, and Christianity quickly spread throughout the region. Today, Catholicism is the dominant religion in Peru, and these churches stand as a symbol of the wealth and power of the Catholic Church.",
+    "imageCredits": "Starcevic / iStock / Getty Images (Restricted Access)"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_21.jpg?versionId=lDKSbjmmjf2NGiJsHqVW97QWSAxW1OX5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_21.jpg?versionId=pxeXD.gWlz7Zq8OccppQJL.YM4MIijbW",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U21_Lesson.mp3?versionId=loF7goRrvwjAWaBh4pHcT8XsoyiBBQlR",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2322410,
+    "cultureContent": {
+    "imageLocation": "Mexico City",
+    "imageDescription": "Once the center of the Aztec capital Tenochtitlan, Zócolo Square stands at the heart of Mexico City. Officially known as the Plaza de la Constitucion, the area takes up an entire city block and can fit 100,000 people, making it one of the largest public gathering areas in the world. Over the years, Zócolo has been home to protests, cultural events, art festivals, and national celebrations. It is surrounded by the Palacio Nacional (presidential palace); the Catedral Metropolitana (Metropolitan Cathedral); and several Federal District buildings.",
+    "imageCredits": "Arpad Benedek / iStock / Getty Images (Restricted Access)"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_22.jpg?versionId=N31xcOUMOccIAiJIAepk5Ifxk2WpRUQf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_22.jpg?versionId=HfQJSHuEkNMgoNmD91wi3EKSUoWt9dDq",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U22_Lesson.mp3?versionId=dBkbxMTMQOXOy8IAy1t9yQlLnKTJMWx6",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2322429,
+    "cultureContent": {
+    "imageLocation": "Havana, Cuba",
+    "imageDescription": "Vintage U.S. cars are a common sight in Cuba: Chevys, Buicks, and Plymouths from the 1950s line the streets. In 1960, the United States enacted an embargo on all exports to the country, preventing Cuban citizens from purchasing any American-made products. Although the embargo was slightly relaxed in 2013, prices are extremely high, meaning that only the wealthy benefit. These vintage treasures allow those who cannot afford new cars to drive in style.",
+    "imageCredits": "77studio / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_23.jpg?versionId=pv4Es15T9oyVbtaCsUia.xhMqSAubBKK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_23.jpg?versionId=QUBzzuObLZX2yz7FL09KBOKYjdgACZmF",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U23_Lesson.mp3?versionId=uwAnM_LR7ChHgl40W69TUN8jOj7Gf3CS",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2322445,
+    "cultureContent": {
+    "imageLocation": "Cusco, Peru",
+    "imageDescription": "This statue was built to commemorate Pachacutec, the ninth Inca Emperor. He was a powerful warrior and leader who transformed the small Inca Kingdom in the Cuzco Valley into the grand Inca Empire of Tawantinsuyu. Pachacutec started an era of conquest for the Inca, allowing them to spread into many parts of South America. He built several estates; the third and largest of these is Machu Picchu, one of the most important archaeological sites in the world.",
+    "imageCredits": "Starcevic / iStock / Getty Images (Restricted Access)"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_24.jpg?versionId=EucoVoKEo0Bn_O8IyC2LHNrWhdwzCv60",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_24.jpg?versionId=lNa3AgTVHWd_kx5_ANeutzxtM08w7UdL",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U24_Lesson.mp3?versionId=RXEtvvOX4fa3Ivz1SEymmyQkLFsY2HJt",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2322460,
+    "cultureContent": {
+    "imageLocation": "Old Town, UNESCO World Heritage Site, Cartagena, Colombia, South America",
+    "imageDescription": "Cartagena is an old port city located on the coast of Colombia. Cartagena's historic Old Town is completely enclosed by thick stone walls called Las Murallas. After an attack during the 16th century, the city was left completely unprotected. Work soon began on Las Murallas, but due to storms and pirate attacks, the walls were not completed for nearly two centuries. The walled city and fortress of Cartagena's Old Town were declared a UNESCO World Heritage Site in 1984.",
+    "imageCredits": "Christian Kober / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_25.jpg?versionId=vyhdO.SkuIhhfS29glYTNxvXSNiRjzpJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_25.jpg?versionId=APj2iNBZcGe04H5FcDo3E5lcxF27cpwB",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U25_Lesson.mp3?versionId=0pwAXUrj.rTtsdHY09Z_KNUNuPpiVvnT",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2322469,
+    "cultureContent": {
+    "imageLocation": "San Juan, Argentina",
+    "imageDescription": "The Parque Provincial Ischigualasto is a 630-square-kilometer desert valley located between two mountain ranges in San Juan, Argentina. \"Ischigualasto\" means \"land without life,\" and this barren land is now home to only fossils and dinosaur bones. Visitors come to see the park's strange and surreal rock formations, which were formed by the waters of the Rio Ischigualasto, a now nearly dry river that once flowed through the valley. The park is also called “Valle de la Luna” (Valley of the Moon); when the moon is full, it bathes the valley in light.",
+    "imageCredits": "Aaron McCoy / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_26.jpg?versionId=Af8svA8cYpt2OyLuO12fTCtr_UbJphxu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_26.jpg?versionId=JqN.qpyfpAwU_Yicf9jPwq286M5_tZfg",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U26_Lesson.mp3?versionId=P7lBtR38xGFsr1sBfyl1sitFNkp8Pg8j",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2322476,
+    "cultureContent": {
+    "imageLocation": "Tatacoa Desert, Colombia",
+    "imageDescription": "At 330-square-kilometers, the Tatacoa is the second largest desert in Colombia. It is known as the \"Valley of Sorrows,\" for it is not technically a desert; it is a dried-out tropical forest. Though there is little water to be found, some plants and animals have learned to adapt to the dry conditions. The valley is filled with striking stone formations and winding paths; perfect for hikers and horseback riders. However, visitors should be careful, because the name Tatacoa refers to the rattlesnakes that call the arid region home.",
+    "imageCredits": "Bjorn Holland / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_27.jpg?versionId=OVYA1SmMZLrd.9tj72IxR9rV0bgpUyDn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_27.jpg?versionId=q3vnbD8hLNHF2G8zlhQAWqCO49M73LLH",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U27_Lesson.mp3?versionId=0UcG5xIOCqW7NJslKj.9Q6dhXUwR2fgQ",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2322485,
+    "cultureContent": {
+    "imageLocation": "Lima, Peru",
+    "imageDescription": "This intricately constructed planetarium has the distinction of being both Peru's first astronomical observation center and its most modern, boasting an advanced digital projection system. The museum has a variety of exhibits, from ancient telescopes and other instruments used in astronomy to archaeological discoveries. These include relics from the pre-Inca Ichma culture that once inhabited Peru; marine fossils; and items found in the Morro Solar hills after the Battle of San Juan and Chorrillos.",
+    "imageCredits": "John Coletti / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_28.jpg?versionId=_doOJKPBhVsUAWnd7KSPFtloTAMRt0o.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_28.jpg?versionId=ADwN.iNoq9aCdlpWZrb3WHihqi75TT5q",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U28_Lesson.mp3?versionId=0rzrx0HIPrNdPgJRd8LnrpHPlgVfb9Sy",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2322495,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "Volcano surfing or boarding is an extreme sport in which athletes hike up one side of a volcano, then slide down the other side on a thin board made of metal or plywood. Athletes can reach speeds of over 30 MPH when sliding down the slopes! One of the most popular locations for volcano boarding is Cerro Negro (Black Rock), a 728 m (2388 ft) tall, active volcano located in Western Nicaragua.",
+    "imageCredits": "Matthew Micah Wright / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_29.jpg?versionId=Bj0Zuo2kcnOzmwAvuTh3xvLml5dVpvmR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_29.jpg?versionId=yjukuO_GtY_hbgwoZvmb1iuoNjApiZvl",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U29_Lesson.mp3?versionId=DKMyxsWfFgsaLKuQ_354ewIzPD0DoGh3",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2322507,
+    "cultureContent": {
+    "imageLocation": "Dominican Republic, Santo Domingo Province",
+    "imageDescription": "With numerous practical uses, the cashew fruit has become one of the main products of the Dominican Republic. Though the fruit itself is inedible, the seeds can be roasted and eaten as snacks, or processed to make cashew butter or cheese. A powder made from the raw seeds acts as a powerful anti venom, while the oil from the cashew nut is used as an a moisturizer. Even the bark is has medicinal properties.",
+    "imageCredits": "GUIZIOU Franck / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/full/SP_5_M_30.jpg?versionId=WM5h6TyZ5JocsjcpR8ustFLsM9RUZTjW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/lesson_photo/thumb/SP_5_M_30.jpg?versionId=xMIrntd12EUoDdZKBrtmiRdtJKfDgzbz",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/main_audio/9781508230946_Spanish5_U30_Lesson.mp3?versionId=AB6s75awY5oHOS.YWYnchOb1nxGagl_r",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2322513,
+    "cultureContent": {
+    "imageLocation": "Madrid, Spain",
+    "imageDescription": "Madrid's Plaza de Toros de Las Ventas has been the home of bullfighting in Spain for nearly 100 years. Boasting a seating capacity of 25,000, it has the distinction of being the third largest bullring in the world. Though many protest the fights are being violent and cruel, bullfighting is still a big part of Spanish culture. The ring is filled with spectators nearly every day during the bullfighting season, which lasts from March until October.",
+    "imageCredits": "Ventdusud / iStock / Getty Images (Restricted Access)"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish Level 5 orig/asset/RL/9781508230946_Spanish_5_Intro.pdf?versionId=4VcyYxVnVIXQZC6aS9dho8YNzuhccS8e",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit01_Reading.mp3?versionId=m97wTsIwyl_BUd5pxiqjg_uOlIlKib_w",
+    "mediaItemId": 2223869
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit02_Reading.mp3?versionId=A7FrLfwgPhwHwOSPFPwEJMeV43mTqV3J",
+    "mediaItemId": 2224081
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit03_Reading.mp3?versionId=90ogg4g4_5Jrr0.cC18M4RCivMybFK1j",
+    "mediaItemId": 2224214
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit04_Reading.mp3?versionId=4EvzD7zlnbm61T07qCt2Zf8ttIpsjwM4",
+    "mediaItemId": 2224420
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit05_Reading.mp3?versionId=.Iz_khAGmnihyyUAxShXj7aWm4UIr3AL",
+    "mediaItemId": 2224554
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit06_Reading.mp3?versionId=XEZ3WGEmiBpZQNuE2e6j8AwrPrwMSiDI",
+    "mediaItemId": 2224728
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit07_Reading.mp3?versionId=w1V2N6V3fsxoowwp9C_CxJzRFMSoH9NE",
+    "mediaItemId": 2225049
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit08_Reading.mp3?versionId=VC8BwN9I.LUl0OS4.quWm0g3MxGyETdD",
+    "mediaItemId": 2226701
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit09_Reading.mp3?versionId=FwEZ.nqu0l94jZi90H90WSRakXhWqiCk",
+    "mediaItemId": 2229458
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit10_Reading.mp3?versionId=GYAPZJUEob2YyWOUTAxv1.koV3IrjdaH",
+    "mediaItemId": 2232945
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit11_Reading.mp3?versionId=ypRP1S5rxJttzpx7yymNiyTff9miTpvc",
+    "mediaItemId": 2236596
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit12_Reading.mp3?versionId=YeqANDCXR27PscsSzR4D8if1KQIYTUSo",
+    "mediaItemId": 2240298
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit13_Reading.mp3?versionId=fOG3V5tBw8NNYztAXbGhWiKUSkmtwCAx",
+    "mediaItemId": 2243175
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit14_Reading.mp3?versionId=H1shHATNWjXnGKtnlxybD_.yGyx9abxt",
+    "mediaItemId": 2246297
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit15_Reading.mp3?versionId=tzFl.DmDRx5AN.f6P9f6TQGdX3kt_mDl",
+    "mediaItemId": 2249240
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit16_Reading.mp3?versionId=MVKYm4pV2m15KalQS3Jkaw6XMZ9t9924",
+    "mediaItemId": 2252268
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit17_Reading.mp3?versionId=uN5P.52GdE8ixnZN_xVtTP5DwhMHtmFE",
+    "mediaItemId": 2255049
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit18_Reading.mp3?versionId=0ZXoZXpQOs8IxDhURHYxuHLzVPgVtP9g",
+    "mediaItemId": 2257872
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit19_Reading.mp3?versionId=7oHae4BFVbsJROokymxEHDuvR1eH5k9s",
+    "mediaItemId": 2260717
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%205%20orig/asset/RL/9781508230946_Spanish5_Unit20_Reading.mp3?versionId=HL4eKwbACut1XcXvDBHpbhu1IB5C88.I",
+    "mediaItemId": 2263149
+    }
+    ]
+    },
+    "languageCode": "es-MX",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508230946",
+    "level": 5,
+    "courseName": "Spanish Level 5 Premium",
+    "simpleCourseName": "Spanish Level 5",
+    "puArabic": false
+    }
+    ]

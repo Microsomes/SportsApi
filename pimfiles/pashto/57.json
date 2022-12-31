@@ -1,0 +1,629 @@
+[
+    {
+    "courseId": 4643,
+    "languageName": "Italian",
+    "languageId": 155,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_01.jpg?versionId=ZN8bFZG6ahoqdSiEwfMXpVp9vy4HyCnc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_01.jpg?versionId=1fJSDktC6FmGTse.MxtSp9Ix_vzvdcY2",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U01_Lesson.mp3?versionId=E4KHlYDnDA4gIv5Bm1xQYwl.MWDbVttE",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2292701,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "Italy became a democratic republic on June 2, 1946, when the monarchy was abolished by popular referendum.  The constitution was promulgated on January 1, 1948.",
+    "imageCredits": "Jupiterimages / Workbook Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_02.jpg?versionId=BWEz_Qsr89wKQ1yV9G668kRyWtlvWpiW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_02.jpg?versionId=ftW6JFQyu9ENkkQe1f_8fDd7BlFPxshi",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U02_Lesson.mp3?versionId=VPxBNUTLiv4ROe.0imiAFHf30.xUP822",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2293147,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Commonly referred to as the 'City of Bridges,' Venice has 409 bridges.  However, Hamburg, Germany has over 2,300 bridges, more than Venice and Amsterdam combined.",
+    "imageCredits": "Andrea Pistolesi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_03.jpg?versionId=Ad9UOlR8kyZVU6bcv.dxBseHZdLjzDcX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_03.jpg?versionId=fubYs5XcFXkYAEF0PgzaI0ZUtgHf4swW",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U03_Lesson.mp3?versionId=Q6hlVJp4YkgrQa_oEdgbmqoVEe9OUOGA",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2293423,
+    "cultureContent": {
+    "imageLocation": "Val d'Orcia, Tuscany",
+    "imageDescription": "Tuscany is often considered the leader of Italy's green movement.  Agritourism farms (agriturismi) featuring Bed & Breakfast packages, are especially popular in this region.",
+    "imageCredits": "Thierry Hennet / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_04.jpg?versionId=pcgauMRjyphUfot8BmRyG6_DSlWl2bMS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_04.jpg?versionId=ZgIQje39y605sjtKXlGEg32vt1fLVOhq",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U04_Lesson.mp3?versionId=4dzaBYhYSLDcfd160Ue4srgxESymh1t.",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2293674,
+    "cultureContent": {
+    "imageLocation": "Pisa, Tuscany",
+    "imageDescription": "The Tower of Pisa is not the only leaning tower in town.  The bell tower at the church of St. Michele dei Scalzi, and the bell tower at the church of St. Nicola exhibit the same structural difficulties.",
+    "imageCredits": "Mats Silvan / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_05.jpg?versionId=NWbWpCdeyk3S2Afuw09lwRnQQvdd2run",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_05.jpg?versionId=2k30mhetZCzeAoYMgbKsUtFllA5Qdn9Y",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U05_Lesson.mp3?versionId=WLJdEmpcVVqshGR.H.VgevV1d.7irfF3",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2293917,
+    "cultureContent": {
+    "imageLocation": "Ravenna, Emilia-Romagna",
+    "imageDescription": "Eight of the 936 sites on UNESCO's coveted World Heritage list are located in Ravenna.",
+    "imageCredits": "Gina Martin / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_06.jpg?versionId=IEAEWarPiKQkb_0RioHV6SH4TKcMGmLQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_06.jpg?versionId=u2j1hSU95JsHN4.fXFq1QWfK884hCG.g",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U06_Lesson.mp3?versionId=Ik.zKyZ0j_TtncswV.V4WYNwi34LtGI.",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2294136,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Contrary to popular belief, Marco Polo did not discover pasta, but he did bring it to Italy from China.  The Chinese are on record as having eaten pasta as early as 5,000 B.C.",
+    "imageCredits": "Ursula Alter / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_07.jpg?versionId=cAOTx_ssx4a6pdHblKeMhwvfQOBqxLyK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_07.jpg?versionId=L8vYvzE4pUCTC.9yS8SGnZKT3d7PtYxC",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U07_Lesson.mp3?versionId=6ypL8cpIRdf0MZcqfVi9v_33ndIOiS_y",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2294420,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "A small 10 oz cup of American drip coffee has 2.5 to 5 times more caffeine than one shot of espresso.",
+    "imageCredits": "Martin Child / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_08.jpg?versionId=.2vTQilm3ggsRJk5uIgldypmE.1iweC2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_08.jpg?versionId=UdrGsDfQ3jZboAAzxwMDB5bYYalMa_DT",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U08_Lesson.mp3?versionId=z4tc4kHeTv1.Mfr6IXd04G_nmS9CRqEl",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2294669,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The entrance to St. Peter's Basilica has been protected by the Swiss Guard since 1506.  To enter the Vatican army, all applicants must be Swiss nationals, Catholic, and take an oath of loyalty to the Pope.",
+    "imageCredits": "Mel Curtis / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_09.jpg?versionId=GIIytjGyGCrMps1S.k5RmVDXpa0auh5p",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_09.jpg?versionId=5sKGABzbAlVEXcI45houAHAy3Lmm0oZt",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U09_Lesson.mp3?versionId=7_MqF7cd4nlEZZLHnkmHntqkjwwOqN0i",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2294912,
+    "cultureContent": {
+    "imageLocation": "Dolomites, Trentino-Alto Adige / Südtirol",
+    "imageDescription": "The Dolomites Alps got their name from the 18th-century French geologist Dieudonné Dolomieu, who first studied the region and its geology.",
+    "imageCredits": "Ulli Seer / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_10.jpg?versionId=pa9i6hq3gSbTkNI.EFXz..ylpI0QZz.N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_10.jpg?versionId=jzmVYrluJwM1CxXOBo3MfNEx8B4ZIBD9",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U10_Lesson.mp3?versionId=Y2DIqc2Ecoos15iUuZ4sBRd2R.fZjoMb",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2295208,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "The Rialto Bridge was designed by Antonio da Ponte who beat out Michelangelo's bid.",
+    "imageCredits": "Fraser Hall / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_11.jpg?versionId=NtOM8hOnfQ6ED.rJhPThFWnL2v2clV53",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_11.jpg?versionId=3oNFf3W6x713vU6lRGuf5Nma8p6arW8A",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U11_Lesson.mp3?versionId=EFWwEbDZ4CSUmIrIgPI.MZHn9SF1HFC9",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2295489,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "Northern Italian gelato is made with dairy products, while the one in the South is traditionally made with water and fruit.  The latter is also called sorbetto.",
+    "imageCredits": "Grant Faint / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_12.jpg?versionId=P6ej59jtTCbdMnuiIl2CjMLsN68sfOQL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_12.jpg?versionId=QiLJE5U2.2pMNjQ_BVcvg_knNDpH37gd",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U12_Lesson.mp3?versionId=EvRDPNf82pxuMnDZhGqRvwr2wyqY3Hcy",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2295809,
+    "cultureContent": {
+    "imageLocation": "Republic of San Marino",
+    "imageDescription": "San Marino is the fifth smallest state in the world, behind Vatican City, Monaco, Nauru, and Tuvalu.  Its size is approximately 24 square miles.",
+    "imageCredits": "Sir Francis Canker / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_13.jpg?versionId=VV9hVZneCEYAmwHnpi8rL0uMaKl.J5L1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_13.jpg?versionId=iFbVaCo.oexdCSttBJTYmxhZssDd9ujH",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U13_Lesson.mp3?versionId=fWqPJBawefWA64mWnoVULCgA.K6q8iwn",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2296051,
+    "cultureContent": {
+    "imageLocation": "San Quirico d'Orcia, Tuscany",
+    "imageDescription": "Tuscan wines are at the center of the Italian wine experience and have been for 3,000 years.  Tuscany produces more than 30 Denomination of Controlled and Guaranteed Origin wines.",
+    "imageCredits": "Matteo Colombo / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_14.jpg?versionId=2puly0Qkfh_mgH1ALD9JpvL9m4K0LDDD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_14.jpg?versionId=.A5GHUvoLBXFxXbVvnsOE0nBRB2c9UWw",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U14_Lesson.mp3?versionId=pElu29..qLF_Vwb3jOzKs3y0APPkt.qn",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2296339,
+    "cultureContent": {
+    "imageLocation": "Reggio Emilia, Emilia-Romagna",
+    "imageDescription": "The Calatrava bridge was designed by Spanish architect Santiago Calatrava Valls who is also responsible for such projects as the Milwaukee Art Museum and the Sundial Bridge in Redding, California.",
+    "imageCredits": "Mirko Cassanelli / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_15.jpg?versionId=MLqoRa8H9qXx9CJxXJRBX.3QLPkJ6Ow7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_15.jpg?versionId=AvzcIKnzPGHm85dApU6Mti1_so1Hy054",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U15_Lesson.mp3?versionId=DqZWBnVH_Khe073cr15R4iBThJ33q9Qi",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2296628,
+    "cultureContent": {
+    "imageLocation": "Corleone, Sicily",
+    "imageDescription": "Corleone is known as the birthplace of many real life mafia bosses as well as the fictional character, Vito Corleone in Francis Ford Coppola's The Godfather.",
+    "imageCredits": "Peeter Viisimaa / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_16.jpg?versionId=WIIHo5_R_T8MaZ83ieWUXnWITwap0AXf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_16.jpg?versionId=k_uI_aAVvftiyBcwxFJVACmVhTHsfo00",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U16_Lesson.mp3?versionId=gvION9b6GAmpfKZiBKcLcWz8YfUFhzNX",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2296855,
+    "cultureContent": {
+    "imageLocation": "Alberobello, Puglia",
+    "imageDescription": "Trulli are whitewashed houses adorned with a conical roof.  They were built to be easily demolished, perhaps to allow owners to avoid paying property tax.  Upon notice that the tax collector was coming to town, the houses would be dismantled.  It is said to be done by removing just one stone!",
+    "imageCredits": "MIXA Co. Ltd. / MIXA / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_17.jpg?versionId=F5FjC0vxliSammIFDL3pEdW0FAooSkEu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_17.jpg?versionId=XMTO7WCfUKDw9YN43Aq4TkYs_GqorHea",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U17_Lesson.mp3?versionId=1X3U.ic5xUn6DW.9Zk55m9JQbmQpoXYw",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2297119,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Teatro La Fenice, originally built in 1790, was rebuilt after it burned to the ground in 1996.  It has been called 'one of the best opera houses in Europe.'",
+    "imageCredits": "Eric Vandeville / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_18.jpg?versionId=kiOgJZifHBMYPyUEOuK7iVyUg.qsu9E3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_18.jpg?versionId=yAHwg7Vng4LHBJTksTPCRTLyL3WwzUHv",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U18_Lesson.mp3?versionId=Sre8n6PvSrlwwCWmfIx3ybzQHN2ejc5S",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2297390,
+    "cultureContent": {
+    "imageLocation": "Genoa, Liguria",
+    "imageDescription": "Soccer was introduced to Italy by the British at the end of the 19th century.  Italy has won the World Cup four times (1934, 1938, 1982, and 2006), making the country’s team second only to Brazil's in number of wins.",
+    "imageCredits": "Tiziana Fabi / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_19.jpg?versionId=SvRfbOW0zW9r.lL9s8on6qLTafczxqHh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_19.jpg?versionId=19Swd5kxi98lC7veEl27XKmZz.ALjJXI",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U19_Lesson.mp3?versionId=fdZZ4Jo9axaGEFTJkQfkG8_MAIgfkmM0",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2297662,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "Bernini, the sculptor of the 'Fontana dei Quattro Fiumi' was bitterly angry at Borromini who was commissioned to build the Basilica of St. Agnese.  It is believed that Bernini sculpted the figure of the 'Rio de la Plata' cowering, as if to suggest that the church would soon crumble on top him.",
+    "imageCredits": "Simon Watson / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_20.jpg?versionId=0agpe0LJYKZJCNNx6VjrIocjQQxdq3c0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_20.jpg?versionId=lRAs0DImph7t4MxUlVeNbZ102lObyrtp",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U20_Lesson.mp3?versionId=sp2MujSMQIC4dvrVa1OfeSwuLl6sDHPW",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2297952,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The spiral staircase of the Vatican Museum was designed by Giuseppe Momo in 1932.  The stairway is composed of two separate helixes, one going up and the other down.  21 years later, James D. Watson and Francis Crick discovered the same double-helix model in the structure of DNA.",
+    "imageCredits": "Nello Giambi / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_21.jpg?versionId=NcJQniiFoChO1vCsl4EGQfVJEk9zTnzB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_21.jpg?versionId=GbdPghjH7ux3yDbCLPMQtvMdpQ4KJCBx",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U21_Lesson.mp3?versionId=Q2l8ovIJ8ljPTPa_mTgQuEqS4m7LFB2l",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2298239,
+    "cultureContent": {
+    "imageLocation": "Palermo, Sicily",
+    "imageDescription": "Sicily is Italy's largest region and the largest island in the Mediterranean.  Palermo is its capital.",
+    "imageCredits": "Richard Ross / Riser / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_22.jpg?versionId=dBThKxkmUa4jQF8LTs_FpknGUxXIi3Bv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_22.jpg?versionId=hIaDhNVhDQd7ybTXIRzPuuuXxrTy7Bzb",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U22_Lesson.mp3?versionId=NXZAZjDlJFabjsq3PqoC5j_J6KVbiW2T",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2298536,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "The Ponte Vecchio was one of the only bridges that the Germans did not destroy during their retreat in August 1944.  It is believed that this was the result of direct orders from Hitler.",
+    "imageCredits": "John and Tina Reid / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_23.jpg?versionId=d.R06V2byK6qIsB.yz15tFuu64JVpwBF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_23.jpg?versionId=Tn00iXudDsJ5aXXdT3mg69Tb3dfYHH1u",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U23_Lesson.mp3?versionId=GAK0zcyRY_J1PASmVohmOw0XIea8oI.U",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2298735,
+    "cultureContent": {
+    "imageLocation": "Stromboli Island, Sicily",
+    "imageDescription": "Stomboli is one of the 3 active volcanoes in Italy.  It is part of the eight Aeolian Islands.",
+    "imageCredits": "Jean-Pierre Degas / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_24.jpg?versionId=zqqGnIn2aChtQ8S8C3ux8S1BZynly1oy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_24.jpg?versionId=7Qxd2_G_qDfFIXTyuWAW24EUEerVLs1.",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U24_Lesson.mp3?versionId=FPzevrdVesOTJ3dM.DS97vjONhM9wI_t",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2298983,
+    "cultureContent": {
+    "imageLocation": "Ranui, Trentino-Alto Adige / Südtirol",
+    "imageDescription": "St. Johann's Church was built in 1744 and is dedicated to St. Johannes Nepomuk, a national saint of the Czech Republic.",
+    "imageCredits": "Gavin Hellier / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_25.jpg?versionId=hJsNJ54y5PeRNrEPkhodIstTx_2H10Ed",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_25.jpg?versionId=TCmvVm2fjta4YRFRfv0Yk7PfotFvlOqS",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U25_Lesson.mp3?versionId=gSt1f1nszlQbHJBLaiPAzS6w3WBWvW0t",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2299337,
+    "cultureContent": {
+    "imageLocation": "Ravello, Campania",
+    "imageDescription": "Villa Cimbrone dates back to the 11th century AD.  Ernest William Beckett, a British banker and politician, bought the property in 1904 and drastically expanded the villa.  The Beckett family hosted many famous guests at the villa including T. S. Eliot, Winston Churchill, Greta Garbo, Virginian Wolf, etc.  Today, it has been reinvented as a luxury hotel.",
+    "imageCredits": "MIXA Co. Ltd / MIXA Co. Ltd / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_26.jpg?versionId=gnKK0cOFmnasP3sUAPOkJ2gVf44CNNIu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_26.jpg?versionId=dV85lZB28R3HNU8rNv67KJLAiu.rbViG",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U26_Lesson.mp3?versionId=DlsejrrNQ5sawJVI5mi.SFbYyj9P81sQ",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2299590,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "The Venetian gondola is one of the most well known boats in the world and dates back to 1094.  A law requires that they be painted black.",
+    "imageCredits": "Sami Sarkis / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_27.jpg?versionId=JKisoG5MGF4T_7FDA9FuchnzM6cf2Thp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_27.jpg?versionId=1ZhbGXHdSkTpAZKLs8ShpN0aVcvGNZIy",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U27_Lesson.mp3?versionId=g7rP6bcpMBrAi1wTGb7znvIM7owdGGSh",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2299817,
+    "cultureContent": {
+    "imageLocation": "St. Rhemy en Bosses, Valle d'Aosta",
+    "imageDescription": "The 'Vallée d’Aoste Jambon de Bosses' (Protected Designation of Origin product) is a raw ham spiced with mountain herbs.  It is exclusively seasoned at the great altitude of 5,200 feet above sea level, in the point of confluence of the four winds that blow down from the four hills of Malatra, Citrin, Serena and Gran San Bernardo.",
+    "imageCredits": "Torrione Stefano / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_28.jpg?versionId=buSLJ_TCbzG1MQIwTqAC6nKh8raWMQec",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_28.jpg?versionId=vSeoNFDf.E09AFSekcENOu69_STkSkRN",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U28_Lesson.mp3?versionId=6nOiR5D8RNHPN3hh6LkIvT44e99djmde",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2300071,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Italy is the number one producer of pasta in the world, followed by the United States.  Italians are also the biggest eaters of pasta with an average of 61 lbs. per person per year.  Venezuelans are the second biggest pasta eaters with 27 lbs. per year.",
+    "imageCredits": "Ian O'Leary / Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_29.jpg?versionId=8euHQjifKBDELVs6a4aqzDbJx2hKhZQo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_29.jpg?versionId=eNhcRvVStJhwLjPQvYIWFvIszX6EQF.U",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U29_Lesson.mp3?versionId=z_NIxTbBsSjTdelIARJytncaJrNEzgcL",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2300296,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Fountain of Neptune was sculpted by Michelangelo's apprentice Bartolomeo Ammannati.  The final sculpture was not appreciated by the locals or the master.  It is rumored that Michelangelo’s only comment to Ammannati was 'what a beautiful piece of marble you've ruined.'  Florentines were equally harsh and started using the fountain to wash their laundry.",
+    "imageCredits": "Wilfried Krecichwost / Riser / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/full/IT_1_M_30.jpg?versionId=xMW7Gnz5XR_8KoSZ3HsS.tD5YEt6hi1p",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/lesson_photo/thumb/IT_1_M_30.jpg?versionId=B.x_xut9sqEm5Nx3RoClRAdn5.vHK0tn",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/main_audio/9781442348660_Italian1_U30_Lesson.mp3?versionId=fqu2du.tZShfDMhEQxrJYY8Ra09CdCo4",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2300501,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "In 1889, Raffaele Esposito made a pizza for Queen Margherita of Savoy using tomato, basil, and cheese to represent the colors of the Italian flag.  The Margherita pizza has become known the world-over.",
+    "imageCredits": "Kenneth Ginn / National Geographic / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian Level 1 orig/asset/RL/9781508231400_Italian_1_Intro.pdf?versionId=o_OFcGgY_GQ4cpyZLEQurgKWqAzy_UrW",
+    "audios": [
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U09_Reading.mp3?versionId=m8l_V_FndoGG_198kufb1YeYCB00_6iE",
+    "mediaItemId": 2223777
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U10_Reading.mp3?versionId=ZZ.EYQvgcNXJb6jTMtlUjMx.MO3hxpMz",
+    "mediaItemId": 2223894
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U11_Reading.mp3?versionId=c9DvneNmofoj0MymnrSKVqlT9Skpyab0",
+    "mediaItemId": 2224108
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U12_Reading.mp3?versionId=3MPSN8u1daA8oJNnkN85GmDFc_3yBwCO",
+    "mediaItemId": 2224244
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U13_Reading.mp3?versionId=.O5DoPTXc70iyu1GfZkwjeSgGwoExK.j",
+    "mediaItemId": 2224442
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U14_Reading.mp3?versionId=ymlRr64nA6guabV1C5Ncpd.ryn7rjNNd",
+    "mediaItemId": 2224608
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U15_Reading.mp3?versionId=rgZfovDPYTc6_GnI.DonFoigeAoYyRip",
+    "mediaItemId": 2224742
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U16_Reading.mp3?versionId=qPHXQn_u67gg.NL6MUI03oattUrEhmeu",
+    "mediaItemId": 2225250
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U17_Reading.mp3?versionId=0G9tzunqSXqxichDPU86lTacR21lKDz1",
+    "mediaItemId": 2227162
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U18_Reading.mp3?versionId=wIocJgMap8NsFK4Qblrtb1MCpI7SO2nG",
+    "mediaItemId": 2229946
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U19_Reading.mp3?versionId=yKRyLiVnCTNNwRi2fkN2.U_MwMSDT3Ur",
+    "mediaItemId": 2233516
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U20_Reading.mp3?versionId=vnwDPT4ZjahfAF9iOMQUi1Q00AfzBeRb",
+    "mediaItemId": 2236895
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U21_Reading.mp3?versionId=ySEUv7J_o3eq5hJdsaIo3WbUyjpJB.h3",
+    "mediaItemId": 2240424
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U23_Reading.mp3?versionId=zyOg7l22mfM8NytzoIk3zLFUQJlKnWFO",
+    "mediaItemId": 2243216
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U24_Reading.mp3?versionId=ShvZro2LuV0OnwcizIkwECjenKboScRm",
+    "mediaItemId": 2246502
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U25_Reading.mp3?versionId=pBh0Grov9ZtVLd16iZFx6..9UycwpuFK",
+    "mediaItemId": 2249601
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U27_Reading.mp3?versionId=GRgBHTX1nalSCGr7GlmuvNbJ9ZYFIgK8",
+    "mediaItemId": 2252632
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U28_Reading.mp3?versionId=tkIYKIiM4FsgV6oEbeDCKGbyrQU1f.UB",
+    "mediaItemId": 2255383
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%201%20orig/asset/RL/9781442348660_Italian1_U29_Reading.mp3?versionId=eJUXCT2424wVGOvYqcjBB6SMhx50Wvp0",
+    "mediaItemId": 2258205
+    }
+    ]
+    },
+    "languageCode": "it-IT",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508231400",
+    "level": 1,
+    "courseName": "Italian Level 1 Premium",
+    "simpleCourseName": "Italian Level 1",
+    "puArabic": false
+    }
+    ]

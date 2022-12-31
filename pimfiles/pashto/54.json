@@ -1,0 +1,648 @@
+[
+    {
+    "courseId": 6584,
+    "languageName": "Icelandic",
+    "languageId": 184,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_01.jpg?versionId=PqcEvQV3F3UGqIyw8d44s8gJu9ZknTWA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_01.jpg?versionId=l6ZJATnViIQcOclstxyvykRuyXj_NM35",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_01.mp3?versionId=i.KSvKMHPTSxqyDpWCYNR.DPACAHM5h.",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323701,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "The island nation of Iceland was first settled in the 9th century by Norse explorers. With a population of just over 370,000, Iceland is Europe's most sparsely populated country. Only about 314,000 people speak Icelandic, a Germanic language that closely resembles Old Norse and hasn't changed significantly in 800 years.",
+    "imageCredits": "Xsandra / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_02.jpg?versionId=1OKwa7it_riTYnNAPYL6O6R8t18fjkpU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_02.jpg?versionId=a8TAvYIaSriqgk0krZbhhZYkifhVCZZ0",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_02.mp3?versionId=pCxODdESX.DVQmGkszhW..e62S6FCa.e",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323706,
+    "cultureContent": {
+    "imageLocation": "South Iceland",
+    "imageDescription": "One of the more accessible waterfalls in Iceland, Seljalandsfoss can be found next to the Hringvegur, or Ring Road, Iceland's main highway, in the south of the island. The waterfall is fed by the Eyjafjallajökull glacier and drops 200 feet from the ridge to a pool below. Visitors can wander behind the falls along a moss lined wall of rock as long as they don't mind getting a misty shower!",
+    "imageCredits": "Viaframe / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_03.jpg?versionId=pSUN07hFgrNVEhRl1MRwNpFRWTgm5ocM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_03.jpg?versionId=xPV6SvxA8CvnR5eP8FponPRLmYNBpJzZ",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_03.mp3?versionId=x66rWjyYZxAidpjKam.3H8TvQzVzQukJ",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323709,
+    "cultureContent": {
+    "imageLocation": "Kálfafell",
+    "imageDescription": "Iceland's famously unforgiving climate and barren landscape made it a challenging place to live before modern comforts made their way to this windswept island nation. Turf houses, or torfbæir, were generally constructed with a stone foundation and a wooden frame made of local birch into which turf was fitted in blocks, and usually contained a great hearth in the center for heat and cooking. These cozy homes provided warmth and insulation to early settlers and their livestock.",
+    "imageCredits": "Vadim_Nefedov / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_04.jpg?versionId=KHdD1VJ.lq1d4SaMUzFVeZSmgOo6fFIE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_04.jpg?versionId=YPBWdtmpwNtnW2W6JSiUz95qlnunL2EM",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_04.mp3?versionId=2zJYx6.MEQNDBiiIZ9n.YvyTkb7VEjNN",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323713,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "Over a million people visit Iceland each year to take in the country's unmatched natural splendor. The island's proximity to the polar region makes for long periods of darkness during winter months allowing spectacular views of the aurora borealis. As with everything in Iceland, seeing the aurora is weather dependent, but well worth the trip.",
+    "imageCredits": "sarawut / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_05.jpg?versionId=d41sjJ97d4FU_oAVJgKUlZZknbbMq9Bm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_05.jpg?versionId=hW4RdcPEdSzguaqh49Okgzv39kps4QLC",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_05.mp3?versionId=Kc4h5SOvznSX7uuA7c9XxHnJkw33lGX9",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323716,
+    "cultureContent": {
+    "imageLocation": "Norway",
+    "imageDescription": "Mention of the norðrljós, or northern lights in Scandinavia can be found in the Konungs Skuggjá, an early Norwegian text created in 1230. Within, the author muses over the origin of the lights, suggesting that perhaps the ocean was surrounded by fire, or that the glaciers gave off florescent energy. In truth the lights are caused by the interaction between solar wind and gas particles in Earth's atmosphere.",
+    "imageCredits": "ansonmiao / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_06.jpg?versionId=jTWt5j4l3PE.93qmNHJKLkPwx91COjrR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_06.jpg?versionId=OH_MxNCoJ1AVSERXPC96YbGPCKPym_lE",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_06.mp3?versionId=fyx0HbeK7UXEIZoMDSVCh6VrC3FvynQk",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323720,
+    "cultureContent": {
+    "imageLocation": "Reykjavík",
+    "imageDescription": "Named after famed Icelandic poet Hallgrímur Pétursson, the Hallgrímskirkja, or Church of Hallgrímur, is one of Iceland's most iconic symbols. Icelandic state architect Guðjón Samúelsson designed the church to resemble the columnar basalt formations found throughout the country's landscape. In front of the church a statue of Viking adventurer Leif Erikson looks out over the capital city of Reykjavík. It was a gift from the United States on the occasion of the 1000th anniversary of the Althing, Iceland's parliament, which has been continuously held since 930 AD.",
+    "imageCredits": "basiczto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_07.jpg?versionId=S2.9T3Z.NywNlk4Hn8kd.uZ90hgu0mIl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_07.jpg?versionId=cype3r8S3rQhWpDa59YPJVQJUdN4uWKs",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_07.mp3?versionId=mdXaIk0PEBIJk2E4Vb2mm5lODPZCRfat",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323724,
+    "cultureContent": {
+    "imageLocation": "Grindavík",
+    "imageDescription": "Originally something of a natural disaster, the Blue Lagoon has since become one of Iceland's most popular attractions. The lagoon was created by wastewater runoff from a geothermal power plant in 1976, but the water's naturally rich mineral content, especially high in silica, has proved itself to be therapeutic to bathers. These minerals also cause the water's milky blue color.",
+    "imageCredits": "elkaphotos / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_08.jpg?versionId=fuyDOxfBKm4q72fvrdBr_pz.JGjlE6Wj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_08.jpg?versionId=PoS6TrFV._SZhBHZ6eS1MJVtE9iC1moA",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_08.mp3?versionId=EbvdZwIRHWJWzMVDNXhs3Ce._XmZhpg2",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323727,
+    "cultureContent": {
+    "imageLocation": "Svínafellsjökull",
+    "imageDescription": "An outlet of the Vatnajökull, Europe's largest ice cap, Svínafellsjökull, or Pig Hill Glacier, is one of Iceland's most popular glacier hiking destinations. Famous for its deep blue ice, veined with black volcanic ash from thousands of years of eruptions, the glacier often forms ice caves which can be explored on foot. This site also appeared in several episodes of popular HBO series Game of Thrones.",
+    "imageCredits": "Peter Adams / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_09.jpg?versionId=uiPlSsvApon5eS2aQkHnv.Q1W2KP9OjQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_09.jpg?versionId=SUI255k.evYPkbG68X2saJPP6VM6IGOU",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_09.mp3?versionId=sa75s_DJtzA07k.HKcIvcLtuIDhHbnV9",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323730,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "Once hunted for their meat and oil, Iceland's whales attract more tourists than hunters these days. Minke, humpback, fin, and blue whales can all be seen enjoying the abundant fish and krill found in Icelandic waters. Toothed whale species such as orcas, pilot whales, and harbor porpoises also call Iceland their home, along with two rescued beluga whales who have been rehomed in an open water sanctuary in Heimaey Harbor in the Westman Islands.",
+    "imageCredits": "Andrea Quartarone / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_10.jpg?versionId=4kJxAsCbaYIPD.Vbe9PLIoRRAUtYM81a",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_10.jpg?versionId=bZYlxoInYYwx0IuR04AQ_r9TzNbPLYgu",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_10.mp3?versionId=MsGzli5LmDNNbcUjaF_0HJvTM4_WLO7j",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323732,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though not often played in the United States, handball is very popular in Iceland, possibly due to its tendency to be played indoors. It's a fast-paced game combining speed, strength, skill, stamina, agility, and teamwork. The Iceland national men's handball team won silver at the 2008 Summer Olympics, as well as bronze at the European Men's Handball Championship in 2010.",
+    "imageCredits": "PETR DAVID JOSEK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_11.jpg?versionId=pd6Qv2b3ex7uCsl.yPi7aMpZbodSvc3w",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_11.jpg?versionId=KWTn3.GWIgzTcGVrn9xUDmfChiDGFh1.",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_11.mp3?versionId=5wJyVyjrJFJZ6yRa0nPOOC_hhQ6.GhUj",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323734,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though it may seem alarming to foreigners, Icelandic babies can be found bundled up in strollers, napping outside cafes and on balconies of apartment buildings no matter the weather. This curious practice began in the early 20th century after a tuberculosis epidemic and is thought to bolster the immune system and protect from infectious diseases.",
+    "imageCredits": "Jennifer Yang / Toronto Star / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_12.jpg?versionId=1H0Fr6WbWhC0HputYJxCKte.jV2zm5RO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_12.jpg?versionId=R_FMZphTHWocjeVD1uvXu8hw6zy_lOY3",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_12.mp3?versionId=BLNpMtjusfDCJ12RU6G1_TV3rDBB5B.7",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323735,
+    "cultureContent": {
+    "imageLocation": "Keflavik",
+    "imageDescription": "The ancient Scandinavian settlers of Iceland arrived in the country via boats called longships. Designed to navigate rivers, fjords, and coastlines as well as the open ocean, the longship was crucial to Viking exploration and conquest. Vikings were especially good navigators, able to read currents and determine latitude and position with sun compasses and sunstones.",
+    "imageCredits": "REDA&CO / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_13.jpg?versionId=lJbeD1F6oxIXAdamuvs5SmXoPtsXSg1Z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_13.jpg?versionId=A_1GOGzwFRnf9ti87bjQUJohmA2DDh2Y",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_13.mp3?versionId=SIsOiqAmuhSAIIcgMcV9WGHXE9Pk736G",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323738,
+    "cultureContent": {
+    "imageLocation": "Vik",
+    "imageDescription": "Famous for its black basalt sand beaches, the village of Vík is found on Iceland's south coast. Sometimes home to more puffins than people, Vík is a popular resting spot for tourists exploring the south. The village is in dangerous proximity to the volcano Katla, which hasn't erupted since 1918, but it could bring catastrophe to the area.",
+    "imageCredits": "© Marco Bottigelli / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_14.jpg?versionId=Yy20t06n2wpg95I.6MOpDE_te9___Hek",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_14.jpg?versionId=1VtPRRHSFpPB7t8dxUA3tFE8mERMTY9y",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_14.mp3?versionId=BkwDbrMCtpVOlEvz1ZFSVtafM27gPbzA",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323740,
+    "cultureContent": {
+    "imageLocation": "Kirkjubæjarklaustur",
+    "imageDescription": "Fjaðrárgljúfur, Icelandic for \"feather river canyon,\" was formed by water eroding the bedrock into twisting walls and ragged cliffs at the end of the last Ice Age. In warm months, the vibrant moss and grass provide contrast to the sheer cliffs. In winter they stand out black against the white snow with an icy blue serpentine river flowing through the middle of the landscape.",
+    "imageCredits": "
+    Stefan Cristian Cioata / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_15.jpg?versionId=9.NPiAnioz7p8vNXKH_wUAg6HIe8511f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_15.jpg?versionId=eDVglIEuUbQE66HOkK5Ye40ZnncE4vCv",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_15.mp3?versionId=Sh69iy87Xtva4UQSRPdNoOzUnFsTzEFI",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323742,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "The Icelandic word for puffin is lundi, and Iceland is home to between 8 and 10 million of them; more than 60% of the world's Atlantic puffin population. They are most often seen on land during the summer months, because after their breeding season they spend the long winter at sea catching fish. Though they are a bit clumsy on land, and not the best at flying either, they are tremendously agile swimmers, and awfully cute!",
+    "imageCredits": "
+    Manuel ROMARIS / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_16.jpg?versionId=NHpHNnR7DFT1_zM4ONojKqG7yxo6QYNA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_16.jpg?versionId=8tQAqAsn59vp3UUJT1YBDeV8wGe4g2EM",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_16.mp3?versionId=f97j_biMupT5hEg8ojByTNPIpcXZ2Gmv",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323745,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Active in Iceland's music scene since childhood, Björk first gained international recognition with alternative rock band the Sugarcubes in the 1980s. Her solo career, blending electronic music with pop, jazz, world and classical genres rocketed her to chart topping success in the 1990s, bolstered by music videos directed by Michel Gondry and Chris Cunningham. Also known for her eclectic fashion style, Björk is arguably Iceland's most famous musical artist.",
+    "imageCredits": "
+    Santiago Felipe / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_17.jpg?versionId=5l6.p6t7cyiWyCCvmQNgfpW0bu_PRFxY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_17.jpg?versionId=_PqN1M2eJiONtNV8RdXcrt_BF0qbXwX_",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_17.mp3?versionId=sZ3dGTU_kmZGO8myxTAlnHdgtdeWJZpo",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323748,
+    "cultureContent": {
+    "imageLocation": "Skaftafell",
+    "imageDescription": "Located in Vatnajökull National Park, Svartifoss, meaning black waterfall, is framed by black pillars of columnar basalt, a type of volcanic rock which forms hexagonal columns when magma cools underground. The area where Svartifoss is located was settled by farmers in the Middle Ages, but glacial flooding and devastating volcanic eruptions led to the region's eventual abandonment.",
+    "imageCredits": "
+    arnaudmaupetit / RooM / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_18.jpg?versionId=boWE4cl50SvmYZoybZEXCUFpQreHoWAZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_18.jpg?versionId=MLY0FkMhz0Lzcn.y.zmKHeQQtuwmiTRQ",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_18.mp3?versionId=Oh_94_z6eEg_69EXuCeNxuxv0BKvZfUm",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323749,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Fishing has been woven into Icelandic life since the very first humans settled the land in the 9th century. The Norse settlers brought with them the tradition of drying codfish on rocky beaches or hanging it from wooden racks. Once making up 90% of Iceland's economy, fishing still accounts for 40% of the country's exports.",
+    "imageCredits": "Cavan Images / Cavan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_19.jpg?versionId=aiaeV7sTLOy813IcPjm88us5ielXb0S_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_19.jpg?versionId=X_B4Xeyad0W7npNQwD5CuvS1GUyNDxiB",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_19.mp3?versionId=joxaEWN2orcrqxlMpqp6p1aQ_10EpRmL",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323750,
+    "cultureContent": {
+    "imageLocation": "Raufarhöfn",
+    "imageDescription": "Located in the remote village of Raufarhöfn in northeast Iceland, the Arctic Henge or Heimskautsgerðið was designed by Icelandic artist Haukur Halldórsson. The sculpture functions as a pagan calendar, casting shadows and capturing light in its aligned gateways. Each 20-foot-high basalt gate faces a cardinal direction, inspired by the dwarves of Norse myth named Austri, Norðri, Suðri and Vestri, or East, North, South and West.",
+    "imageCredits": "
+    Reyes Cruz / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_20.jpg?versionId=Icx.HmFoWGzPQlWY60.ubohmJh6TXa4.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_20.jpg?versionId=0AimODala2bvsVrh7vGs80PXMDZl4nk1",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_20.mp3?versionId=RqeCTRogICaphoJIPkc2kdUeulKoTkm7",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323751,
+    "cultureContent": {
+    "imageLocation": "Vatnsnes",
+    "imageDescription": "Perched on the eastern shore of the Vatnsnes peninsula can be found Hvítserkur, or \"white shirt,\" a 45-foot-high basalt natural monolith. It's accessible during low tide, but it's not encouraged to approach the formation because many species of birds nest in its crags and crevices. As with so many points of interest in Iceland, Hvítserkur has its own legend in which a troll was caught by the sun and turned to stone on his way to tear down the church bells at a local convent.",
+    "imageCredits": "Arterra / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_21.jpg?versionId=djFRp9mup5O3V5VOGPEAl20d0j5nul6k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_21.jpg?versionId=SJAh5rOXvGJq3Masra5vyswxD3D5uAr0",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_21.mp3?versionId=fWaf7PlOWwhYJYPmFKNwwJV4XUMWAIQd",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323752,
+    "cultureContent": {
+    "imageLocation": "Reykjavík",
+    "imageDescription": "Designed by Icelandic sculptor Jón Gunnar Árnason, the Sólfar or Sun Voyager is one of Reykjavík's most iconic works of public art. It was the winning entry in a sculpture competition held in 1986 to commemorate Reykjavík's 200th anniversary. Formed of stainless steel, this metal ship is meant as a dream ship and an ode to the sun. It represents hope, progress and freedom.",
+    "imageCredits": "
+    Kridtin Wongpoovarak / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_22.jpg?versionId=IMVTdOxV7yso5ihMf_6yxsgsBR6urrF7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_22.jpg?versionId=WIOBAxG8S0xaROb1Lb_jX_ARJghghOOb",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_22.mp3?versionId=gay1PAyxySBWO.rXxtw7xIrRxAxeq3OX",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323753,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "Though small of stature, Icelanders will always correct you if you refer to the Icelandic horse as a pony. The breed is descended from the horses brought by the early Norse settlers, and is long-lived, sure-footed, cold-hardy, and powerful. Icelandic horses are naturally gifted with an ambling gait called the tölt which allows for bursts of speed with an even ride.",
+    "imageCredits": "
+    Feifei Cui-Paoluzzo / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_23.jpg?versionId=Nt32ea0bFvLJ9i7VbKL71eHGAorhF4WH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_23.jpg?versionId=Od9gyywwutx0Cgzd.tIq8rgy9LPTHd.g",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_23.mp3?versionId=9_BKm0jB0bRKUkog_vaWrdDU4qtXFZoS",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323754,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "Known in Iceland as Hringvegur, or Ring Road, Iceland's Route 1 circles the entire country. It's 821 miles long, and is popular with tourists because many sights of interest are found in proximity to it. It was completed in 1974 and is the country's primary trunk road. When driving the Hringvegur it's important to pay attention to road signs and weather conditions, especially in winter months.",
+    "imageCredits": "
+    chrissteblay / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_24.jpg?versionId=LNEwkWAWOv.rEOa7LaNTocuvfm5utFc2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_24.jpg?versionId=_typ51BMTduJJWI1tVJeYJ39PgO1ARWp",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_24.mp3?versionId=bUB8v8xFVPXXuO7zVuRnEMBkRqxYpGPc",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323755,
+    "cultureContent": {
+    "imageLocation": "Iceland",
+    "imageDescription": "Formed from volcanic activity occurring in a ridge between the Eurasian and North American tectonic plates, Iceland is, geologically speaking, one of Earth's youngest land masses. Much of the land is rocky, eroding lava fields which over time are broken down by lichen and covered in soft, vibrant green moss. Due to the harsh, windy climate, Icelandic trees are very slow growing, and Iceland has unfortunately suffered massive deforestation and soil loss due to human exploitation and livestock grazing.",
+    "imageCredits": "stock_colors / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_25.jpg?versionId=K0BLlKUkK2IbLozj6cDM1r.D1wi_Hlig",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_25.jpg?versionId=NT21mP85XWPjStFkXAoaAhUPqRr80GO8",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_25.mp3?versionId=KEga4IC9NW2B3niITYXLE4ujYWYIB8Yx",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323756,
+    "cultureContent": {
+    "imageLocation": "Snæfellsnes",
+    "imageDescription": "Found on the north coast of Iceland's Snæfellsnes peninsula, Kirkjufell, or Church Mountain, is a 1,519-foot-high nunatak; a type of summit or ridge that once protruded from a glacier. Below the mountain is Kirkjufellsfoss, \"church mountain falls,\" and the view from the falls with the mountain in the distance is one of the most spectacular views in Iceland, particularly under the northern lights.",
+    "imageCredits": "
+    tawatchaiprakobkit / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_26.jpg?versionId=mezuL2iC07rmaDgEFOYjPiISuuKKaagc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_26.jpg?versionId=qcZ3J3u9pHbnhg7_X2NEGbXo.ccXWHi.",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_26.mp3?versionId=ApLwp5jLvQyHDfwlpSI.UrCIDmqJmaQA",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323757,
+    "cultureContent": {
+    "imageLocation": "
+    Geysir",
+    "imageDescription": "The Icelandic word for geyser is geysir, and we get both words from the Old Norse verb geysa, which means \"to gush.\" In Iceland, Geysir refers both to an actual geyser and to the place where the geyser can be found. This eruption is caused by spring water reacting with geothermal heat causing hot water and steam to gush from the ground. Geysers are quite rare can only be found in a few places on Earth including Iceland, Yellowstone National Park in the U.S., Russia, Chile, and New Zealand.",
+    "imageCredits": "
+    Andy Kwok / EyeEm / Getty images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_27.jpg?versionId=yvPqGWqGP7UB_2Xo7OiiZxEjwlIxBENI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_27.jpg?versionId=Jo12umKsGoioX2GOIk.McBd2E7eWcyu_",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_27.mp3?versionId=VY73arOUeo4SqNejepNNR619YaLjw7MQ",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323758,
+    "cultureContent": {
+    "imageLocation": "Reykjavík",
+    "imageDescription": "Completed in 2011, the Harpa concert hall in Reykjavík is home to the Iceland Symphony Orchestra and the Icelandic Opera. It became a symbol of Iceland's recovery from the 2008 financial crisis, and is a popular venue for both local and touring acts. Its steel frame and geometric-shaped glass-paneled shell evoke the volcanic landscape and capture the light and the color of the sea and sky.",
+    "imageCredits": "
+    Doug Armand / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_28.jpg?versionId=CByskNF3JIakvF3KnTytO142Zu7q6DmW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_28.jpg?versionId=xu5ftWXdFHeCdhTkHpNfpgM9X9Ocu16U",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_28.mp3?versionId=uQmi_TLtk.mOMdySZu2BcNukD9u7qE1m",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323759,
+    "cultureContent": {
+    "imageLocation": "Geldingadalir",
+    "imageDescription": "In March of 2021, a volcanic eruption began south of the Fagradalsfjall volcano in Geldingadalir. It was the first known eruption in this area in about 800 years. The lava flowed from March to September becoming one of Iceland's longest eruptions. The orange glow and rising smoke could be seen from Reykjavík and attracted many visitors who braved an arduous hike to watch the earth give birth to itself in real time.",
+    "imageCredits": "JEREMIE RICHARD / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_29.jpg?versionId=PhE5CkLTtPyhVFIoh_XEIw9Ojd.dFYS9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_29.jpg?versionId=gYHzGVtRNWYRPBDI1N9_ovBoc6NJqkn3",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_29.mp3?versionId=b6.SsT04lCRuDLubE8HiCMo1vVW.ekfz",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323760,
+    "cultureContent": {
+    "imageLocation": "Reykjavík",
+    "imageDescription": "Iceland is considered one of the most LGBTQ+-friendly countries in the world. Though Icelanders don't marry as frequently as others, same-sex marriage has been legal in the country for over 22 years, and registered partnership for same-sex couples was legalized in 1996. More recently, the Icelandic parliament has created laws enacting gender identity protections for trans people.",
+    "imageCredits": "
+    Sophia Groves / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/full/Icelandic_1_9781797140780_M_30.jpg?versionId=QELYCX5rq6RCvQXWMcXGlqouQTVb9lQs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/lesson_photo/thumb/Icelandic_1_9781797140780_M_30.jpg?versionId=U_fuHcp2k4hO9JkkTIdiDCuj57UsWIBy",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/main_audio/9781442397002_Unit_30.mp3?versionId=0jevmz_2TOkUsan71_3YdceT4goPdIaQ",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323761,
+    "cultureContent": {
+    "imageLocation": "Húsavík",
+    "imageDescription": "Believed to be the first place in Iceland settled by a Norseman, Húsavík on Iceland's north coast is a small village of just 2,300 people. It is a popular destination for whale watching, and as a stopping point for exploring the region of Mývatn as well as Dettifoss, and Ásbyrgi in Jökulsárgljúfur National Park. The town got a boost in tourism after it was the setting of 2020 romantic comedy film \"Eurovision Song Contest: The Story of Fire Saga\" and is referred to in one of the film's songs.",
+    "imageCredits": "
+    bluejayphoto / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic Level 1 orig/asset/RL/9781797140780_Icelandic_1_Intro.pdf?versionId=QOBUjx_HVWfrgmr6.cu7HEr56hQWSoLO",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading11.mp3?versionId=nHFsBf9vL9Hj6iW0gL_gw8b_i4SE.IAh",
+    "mediaItemId": 2351301
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading12.mp3?versionId=aB1o.j9rYsGB20hPa.jWw_478vizSStg",
+    "mediaItemId": 2351320
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading13.mp3?versionId=9NhWhOGFVb4zM6i1e4UlpIh93Mz5isrS",
+    "mediaItemId": 2351319
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading14.mp3?versionId=UJE1xTNYF0opQZ6NHbWYj3Z0eftEqMlq",
+    "mediaItemId": 2351318
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading15.mp3?versionId=N7R2c3_2pCzNAxac6xZuiVGLHH2oibKL",
+    "mediaItemId": 2351317
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading16.mp3?versionId=pLz4LMi_xbTmTAf_ThHfrY_xVbE.v1Ln",
+    "mediaItemId": 2351316
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading17.mp3?versionId=1xvdrBZR93qSGlERldYK0YEbSu3x6mbD",
+    "mediaItemId": 2351315
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading18.mp3?versionId=r7nMfkbR6sVvKkYG6OhCml7n6gwXoMvj",
+    "mediaItemId": 2351314
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading19.mp3?versionId=JCylCodjeoLYy8bPmCkW94otrh_yu460",
+    "mediaItemId": 2351313
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading20.mp3?versionId=Jxp8T9l_O7KkYrfYS0wus4NuvpBhMenr",
+    "mediaItemId": 2351312
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading21.mp3?versionId=Kb2WXIKh.RBnqrTVKm3edlijJTgVj5z0",
+    "mediaItemId": 2351311
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading22.mp3?versionId=C4IXPM9RkMiTSXX4B9U4fILJatJH0_Oj",
+    "mediaItemId": 2351310
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading23.mp3?versionId=rPzFs6poyRR6A5EXT8.J8WGAGVZZErp.",
+    "mediaItemId": 2351309
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading24.mp3?versionId=XP6W4nSFPXYRpjYDaSiYK6ZnlMPHBPGv",
+    "mediaItemId": 2351308
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading25.mp3?versionId=zhM8FnIITvIaJVbDDa_DJU3tNHh1plc6",
+    "mediaItemId": 2351307
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading26.mp3?versionId=JLpt1tFkmdI_BO5D9mdp50guUZyly1wB",
+    "mediaItemId": 2351306
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading27.mp3?versionId=h1onzRoEtYSQsEq9gLztaDAOvs_usjXS",
+    "mediaItemId": 2351305
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading28.mp3?versionId=iowtcG89nlvBPzm6zLoB37PAp0tF7r7D",
+    "mediaItemId": 2351304
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading29.mp3?versionId=_t_0m8RZ9NtWtt1l3qNaim6hCaHjI3Zq",
+    "mediaItemId": 2351303
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Icelandic/Icelandic%20Level%201%20orig/asset/RL/Icelandic_1_9781442397002_Reading30.mp3?versionId=zJUeb9GcbRgH9f.Q3OXpt1h1EnfuoPPW",
+    "mediaItemId": 2351302
+    }
+    ]
+    },
+    "languageCode": "is-IS",
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797140780",
+    "level": 1,
+    "courseName": "Icelandic Level 1 Premium",
+    "simpleCourseName": "Icelandic Level 1",
+    "puArabic": false
+    }
+    ]

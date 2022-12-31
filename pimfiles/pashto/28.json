@@ -1,0 +1,679 @@
+[
+    {
+    "courseId": 41003,
+    "languageName": "French",
+    "languageId": 146,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_01.jpg?versionId=v6nZc8c6sHOg_iFOmCqePaI3Z6olHE6X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_01.jpg?versionId=Kw4MfWy6uzr5jD2W7N58CET.Esgt.PrL",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U01_Lesson.mp3?versionId=K5mK5FBsBW1ONe95_fqaFf2A3cYbe89a",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2226016,
+    "cultureContent": {
+    "imageLocation": "Haute-Savoie, Rhône-Alpes",
+    "imageDescription": "To be French, according to the first article of the French Constitution, is to be a citizen of France, regardless of one's origin, race, or religion.",
+    "imageCredits": "Vincent Besnault / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_02.jpg?versionId=4OZKMWRKNtxLUFSLW6HINtX5iqof5CrK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_02.jpg?versionId=HOSWlvTUNIpBWpqzs9kAmawvZd9WM7XY",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U02_Lesson.mp3?versionId=zQOPNDHKoMMS7Kh3tvSS7VxypiBmRqvO",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2226236,
+    "cultureContent": {
+    "imageLocation": "Luberon, Provence-Alpes-Côte d'Azur",
+    "imageDescription": "Lavender has been used over the ages for healing wounds, cosmetics, embalming, bathing, etc.  Provence is the world’s largest lavender-producing region.  The town of Grasse is considered the perfume capital of the world.",
+    "imageCredits": "Travelpix Ltd./ Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_03.jpg?versionId=lEQ2NRdmar0fVgk9n_Y9oP6F1bU9WFbS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_03.jpg?versionId=AXg61prBob_iaTnu0kMfDPOs43b0aHXA",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U03_Lesson.mp3?versionId=YNK5lhMGYtK2OplV9JO0FbB1kNXk.004",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2226491,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Louvre Pyramid was conceived by American architect Leoh Ming Pei who also created the Rock and Roll Hall of Fame in Cleveland, OH.",
+    "imageCredits": "David Min / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_04.jpg?versionId=lNac5AcLtar28C9seXBmZqCEGp1vqEei",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_04.jpg?versionId=bRAO8XMWWQwHz1HQRN51JlEfPCkMwue9",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U04_Lesson.mp3?versionId=pWKz0t_8Aa3j2gnLQUAegR0UCGPy96ur",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2226765,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "The maccherone cookie was born in Italy as a single layer delicacy.  It was introduced in France in 1533 by Catherine de Médicis as part of her marriage to future king of France, Henry II.  In the 1930s, the famed Parisian baker Ladurée created the two-layer macaron filled with ganache, as it is known nowadays.  The almond flour macaron is not to be confused with the macaroon, which is a coconut-based pastry.",
+    "imageCredits": "Tim Graham / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_05.jpg?versionId=JWNGD1od0grLUUaf5p8cz.HO.maRDUMY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_05.jpg?versionId=FFQeXNxqKahstNiz5obYKQMlx58zIgvk",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U05_Lesson.mp3?versionId=onouA6lAHrPPRRbRvM0yK_JeITPGIU1B",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2227133,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Prague's Petřín Tower is inspired by the Eiffel tower's design.  While only 197 feet tall, its location on a towering hill in Prague makes it roughly the same height as the Eiffel tower's 1,063 feet.",
+    "imageCredits": "Chad Ehlers  / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_06.jpg?versionId=.Ggxg2QBK0fJFsG.r4FUnBbj4dtyOwSw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_06.jpg?versionId=NXBR8M4oFXVag.2ZefkHnWtK6OSk_.Jq",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U06_Lesson.mp3?versionId=7cRe2XXUmloLkOOmwoilfSP7ttwdcVAd",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2227424,
+    "cultureContent": {
+    "imageLocation": "Carcassone,  Languedoc-Roussillon",
+    "imageDescription": "In its first edition in 1903, the Tour de France winners’ average speed was 16 miles/hour.  The average speed is now around 25 miles/hour.",
+    "imageCredits": "Joel Saget  / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_07.jpg?versionId=nwnEw.cUy1fOGiLPAsfuUUodHC3m2Fhj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_07.jpg?versionId=CWRy.3FE2DEBCD9TwRZN0MflLZJDZFqI",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U07_Lesson.mp3?versionId=LUPY_vcI_cfDIdls0PYb43JgEux69ock",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2227668,
+    "cultureContent": {
+    "imageLocation": "Lyon, Rhône-Alpes",
+    "imageDescription": "Paul Bocuse is one of France’s most recognized 3-star Michelin chefs.  Since 1987, the Bocus d'Or competition has become one of the world's most prestigious cooking contests.",
+    "imageCredits": "LE CORRE Nicolas /  Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_08.jpg?versionId=LJILAEYCGSLgBsTvoU5qbJC3h7CSYdru",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_08.jpg?versionId=zy0CF_3arUdfWcCe7dvMcAWnEHo8AnRD",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U08_Lesson.mp3?versionId=Jy.ZtlvVCeMw_FRPjFjDBsszlf53xgR0",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2227986,
+    "cultureContent": {
+    "imageLocation": "Mont Saint-Michel, Lower Normandy",
+    "imageDescription": "Pré-salé lamb from Mont-Saint-Michel is a prized specialty, which gets its distinctive flavor from lambs that graze on the herbal salt marshes surrounding the bay of Mont-Saint-Michel.",
+    "imageCredits": "Images Etc Ltd  / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_09.jpg?versionId=7zwpWu37W0iWd1vHV3DYbQrCDxo_MBO4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_09.jpg?versionId=cDYrMe2FVp1D862D9b7_lB0lYzmex5jv",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U09_Lesson.mp3?versionId=87LsjGmwihYUKI6Zvm3j29NWmfRR8ARR",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2228325,
+    "cultureContent": {
+    "imageLocation": "Moorea, French Polynesia",
+    "imageDescription": "Moorea Island is Tahiti's sister island.  The French Polynesian island is home to UC Berkeley's Robert B. Gump Research Station.",
+    "imageCredits": "David Hiser / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_10.jpg?versionId=qpNRPXr6f14Odfaw418kH_tgrcyqxYC0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_10.jpg?versionId=08J92xXsIVpCqU9wTKne806Cdv5auKuM",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U10_Lesson.mp3?versionId=u6VvfNKIIr4mmot3gi_4l79nr_rlFrwp",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2228887,
+    "cultureContent": {
+    "imageLocation": "Metz, Lorraine",
+    "imageDescription": "The Center Pompidou Metz, a branch of the famed modern and contemporary museum in Paris, opened in 2010.  Its roof was inspired by a woven bamboo Chinese hat.",
+    "imageCredits": "Rudi Sebastian / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_11.jpg?versionId=uaLrfAhGEtls1wTqbsXDYJOpTwBPePod",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_11.jpg?versionId=yzIjf2YcaFT7iiX0l3IFzsL256RgOSYP",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U11_Lesson.mp3?versionId=XX_ptBQwFOifF5EKc2vogF5uBUvNMpXG",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2229254,
+    "cultureContent": {
+    "imageLocation": "Chamonix-Mont-Blanc, Rhône-Alpes",
+    "imageDescription": "The Mont Blanc, standing at 15,782 feet, is the highest peak in the Alps and in Western Europe.  A 7.2-mile tunnel runs under it between Chamonix-Mont-Blanc (France) and Courmayeur (Italy). ",
+    "imageCredits": "Ron Layters  / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_12.jpg?versionId=Fmh83xb2C.lgfQ50y6OCg_d1pGdyd71A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_12.jpg?versionId=5I99miYEWzylRdMg2g0i7_38ncmbFnbC",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U12_Lesson.mp3?versionId=ibvTbO22j4ZDbY7Ka43px.b6DZQ25l68",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2229723,
+    "cultureContent": {
+    "imageLocation": "Roquefort-sur-Soulezon, Midi-Pyrénées",
+    "imageDescription": "Roquefort cheese is aged in the natural Combalou caves of Roquefort-sur-Soulzon.  Roquefort benefits from a Protected Geographical Status label, which precludes any cheese from being called Roquefort that is not aged in these caves.",
+    "imageCredits": "Sylvain Grandadam / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_13.jpg?versionId=W5UfhWK05bMHyDkzCDdrNTjq_4srIcxd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_13.jpg?versionId=20vpDf8Xy4f1.ITM3CtuUJrjD9uxPcsf",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U13_Lesson.mp3?versionId=ufV6.0TLEfsmKNKxTNqmpgQV3.hnjQJz",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2230042,
+    "cultureContent": {
+    "imageLocation": "Guadeloupe, French West Indies",
+    "imageDescription": "The Island of Guadeloupe is one of France's 27 regions.  21 are on mainland France and 6 are overseas.  ",
+    "imageCredits": "Skip Brown / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_14.jpg?versionId=genL5Z9Jj8SX1kacd2LrouGW4l2nXxhj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_14.jpg?versionId=vbu0m898E1WcywyM6GUFGlM3BYzp1EmD",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U14_Lesson.mp3?versionId=6WPdxn.rlIu6lYHhGpIBDSp_DC37kKmE",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2230428,
+    "cultureContent": {
+    "imageLocation": "Hauterives, Rhône-Alpes",
+    "imageDescription": "Le Palais Idéal is a house that was built over a period of 33 years by postman, Ferdinand Cheval who collected the stones during his daily mail rounds.",
+    "imageCredits": "Laurence Delderfield / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_15.jpg?versionId=ynYuTKhntkMxSSL4Rb4lBTb1tt8wE4yg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_15.jpg?versionId=uYh_C3xQSC3Ks9Dr4O4eK8EYvZN4EqQi",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U15_Lesson.mp3?versionId=V3SVyCkG5mHnC.aAe_L8AfpyhhwDrWkX",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2230828,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "While trying to fix their dried-out grass tennis court with pulverized clay pots, English brothers William and Ernest Renshaw inadvertently developed the first clay courts.  Today, Roland Garros is the premier clay court championship in the world and one of the four Grand Slam tournaments. ",
+    "imageCredits": "Bertrand Guay / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_16.jpg?versionId=kMTdx8Fqw0ol3wfcgS79LdzWoU_9Bgpa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_16.jpg?versionId=qIEJSzSikKU.eEq3K1kxxAqX_.Li2c9w",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U16_Lesson.mp3?versionId=yjejcxOk720LmKbWsybSvU2L7udEl4fJ",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2231277,
+    "cultureContent": {
+    "imageLocation": "Saint-Laurent-sur-Mer, Lower Normandy",
+    "imageDescription": "“The Braves” is a stainless steel sculpture, erected in 2004 by Anilore Banon to commemorate the 60th anniversary of D-Day.  It is located on Omaha Beach, weighs 33,000 pounds, and stands at 29.5-feet tall.",
+    "imageCredits": "Slow Images  / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_17.jpg?versionId=FegTEIZhZbgtxRIs.axo26CUMVFJjG0q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_17.jpg?versionId=5qKB4xtAKmJV_fuXz8a7KjjaGllkijgD",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U17_Lesson.mp3?versionId=Ani0N2scHaGyDM0qv_iDPgB.VpmNaN_q",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2231707,
+    "cultureContent": {
+    "imageLocation": "Riquewhir, Alsace",
+    "imageDescription": "While dried meats go back the Roman Empire, France played a large role in regulating the industry through a guild established during the 15th century.  \"Charcutier\" became a distinct trade separate from \"butcher.\"",
+    "imageCredits": "Buena Vista Images / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_18.jpg?versionId=Y25L1lV.brh4dwcAsWnq.bdz9Wf7TH0Z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_18.jpg?versionId=UzujVxbhw2G.45dWnjApPw21qOJZjPQO",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U18_Lesson.mp3?versionId=T6..xlZzuBMSMhourJuBeIIqkui_qFUD",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2232032,
+    "cultureContent": {
+    "imageLocation": "Remoulins, Languedoc-Roussillon",
+    "imageDescription": "Le Pont du Gard was built by the Romans in 1 A.D to bring water to Nîmes.  Between the departure and arrival point of the water (31 miles), the height difference is just 39 feet.   The engineers carried out an incredible technical feat in calculating a path to enable the water to flow all the way just based on gravity. ",
+    "imageCredits": "GYRO / amana images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_19.jpg?versionId=3e4qqFZNv_Bxdr6Rj4lTzrB8NndH4sH6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_19.jpg?versionId=9wyRv8M_lOZBQKPKN8hJ8QocWVDx5YN0",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U19_Lesson.mp3?versionId=MAcnruMeRkCVk7IDw4kRXm06IymS4gGO",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2232396,
+    "cultureContent": {
+    "imageLocation": "Cucugnan, Languedoc-Roussillon",
+    "imageDescription": "Queribus castle ruins, originally built to defend the French border against the Spanish.",
+    "imageCredits": "J. Boyer / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_20.jpg?versionId=8foQL84nrk_hZMor8NDV56DyrYk3LgFC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_20.jpg?versionId=3byhhHF07CcS3cKKNL6N1CGcE19uNrO_",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U20_Lesson.mp3?versionId=hW67dDRNKw.T81mDspRYrZfQhBWnNgrh",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2232790,
+    "cultureContent": {
+    "imageLocation": "Louron Valley, Midi-Pyrénées",
+    "imageDescription": "The Pyrenees are France's second largest mountain range spanning 305 miles between France and Spain and climbing upwards of 11,100 feet tall.  Nested in the range is the small Principality of Andorra.",
+    "imageCredits": "Anger O. / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_21.jpg?versionId=c4hrxwbGRqVgTxZ3tP7oqnksxTmip0B5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_21.jpg?versionId=16Gdi6fhcdamLfBEAPBGIVpDXsqfQfmr",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U21_Lesson.mp3?versionId=.uK4PSdKJYu7Bi2KM0LRBFktCVOfGI.x",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2233430,
+    "cultureContent": {
+    "imageLocation": "Beaune, Burgundy",
+    "imageDescription": "The Route des Grands Crus is a famous 37-mile wine loop that crosses the most famous wine appellations from the Burgundy region.  The biggest stop is the medieval town of Beaune, which is also the wine business capital of Burgundy.",
+    "imageCredits": "Steven Rothfeld  / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_22.jpg?versionId=kAmmVYuyLSsbpS56XniN1U4RFAP2FncD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_22.jpg?versionId=NogGIy3rvJoe47LhE_lYdMPspaFDAA3G",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U22_Lesson.mp3?versionId=f6NPVsbwx3GOGz1C8wOm2uOwrlegrGYD",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2233879,
+    "cultureContent": {
+    "imageLocation": "Bordeaux, Aquitaine",
+    "imageDescription": "Bordeaux is France's sixth largest city.  The Place des Quinconces is one of Europe's largest squares (31 acres). ",
+    "imageCredits": "Charles Bowman / Workbook Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_23.jpg?versionId=jAQJaX8ep8AWtOWJvedycJ8NDHxW4QNX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_23.jpg?versionId=yocslOV3agKYNHxaYLxYG0zRRF9GKpjD",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U23_Lesson.mp3?versionId=_T3FfOASgX5E0OZAwsamr_CJdRNkwb_l",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2234294,
+    "cultureContent": {
+    "imageLocation": "Isle of Pines, New Caledonia",
+    "imageDescription": "New Caledonia, a Pacific Ocean French territory, is surrounded by the world's largest enclosed lagoon.  Its barrier reef is one of the three most extensive in the world along with the reefs of Fiji and the Great Barrier reef in Australia.",
+    "imageCredits": "Hoger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_24.jpg?versionId=nN3yg3_AAC5jQRmXyB8JcwiiwLjUPXof",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_24.jpg?versionId=dpLs7Inf7zypxYyLgrNhFuIJCFB7XWlE",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U24_Lesson.mp3?versionId=WoZ5UgMbZ.oJMHKodr57QJBdibPr088d",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2234646,
+    "cultureContent": {
+    "imageLocation": "Chambord, Centre",
+    "imageDescription": "Château de Chambord was build between 1519 and 1547.  It contains 440 rooms, 365 fireplaces, and stables to accommodate up to 1,200 horses.  It is said that King François I planned to reroute France's longest river, the Loire, to the site of the castle, but settled on rerouting one of its tributaries.",
+    "imageCredits": "Nacivet  / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_25.jpg?versionId=kOht3TKpBo3SsXe3T8EChZ1qVQAmmOBn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_25.jpg?versionId=YcPTUzfrXuKe5QmZGvbcM01UvE17Xlxp",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U25_Lesson.mp3?versionId=chsM8.DryIUTbK0.1BxpKZdFDQg1QUi_",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2235086,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Quai Branly Museum was designed by Jean Nouvel and opened in 2006.  The \"green wall\" is a carpet of exotic plants, which enter the building in some sections.  It was planted by Patrick Blanc who, through the wall’s biodiversity, attempted to echo the breath of artists and cultures found inside the museum.",
+    "imageCredits": "GARDEL Bertrand / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_26.jpg?versionId=7o.vPbBURGfPzQicVrDtrhcLh2gpGzm9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_26.jpg?versionId=W684eug60H2fFbIMawMk49xnUdCOhKB.",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U26_Lesson.mp3?versionId=PszpaJZcUC3Tl1..3WLmimKe6C4II8U3",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2235566,
+    "cultureContent": {
+    "imageLocation": "Millau, Midi-Pyrénées",
+    "imageDescription": "The Milau Viaduct is the tallest bridge in the world at 1,125 feet.  It was designed by Norman Foster who also designed the Hearst Tower in New York City, the 30 St Mary Axe in London, The Reichstag Dome in Berlin, and the Art of the Americas Wing at the Museum of Fine Arts in Boston.",
+    "imageCredits": "Walter Bibikow / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_27.jpg?versionId=VbUD6QXz30MW5uIWPSOFsV9InkH9FifU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_27.jpg?versionId=uIhgQk76OJvRu58rwC0W7x1qPR8Tqn9r",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U27_Lesson.mp3?versionId=s_nKl2GkobRrflcGm9_SdDHUbXiyHLBm",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2235964,
+    "cultureContent": {
+    "imageLocation": "Martinique, French West Indies",
+    "imageDescription": "Martinique is an island in the Caribbean Sea, which is part of France.  Martinique has a rich musical history and has successfully exported its local music styles notably le Zouk and la Biguine.",
+    "imageCredits": "Fred Derwal / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_28.jpg?versionId=HFioqi1wtjJb5XtjKju0vZM6HrpvQR_s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_28.jpg?versionId=jlJjVHkdIoNqJjI5F2gFmJuQwNlAsdXN",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U28_Lesson.mp3?versionId=1HT5KpVLqAAufKldvX8E5MKBYFbw7s8M",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2236371,
+    "cultureContent": {
+    "imageLocation": "Arles, Provence-Alpes-Côte d'Azur",
+    "imageDescription": "With roots dating back to Roman times, this 2500-year-old town boosts spectacular Roman monuments.  Today, it is a vibrant cultural center, which has attracted artists like Van Gogh, who painted over 300 pieces while in Arles, and Picasso who donated 57 drawings to the  Arles' Musée Réattu.",
+    "imageCredits": "Buena Vista Images / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_29.jpg?versionId=E31wzxGnK.qsy9ibVMQcoZ_upVRPQwsW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_29.jpg?versionId=wSRdktO6tqIk2849pXpvnxFMxYj6QXUu",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U29_Lesson.mp3?versionId=.fvnxEiRYcq6kxpq1mouDeJsBYX5sD2f",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2236719,
+    "cultureContent": {
+    "imageLocation": "Thonon-les-bains, Rhône-Alpes",
+    "imageDescription": "Meilleurs Ouvriers de France is a competition organized and recognized by the French Ministry of Labor.  In 1935, the National Education Minister made the title official by State Diploma.  The competition requires years of highly detailed and in-depth work.  Meilleurs Ouvriers de France winners are recognizable by the red, white and blue collar they are allowed to wear.",
+    "imageCredits": "Stephane Gladieu / Getty Images News / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/full/FR_1_M_30.jpg?versionId=2F.9Cch.QA_64o5kGbtEycFwnCmLZQIo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/lesson_photo/thumb/FR_1_M_30.jpg?versionId=rMNQy5PosZyuUycIYVZhaN_v52CMljmb",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/main_audio/9781508261131_French1_U30_Lesson.mp3?versionId=vwPZzBfaH4RZpDUfkmUjI4.EAdSUzynk",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2237085,
+    "cultureContent": {
+    "imageLocation": "Bonifacio, Corsica",
+    "imageDescription": "Founded in 828 AD, Bonifacio is known for its ancient cliff-side houses. ",
+    "imageCredits": "Neil Emmerson / Robert Harding World Imagery / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/French/French Level 1 2018/asset/RL/9781508261131_French_1_Intro.pdf?versionId=ejfbzio9z8_RLck5RNUqiY5oucFeeLp6",
+    "audios": [
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit02_Reading.mp3?versionId=iDF.fDE7j9pIdkp0MWsIOV.d_q4uO2tL",
+    "mediaItemId": 2267036
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit03_Reading.mp3?versionId=HynNDhaPVoKso60PnkLvFu7_obuE0YDH",
+    "mediaItemId": 2267423
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit04_Reading.mp3?versionId=PWAvd83LEHt24UCAcSVJ9kHUMhtg_1sW",
+    "mediaItemId": 2267853
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit05_Reading.mp3?versionId=woMblGcgB8XnhTb9AcOF_fQj0QskWg7p",
+    "mediaItemId": 2268251
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit06_Reading.mp3?versionId=KtWf8Y.edcAiY8Zo4pgdqzUKrRRm3q3f",
+    "mediaItemId": 2268713
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit07_Reading.mp3?versionId=4NTUHBmU0UCLtRM5fKFxQLdSx7fdKyDV",
+    "mediaItemId": 2269141
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit08_Reading.mp3?versionId=nwyLEleZIzjEdFMrBLwePZTAOtqVPx1O",
+    "mediaItemId": 2269599
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit09_Reading.mp3?versionId=YtpRNaXEO10u2iH4936rrPd7bWUFaTLc",
+    "mediaItemId": 2224110
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit10_Reading.mp3?versionId=dcJ8jJOvsp.WtBlCyrIHoXz3ak6b2psf",
+    "mediaItemId": 2224252
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit11_Reading.mp3?versionId=7ShLv6L34wwb_56qnz4DeHH0PKxmnh2K",
+    "mediaItemId": 2224447
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit12_Reading.mp3?versionId=9vcftihYHlIU5yL4O3uJ2GE0VkRtTl3A",
+    "mediaItemId": 2224621
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit13_Reading.mp3?versionId=il2t4RKLcryv1RMW_cwmJ3O1weApv85V",
+    "mediaItemId": 2224748
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit14_Reading.mp3?versionId=PO2fnelAjuKyy7fIGCyRLMR8IsZUPgW9",
+    "mediaItemId": 2225275
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit15_Reading.mp3?versionId=igjR3Knbrf_fOLHQu_.KlxiOooHnYIQZ",
+    "mediaItemId": 2226969
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit16_Reading.mp3?versionId=O4xrsI3TgjeOErUeTW.Y2zbkVd6s5WNb",
+    "mediaItemId": 2229821
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit17_Reading.mp3?versionId=OJy8y9cqORsNejUe87wraPulzikOQG9r",
+    "mediaItemId": 2233309
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit18_Reading.mp3?versionId=2fBNJPRREOSvA7XC_hisqLu7xJkcjsc_",
+    "mediaItemId": 2236886
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit19_Reading.mp3?versionId=qCLjhLgoZZT67ygQuUgwdRjYcqGY8jl2",
+    "mediaItemId": 2240325
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit20_Reading.mp3?versionId=VCTIrJcd7SOfJpGF4gEXScYQwDVfHLdp",
+    "mediaItemId": 2243195
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit21_Reading.mp3?versionId=Nm35lLJAYTSSL6mVgEH59swpW64e1VjI",
+    "mediaItemId": 2246423
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit22_Reading.mp3?versionId=8i8lqhrloY6swg1ldv.hVjFVwq8RqYer",
+    "mediaItemId": 2249298
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit23_Reading.mp3?versionId=.T8ZFoXIMq0SFv.UZXO1_vEgdfX9NOUy",
+    "mediaItemId": 2252396
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit24_Reading.mp3?versionId=wtSNbiigLCU9f9XBs2XR9T7g0vxhClk9",
+    "mediaItemId": 2255172
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit25_Reading.mp3?versionId=Z4znzuX7GVs9uWJw3634UHkoHsrPGQhM",
+    "mediaItemId": 2258019
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit26_Reading.mp3?versionId=1MtuBCGqMvsVGd2mdgFk7zu0G4nJFo7a",
+    "mediaItemId": 2260781
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit27_Reading.mp3?versionId=yG.JCV.4U80FfR742xmeFnTCwEaZmyrV",
+    "mediaItemId": 2263283
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit28_Reading.mp3?versionId=6MAEqCBhE0iSkNP2zXteMNdE0vJg07rT",
+    "mediaItemId": 2264887
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit29_Reading.mp3?versionId=nzBZUrp99CPJ6UkZNxa82ttyHa8jTAih",
+    "mediaItemId": 2266017
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%201%202018/asset/RL/9781508261131_French1_Unit30_Reading.mp3?versionId=FBPRWGkwVd9V2VY462s3U4eliEc0XQkW",
+    "mediaItemId": 2266523
+    }
+    ]
+    },
+    "languageCode": "fr-FR",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508261131",
+    "level": 1,
+    "courseName": "French Level 1 Premium",
+    "simpleCourseName": "French Level 1",
+    "puArabic": false
+    }
+    ]

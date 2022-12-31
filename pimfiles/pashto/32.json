@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6443,
+    "languageName": "French",
+    "languageId": 146,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_01.jpg?versionId=BYS0FNDLdB7pEH.Y4OyAQ0z6UJ5h7HPA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_01.jpg?versionId=0q9mRpJgIw5p7pkcKnhO5VqOsqPP77e_",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U01_Lesson.mp3?versionId=QBPyQoMJZ9w3ZV6afPKpk7Tvx1dLebB2",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2321624,
+    "cultureContent": {
+    "imageLocation": "Cassis, Provence-Alpes-Côte d'Azur, France",
+    "imageDescription": "Cassis, a small fishing village on the Mediterranean coast had a manufacturing explosion during the eighteenth century when industries such as winemaking, coral work, and cod fishing flourished.  White limestone, dubbed \"The Stone of Cassis\" was quarried here and was used for the base of the Statue of Liberty.",
+    "imageCredits": "Tetra Images - Mike Kemp Brand X Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_02.jpg?versionId=gVG_iKnffS_ciaekYqXmbt5T5IZTLMDa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_02.jpg?versionId=dA0sVtdDd2qvLLb5somVVuB.dcR2HPXE",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U02_Lesson.mp3?versionId=AVncrmwNMmhqgMuAmmHhSolUxJ1KemQ4",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2321633,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "L'Opéra Garnier or Palais Garnier is a 19th century opera house located in the 9th arrondissement. With seating for nearly 2,000, its exterior is adorned with bronze busts of some of the world's great composers including Beethoven, Mozart, and Rossini.",
+    "imageCredits": "Guillaume CHANSON / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_03.jpg?versionId=vGg_UEKu_FLEa8DZ1b2_rL3n8BW8UUEW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_03.jpg?versionId=mK3_B2VDVZ_ygIJ4J1jDVGgjXJn_iVGh",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U03_Lesson.mp3?versionId=JS1UzDrk2tFqjMU3wVGlH2S9Md.XgXmk",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2321642,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Dakar Rally is an off-road endurance competition with a course that originally ran from France to Senegal. The race began when motorist Thierry Sabine got lost during a race and discovered the desert was a great place for a route. Obstacles include mudslides and sand dunes.",
+    "imageCredits": "WIN-Initiative /Photonica World / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_04.jpg?versionId=1ctFi3eC9qQb84F.0X8fTawDJXWbaTyH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_04.jpg?versionId=7GvAQ764W25bGR9sLaccv1o40C1eQXlR",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U04_Lesson.mp3?versionId=rf28DMygbx.nN0xFRR4mu2m0oNv.mQ9m",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2321651,
+    "cultureContent": {
+    "imageLocation": "Nîmes, Languedoc-Roussillon, France",
+    "imageDescription": "Dating back to the first century AD, the Nimes Arena is one of the world's best-preserved Roman amphitheaters. It could seat up to 24,000 spectators who enjoyed the variety of events that took place here, including animal hunts and gladiator showdowns.",
+    "imageCredits": "John Harper / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_05.jpg?versionId=fm5GTtq6UfoNdj7Tq9P6OEhNmdqyRdqy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_05.jpg?versionId=DHE58UB5ingJaFvHpfhwFG5SbPsA9G9c",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U05_Lesson.mp3?versionId=eAUKyfvj4lAYlQxhO0XFp8dslB7uMd0O",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2321662,
+    "cultureContent": {
+    "imageLocation": "Vichy, France",
+    "imageDescription": "At the Napoleon III Historical Festival, celebrated annually in Vichy, residents dress in period costumes and enjoy the music and delicacies of the Second Empire.",
+    "imageCredits": "THIERRY ZOCCOLAN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_06.jpg?versionId=krSMnhhMw7PeIvGZP0_Cm0Ifns53g07s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_06.jpg?versionId=ooQanvdiYQ1ZG7ERmtHn99Xz4Sly1l9n",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U06_Lesson.mp3?versionId=txRzEfk14EdJko0La6k9OkY9frPL5Bgv",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2321680,
+    "cultureContent": {
+    "imageLocation": "Lyon, France",
+    "imageDescription": "In 1643, as the plague ravaged Lyon, supplicants promised to pay tribute to the Virgin Mary if the town was spared.  Every December since then, monuments, cathedrals, homes, and public squares are covered with luminous objects to ring in the annual the Fete des Lumieres (Festival of Lights).  The facade of the Theatre des Celestins is animated with an interactive light display.",
+    "imageCredits": "JACQUES Pierre / Hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_07.jpg?versionId=dvFvXXICnREP0Q8xYJdC2pMNHk1Fee_H",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_07.jpg?versionId=mPv5OjbmB2cb_pd0xHyZ_CctLjmOIEk1",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U07_Lesson.mp3?versionId=InCBIlYfYfZVOrtNsWy3RvbaSipKQMtt",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2321695,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "Michelin is widely renowned for its star-rating for high-end restaurants. Critics who review the restaurants must maintain complete anonymity to fairly assess the quality of the food and service, without special treatment. The company was founded by the Michelin Brothers who initially created guidebooks containing helpful tips to aid motorists on long trips.",
+    "imageCredits": "Frederic Stevens / Getty Images Entertainment"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_08.jpg?versionId=RykLLCvq435a6WC2LLSPAjycx8BmWvx1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_08.jpg?versionId=be78gkZ6Gk0JnotRkSG60T_kbrTS7_xF",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U08_Lesson.mp3?versionId=Rmc8hoA4qbQfJBzSK8fGpegtlkXHVN2L",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2321709,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "A tomato appetizer at Restaurant Guy Savoy is just one of a million reasons Paris is a foodie's paradise. Guy Savoy is the head chef and owner of the three-star restaurant that bears his name, along with four others in the city. In addition, he is credited with teaching cook and reality TV star Gordon Ramsey.",
+    "imageCredits": "Owen Franken / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_09.jpg?versionId=m0152ZvbdNth31dZikW_riCM9IzbFD_M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_09.jpg?versionId=CdIrGbYrqTCA_UVmdRXZRnSYfy48P55B",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U09_Lesson.mp3?versionId=4IyDdJ97BFvWOX4mbzsY.04DVe88VbPt",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2321731,
+    "cultureContent": {
+    "imageLocation": "Morondava, Madagascar",
+    "imageDescription": "The Avenue of the Baobabs is a grove of over 20 baobab trees, each standing nearly 30 meters high. Along the trail, two intertwining trees are said to contain the spirit of two young lovers forever joined.",
+    "imageCredits": "Cultura RM Exclusive / Romona Robbins Photography / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_10.jpg?versionId=oJq32sL9KcWutXruroKuP3VSySfzil2V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_10.jpg?versionId=Yl0_LTGDt2DYx_iZiyV9wt087AaqVZcL",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U10_Lesson.mp3?versionId=gHtLz1O7R30rySBoMq3f1KCJVtJfa03X",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2321752,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "During the middle ages, artisans in the port city of Marseilles began to craft large blocks of soap out of local ingredients, including olive oil, marine ash, and sea water. The quality of the soap quickly became famous throughout Europe. In 1688 the French passed a law declaring that only soaps made according to specific ancient methods could bear the mark “Savon de Marseille.” These soaps can be found for sale at French open-air markets, but buyers should beware that only those stamped with the mark and with the weight in grams are official Marseille soaps.",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_11.jpg?versionId=q2uyAKL7Y6vqyl9Zd3bAtXDTLjt9PJl.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_11.jpg?versionId=PRFW9mObBf8FXwsgjP1..KGdHD1_KGjL",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U11_Lesson.mp3?versionId=znqmVFPG8RicQF3fTcXfPU80Dq7ipO9I",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2321774,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Les Colonnes de Buren or Les Deux Plateaus was created by French artist Daniel Buren in the 1980s to hide the ventilation shafts produced by the minister's underground quarters.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_12.jpg?versionId=AC.1EF8DpOCe1C7Hrevx6Mu.nlBW5RpP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_12.jpg?versionId=KknLOOxl3jTtKoK7FzyDzynUzmNsAWJb",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U12_Lesson.mp3?versionId=4zhVhG8nTDglDb2GGcHdVDz73T5rZi_S",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2321793,
+    "cultureContent": {
+    "imageLocation": "Lyon, France",
+    "imageDescription": "The Musée des Confluences is a science and anthropology museum known for its unique glass and steel construction, inspired by the two converging bodies of water that meet at its base.",
+    "imageCredits": "JEFF PACHOUD / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_13.jpg?versionId=gFYIOtxM6ygK8nGXD600CNqGSMThFeGn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_13.jpg?versionId=VyFzFonX_JVRv50RwHqnXAkbJgG63hZf",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U13_Lesson.mp3?versionId=r3FKbjkwynv_vRnxGPkWW67at5BRAMoj",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2321814,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Notre-Dame is one of the most recognized symbols of French Gothic architecture. Completed in 1345, the cathedral contains ten bells. The largest, Emmanuel, weighs over 13 tons.",
+    "imageCredits": "Craig Aurness / Corbis / VCG / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_14.jpg?versionId=aIMy7TEFImaOIUJTmnhO9a2.xr76N_8n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_14.jpg?versionId=EupZPJ0GFXYqk5Dy0dxkCJNiKBWUTCqm",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U14_Lesson.mp3?versionId=wTTKSbyB_mCD7EQjn4TrlUsRZBI0ayKb",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2321836,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Catacombs span 186 miles underneath the city of Paris, and are thought to contain the remains of over six million people. In the late 18th century, overcrowded cemeteries resulted in open graves, cave-ins, inadequate burials, and the spread of disease. Eventually, Louis XV forbid burials in Paris and many cemeteries were forced to move long-deceased remains into abandoned (and often uncharted) mines, quarries, tunnels and caves.",
+    "imageCredits": "PATRICK KOVARIK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_15.jpg?versionId=x9wGIlYmP5eJDGWiEogZTP9Ubjaar3AW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_15.jpg?versionId=4WQJ4hJLDE5c2QZtQ_TsMojuF0TtprYK",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U15_Lesson.mp3?versionId=Lbada74keorQPPv0EAXWRiv8mVGyCG4t",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2321860,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Inhabited by Louis XIV and the royal family in the 1680s, the Palace of Versailles is one of the most visited attractions in France, offering numerous iconic exhibits. The Orangerie, lined with orange, lemon, and pomegranate trees imported from Portugal, Spain, and Italy is just one aspect of the expansive gardens.",
+    "imageCredits": "© Philippe LEJEANVRE / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_16.jpg?versionId=BmWe2XfN0mBXeNa5HomI4IcuEtCk5gZi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_16.jpg?versionId=w5deXxWyBySXkrRv71PZGqNPBIHGN8_a",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U16_Lesson.mp3?versionId=f59zcPwSsEhAxs.ocqS7kEc8thxGonRT",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2321884,
+    "cultureContent": {
+    "imageLocation": "Saintes Maries de la Mer, Camargue, France",
+    "imageDescription": "This small fishing village on the Mediterranean coast is widely regarded as a holy site. Formerly home to Celtic water goddesses and Roman temples, the small town has more recently become the scared ground of the Roma people. Each year, they visit to dance, celebrate, and worship the three Saint Marys: Mary Magdalene, Mary Salome, and Mary Jacobe.",
+    "imageCredits": "Marco Di Lauro / Photonica World / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_17.jpg?versionId=_BIVBh6E61fs6JVve7e9O91YZO4EnNoG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_17.jpg?versionId=bBXjyShv1PCTDA46khZmDTxYKGdYmDtE",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U17_Lesson.mp3?versionId=tlHpO3lK3aoU77foGNnQSdTBIn8eX6sE",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2321914,
+    "cultureContent": {
+    "imageLocation": "Provence, France",
+    "imageDescription": "Resting in the heart of the Alpilles, Les Baux-de-Provence has been inhabited for centuries due to its strategically advantageous location. An ancient burial ground discovered in 1928 suggests the area was occupied as early as 6000 B.C. Its rich and expansive history is celebrated at annual medieval festivals attended by costumed residents and visitors.",
+    "imageCredits": "Jim Richardson / National Geographic Magazine / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_18.jpg?versionId=X2LZ.lCk9oKj_TQCvsaHJ_vI1cWp5qZd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_18.jpg?versionId=Aru0B8_NdnCurowq.1N43tCrZwsLRcSq",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U18_Lesson.mp3?versionId=jOOO3kMh1gRRv9qxM_qSXRJXKSfqDlAM",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2321942,
+    "cultureContent": {
+    "imageLocation": "Calanque de Sugiton, France",
+    "imageDescription": "The Calanque de Sugiton is one of series of limestone-lined inlets stretching for 20 kilometers between Marseilles and Cassis. Popular with hikers, the coves offers cliffs with panoramic views, sandy beaches, and direct access to the sparkling Mediterranean.",
+    "imageCredits": "Jason Langley / Aurora / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_19.jpg?versionId=mbk6VQhdnjvLPt6hZ.oGBNdHCG1vv.Ty",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_19.jpg?versionId=eYocVLVhptcMtU5dWAUcBoaHwNtSrK5B",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U19_Lesson.mp3?versionId=4OVbAKW9w7q1xQl3.3_1Nhh7QobWYq6G",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2321967,
+    "cultureContent": {
+    "imageLocation": "Paris, France",
+    "imageDescription": "Place de l'Hôtel de Ville, known prior to 1802 as Place de Grève, was the site of countless public executions. Residents of upper level apartments used to rent out balconies to spectators who wanted a better view of the hangings, burnings, and beheadings.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_20.jpg?versionId=n5K_jRMtYit2yph7Tj.8PNNMJ5YE6ZYH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_20.jpg?versionId=OdD85XSkcRv5lx_PVNkLJJgbG2Gji6sQ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U20_Lesson.mp3?versionId=PQWS1oxNcYtQLfrldwxCUUhtrJRBMJ.Z",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2321992,
+    "cultureContent": {
+    "imageLocation": "Paris, France",
+    "imageDescription": "Covering almost 2100 acres, the Bois de Boulonge is two and a half times the size of Central Park in New York City and home to several lakes, two horse tracks, and a zoo. It is the site from which, in 1783, a hot air balloon made by the Montgolfier brothers was launched and made history by being the first manned free flight.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_21.jpg?versionId=q50mXi1RTqK.jql5LkTP0f1cKC7oFad3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_21.jpg?versionId=t2bZusiuuT_.cCgFJGMgI2KYvQ.9vqaA",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U21_Lesson.mp3?versionId=lz3czFS68NfYM.uETIibEboXTWO1qTIl",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2322023,
+    "cultureContent": {
+    "imageLocation": "Vigo, Spain",
+    "imageDescription": "Jules Verne, considered the literary ambassador of Vigo, was a French novelist, poet, and playwright. In one chapter of 20,000 Leagues Under the Sea, the protagonist searches for treasure said to have been lost during the 1702 Battle of Vigo Bay. In 2005, to commemorate the 100th anniversary of his death, artist José Morales was commissioned to sculpt this bronze of Verne seated on the tentacles of a giant squid.",
+    "imageCredits": "Luis Díaz Devesa / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_22.jpg?versionId=lqoKC1_Ga9.vvrEU9GZ16ecYBdmLZqZn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_22.jpg?versionId=ixX3NFwMLl9CwTIt3vz4RBnPVC_hUehh",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U22_Lesson.mp3?versionId=Aa_BRf402EL1DaPvzDKkcZ3eAoVHj1IH",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2322048,
+    "cultureContent": {
+    "imageLocation": "Saint Émilion, France",
+    "imageDescription": "The Romans first established vineyards near the Bay of Biscay in southwestern France, and the region is world-renowned for the quality and quantity of the Bordeaux wine it produces each year. The name Saint-Émilion stands for the most prestigious and expensive wine in the world.",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_23.jpg?versionId=lB3twkn5X5ZwmnFOVpZOcxuFdtDB9_Wz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_23.jpg?versionId=YGF4csDMI6JyvEVJ6Srx69tC7dKpAKm6",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U23_Lesson.mp3?versionId=RI4xwmD8OwxXF14dkUJZr0GRBUAtTnDv",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2322089,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "Celebrated in over 120 countries around the world, Fête de la Musique, or World Music Day was established in 1981. The day was conceptualized by French Minister of Culture, Jack Lang, as a way to bring people together for a day of accessible music performed by aspiring and professional musicians alike.",
+    "imageCredits": "FRANK PERRY / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_24.jpg?versionId=7pbJBBp6A13PWb2oJt.wnVm6WWC3SqEL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_24.jpg?versionId=dAS8_JGu9jk8YdWrdkZwsN_45VmJv2WN",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U24_Lesson.mp3?versionId=esXBNjeDmmzqB9NY0hhFvDXxUMz_E9pN",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2322116,
+    "cultureContent": {
+    "imageLocation": "Le Puy-en-Velay, Haute-Loire",
+    "imageDescription": "Lacemaking in Le Puy en Velay dates back to the sixteenth century. The industry struggled when edicts were passed that imposed heavy fines on anyone who wore lace on his or her clothing, however, manufacturers survived by incorporating lace into other items, such as household linens.",
+    "imageCredits": "Bernard Jaubert / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_25.jpg?versionId=fOXDK9mRyNMeLgIXq8MmihFhZaAXLcdR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_25.jpg?versionId=ZaMcwPQ2aO1e8glAdmkQl2g_RWAPz0tn",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U25_Lesson.mp3?versionId=cgOvwUx549y2Lty0TfX8eAWCjMjlYqNL",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2322142,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Pasteur Institute was founded in 1888, initially to work toward a cure for rabies. Today, it's a global leader in disease research and vaccine development. Scientists there have developed cures for tetanus, plague, diphtheria, typhoid, typhus, tuberculosis and hepatitis B, among many others, and they were the first to isolate the HIV (AIDS) virus.",
+    "imageCredits": "PATRICK KOVARIK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_26.jpg?versionId=FNoG2K4.WEvdhZJprENVCEUSklY8HTpS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_26.jpg?versionId=ylcqFP.0npEDFGZ2Rtu_ZekDln0eZ0vh",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U26_Lesson.mp3?versionId=SGnnKCnV6xFbPNqnGbHOp_mypVS.P8o8",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2322170,
+    "cultureContent": {
+    "imageLocation": "Réunion Island, France",
+    "imageDescription": "Réunion island is in the Indian Ocean, east of Madagascar, and is one of the overseas regions of France.  It is one of the outermost regions of the European Union.",
+    "imageCredits": "Pawel Toczynski / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_27.jpg?versionId=f4AVNxgAjO97fppE9Xc9WHrHEHgy5s3_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_27.jpg?versionId=dd3rpjheWkQEBHRcDCZWgzJNU6i5nghK",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U27_Lesson.mp3?versionId=6dg4iLDdvB4TE1ZWkH0EWg6bw5Qirjr4",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2322198,
+    "cultureContent": {
+    "imageLocation": "Lourdes, France",
+    "imageDescription": "The Lourdes Medical Bureau is an official medical organization established for the purpose of investigating the miraculous recoveries of sick individuals. Beginning in 1858, people in the area began to claim they had seen apparitions. Suddenly, cases of unprecedented rehabilitation occurred with no physiological explanation. Today, Lourdes is still believed to be a place for inexplicable healing and thus has becomes a site of mass pilgrimage from all over the world.",
+    "imageCredits": "Jean-Erick PASQUIER / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_28.jpg?versionId=PWZDR4dmsNjt9xV_gkEhEb28JZ43ia8O",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_28.jpg?versionId=wQgrIsaJY7fuaTVQ4sc3QzewOCBfPzxM",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U28_Lesson.mp3?versionId=6kIi4bfyKsGK9o78o0UxS73OfS73eXhm",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2322228,
+    "cultureContent": {
+    "imageLocation": "Poitiers, Poitou-Charentes, France",
+    "imageDescription": "Futuroscope is a cinematographic amusement park that houses some of the country's only 3D and 4D theaters. Open since 1987, its attractions include Cirque du Soleil and IMAX showings, observation towers, an interactive 5D movie experience and a robocoaster.",
+    "imageCredits": "Javier Larrea / age fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_29.jpg?versionId=cfFB0svm4jQt7jl1RLiJwblUzDDBdFx9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_29.jpg?versionId=nuLXDwnhoT1gT6J92tyj_Nq_DGCdh.W2",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U29_Lesson.mp3?versionId=FCGIKsTscXiRc12UoPi3rYm0prBSJZ9I",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2322259,
+    "cultureContent": {
+    "imageLocation": "Grasse, Provence-Alpes-Cote D'azur, France",
+    "imageDescription": "Parfumerie Fragonard was founded in 1926 by entrepreneur Edward Fuchs, who named it in honor of French painter Jean-Honore Fragonard. The perfumery is open to the public, with free guided tours available in a variety of languages. ",
+    "imageCredits": "DEA/C.SAPPA / De Agostini Picture Library / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/full/FR_5_M_30.jpg?versionId=xZGMEQRgYGM34wlqJzJrhHUAvPLU_UQ8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/lesson_photo/thumb/FR_5_M_30.jpg?versionId=h4s2x8T7MffpxSZtOj4AX9O92jpRUGRO",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/main_audio/9781442396173_French5_U30_Lesson.mp3?versionId=3srewbanW6r8fK_POvh5V__JPJLmuc6k",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2322289,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Consecrated in 1919, The Basilique de Sacré-Coeur de Montmartre (Basilica of the Sacred Heart of Christ) is located at the highest point in Paris. It was constructed using travertine stones from Chateau-London. When it rains, these stones react with the water to secrete calcite, which acts as a bleaching agent, ensuring the basilica retains its whiteness. Visitors who climb the 234 spiraling steps to the dome can enjoy spectacular 360° views of Paris.",
+    "imageCredits": "Julien FROMENTIN © / Moment Open / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/French/French Level 5 orig/asset/RL/9781442396173_French_5_Intro.pdf?versionId=TTTcM.stN.eDsBkGo6225kt97Qyn6Snq",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit01_Reading.mp3?versionId=By9tjgLurGsiF_Q72kBegujYPvIdCf_a",
+    "mediaItemId": 2223858
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit02_Reading.mp3?versionId=eyH3ID26OzyxGFG0lvm6auVtn.F74Nc.",
+    "mediaItemId": 2224064
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit03_Reading.mp3?versionId=f.RGedVTK2tfWTSLE903XDpCu5Dk35er",
+    "mediaItemId": 2224202
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit04_Reading.mp3?versionId=myGHdh32EQDFX3AkrDGIMRiRt5FroJmU",
+    "mediaItemId": 2224412
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit05_Reading.mp3?versionId=K23RoFq1KXvh.o4OOxW.DGdmI_fyBwna",
+    "mediaItemId": 2224544
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit06_Reading.mp3?versionId=AdSR5jK8O1r36kvWNx3il0yp0BMSohns",
+    "mediaItemId": 2224722
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit07_Reading.mp3?versionId=SUy1QLMBDo5GDgzmiO345G9FmqOjFRak",
+    "mediaItemId": 2225039
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit08_Reading.mp3?versionId=qikumpNpuLNGFuG1KnEda93g8kovxK.8",
+    "mediaItemId": 2226597
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit09_Reading.mp3?versionId=DuiionTXPy42aMm1_Sm1P.yETRRPkjbB",
+    "mediaItemId": 2229314
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit10_Reading.mp3?versionId=Dimu1M1V_J9cNrbNmzlDmdF.uxL_INcZ",
+    "mediaItemId": 2232559
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit11_Reading.mp3?versionId=aeqrxcQhRn9UBEek5AgY0AqqVC0WV2UZ",
+    "mediaItemId": 2236317
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit12_Reading.mp3?versionId=PwyijLZLqhKdl_HLNwILtvfrROqlHPjH",
+    "mediaItemId": 2239684
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit13_Reading.mp3?versionId=KycPMGb09BIlYobY.4RGtj_q43Oi4cCz",
+    "mediaItemId": 2242598
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit14_Reading.mp3?versionId=kmxlKRTzuTWRRJrfW_nEJined3rOvAco",
+    "mediaItemId": 2245811
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit15_Reading.mp3?versionId=JS3EWbemDckpMLjL2p7eEzv0Qd40p4qX",
+    "mediaItemId": 2248748
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit16_Reading.mp3?versionId=qm0v7WP7SjFhAM6OetzuBXk6ET6nfb3m",
+    "mediaItemId": 2251741
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit17_Reading.mp3?versionId=1Jv0luINwhYqwHkQAVcc4MXG5c.dfc1T",
+    "mediaItemId": 2254556
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit18_Reading.mp3?versionId=3Cqa_qWkH6_04db_YV08iDt9A.OInaVK",
+    "mediaItemId": 2257346
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit19_Reading.mp3?versionId=Sow2sAbrcwBlrQUvhDaK10SXxhRMfBES",
+    "mediaItemId": 2260207
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%205%20orig/asset/RL/9781442396173_French5_Unit20_Reading.mp3?versionId=FjW2flswS0Qt2z6gCIBzlxAcQR6tcXxz",
+    "mediaItemId": 2262805
+    }
+    ]
+    },
+    "languageCode": "fr-FR",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781442396173",
+    "level": 5,
+    "courseName": "French Level 5 Premium",
+    "simpleCourseName": "French Level 5",
+    "puArabic": false
+    }
+    ]

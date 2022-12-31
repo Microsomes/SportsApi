@@ -1,0 +1,605 @@
+[
+    {
+    "courseId": 5278,
+    "languageName": "Russian",
+    "languageId": 165,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_01.jpg?versionId=l9TXARJYOYkIRIQ5AdHTud_fbQlk.P6k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_01.jpg?versionId=_sFrzMlQ1pQfLi4PTmUcmiOscc6nfwYr",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U01_Lesson.mp3?versionId=pgJXBl9NlFQZkaUAIT9KJnbXbo2oxlad",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2310979,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The population of the Moscow metropolitan area is estimated at close to 18 million, 9 million of who ride the subway every day; more than London and New York subway systems combined.",
+    "imageCredits": "Aleksandr Morosov / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_02.jpg?versionId=bErp93w.uw.7ymcTvwkfD5XXAejJ4KWW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_02.jpg?versionId=5mO0rZKVf8QE0Uchr0LEfsVuP2NPEfsk",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U02_Lesson.mp3?versionId=cwVQCwbiEv.PH1iJGTi07i_HMbw.NUfC",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2311159,
+    "cultureContent": {
+    "imageLocation": "Anadyr, Chukotka Province, Russia",
+    "imageDescription": "Anadyr, the easternmost town in Russia, is not connected to any other settlement via road, and the airport is on the other side of the Anadyr River Estuary.  Transportation to and from the airport is via a 40-minute ferry ride in the summer, or by ice road across the river in the winter.  During the spring and autumn the river is full of drifting ice floes, so the only way to get to the airport is via helicopter.",
+    "imageCredits": "Gabrielle & Michel Therin-Weise / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_03.jpg?versionId=3z.7xS2lneMqPJiQrOx6H_OTMpd8qqVo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_03.jpg?versionId=haCUWCopZtgnajYyLMn1mrhMGARVqvXh",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U03_Lesson.mp3?versionId=XKYuzk6MikZzWgBppkwFV5khWXVo8a.r",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2311309,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Art Nouveau Singer Company Building on Nevsky Prospekt is home to Dom Knigi, which has been St. Petersburg’s most popular bookstore for over 70 years.  It was the first building in St. Petersburg to use a metal frame, which allowed the installation of huge ground-floor windows.",
+    "imageCredits": "Ken Scicluna / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_04.jpg?versionId=4IpkfXq4Kb3WFw.CyBj5n9gW1FbcZMiO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_04.jpg?versionId=J1eGyjuNfKQExbJowcxIfIrP73EQTVs8",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U04_Lesson.mp3?versionId=yhndfqTZOKar2IphtTvYIceHorA5amw4",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2311480,
+    "cultureContent": {
+    "imageLocation": "Astana, Kazakhstan",
+    "imageDescription": "The Khan Shatyr Center, “the world’s largest tent,” encloses an area larger than that of ten football stadiums. Within the structure there are squares with cobbled streets, an indoor beach resort, a park, and a boating river, as well as restaurants, shopping, and entertainment areas.",
+    "imageCredits": "Jane Sweeney / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_05.jpg?versionId=.BjyqC1_MpYo19yj3XhgYq8eQ3VUQLv_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_05.jpg?versionId=HHlATT.uoMTECAxmHD6UPvF9ADhNOJ2T",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U05_Lesson.mp3?versionId=nKHW.hOtxm.AzYMCa1iUadpuzkWd2uCX",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2311654,
+    "cultureContent": {
+    "imageLocation": "Petropavlovsk, Kamchatka Peninsula, Siberia, Russia",
+    "imageDescription": "This city of 200,000 residents is the second largest city in the world that is unreachable by road.  It is so surrounded by high, snow-capped mountains and volcanoes that the horizon isn’t visible from the city.  The region’s airport is the main entry point for travelers visiting the peninsula.",
+    "imageCredits": "Carsten Peter / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_06.jpg?versionId=6Y2_CyZsCCb9HEP8Lj8tRCd0pLcr31p0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_06.jpg?versionId=95mk1BohPAQibxcyJm_pqrbc9NcNyybr",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U06_Lesson.mp3?versionId=NhB1QH1TzDCD6gL7XW7AyNpt5P_aawke",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2311838,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "When Stalin died in 1953, his sarcophagus was placed next to Lenin’s in this mausoleum on Red Square. In 1961, Stalin’s sarcophagus was removed and reburied near the Kremlin wall, surrounded by the graves of minor Party leaders.",
+    "imageCredits": "Lonely Planet / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_07.jpg?versionId=LjMRAaoLIZabgKb9U1fhCIUldKoWmCj1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_07.jpg?versionId=ZFugBfNevygSGIOzJIX1r3BQdCTxzH4u",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U07_Lesson.mp3?versionId=hqg.1HjWpF36hE8XzThpgCJq2OHDkbvt",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2312015,
+    "cultureContent": {
+    "imageLocation": "Sarla Saz, Kyrgyzstan",
+    "imageDescription": "Herding animals between winter and summer pastures, such as the jailoo (grasslands) of Sarla Saz, has been done for over a thousand years in Kyrgyzstan.  The country declared its independence from Soviet Russia in 1991.",
+    "imageCredits": "Bradley Mayhew / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_08.jpg?versionId=ku1gQi8ZOPHBeM6BuaVDsxPuwPOQVIhg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_08.jpg?versionId=jBFf.kykQ8KSwP1QooJqxkymxelh5r9n",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U08_Lesson.mp3?versionId=OAi6WbMXN44bqJTFRP8L9zucV.tD0Bx1",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2312193,
+    "cultureContent": {
+    "imageLocation": "Pereslavl-Zalesskiy, Vladimir Province, Russia",
+    "imageDescription": "Pereslavl-Zalesskiy, northeast of Moscow, is part of the “Golden Ring” of historical cities.  The Museum of National History, Architecture and Arts at the former Goritsky Monastery is one of the largest provincial museums in Russia.  Peter the Great experimented with building ships for the future Russian navy on a lake in this area.",
+    "imageCredits": "Alexey Bubryak / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_09.jpg?versionId=wl_oI_Qrjp9igi0zzpNttiW4G3wS8N7x",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_09.jpg?versionId=d9gEtz4vRZy7WnDeFsNfebtrduqxiv9U",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U09_Lesson.mp3?versionId=F8hJise1fGK8a0GBy4EwwxeRAW4qJEBo",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2312455,
+    "cultureContent": {
+    "imageLocation": "Kazan, Republic of Tatarstan",
+    "imageDescription": "Kazan is the capital city of the Republic of Tatarstan.  It is home to the 1,000 year old Kazan Kremlin (fortress), a world heritage site, as well as the second oldest university in the Russian Federation, Kazan State University, founded in 1804.",
+    "imageCredits": "Simon Richmond / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_10.jpg?versionId=Ly32FXzFm9NgZAV90klq4hVIgSrgkLxR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_10.jpg?versionId=jQO3T3QEeOWEAuznFxY7PU3KtwciCCtp",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U10_Lesson.mp3?versionId=giO8NEJx12XRUS25kL28T8BWV9K.Sxdq",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2312638,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "In northern Russia homes are often decorated with carvings around doors and windows, on porch railings, balconies and gates, and on the edges, gables and ridgepoles of roofs.  Traditionally, they protected the homes from evil spirits, maintained the residents’ well being and protected the fertility of their soil. The patterns of trim often included delicate open lacework and animal or mythical forms.",
+    "imageCredits": "De Agostini / W. Buss / De Agostini Picture Library / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_11.jpg?versionId=dQ6NHdQNXd6KGt_pE6WI6Wjp00ENClcH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_11.jpg?versionId=bI5Acm7k9befd0d..J7OU68POzC9V4_E",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U11_Lesson.mp3?versionId=8VllEZH1ODVI9Bkga8sgJQV4_irBKGAu",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2312864,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Ploshchad Revolyutsii metro station in central Moscow contains 76 life-size bronze sculptures by Matvey Manizer.  Subjects are everyday Russians including this young student engrossed in a book, as well as soldiers, farmers, athletes, writers, aviators, industrial workers, and schoolchildren.",
+    "imageCredits": "Bruno Morandi / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_12.jpg?versionId=n6ZH.NMqclywA.YfwCN29i4YhM.zNQKX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_12.jpg?versionId=s_PD6Yi0NDJRYCyKhcAHU.XnNQdZvVTE",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U12_Lesson.mp3?versionId=QKhaRL6KkwLlzajY65dNAqYlLDijsKn8",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2313111,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Church of Our Savior on Spilled Blood was built on the spot where Czar Alexander II was mortally wounded in 1881.  It contains over 7,500 square meters of mosaics, thought to be more than nearly any other church in the world.",
+    "imageCredits": "RosLol / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_13.jpg?versionId=L9yZlPm5LGHqgMcz.KcIekSGhmeS86B7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_13.jpg?versionId=AKMZnnTYwKTe8B46YGsbCZ6T9.o2YD3e",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U13_Lesson.mp3?versionId=j1wbAMaUArll_hFrdoMepADs42m4BAnP",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2313366,
+    "cultureContent": {
+    "imageLocation": "Olkhon Island, Siberia, Russia",
+    "imageDescription": "The largest island in Lake Baikal has about 1,500 residents spread out over 280 square miles. Shamanists believe it is also the location of one of the nine holy places in Asia, Cape Burkhan, also known as Shaman’s Rock.  The native Buryats consider the cave in the rocks to be sacred, and only shamans are allowed to approach it to make offerings and sacrifices.",
+    "imageCredits": "ROBERT jean / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_14.jpg?versionId=KUK7EO3tOA_XjKrnREs0.TFEEit0wnzz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_14.jpg?versionId=Oh3Eq1CjvrpH6HrosvZRXo6f89NkE4Tv",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U14_Lesson.mp3?versionId=ndGlUqJdrrw1shqPtwKGdQHzQwy92rtT",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2313548,
+    "cultureContent": {
+    "imageLocation": "Kamchatka Peninsula, Siberia, Russia",
+    "imageDescription": "The Siberian or Amur tiger is the world’s largest tiger, and a critically endangered species.  It lives an isolated life except when mating or raising cubs in forested areas of the Kamchatka Peninsula.  Loss of habitat from logging and road building, poaching by local hunters for their fur, and black marketers selling their body parts for Chinese traditional medicines have diminished their numbers, despite government efforts to protect them.",
+    "imageCredits": "Tom Brakefield / Stockbyte / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_15.jpg?versionId=xh6xxJjIUsjBpTEOW9NTXNPNpUUzKz68",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_15.jpg?versionId=Pe_iVPe.AnOKj9ZAQwmudHq0F8loKolH",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U15_Lesson.mp3?versionId=OiFYey5u5Kmnip_EHt.kulUHAS0aFctM",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2313737,
+    "cultureContent": {
+    "imageLocation": "Kamchatka Peninsula, Siberia, Russia",
+    "imageDescription": "The farthest eastern part of Siberia, the Kamchatka Peninsula, is part of the northern Pacific Ocean’s “Ring of Fire.”  The Kronotsky Nature Reserve is home to the largest number of active volcanoes in the world.  Valley of the Geysers contains geysers of different sizes and with different eruption schedules.",
+    "imageCredits": "Philippe Bourseiller / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_16.jpg?versionId=ptdJ4phj4AMbdyptZdiA_cdo4cfQqQTE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_16.jpg?versionId=fifT13t4aPN0iGsLZLbyzgC.0jHqWWGn",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U16_Lesson.mp3?versionId=2zYjwwF3MgrbF54.7EDdVGFwA2gxiiCY",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2313934,
+    "cultureContent": {
+    "imageLocation": "Krasnoyarsk, Siberia, Russia",
+    "imageDescription": "Krasnoyarsk was founded in 1628 as a border fort.  Now part of a nature preserve, it is known as the “City of Fountains.” Author Anton Chekov considered it to be the most beautiful city in Siberia.  It was a central part of the gulag system, with numerous labor camps.",
+    "imageCredits": "Richard I’Anson / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_17.jpg?versionId=RThePQa7zACPmk0F40BFW6n0b4kejAa_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_17.jpg?versionId=QfX0tH_z2mw28Chm36cXTmdZjlch0LRL",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U17_Lesson.mp3?versionId=0nAlGpVYh83tHDt.53gJGowmW7XPUqXq",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2314130,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russia is known for rich peasant food: black bread, root vegetables, mixtures of grains, such as kasha, and many varieties of soup besides beet soup (borsch).  A common saying is “cabbage soup to porridge – that’s our food.”  The dictates of the Russian Orthodox religious calendar affected the diet of their members: meat, milk, and eggs were forbidden for part of the year.",
+    "imageCredits": "Trevor Wood / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_18.jpg?versionId=HqwdS.t7cm8tpprYdbA_3AxEJKhZtGtc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_18.jpg?versionId=W7uzgasSeLVxqxq_W6YF0DXf_9i85dNx",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U18_Lesson.mp3?versionId=Hg82T.3xf_Qd95mHnhSV.4zpHfCoxy21",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2314333,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Every day the Moscow Metro runs trains over 200 miles to 196 stations.  When the system first opened in 1935 it had one 6.8-mile line and just 13 stations.  Victory Park (Park Pobedy) station is one of the world’s deepest at 243 feet.",
+    "imageCredits": "Bruno Morandi Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_19.jpg?versionId=xRj7NUYBXhHgQQ7boBSRUwEnr67pkp4C",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_19.jpg?versionId=Jv1PS0y6mCnuJKyX.znhvbSIMLoDNJKP",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U19_Lesson.mp3?versionId=TX5qeZVgHW0S9_Z9uYwNusfIB.7ism0o",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2314508,
+    "cultureContent": {
+    "imageLocation": "St Petersburg, Russia",
+    "imageDescription": "Known as the “Venice of the North” because of its canal network, St. Petersburg is an extraordinary city, and one of the most Westernized in Russia.  At the end of this canal is the Church of Our Savior on Blood, famed for its mosaics and artwork by leading artists of the late 19th century.",
+    "imageCredits": "Kapuk Dodds / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_20.jpg?versionId=P6LMf9SPupWOOFcAP9AdCw7BsneDTBo6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_20.jpg?versionId=v2dyDd55k9YF6UxSrW2ouiJRXBBuTq_G",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U20_Lesson.mp3?versionId=sGAh2.wJeE07rCO58UJFacatlIbMP0ZN",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2314689,
+    "cultureContent": {
+    "imageLocation": "Kamchatka Peninsula, Siberia, Russia",
+    "imageDescription": "Geologists have found at least forty geysers at the Valley of the Geysers on the Kamchatka Peninsula, along with “mud pots,” acidic hot springs full of bubbling, boiling mud, and “fumaroles,” columns of escaping steam.",
+    "imageCredits": "Franz Lanting / Mint Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_21.jpg?versionId=4_kNrOO9d8DrRyW0aNGzhG9zra1_Gf6m",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_21.jpg?versionId=R.ltpPa7tEFQAuF9dDCZkA_fM53MJiaR",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U21_Lesson.mp3?versionId=a9ZNzCieVDv_er26n69qmjZ_1_qUbfOe",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2314869,
+    "cultureContent": {
+    "imageLocation": "Siberia, Russia",
+    "imageDescription": "Russian oil companies have begun to partner with Western corporations to search for oil by hydraulic fracturing (“fracking”) in Siberia.  Fracking has generated a huge backlash in North America and Europe where communities have protested its impact on drinking water and the possibility of triggering earthquakes.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_22.jpg?versionId=75SdOuL9iVC0zuVsmnCSPsff4nsOtmqS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_22.jpg?versionId=tylqjl5Ro4fazbNcOSTg9QwnfTUBI9UJ",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U22_Lesson.mp3?versionId=NozkWXm3kd9R.CLaZYbOP8MhjnxEZ_0Y",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2315088,
+    "cultureContent": {
+    "imageLocation": "Yakutsk, Siberia, Russia",
+    "imageDescription": "Yakutsk is the coldest city in the world.  Its first settlers were the Yakuts, who moved here to escape the invading Mongols and intermarried with local tribes.  It did not become a city until gold was discovered beginning in the 1880s.  Since then, other minerals have been found there, too, including diamonds.",
+    "imageCredits": "Amos Chapple / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_23.jpg?versionId=9d4vWzMWH1uRSZr6DiPYJD1SN.H02Jfy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_23.jpg?versionId=7rKXNXkBQ9es5aXToPcgDSzQZXlDM55S",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U23_Lesson.mp3?versionId=CwPKIh8HVy341uLx_zlkMsSHMASb18da",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2315331,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The Russian version of a sauna is called a “banya.”  It requires the use of a specially treated bundle of leaves (a venik) for the ultimate massage.",
+    "imageCredits": "Amos Chapple / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_24.jpg?versionId=h29wq.gU5ZLLy86e9JnI0fl0vZDBtced",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_24.jpg?versionId=LUsBkodRzvQhts95AWpmUGJU9.unMVgX",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U24_Lesson.mp3?versionId=F5ij0Q3GzjqkQA1IJULPZ1iKu8zc1Ris",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2315511,
+    "cultureContent": {
+    "imageLocation": "Sakhalin Island, Russia",
+    "imageDescription": "Sakhalin is Russia’s largest island. Its native residents, the Ainu, have lived there since the Stone Age.  For centuries Japanese and Russians lived in separate parts of Sakhalin Island. Both countries traded these islands back and forth several times until, at the end of World War II, Russia claimed sovereignty over both the Kuril Island chain and Sakhalin Island, but Japan still contests the claim.",
+    "imageCredits": "Tatiana Gerus / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_25.jpg?versionId=QClB13c2bfdyPI_xcoxBf_E3UFjVJSXe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_25.jpg?versionId=32W5xRCHF3_D7gNkgO2Y4W.D5Vl9mXab",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U25_Lesson.mp3?versionId=bM.6V4d2FMtmRC1cqfZ5iSGLXdDAaKOl",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2315733,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Winter Palace perched on the Neva River embankment is now part of the Hermitage Museum, which contains art from the imperial collection started by Empress Catherine the Great.",
+    "imageCredits": "Ken Scicluna / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_26.jpg?versionId=0FiXEY6lIaCBwjTuUyxnOPDpXhqTMzBw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_26.jpg?versionId=wn9UGy.kSHV8V4mULcdEW7FOTGsD..sM",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U26_Lesson.mp3?versionId=LYnbnIxcGi3tBmXEdttrk9DeiD3y6UeI",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2315904,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Grand Cascade Fountains at Peterhof Palace are fed by natural springs prompted by gravity rather than by pumps. The gilded statues and the Grand Palace were destroyed by German occupiers during World War II, but since have been restored.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_27.jpg?versionId=EfIktBukZxRfK2Xhwkw9MAjIgSzp7rJq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_27.jpg?versionId=mHYth1CbMpyM4fx659oA_9qdZ2sISmZa",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U27_Lesson.mp3?versionId=tBDlA_4MkRTL8hWpZZvO566XG4yQTTXW",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2316078,
+    "cultureContent": {
+    "imageLocation": "Grozny, Chechnya Province, Russia",
+    "imageDescription": "Grozny’s striking Heart of Chechnya mosque is a reminder of the province’s strong Islamic roots.  The Chechens have often been at odds with government control from Moscow during the present regime, and Chechen guerillas still operate there.",
+    "imageCredits": "MIKHAIL MORDASOV / AFP Creative / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_28.jpg?versionId=rBMotCEwb4I7.IFjR2YWyAUhQX41OZ5F",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_28.jpg?versionId=InushWSidao6WEctfNK5yY9sUYDaTAtQ",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U28_Lesson.mp3?versionId=Q7gpKSdt1EjoqiyBz9LAQFhDuROqz.zz",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2316258,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The circus has a proud place in Russian culture. Catherine the Great encouraged a group of horseback performers to end their European tour in her capital.  When their leader returned to England, the performers stayed, and their numbers swelled as other groups joined them. Today, the St. Petersburg State Circus is known worldwide.",
+    "imageCredits": "Demetrio Carrasco / Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_29.jpg?versionId=V1FR91lXqvaDZWXlLyKNn5U3wJKc.p6Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_29.jpg?versionId=S0hVinKiCZjlLVZ5rMF3sAOtUhYw32BQ",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U29_Lesson.mp3?versionId=wLXnmVtFQ7t20QK5SXiWOhw4BazdYQPP",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2316421,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russia’s Leon Theremin invented this musical instrument, the Theremin, in 1919.  One of the world’s first electronic musical instruments, it was the first to be mass-produced. It is played by using one’s hands to manipulate radio waves projected through the air.",
+    "imageCredits": "SEBASTIEN BOZON / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/full/RU_2_M_30.jpg?versionId=sysxku9hL6m5qBVEZdA8cHcapHiwqEni",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/lesson_photo/thumb/RU_2_M_30.jpg?versionId=4lXcpCPNNjgyFCDofvVyxSv.cT_NfcKq",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/main_audio/9781442382831_Russian2_U30_Lesson.mp3?versionId=tXXVzg9K0eYIljKIA1SjQj2aa4Ahk9cF",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2316591,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Fallen Monument Park contains over 700 sculptures split into themed sections.  One group of 300 sculptures of victims of communist rule made by Evgeny Chubarov was installed as a single group.",
+    "imageCredits": "Jonathan Smith / Lonely Planet Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 2 orig/asset/RL/9781442382831_Russian_2_Alpha.pdf?versionId=bYc_e536lI8j0nFAAJ99MNUOPVz64N9n",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 2 orig/asset/RL/9781442382831_Russian_2_Intro.pdf?versionId=ooeUuVNauecFQ6KeHtIet3KcLHHdfs9H",
+    "audios": [
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit01_Reading.mp3?versionId=g7tgnN9nFu4STwPGzhqOOsed8yH9pzxj",
+    "mediaItemId": 2223817
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit02_Reading.mp3?versionId=VYOXxfeyLZAdxpe5FbAifgReSNyT0KEj",
+    "mediaItemId": 2223998
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit03_Reading.mp3?versionId=mnkJ7jAEw.V6EgR6Q39cvbkqlqYpbUuH",
+    "mediaItemId": 2224164
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit04_Reading.mp3?versionId=UI7wl9HlOJKmXaGAZMFjsViddzEsyuKZ",
+    "mediaItemId": 2224367
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit05_Reading.mp3?versionId=6fy5DGbJVs0hVV7RDZpP5xZu8tq2tn5t",
+    "mediaItemId": 2224496
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit06_Reading.mp3?versionId=OdY2qm2yOilZwR0DxdAE3Ql6U.b7V0sL",
+    "mediaItemId": 2224692
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit07_Reading.mp3?versionId=CnwrMaLlipKS8OqXHWQFR5NplEr.UlHl",
+    "mediaItemId": 2224812
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit08_Reading.mp3?versionId=92bX2vX_lINuDHPEW1LTOZFz4dHj5ni9",
+    "mediaItemId": 2226018
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit09_Reading.mp3?versionId=6OmH45dz_mjTSDzVK0v.BSAKrp1.mp1M",
+    "mediaItemId": 2228587
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit10_Reading.mp3?versionId=bqIf9.RrV5us_nRLAVGFPwUMbhE8TERX",
+    "mediaItemId": 2231833
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit11_Reading.mp3?versionId=6XQuuj0TIUhtiMfpGd8bMhWrTRzRDAkk",
+    "mediaItemId": 2235319
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit12_Reading.mp3?versionId=atPHyJtEvvoeLfgjqrtUot4DRE58GuVa",
+    "mediaItemId": 2238788
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit13_Reading.mp3?versionId=RDUOl.XlkBskXiSwWZ46kFiGveIEa_Mn",
+    "mediaItemId": 2241847
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%202%20orig/asset/RL/9781442382831_Russian2_Unit14_Reading.mp3?versionId=ogkmOcn06ryjcrdny9KWXzIJhaR9BX8M",
+    "mediaItemId": 2245003
+    }
+    ]
+    },
+    "languageCode": "ru-RU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442382831",
+    "level": 2,
+    "courseName": "Russian Level 2 Premium",
+    "simpleCourseName": "Russian Level 2",
+    "puArabic": false
+    }
+    ]

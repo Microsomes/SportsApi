@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 3180,
+    "languageName": "Chinese Mandarin",
+    "languageId": 125,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_01.jpg?versionId=V3cXj4khKi0hurccQsb3qHCIalRxn0KC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_01.jpg?versionId=XHDA1p7PzkTHdHWlv6JHVNI1Y1UfoMia",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U01_Lesson.mp3?versionId=_4_GImkWR8YdII4b1DKo0pSma40R_dlk",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2226267,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "Half of the world’s richest self-made women are from China, whose state ideology strongly supports female education in technology and the sciences. Women have long been expected to work as long and hard as men – and be rewarded with senior positions.",
+    "imageCredits": "Zang Bo / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_02.jpg?versionId=ijt0w_2Dvh3fM3GPCriblqYQRMVnO088",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_02.jpg?versionId=l278vHSD2AOEM0BnXB.PM06.kXpYepXC",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U02_Lesson.mp3?versionId=4.luczRS5A88j3K4qJhGDJEbj.zP0e02",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2226935,
+    "cultureContent": {
+    "imageLocation": "Xi’an, Shaanxi Province, China",
+    "imageDescription": "China’s first emperor, Qin Shi Huang, built an army of terracotta soldiers, complete with weapons, horses and chariots, to be placed near his tomb. Discovered by farmers digging a well in 1974, eight thousand have been found so far, all with different faces, and all in military formation.",
+    "imageCredits": "Jakob Leitner / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_03.jpg?versionId=4YGXBQ.iXbTPH0kpSAVP_AHlrApefKxe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_03.jpg?versionId=PhIn2NetIhRTRPBBRRT9qvpaGLOh1LA3",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U03_Lesson.mp3?versionId=w_BSpkA34h6yIP_xmXTYouQweiZHKwNA",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2227203,
+    "cultureContent": {
+    "imageLocation": "Jinshanling, Hebei Province, China",
+    "imageDescription": "The restored part of the Great Wall built at Jinshanling during the Ming dynasty winds along steep slopes for nearly seven miles. Its 67 watch towers include barracks for soldiers.",
+    "imageCredits": "ViewStock / View Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_04.jpg?versionId=JzgZmxxVXJGzyvP95G5fNp_rXIbU6Uri",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_04.jpg?versionId=jUCdcZckxIpBn8pjWpAu0.EMN5VkorAh",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U04_Lesson.mp3?versionId=KlXzBoc3vL67xJdgljIYvH9vVjkpVaHs",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2227473,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "Tiananmen Square, one of the largest open courtyard spaces in the world, is the site of military and political parades. A sentry always guards the portrait of Chairman Mao Zedong that hangs there.",
+    "imageCredits": "Tony Burns / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_05.jpg?versionId=wzsOgfZfQOYxNvik103ZEJRyFkw2jqlL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_05.jpg?versionId=1sIwbg6kdx5vtd3sXRLVr56SK3H6YLvk",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U05_Lesson.mp3?versionId=cX0SrFVFBdoRqK5slUPcgsROpAlLdnmy",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2227775,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "The CCTV Tower, designed by Rem Koolhaas and Ole Scheeren is visible from most of Beijing. Its unique three-dimensional design culminates in a 75-meter cantilever.",
+    "imageCredits": "Eric Gregory Powell / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_06.jpg?versionId=aNRAAMi1BKubFnsw7P0Imq3qlbYe1vWz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_06.jpg?versionId=yXlOePK.HusKsKlXm8DIbkJLDoWmMe_t",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U06_Lesson.mp3?versionId=DNZksCWIKP6OqUNN0YFQXhg5EwLcIBEA",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2228060,
+    "cultureContent": {
+    "imageLocation": "Shenzhen, Guangdong Province, China",
+    "imageDescription": "Shenzhen, China’s major financial center, is one of the fastest growing cities in the world. Home of the Shenzen Stock Exchange and headquarters of many hi-tech companies, it is located on the coast in southern China.",
+    "imageCredits": "Daniel Berehulak / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_07.jpg?versionId=CoDN3TBsSBdB0d6t2zKUZjqol7q4l_3i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_07.jpg?versionId=dyHwbBcSfx0ysFadyQLoC5JJTdNZgPi_",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U07_Lesson.mp3?versionId=syCM0XHXZiorVaQ.FnZwNC8GwCyJBvkg",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2228462,
+    "cultureContent": {
+    "imageLocation": "Chaoyang District, Beijing, Hebei Province, China",
+    "imageDescription": "The Today Art Museum, one of Beijing’s most important and active private museums provides international exposure for Chinese contemporary artists and their work. This exhibit is installed in a fountain outside the museum.",
+    "imageCredits": "Christian Kober / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_08.jpg?versionId=D2C0oDnSfMh0NwV9PqihjcMLrrw7RmVj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_08.jpg?versionId=k.k_vzh0bTbUEkEA6tWlO9r0H.M6hyY7",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U08_Lesson.mp3?versionId=QhU9tlEagpIRMHfW_Z017C9oI1gFHPG6",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2228809,
+    "cultureContent": {
+    "imageLocation": "Nanjing, Jiangsu Province, China",
+    "imageDescription": "The black-yolked translucent delicacies known as “thousand-year-old-eggs” actually only take two months to make. Approximately 300,000 tons of them are produced in Nanjing each year.",
+    "imageCredits": "Education Images /  Universal Education Group (UIG) / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_09.jpg?versionId=L5gYB_BrwOlmb8vSlpSFqNCFGPgqVP1a",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_09.jpg?versionId=6r29BTEr4BKw31eYblZgEmZR8GS0YWNw",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U09_Lesson.mp3?versionId=OUMmzThx7AsQWwNa7Gun1Fw5pgP5qvnQ",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2229158,
+    "cultureContent": {
+    "imageLocation": "Nanshi District, Wenmiao, Shandong Province, China",
+    "imageDescription": "The Confucian Temple was built in 1302 near Confucius’ birthplace close to modern Qufu. The grounds contain one ancient tree known as “Touch Evil Cypress” said to be able to distinguish whether a person is good or evil.",
+    "imageCredits": "Bradley Mayhew / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_10.jpg?versionId=0JOX22caaAaUGr4rN4wMN7X1egLjzHxY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_10.jpg?versionId=t5d5H82w6VLixUnIHJddUGVl_Dk_NIgF",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U10_Lesson.mp3?versionId=mKsxyZqLJmov7k7n2fwMcKYE2J55aFOS",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2229745,
+    "cultureContent": {
+    "imageLocation": "Shanghai, Jiangsu Province, China",
+    "imageDescription": "With a population over nineteen million, Shanghai is China’s largest city. It also features the country’s worst traffic jams. Cars without a local Shanghai license plate are not allowed to drive on the elevated expressways during rush hours. In March 2013 the average auction price for one of these plates hit a record high of the equivalent of $15,000 US.",
+    "imageCredits": "60 Character Maximum / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_11.jpg?versionId=TGduOuah8DhY9gKy1yqqxmcPvOz0JEXy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_11.jpg?versionId=drEFWx3XurpghP.MO.36qW8twCWQ.Yob",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U11_Lesson.mp3?versionId=U6L93VEsbxehPbiXKzs5R3jwQFUmi.Jl",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2230060,
+    "cultureContent": {
+    "imageLocation": "Heilongjian Province, China",
+    "imageDescription": "Siberian Tigers are the largest tigers in the world, growing up to 700 pounds. Much like a person’s fingerprint, no two tigers have the same striped pattern on their fur. They have an estimated average lifespan of 10 to 15 years in the wild, and up to 22 years in captivity.",
+    "imageCredits": "Keren Su / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_12.jpg?versionId=ffvni_5i1rfLREelBSweXEslZMXUPds2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_12.jpg?versionId=q1R7XNBFaO47aBUgmw3s3GYIJ7s9eFwW",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U12_Lesson.mp3?versionId=wIGPQ70ProRV5QJzed6kuvRfgU.3EquI",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2230419,
+    "cultureContent": {
+    "imageLocation": "Lhasa, Tibet",
+    "imageDescription": "The Jokhang temple, built in 647 A.D. has remained a key center of Buddhist pilgrimage for centuries, and today is one of the most popular tourist destinations in Lhasa.",
+    "imageCredits": "Buena Vista Images / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_13.jpg?versionId=2jt6RrazKdOqyXGPvyOsC0hJcngny5Cm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_13.jpg?versionId=IqL86EJLnHh4GHu1sZ6KG6zt4ig5HYxB",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U13_Lesson.mp3?versionId=MU3Wvt27KFf8su6Dk1j.z.vbSGiR20w6",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2230837,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "At the Xiao Chi Jie Market street stalls sell all sorts of inexpensive snacks from fruit to noodles and seafood to insects. Skewered deep-fried scorpions are one option.",
+    "imageCredits": "Mark Moffett / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_14.jpg?versionId=cjIvMrUc0.UszukKsb5V3mgTRgZETOKu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_14.jpg?versionId=p8KVmf6YUUTaxtzM36zdoG0IjdQfimwW",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U14_Lesson.mp3?versionId=oY6IbQ9XHwc9I7iaF_CquGqwFznqD1eR",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2231305,
+    "cultureContent": {
+    "imageLocation": "Pingxi District, Taiwain",
+    "imageDescription": "At the Pingxi Sky Lantern Festival thousands of sky lanterns are released to celebrate the end of the Chinese New Year.  The earliest version of the lanterns were used for sending war signals.",
+    "imageCredits": "Jung-Pang Wu / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_15.jpg?versionId=MHKNW0tM0shm5j8Uw.Ab5Jugv.XWMIZ4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_15.jpg?versionId=fl6eaRiTUmeyszGcY6duU1ARIl_eb_Of",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U15_Lesson.mp3?versionId=ScjwKTDerGeZFQlfcWgSr.e4ngdZgx78",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2231683,
+    "cultureContent": {
+    "imageLocation": "Shanghai, Jiangsu Province, China",
+    "imageDescription": "73 million people visited the Shanghai World Expo over six months in 2010 where the China Pavilion featured the largest display in the exposition’s history. It has since been converted to the largest art museum in Asia.",
+    "imageCredits": "ViewStock / View Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_16.jpg?versionId=631KIFpTCWcsi7hwim3LifKMTDMvKPbf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_16.jpg?versionId=g2LWftqrhXWBKDEnjARDW..Je56ASTof",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U16_Lesson.mp3?versionId=NCVWD.pXVFhqpUBYHYY9bnD1RmrF7CF6",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2232011,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "The Factory 798 Art District, now the best place to find modern Chinese art, was originally a military and technical manufacturing area.  The district’s Bauhaus style architecture attracted artists looking for soaring interior spaces and plentiful natural light.",
+    "imageCredits": "Christian Kober / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_17.jpg?versionId=ivfTt1FKu_Jc_h1K4DSuvecq73mA1HCI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_17.jpg?versionId=feXZMMAgiGL0NlaEwSG6Gjxnouqrj_ds",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U17_Lesson.mp3?versionId=fU039tAuO0U_0HGpBOgmp4zMBYzUoSKJ",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2232383,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "Rice terraces are found where there is sloping or mountainous land with a good water supply all year and stones and gravel for building. They conserve soil because there is less runoff and erosion. They also feed millions of people in China and Asia.",
+    "imageCredits": "Huoguangliang / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_18.jpg?versionId=SUDSLtuKojPuN7PTWzLMvi0LpyCeAl8u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_18.jpg?versionId=C1koVTgbmwUk.P97ltxN_g_X0HOKMqBp",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U18_Lesson.mp3?versionId=_VDOVsBgItK.Jwh8Gz4pVfx87yHrfJjj",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2232763,
+    "cultureContent": {
+    "imageLocation": "Harbin, Heilongjiang Province, China",
+    "imageDescription": "At the annual Snow and Ice Sculpture Festival, the largest in the world, an intricate ice replica of Beijing’s Forbidden City includes slides for delighted children with inner tubes. Harbin is in Northeast China, and winter temperatures of -30°F are not uncommon.",
+    "imageCredits": "Christian Kober / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_19.jpg?versionId=XKCswDARwwY.Dxxg3D9uQNUemUYJcQgw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_19.jpg?versionId=Dm5TOXNuEEruntyS.Eplj6EK0KjKgXRa",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U19_Lesson.mp3?versionId=ZBN_Bd67AP9wZ6lZqI.IRZ7OSw1VDW3w",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2233152,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "The Beijing National Stadium designed for the 2008 Olympic Games was built with steel beams to hide supports for the retractable roof, giving the building the appearance of a bird’s nest.  The roof was later removed from the design, but the building’s nickname, niǎo cháo, or Bird’s Nest stuck.",
+    "imageCredits": "Monica Rodriguez / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_20.jpg?versionId=99BJIpdrL5oy8RVgIsjKYSObEl9mBE.N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_20.jpg?versionId=X72iMvGV0eVh1IiUyBogKKRGlo_etaDj",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U20_Lesson.mp3?versionId=7MhFR2_NR0Iuut7.bVUCnJFj5lnysrav",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2233687,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, Kowloon Province, China",
+    "imageDescription": "Just like the Hollywood Walk of Fame in Los Angeles, the Avenue of the Stars located along the Victoria Harbor waterfront in Tsim Sha Tsui honors Hong Kong’s movie celebrities like actor and Kung Fu expert Bruce Lee.",
+    "imageCredits": "Travelasia / Asia Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_21.jpg?versionId=W1sjydG5Obhh8AcWHmWzrR7jtmpCfWte",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_21.jpg?versionId=a3RvhSghcKZB_YfZvmhRFlwRmsuqjXz7",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U21_Lesson.mp3?versionId=qFaAr4zse6DCJWa0qKdJLIAFBy5zTAcO",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2234290,
+    "cultureContent": {
+    "imageLocation": "Singapore, Republic of Singapore",
+    "imageDescription": "“Gardens by the Bay” was built on 250 acres of reclaimed land adjacent to Singapore’s Marina Reservoir. In addition to spectacular gardens and greenhouses, it features a children’s water garden, a 22 meter-high aerial walkway, and a Supertree grove of 80-150 foot-tall “trees” that come alive with light and sound at night.",
+    "imageCredits": "Thank you. / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_22.jpg?versionId=sJJUgnm3Cic61nknWt9APIzoa2lAup_2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_22.jpg?versionId=nlpNZG4YyCIGeX3JSw4pJ2j2OESh4Hsn",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U22_Lesson.mp3?versionId=w3.6VsPb4wxf7_dAI13PIDCP6J3V0h2y",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2234652,
+    "cultureContent": {
+    "imageLocation": "Keelung, Taiwan, China",
+    "imageDescription": "Yehliu Geological Park near Taipei features strange and fanciful rock formations created by wind and water erosion.  Many have inspired names like Queen’s Head, Fairy Shoe, Mushroom Rock, and Sea Candles.",
+    "imageCredits": "Fototrav / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_23.jpg?versionId=keT5uJ4l9RrGkmbLkwIXqQ_dIl4ye2H7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_23.jpg?versionId=_ujk.UZ6DdyxJgwAHytOgOXwcbSX6u1B",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U23_Lesson.mp3?versionId=2nBYtTUj7rP0XWtdLuHo0Zw9ajRlbxaR",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2235073,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "Jiao zi, Chinese dumplings filled with pork or vegetables are thought to bring prosperity when eaten at New Year’s celebrations, but versions of them are enjoyed throughout Asia year round.",
+    "imageCredits": "Shui Ta Shan / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_24.jpg?versionId=h.Pla34GiVfcz8dmAw0t6sjn8A3JUar3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_24.jpg?versionId=yjxsLV14qquLrB5HqVt01jDAVx20XI3w",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U24_Lesson.mp3?versionId=MSKxTVUax86hv2W5QVePpL1cvYLeeso8",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2235518,
+    "cultureContent": {
+    "imageLocation": "Singapore, Republic of Singapore",
+    "imageDescription": "Sri Mariamman Temple is the oldest Hindu temple in Singapore. It was built by immigrants from southern India and opened in 1827. Its gate tower is adorned with carved deities and mythological figures in vivid colors.",
+    "imageCredits": "John Bower at Apexphotos / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_25.jpg?versionId=sK6xmoUabSFMSSU7360YaH6coSwCPZjx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_25.jpg?versionId=M6GDxNOSVUI.SjO_uXnFNjzaOYRx9Mel",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U25_Lesson.mp3?versionId=.ti_RJGct0KNRWD9V4fPzjptAtLCZGLp",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2235921,
+    "cultureContent": {
+    "imageLocation": "Beijing, Hebei Province, China",
+    "imageDescription": "Beijing’s Silk Market attracts between 50 and 60 thousand visitors a day on weekends.  With over 1,700 vendors and 3,000 sales people spread over 7 floors, shoppers can purchase everything from cloth, handicrafts, antiques and jewelry to electronics, clothing and toys.",
+    "imageCredits": "Steve Vidler / SuperStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_26.jpg?versionId=w7FykVC6GUg817fWzStKREJCKCy4xuLj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_26.jpg?versionId=SKngExoj1DVbu4S6SMPJL3N5Fha1dqtU",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U26_Lesson.mp3?versionId=TwtIZosAtay0ursw2mu7Ap7IdCPqASgh",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2236419,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "In Taiwan the folk dance tradition, Dance of the Eight Generals, portrays gods from the underworld who capture ghosts and evil spirits, providing safety, protection and good luck.",
+    "imageCredits": "Craig Ferguson / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_27.jpg?versionId=Xd7GO1hNObF.9kPD9Bics0GzcfpAr8T0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_27.jpg?versionId=6AAnxj6_eSDMUrA.0cuJzhNkl.6fzP8j",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U27_Lesson.mp3?versionId=XhyQB6Uc6DiHLSZLSHCTG.Atz69uOGNe",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2236756,
+    "cultureContent": {
+    "imageLocation": "Guizhou Province, China",
+    "imageDescription": "Sun drying is a traditional method for reducing the moisture content of rice.  The Chinese have been successfully growing and drying rice for at least 8,000 years.",
+    "imageCredits": "Keren Su / China Span / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_28.jpg?versionId=kr1_Ez9Q.rrGpPMhAZoDuID7ETq4V.aB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_28.jpg?versionId=io6d9QW_0QdPZPCF0wIOhfMd5R7zvUZ2",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U28_Lesson.mp3?versionId=wuiNpG4w1U3FI9bXsc5Gi.CMInpV3KiW",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2237131,
+    "cultureContent": {
+    "imageLocation": "Beijing Hebei Province, China",
+    "imageDescription": "Table tennis is said to have been invented by British army officers in the late 1800s who used rounded wine corks for balls, and cigar boxes for paddles.  In the 1950s the introduction of a plastic ball caused the sport to gain worldwide popularity, especially in Asia.  This match is being played at the 2008 Beijing Olympics.",
+    "imageCredits": "Rob Carr / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_29.jpg?versionId=J7UT6zC09WtG.Ueju6YpEiuIadO.Baew",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_29.jpg?versionId=0IKMUoeVC01qrRwbaf1Ss6L.auhJX9zE",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U29_Lesson.mp3?versionId=WY_G85nMXdE8hdpW3tcbJ1I3Tp8eD9Rh",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2237530,
+    "cultureContent": {
+    "imageLocation": "Tagtse County, Tibet",
+    "imageDescription": "Ganden Monastery is one of the largest Buddhist monasteries in Tibet. With fifty buildings built on a hillside in a natural amphitheater, it is also one of the earliest, founded in 1409.",
+    "imageCredits": "Fei Yang / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/full/MA_1_M_30.jpg?versionId=BPo4n5hL0mUa2s6KVK5S0g1TJsecvV.n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/lesson_photo/thumb/MA_1_M_30.jpg?versionId=dINz_TNxzIoTgadHuUA6sogvkAMfu3PH",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/main_audio/9781442394872_Mandarin_Chinese1_U30_Lesson.mp3?versionId=C1MdxKt9FSRJy0q1ZO.mTjiMbpjdjYkW",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2237981,
+    "cultureContent": {
+    "imageLocation": "Xi’an Shaanxi Province, China",
+    "imageDescription": "The Spring Festival, also known as Chinese New Year, is the most important yearly celebration in China. Dragon lanterns are part of the fun, along with fireworks, family visits and eating dumplings, which is said to bring prosperity and good luck for the new year.",
+    "imageCredits": "Pan Hong / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 1 orig/asset/RL/9781508231431_Mandarin_Chinese_1_Alpha.pdf?versionId=vrCDLxSBoxVp21sD6ILs3oI7yvaXPiTw",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 1 orig/asset/RL/9781508231431_Mandarin_Chinese_1_Intro.pdf?versionId=VzC7jF7QCTuR5Gs8Jnq4bq.rl6MOjg0i",
+    "audios": [
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit01_Reading.mp3?versionId=kMhjkk2Nr21OvhbxfNXGUC51P0tVy5qo",
+    "mediaItemId": 2223717
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit02_Reading.mp3?versionId=rMOf.fXwyF1uosHlnYczh5g1D_oql4pA",
+    "mediaItemId": 2223832
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit03_Reading.mp3?versionId=CYzM0baE1TcikO6sQKxgbO2g7JXGAy6i",
+    "mediaItemId": 2224008
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit04_Reading.mp3?versionId=5hbvFwdC6p.0Zj_mET9pZw5JqTRmsQuy",
+    "mediaItemId": 2224173
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit05_Reading.mp3?versionId=vBwxK5_kBhdTZCFYeTEpTyCyXhuBEjkX",
+    "mediaItemId": 2224378
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit06_Reading.mp3?versionId=NCtNMCvtLOHFqsFDLReQ06y.1ISuumR0",
+    "mediaItemId": 2224508
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit07_Reading.mp3?versionId=PWrM1LdiyxbUfcL1HMN9gPkKfBpNimsA",
+    "mediaItemId": 2224701
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit08_Reading.mp3?versionId=KMDaOg1NhmK3hySG.X5Qx35hgTIexWbl",
+    "mediaItemId": 2224907
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit09_Reading.mp3?versionId=17QlAck0ylFBliGaH.7JwKIgzg4AVF_u",
+    "mediaItemId": 2226182
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit10_Reading.mp3?versionId=IIsehQGodmehW.JDb606WpVQzbGZvVj4",
+    "mediaItemId": 2228779
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit11_Reading.mp3?versionId=A6maxqNShUmxFzr87UOXiIvXIMCu.Rvd",
+    "mediaItemId": 2232110
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit12_Reading.mp3?versionId=FyKzg9CgwahfCSN.pdhUPF..UAcvYNf8",
+    "mediaItemId": 2235852
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit13_Reading.mp3?versionId=p0YKvKQvvPZLD6flr3TejdndnyWC8Dzb",
+    "mediaItemId": 2239064
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit14_Reading.mp3?versionId=gqHXCQIfKVUTKTs8m0AqFgDzcs8A7nFT",
+    "mediaItemId": 2242146
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit15_Reading.mp3?versionId=AskmCEqVWgciMEJNRQo4pNOwEp8dphK2",
+    "mediaItemId": 2245353
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit16_Reading.mp3?versionId=FsKMdSZz3aEckptE1PRgcfnHeoiwg7eY",
+    "mediaItemId": 2248225
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit17_Reading.mp3?versionId=YLcR.tlcGNhKBobsuFnfAd.uB_UI7fp2",
+    "mediaItemId": 2251065
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit18_Reading.mp3?versionId=jdIZ1zCa.U_nyNBVU64REjpa5rqXy9rl",
+    "mediaItemId": 2253878
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit19_Reading.mp3?versionId=HG0K44FI2iZtdSpqHS.tANC3BDAVVMIg",
+    "mediaItemId": 2256727
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%201%20orig/asset/RL/9781442394872_Mandarin_Chinese1_Unit20_Reading.mp3?versionId=4S7xXX6PcqmC4yB0EYixdaIehaMUv8Qv",
+    "mediaItemId": 2259654
+    }
+    ]
+    },
+    "languageCode": "zh",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508231431",
+    "level": 1,
+    "courseName": "Chinese (Mandarin) Level 1 Premium",
+    "simpleCourseName": "Chinese (Mandarin) Level 1",
+    "puArabic": false
+    }
+    ]

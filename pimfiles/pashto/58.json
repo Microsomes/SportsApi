@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 4680,
+    "languageName": "Italian",
+    "languageId": 155,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_01.jpg?versionId=ud6C0WQwOek9gRJ6RicoASjxjUdvZlDu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_01.jpg?versionId=Mo2oamaAHt7ZWqtSGtYbEC1.4PIW_Xxm",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U01_Lesson.mp3?versionId=ZWsK8hn3M2GbfJO1aU.BYRtpWhJrAH.j",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2291853,
+    "cultureContent": {
+    "imageLocation": "Kastelruth, Trentino-Alto Adige / Südtirol",
+    "imageDescription": "Northern Italy's Trentino-Alto Adige region is home to the Dolomite Mountain range; playground for skiers, hikers, para gliders and mountaineers. Its proximity to Austria and Germany is reflected in the language, the food, and the region's unique wine varieties.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_02.jpg?versionId=tA2Gu8V.bc8IQI4Hl2APc9M1YZQUdLhm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_02.jpg?versionId=o8LwOuFt1uMmDoUmv816vFKjadsNwRxX",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U02_Lesson.mp3?versionId=9ZAJfdeE3mr.rrDysbPAITufocUKgXBJ",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2292182,
+    "cultureContent": {
+    "imageLocation": "Porticello, Sicily",
+    "imageDescription": "Sicily is an island just a bit larger than Vermont with 630 miles of coastline.",
+    "imageCredits": "Philipp Klinger / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_03.jpg?versionId=UlAk2RM6ncaGHnvWK3m..dW09x4kFnMo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_03.jpg?versionId=2IFlL_kMqChODQim11qAmG_uHITNzkKK",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U03_Lesson.mp3?versionId=8S6vLRvXhRc99i3GiUgmN6kcc6ug9ZGX",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2292441,
+    "cultureContent": {
+    "imageLocation": "Monza, Lombardy",
+    "imageDescription": "A Ferrari driver has won the Italian Grand Prix 19 times, which is 10 times more than second best, McLaren.  Rubens Barrichello of Brazil, racing for Ferrari, holds the record for the fastest lap during a race.  He completed the 3.6-mile lap in just over 81 seconds.  His average speed was nearly 160 miles per hour.",
+    "imageCredits": "Paul Gilham / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_04.jpg?versionId=iMUAHKquvQH8R97mDScL_ztcIJhxNsMn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_04.jpg?versionId=aKWPaiGQ9ky1PspY5XpXsbD61_544nQ3",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U04_Lesson.mp3?versionId=D_kJpyg6bOXtma.hC_6m.8VgCM25u1pZ",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2292727,
+    "cultureContent": {
+    "imageLocation": "St, Magdalena, Trentino-Alto Adige/Südtirol",
+    "imageDescription": "The Church of St. Johann, on the Ranui farm in the Val di Funes, was built in 1744.  Later it was dedicated to St. Johann Nepomuk, a national saint of the Czech Republic.  Nestled in the Dolomites, the church is accessible to visitors and sometimes used for small celebrations.",
+    "imageCredits": "Fuse / Fuse / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_05.jpg?versionId=J6YrTSpi68bsMkhhZWFHduf6Rnvrjiaf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_05.jpg?versionId=DPna_zI7OhmoVgALNnxfJbKcFf1kkYUi",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U05_Lesson.mp3?versionId=LkWlWDs3FaKiGlASpGGREGUR0cYDfxNV",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2292966,
+    "cultureContent": {
+    "imageLocation": "Lipari, Sicily",
+    "imageDescription": "Lipari is the largest of the Aeolian Islands north of Sicily.  The Lipari Volcano was formed around 150,000 years ago, and smoke can still be seen wafting up from fumaroles, or steam vents, on the island.  Especially thick lava creates the distinctive banding in mineral formations found nearby.",
+    "imageCredits": "Visuals Unlimited / Visuals Unlimited / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_06.jpg?versionId=0cjYGa03.U_3zcBSlaIwbR16e5EHyRfE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_06.jpg?versionId=9Uwyw6hZkEb4_7O_.6nnNuaRa8EWTmtM",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U06_Lesson.mp3?versionId=7uzmj3de7JefwkGf4WSnnNXp5ps5DPyV",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2293194,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Vespa scooter has been manufactured in Italy by Piaggio since 1946, and is known the world over for its distinctive design.  The name means \"wasp,\" in Italian.  The inspiration for the design is thought to come from Cushman scooters made in Nebraska before World-War II.",
+    "imageCredits": "Jupiterimages / Botanica / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_07.jpg?versionId=4Dd5h5.WUCxqfweblEmcL38.kvZdL4Mh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_07.jpg?versionId=d7VeTISy2E8qg5OahIh785d.JWirBjf_",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U07_Lesson.mp3?versionId=KbyENHs8bOQODbT3sRNUBepUI7ZzsXzy",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2293451,
+    "cultureContent": {
+    "imageLocation": "Trentino-Alto Adige/Südtirol",
+    "imageDescription": "Pordoi Pass, at 7,346 feet, is the site of the highest paved road in the Italian Alps. The Maratona dles Dolomites, an annual bicycle race, requires riders to go through seven Dolomite passes in a single day, with Pordoi Pass being the second.",
+    "imageCredits": "Kevin Grace / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_08.jpg?versionId=A0sEcfoxvjAYwUQ3ZGvWs02iuzHy5UaV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_08.jpg?versionId=YsNxxl.C1FJzUZGgdfJL43IA39bhC7Ya",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U08_Lesson.mp3?versionId=KvS_N3tD5hI09Ty0gSShIlHbubwMJ39p",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2293692,
+    "cultureContent": {
+    "imageLocation": "Campania",
+    "imageDescription": "Durum wheat grows well in the soil and weather of southern Italy.  The pasta industry developed in the Campania region in the eighteenth century and continues today, with Campania being a major exporter of pasta.",
+    "imageCredits": "DEA Picture Library / De Agnostini Picture Library / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_09.jpg?versionId=cpLcUZ5nXLGbULbsz5mGaDNHgvCzsrav",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_09.jpg?versionId=ivloxSSKOEy2_2zKa.YI2rurWFqFksbU",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U09_Lesson.mp3?versionId=hocbAVJN5Aod05qe76mhsYcXgIofYuui",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2293924,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Fireworks are one small part of the elaborate festivities at the Carnival of Venice which bring over a million people to the city every year.  The winged lion, or griffin is the symbol of the city.",
+    "imageCredits": "Travel Ink / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_10.jpg?versionId=bP1LRZajO.r8_qKNaK1U2q7PIuqPpD6I",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_10.jpg?versionId=SeAUvip_sHDMfuN4.tl0d6i0KT4p197X",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U10_Lesson.mp3?versionId=H3CflnRP5qVhTSfMbwm8qLzeP6X8W48u",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2294213,
+    "cultureContent": {
+    "imageLocation": "Assisi, Umbria",
+    "imageDescription": "The Basilica of St. Francis of Assisi is considered the mother church of the Catholic Franciscan order. The site remains an important pilgrimage destination for Christians to this day.",
+    "imageCredits": "Tim Holt / Photo Researchers / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_11.jpg?versionId=j8vaLBBvpxz6pSS3Of8Yxj2bObppXAM_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_11.jpg?versionId=jmhbXacxkTcAhjP76L3iEQpzOTSBnYnR",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U11_Lesson.mp3?versionId=URkpc48xD0Ac.pswcasldoOd.fVpTkrN",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2294442,
+    "cultureContent": {
+    "imageLocation": "San Quirico D'orcia, Tuscany",
+    "imageDescription": "Tuscany is the largest region in Italy, known for its agricultural vistas, artisanal food and ancient landscapes.  The Val d'Orcia at the center of this region has inspired painters for centuries.  Pecorino cheese, olive oil, saffron, and truffles are just a few of the foods this region is known for.",
+    "imageCredits": "Gary Yeowell / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_12.jpg?versionId=NxWZQHYrzrLQEhPDWBcx6LrEECXN2Rkj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_12.jpg?versionId=SJQjmQk1rOw5sVeYp0GrBPJ6FsCXu7fZ",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U12_Lesson.mp3?versionId=4cIskQ6FFpJPh8Ao8ALRxyx4NgUJC7oc",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2294678,
+    "cultureContent": {
+    "imageLocation": "Palermo, Sicily",
+    "imageDescription": "The Catacombe dei Cappuccini are the final resting place for thousands of mummies - from monks, famous sculptors and foreign princes, to wealthy locals for whom burial in the catacombs was a status symbol.",
+    "imageCredits": "Tino Soriano / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_13.jpg?versionId=4bikahLW9IBnDSVAzlcg_EyqhRudBuH4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_13.jpg?versionId=x00E71uAdp6GLxjJvya488UEqJrtEcF9",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U13_Lesson.mp3?versionId=_B6nCUbumLhnlL.X2khJiozKynQSrrs8",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2294914,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "The Rialto Bridge on the Grand Canal of Venice was built in 1591.  It's the oldest of the four bridges that span the canal.  There are over 400 bridges throughout Venice.",
+    "imageCredits": "Demetrio Carrasco / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_14.jpg?versionId=c20drOPY7eqZbkj64iC.ioZO9Zow2IrO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_14.jpg?versionId=yqs4gT0UPOsIB8oOM5LEIbjIMf5Si6Qj",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U14_Lesson.mp3?versionId=6jpFSkd_1xuXn05Hjza9Nc3AKB71irxJ",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2295135,
+    "cultureContent": {
+    "imageLocation": "Siena, Tuscany",
+    "imageDescription": "The Palio di Siena horse race attracts spectators from around the world.  It is held twice each year on July 2 and August 16, in Siena, Italy. Ten horses and riders, bareback and dressed in the appropriate colors, represent ten of the seventeen city wards. The race circles the Piazza del Campo and usually lasts no longer than 90 seconds.",
+    "imageCredits": "Sami Sarkis / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_15.jpg?versionId=SaN.qEF.1k6DBbdFKVtw0aFsWoQba3uS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_15.jpg?versionId=2.HympMy0fXtIUrTaE0iFeq2MoClFfe_",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U15_Lesson.mp3?versionId=VwBxHM_z.oRqTDZ9sEXR880S7N3X_NAZ",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2295373,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Venice is an archipelago of 117 islands and 177 canals, all in an area roughly the size of Denver.  A griffin, or winged lion, has long been a symbol of Venice, and many are represented in Piazza San Marco.",
+    "imageCredits": "Connie Coleman / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_16.jpg?versionId=3SX_MZTQf5N1xaRKPHM6vJQpG9thMr2h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_16.jpg?versionId=0c.7reMZL5udcSxY6XXZtShz09Hwamff",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U16_Lesson.mp3?versionId=GtndTHv8NfR5q00O7pCtxNhXH0fcQyAC",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2295639,
+    "cultureContent": {
+    "imageLocation": "Riomaggiore, Liguria",
+    "imageDescription": "The terraced commune of Riomaggiore is the first village of the Cinque Terre (Five Hills). Legend has it that the town was built into the cliffs overlooking the sea to better escape pirates, and for a better climate for crops. Riomaggiore is known for its case torri, the tower houses that are built upwards to utilize space most effectively. It is also known for a delicious dessert wine known as Sciacchetrà.",
+    "imageCredits": "Sergio Del Rosso / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_17.jpg?versionId=PlTe0oDju2CPNG0MnS5ghNKl3qLlI4oq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_17.jpg?versionId=7HF3Pplq6G_tNXiqYX3qWFWOTcUHKvpL",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U17_Lesson.mp3?versionId=e0v3EXkaH4HiatkhPaVAw11KYOlMWkL9",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2295910,
+    "cultureContent": {
+    "imageLocation": "Lampedusa, Sicily",
+    "imageDescription": "Tourists enjoy swimming and scuba diving in the turquoise waters around the Isola dei Conigli (Island of the Rabbit) in the Mediterranean. The island is one of the last egg-laying sites for the endangered loggerhead sea turtle, the largest hard-shelled turtle in the world, with an average weight that can reach over 400 pounds.",
+    "imageCredits": "Tullio M. Puglia / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_18.jpg?versionId=kiC.glGc7ppka2INqXGfvK236uJLl_dR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_18.jpg?versionId=C35.jXyoX1iJh2BP5pbQ1y9M7SO_U4xS",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U18_Lesson.mp3?versionId=P7VUyxKy3pcXw17gEQ5wjexICKDHOXoB",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2296181,
+    "cultureContent": {
+    "imageLocation": "Pienza, Tuscany",
+    "imageDescription": "Pienza, located in the heart of Tuscany, is the birthplace of Pope Pius II. After becoming pope, Pius II commissioned the famous sculptor and architect Bernardo Rossellino to rebuild the town into a perfect depiction of a Renaissance village.",
+    "imageCredits": "Buena Vista Images / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_19.jpg?versionId=PF.HFVMK5ZhYUO5Zd3auNKqMSc8gitlS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_19.jpg?versionId=zfaIEP_lFXy.hogfis_2uKjIT_uJvErG",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U19_Lesson.mp3?versionId=WWOvsMYI.1FBLy2LRJV6N.lem5zKgCCR",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2296421,
+    "cultureContent": {
+    "imageLocation": "Brissogne, Valle d'Aosta",
+    "imageDescription": "Val d'Aosta in the far northwest corner of Italy is known for rugged mountain scenery, Fontina cheese, and the sport of Rebatta. Rebatta players use a lever to pitch a small ball into the air, striking it with a bat to try to get it as far into the field as possible. There are about 400 players in 14 sports clubs throughout the region.",
+    "imageCredits": "Torrione Stefano / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_20.jpg?versionId=2.jFX2CrwqhsnfgXleyxcFnNmN4zMsCC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_20.jpg?versionId=wwvCyqkKulQz6voSjWQjMSMAoolcuUOV",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U20_Lesson.mp3?versionId=2n3h62xRE_l4nO.uJTXdB3JB8Ua.BOlE",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2296725,
+    "cultureContent": {
+    "imageLocation": "Bolzano, Trentino-Alto Adige/Südtirol South Tyrol ",
+    "imageDescription": "A bell tower is partially submerged in Lago di Resia, in the western part of South Tyrol. This man-made lake freezes over in the winter, permitting travel to the steeple by foot.  Although the bells have long been removed, locals claim that their ringing can occasionally still be heard.",
+    "imageCredits": "Slow Images / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_21.jpg?versionId=fUnszfQNay2qGR8w4IReshJVrQtmRsgy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_21.jpg?versionId=9wFIowkNUsCRO6yL0jAFMqz8gpufkybb",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U21_Lesson.mp3?versionId=jpTeRZU_uFbLb1VTeyI9l0hRx.ACAmr8",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2296922,
+    "cultureContent": {
+    "imageLocation": "Burano Island",
+    "imageDescription": "Burano Island, near Venice is famous for its lace; especially the tombolo, an intricate pillow lace.",
+    "imageCredits": "Helene Monnier / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_22.jpg?versionId=qkyW2wpxAcZ.wp6.12U9jLf3L2t4dHyR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_22.jpg?versionId=lwUTD0wO4WT5IS9kS4I.Csx_iAYY69nc",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U22_Lesson.mp3?versionId=XnYaXOXa4tYGKMOaD6zwJR.hghubR.t7",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2297173,
+    "cultureContent": {
+    "imageLocation": "Lake Garda",
+    "imageDescription": "Lake Garda, in northern Italy, is the largest lake in Italy.  The towns along its shore boast marble streets, thermal baths, villas of famous poets, medieval castles, and picturesque landscapes with cypress, olive, and lemon groves.",
+    "imageCredits": "Kathrin Ziegler / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_23.jpg?versionId=8cckmAm_Z7svSenAyntptGtWusZBhQs0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_23.jpg?versionId=ivNgZDH9g4F5OZ8Ii3q.UqzBUVBwxKtV",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U23_Lesson.mp3?versionId=j4m0_LZgECZscLQS1nQ43EAOj6QWIWeJ",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2297429,
+    "cultureContent": {
+    "imageLocation": "Trentino-Alto Adige/Südtirol South Tyrol ",
+    "imageDescription": "Some of the best Christmas markets are found in Trento and Bolzano. At night the markets are well lit and often provide other festivities. Guests wander the streets, sipping mulled wine, shopping for handicrafts, and enjoying locally made meats and cheeses.",
+    "imageCredits": "Gary Yeowell / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_24.jpg?versionId=tgFcdbQdvHsFMbg9P2pivB.sQZN23LYA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_24.jpg?versionId=TnHhxNHOqRJfXTKa_JdKq_LSL_X3X2O8",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U24_Lesson.mp3?versionId=dEYCfNn9vb69bZr2kTtcMeOpBrk7w.J_",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2297694,
+    "cultureContent": {
+    "imageLocation": "Milan, Lombardy",
+    "imageDescription": "Milan is one of the major design and fashion centers of the world.  Fashion week is held there twice a year to showcase the latest innovations by renowned fashion designers.",
+    "imageCredits": "Vittorio Zunino Celotto / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_25.jpg?versionId=0ZtPKpuvl1shSgeuWzNMhkIHLUf1FZDN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_25.jpg?versionId=xo0cFMfxVqAgRCYNEzO55S1bR.yCAJrZ",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U25_Lesson.mp3?versionId=ypaD.gvzyTEXd0xYffTPJccfu5wZyLDF",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2298118,
+    "cultureContent": {
+    "imageLocation": "Dolomites, Trentino-Alto Adige/Südtirol  South Tyrol",
+    "imageDescription": "The pink hue of Catinaccio group of peaks in the western Dolomites is attributed to minerals in the stone.   Known as Rosengarten in German, it is the site of the folk legend of King Laurin, ruler of a thriving race of dwarves who lived under the mountain in a sparkling quartz castle.",
+    "imageCredits": "Giorgio Fochesato / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_26.jpg?versionId=ab7rKYxbu6kjPwUXZ71uEig4_s8l.gcN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_26.jpg?versionId=ZGXfQFA3uQd2w3Y95VErFhOAPpcGA9lj",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U26_Lesson.mp3?versionId=zDsPyXFYANKeBf.fMkMXf49lIPQ57hjr",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2298339,
+    "cultureContent": {
+    "imageLocation": "Genoa, Liguria",
+    "imageDescription": "La Bolla, designed by Renzo Piano for the G8 Summit in 2001 is a 56-foot-high biosphere or greenhouse, where a system of suspended sails help to regulate the temperature.  Inside the bubble is a complete ecosystem with tropical plants, butterflies, lizards and other small creatures.",
+    "imageCredits": "Charles Bowman / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_27.jpg?versionId=6WbKtZYhhar3YVgEcr2LDnZpRIdw0fAN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_27.jpg?versionId=FY22_em54sVGION7W5UQ1ionIlAS1FAK",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U27_Lesson.mp3?versionId=K2O2DC95xSma9fWNAbNIW3FOJAD2mEfb",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2298623,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Gondolas, Italy's iconic flat-bottomed boats, measure just over 33 feet long, weigh over 1,300 pounds, and are built using 8 different types of wood.  In 2009, Giorgia Boscolo became the first female gondolier in the city's history, where less than 500 gondoliers are licensed to navigate its 150 canals.",
+    "imageCredits": "David De Lossy / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_28.jpg?versionId=bzWKnCZ9R8fnBrcN6u.q2nAoQPBvgAfk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_28.jpg?versionId=KZoCWgvumXcDI9sJxlJ9Z55xpcibsXa7",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U28_Lesson.mp3?versionId=yZQZbwvzlg0Jn.Yzg2dK2LmX5ftxvOj2",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2298840,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Fontana del Moro stands in the southern end of the Piazza Navona in Rome. It was originally sculpted by Giacomo della Porta in the late 1500s, with the figure of the Moor added about a hundred years later by famed artist and sculptor, Bernini.",
+    "imageCredits": "Medioimages / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_29.jpg?versionId=ayIbBUpxb7jKKhYwM1P_8b_CAf69rgew",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_29.jpg?versionId=zA5iqZLWPJJMGqtOm2Pn4GdOikDJjPYQ",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U29_Lesson.mp3?versionId=d840adYGVwJ2fLY4v9rHPc7egmfrGKVF",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2299114,
+    "cultureContent": {
+    "imageLocation": "San Quirico D'orcia, Tuscany",
+    "imageDescription": "Val d'Orcia is on the Via Francigena, an ancient road between Rome and Canterbury, passing through England, France, Switzerland and Italy. In medieval times it was an important pilgrimage route.",
+    "imageCredits": "Frank Lukasseck / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/full/IT_2_M_30.jpg?versionId=1t3VvKja_mNSPdp10U6QDKSE6apoavN7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/lesson_photo/thumb/IT_2_M_30.jpg?versionId=e1GNryBYcZ6PUuNvsjBjaEowNwkkastS",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/main_audio/9781442350366_Italian2_U30_Lesson.mp3?versionId=NcwNg.BLs7lA89YssA1csiddBo2_0qix",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2299404,
+    "cultureContent": {
+    "imageLocation": "Pienza, Tuscany",
+    "imageDescription": "Italy has a centuries-old tradition of cheese making; much of which is still carried on today.  Tuscany, however, is so well known for its fine varieties that entire tours are offered for tasting and exploring farms and shops.",
+    "imageCredits": "Gary Yeowell / Digital Vision / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian Level 2 orig/asset/RL/9781442350366_Italian_2_Intro.pdf?versionId=qJ55PdJRsymVjE42Dj5FyoE7U1edGJKY",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit01_Reading.mp3?versionId=NfwVsdtftnl90NIZEchjQXCPANkyivyx",
+    "mediaItemId": 2223774
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit02_Reading.mp3?versionId=pzpiIUDBJ2H0_PgLMQv9_sZ4zPJscNHE",
+    "mediaItemId": 2223891
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit03_Reading.mp3?versionId=0ZHm3OxP4FBoF86nK53J6O8LDcvwL9y.",
+    "mediaItemId": 2224104
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit04_Reading.mp3?versionId=zqsMi6.FWKWeRnaz2gkbU29sD9PqTmYD",
+    "mediaItemId": 2224237
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit05_Reading.mp3?versionId=6glejzVy1FStcStWJVUp.8IP3Q1S4tRE",
+    "mediaItemId": 2224437
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit06_Reading.mp3?versionId=T9oGKPJz6gULziymjnp_8gDFRg0_YNBc",
+    "mediaItemId": 2224601
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit07_Reading.mp3?versionId=uZn5oEzfa7MVUgDKQppJs15VQQ9bP9TF",
+    "mediaItemId": 2224741
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit08_Reading.mp3?versionId=hXN33rOXleNcjdFSJBWbEQf_J4LVDZ4j",
+    "mediaItemId": 2225131
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit09_Reading.mp3?versionId=dZjWX0HaMRYZ14Bxch.mZ7aT1lmtVskS",
+    "mediaItemId": 2226901
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit10_Reading.mp3?versionId=WVHGCXOXDT6ZZ.6BuvtSFWXoIgeOrqda",
+    "mediaItemId": 2229765
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit11_Reading.mp3?versionId=X5tTEQ9Y.zytZCU9Mr1jEpZEcE.tt87F",
+    "mediaItemId": 2233162
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit12_Reading.mp3?versionId=N3MowOaiaSP5h_sBTs5adfd1m985eIjr",
+    "mediaItemId": 2236698
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit13_Reading.mp3?versionId=8g7gTObODI03f1yM28oLyQfKPIs9qwcF",
+    "mediaItemId": 2240063
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit14_Reading.mp3?versionId=mc9MmJt3oah76IElHpsuRjkf53xZcwVr",
+    "mediaItemId": 2242864
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit15_Reading.mp3?versionId=J_WLw.vo27cSnbWqBqG7_F9eHa_PduOt",
+    "mediaItemId": 2246017
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit16_Reading.mp3?versionId=N378gXoejpKqmPn4F8ITPHkHNTcC24Ew",
+    "mediaItemId": 2248873
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit17_Reading.mp3?versionId=4gdeluAlAykki8DO1wrzgmFBFAeFfw_R",
+    "mediaItemId": 2251939
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit18_Reading.mp3?versionId=5IKQANBAFpqBB3vX.kJfsZKZsmCyQPQv",
+    "mediaItemId": 2254691
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit19_Reading.mp3?versionId=L2a_D5dhi_6LtuibWd7eO8b6glymNJxX",
+    "mediaItemId": 2257448
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%202%20orig/asset/RL/9781442350366_Italian2_Unit20_Reading.mp3?versionId=Elzu6Fi04u6Yt47fQBaKCnC0ShWyBNxa",
+    "mediaItemId": 2260342
+    }
+    ]
+    },
+    "languageCode": "it-IT",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442350366",
+    "level": 2,
+    "courseName": "Italian Level 2 Premium",
+    "simpleCourseName": "Italian Level 2",
+    "puArabic": false
+    }
+    ]

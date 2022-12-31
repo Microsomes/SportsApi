@@ -1,0 +1,227 @@
+[
+    {
+    "courseId": 2931,
+    "languageName": "Albanian",
+    "languageId": 119,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_01.mp3?versionId=RkR.ZxZz7NAPR85.vN3XgHsupZTH43R1",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321402,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_02.mp3?versionId=5e6ZGdzgnkZ80xnsT7_VPZ7TdatBfnrj",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321403,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_03.mp3?versionId=4nb0Fp8P_B3DQRXgc9VFKyAf7t6TfjZC",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321404,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_04.mp3?versionId=.c7ebpe.AAr_WKfmoPJyu1ybWTKxSOsv",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321405,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_05.mp3?versionId=J_Lbc0UvF2l.PSfReTa5OJyCGWld2qMt",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321406,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_06.mp3?versionId=cljm_Di6dU1t_IFt4oA2CthQoQZVIk4b",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321407,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_07.mp3?versionId=YxjxrvBFyW2ef2kXQOhS0T4eJ4zLwzTw",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321408,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_08.mp3?versionId=Klera66bk_qjyVoB_V7bvRNf0iKiYglO",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321409,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_09.mp3?versionId=aQAQEWxkbdy5ytiALX.NV3XI_fzf1vmK",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321410,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/language_image.jpg?versionId=6y8myBDqiAzvYS8PcZlFgW4SDv4vpt1u",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/main_audio/9781442332904_Unit_10.mp3?versionId=tLgrPxWMV8ztB9d7BIGoEv5rWvTU1dTE",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321411,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Albanian_1_Bklt.pdf?versionId=HAvLR.PfL37SAEQ46b22CgElzHKAwkQo",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U01.mp3?versionId=KLEkuG0B_PFqH4CqZyw_f.vWxMHP8ysU",
+    "startPage": 7,
+    "pageCount": 1,
+    "mediaItemId": 2223617
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U02.mp3?versionId=MeBBobEFPi5sleH52kOzcQZkM2LRot1U",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2223670
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U03.mp3?versionId=rxuPpdafWxK9Z_kdWGFoxqOiLNWRMxqo",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2223828
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U04.mp3?versionId=iO_xRyY7XZ5beA6j4M90L7SlcPvrTezN",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2224134
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U05.mp3?versionId=G7pcWV5SAA2DoHnAF1q_uxf_J0hXWrBv",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2224476
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U06.mp3?versionId=aPdGfkniIMRmLljlmeKpXZtBU.Tk8Fs2",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2224747
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U07.mp3?versionId=dTxyDH80GA.C_hYQYIjV4yKo2ERI7TUq",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2226716
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U09.mp3?versionId=mkePoZI6oCKS0ZGX3RwbO.FtlthAwBZW",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2232086
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Albanian/Albanian%20Level%201%20orig/asset/standard_reading/9781442332904_Reading_U10.mp3?versionId=UGsLxiInqfogqqDrvGVk5JHZcCCY6RY3",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2237915
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442332904",
+    "level": 1,
+    "courseName": "Albanian Level 1",
+    "simpleCourseName": "Albanian Level 1",
+    "puArabic": false
+    }
+    ]

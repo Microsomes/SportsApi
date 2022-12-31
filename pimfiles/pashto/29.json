@@ -1,0 +1,684 @@
+[
+    {
+    "courseId": 51200,
+    "languageName": "French",
+    "languageId": 146,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_01.jpg?versionId=358BNpy.ox7sh_SqceB6IWC8S2A4xpte",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_01.jpg?versionId=fGPk5gT0dg3LBrY_U.idOjgbKY2E0mQz",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_01.mp3?versionId=IiPDony.100xGRTXzYTWYDS49IXT2ARH",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2310047,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "Once considered the national hat of France, the black beret is no longer as widely worn. Today, there are only two traditional manufacturers left in France: Hoquy and Blancq-Olibet. Both are known for their high quality hats, which are waterproof due to their tightly woven wool.",
+    "imageCredits": "Howard Kingsnorth / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_02.jpg?versionId=l_gj9_VjRpoZJfhEoJ_eSLGojtu7UmNw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_02.jpg?versionId=MNpHO_C04cvTWx2BBbJ.g2jaTqKmr7BU",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_02.mp3?versionId=V6h7FGTMuazu.FGHmInIwH3lWXjvUsow",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2310175,
+    "cultureContent": {
+    "imageLocation": "Béziers, Languedoc-Roussillon, France",
+    "imageDescription": "Cathédrale Saint-Nazaire-et-Saint-Celse de Béziers was built on the ruins of an older building that was destroyed during the Albigensian Crusade in the early 13th century. The town is welliknown today for a bullfighting tournament which takes place every August.",
+    "imageCredits": "Walter Bibikow / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_03.jpg?versionId=JnQYyVgGWFlE5Wd5eFci6IVabuncGhIm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_03.jpg?versionId=CIgP.d6uHLRKWeYSEiTKL74bonVnmT8Q",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_03.mp3?versionId=dMTjBmc5_vKBOxCJik1zg3gE_K4OMlY7",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2310307,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Le Métro, the subway system in Paris, has 133 miles of track, most of which is underground. It has 303 stations with 16 lines, and is the second-busiest rapid transit system in Europe after Moscow.",
+    "imageCredits": "Glenn Beanland / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_04.jpg?versionId=B24GGPYrduzMH02dNeeI68_zlOPOTthm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_04.jpg?versionId=CU0S3B82bUvyE.gU1OmoJ.fF0vrg42B4",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_04.mp3?versionId=W08sJZkBJlHbuEhBhf1w2ZYKNVqlqo2R",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2310452,
+    "cultureContent": {
+    "imageLocation": "Bora Bora Island, French Polynesia",
+    "imageDescription": "Butterfly fish are common companions to those snorkeling or scuba diving in French Polynesia. The waters near Bora Bora are famous for black-lipped oysters that produce rare Tahitian black pearls.",
+    "imageCredits": "Art Wolfe / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_05.jpg?versionId=HrcgCdwu4aphKpZDyXOd_QkF6yb_cL1Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_05.jpg?versionId=TFfdcsihzofph4pQkBvxptlUom8YZZsh",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_05.mp3?versionId=qZ4CuumgcXRVJwg3lKJGamoMOLKmelzc",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2310583,
+    "cultureContent": {
+    "imageLocation": "Toulouse, Midi-Pyrénées",
+    "imageDescription": "Toulouse is the 4th largest city in France, and the center of the aerospace industry in Europe. It is also home to Université de Toulouse, one of the oldest and largest universities in Europe. Originally established in 1229, it was split into three specialized schools in 2007. Together they enroll nearly 120,000 students.",
+    "imageCredits": "Richard Fairless / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_06.jpg?versionId=kX8_H5Y.Xjw_YuLWL_plCh9fskRZxBwn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_06.jpg?versionId=kWfkcQByI6HuVZC1Cqhslo4zjagczrFq",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_06.mp3?versionId=8MTq.Veai.sMqcCjO0iGCQdOlDew3Q6N",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2310741,
+    "cultureContent": {
+    "imageLocation": "Strasbourg, Alsace",
+    "imageDescription": "Built at a cost of 470 million euros, the European Union parliament building is named for French author, politician and suffragette, Louise Weiss. Plenary meetings are held in the hemicycle, a massive circular room with seating for 785 parliament members and 680 visitors.",
+    "imageCredits": "Jonathan Kitchen / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_07.jpg?versionId=2HrMH1pneTtU9HgeM_DdRVRw6fB2B2XC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_07.jpg?versionId=R8YVS0ZBZFC0fItSxaRwiwpV7mW40qIw",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_07.mp3?versionId=F64FChg29t4sue7AMjmJnqV6h7SWvoQQ",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2310907,
+    "cultureContent": {
+    "imageLocation": "Normandy",
+    "imageDescription": "Bulots vivant, or edible snails, are often prepared as escargots and served as an appetizer or over pasta. It's estimated that the French consume approximately 16,000 to 25,000 tons of this delicacy every year.",
+    "imageCredits": "Tim Graham / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_08.jpg?versionId=2RrWCJnzgSKQD3MxZYO9eoyX29HDkHgM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_08.jpg?versionId=3zxh8hXmDdylEm1tzBMazRhSFW_i6IXp",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_08.mp3?versionId=MKqr54fNTvqj9dvj0yqrnl6eIaOAQlyg",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2311064,
+    "cultureContent": {
+    "imageLocation": "Versailles, Île-de-France",
+    "imageDescription": "The Bassin d’Apollon, or Fountain of Apollo, is one of the fountains in the Gardens of Versailles dedicated to Louis XIV. Apollo is the Greek god of the sun, making him the perfect metaphor and icon to describe Louis, who was known as the Sun King.",
+    "imageCredits": "Julien Fourniol/Baloulumix / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_09.jpg?versionId=LBZp1gUW64G0tOiPFLFh7eGF4U3sSfX2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_09.jpg?versionId=xk.v14XxKD0B_1gqQZ3OJFhlTfoKLPq1",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_09.mp3?versionId=nO4Ch37g8FTYK1uX0ArTpd_N.JUJv9Yn",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2311273,
+    "cultureContent": {
+    "imageLocation": "Cannes, Provence-Alpes-Côte d'Azur",
+    "imageDescription": "Director Yvan Attal and actress Charlotte Gainsbourg attend the Coco Chanel & Igor Stravinsky Premiere at the Palais De Festivals during the 62nd Annual Cannes Film Festival on May 24, 2009 in Cannes, France. Held every May on the French Riviera, the Festival is a well-known attraction for the rich and the famous.",
+    "imageCredits": "Kristian Dowling / Getty Images Entertainment"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_10.jpg?versionId=L3x2GoPRbMBDmsTAXo_Jjrcuu1nSxY1k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_10.jpg?versionId=glkTCNGWVSyxluIYmhbOPFV2NfiT5Vxp",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_10.mp3?versionId=YuhnSFIlCIJeJresOGNdEHnmOLnT1Y61",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2311531,
+    "cultureContent": {
+    "imageLocation": "Mopti, Mali",
+    "imageDescription": "Fulani grass huts can be found along the Niger River in the city of Mopti. The city is made up of three different islands in the Niger and Bani rivers, and is sometimes known as \"the Venice of Mali.\"",
+    "imageCredits": "Luis Dafos / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_11.jpg?versionId=nDoQvoNSbJeDI4z3OHQpUUCQJuPi0zwI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_11.jpg?versionId=P_JX0ZLj.zNoMREGROtyEwa2gnLWUioG",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_11.mp3?versionId=lemaGtowlptrCdNeAjq_sHbVuCfURAl4",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2311749,
+    "cultureContent": {
+    "imageLocation": "Nuits-St-Georges, Burgundy",
+    "imageDescription": "Côte d'Or in the Burgundy region of France is noted for its rich red wine, the Côte de Nuits, and its vineyards that date back to ancient Roman times. The wines from the best vineyards are given the rare, Grand Cru classification.",
+    "imageCredits": "Owen Franken / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_12.jpg?versionId=OoyrXosX4jmyQF3z9BIXDo0cvshX5QWG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_12.jpg?versionId=qPOxDeBE7SxJJiCpOuFAK3UpxqNMbDYe",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_12.mp3?versionId=kxSta0dqUnqwtDeJCTzZ2RQr3_5PjHmK",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2311966,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The once controversial pyramid entrance to the Louvre Museum is now an iconic representation of Paris. During construction, a room full of forgotten artifacts was rediscovered, and tens of thousands of historical artifacts were reintroduced into the Louvre's collections.",
+    "imageCredits": "Pawel Libera / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_13.jpg?versionId=.wLDk1IDFHPoL0OYPuzpfjJ5iQ05JXJa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_13.jpg?versionId=6LhotPewRrsWxfJn7c2zB9bacRZFDjUY",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_13.mp3?versionId=JQF_7CiA_lHZ5_7gagvHgq77S2ic_uHI",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2312148,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Open-air markets at Parc George Brassens in Paris have been held every Saturday and Sunday in the city for centuries. Today, the markets feature over 60 merchants displaying thousands of antique books and collections.",
+    "imageCredits": "Junko Chiba / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_14.jpg?versionId=yRQn4BGZznaZoYP3EvZ5NT0ZgzP8zlbT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_14.jpg?versionId=loot_CiWN_SsvGSqWvyHEPksAwnvFEGI",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_14.mp3?versionId=PctsvagegDI812VRJYsb0bOrzJ_JEGfz",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2312359,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Sacré-Cœur Basilica, or the Basilica of the Sacred Heart, is built on the highest point in Paris, the hill Montmartre. The view from the Basilica out over the city is much loved, but the climb, high up into the building, over uneven steps and winding staircases, is demanding even for those who are determined.",
+    "imageCredits": "Nada Stankova / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_15.jpg?versionId=wjYy.gZuQf6d5EtRG4AvBOxmzwrYUYbp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_15.jpg?versionId=oM3Z72oeBNhYQc4Xc0OuBvIPHv5hMrs1",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_15.mp3?versionId=52h3kL599rt4Skb7A3szpNIFciyon_qV",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2312502,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Parc André Citroën includes six gardens, each associated with a separate metal, planet, day of the week, state of water, and sense. A tethered hot air balloon that can carry large groups offers visitors the opportunity to view the park and surrounding areas, including Notre Dame and La Basilique du Sacré Cœur.",
+    "imageCredits": "Nivek Nesio  /  Stone+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_16.jpg?versionId=yBAruWXDnOxx5r6WSPpJgewHMc00Reb1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_16.jpg?versionId=iDD5Wyci8j2CFB0sIhnLAnWz6aFHhEqk",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_16.mp3?versionId=prZeDHiTeeSpc1oDSk195wHFVxw092nm",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2312687,
+    "cultureContent": {
+    "imageLocation": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur",
+    "imageDescription": "Villefranche-sur-Mer on the Riviera sprang up in the early 13th century along the Rue Obscure, or Dark Street, which ran along the harbor. The road features arched passageways used through the centuries to shelter the town's inhabitants and precious cargo from attack.",
+    "imageCredits": "Medioimages/Photodisc / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_17.jpg?versionId=fwdOCHb7AZ6VgEavUhVTaX8qM3LV5Tu6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_17.jpg?versionId=JbHXV_ANEnqUstL8USuRVpdqmG5RYVE8",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_17.mp3?versionId=D25eHmbxWTYM3Pcxc2QrECQOiNxNHp3b",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2312858,
+    "cultureContent": {
+    "imageLocation": "Aix-en-Provence, Provence-Alpes-Côte d'Azur",
+    "imageDescription": "Les Deux Garçons, a legendary brasserie at the top of the Cours Mirabeau is named for the two waiters who purchased the establishment in 1840. Many well-known visitors have enjoyed a meal or apéritif: from Paul Cézanne who wrote about it in a letter to his son in 1906, to actors Hugh Grant and George Clooney, whose more recent visits are commemorated with photos that line the walls.",
+    "imageCredits": "Anger O. / StockImage  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_18.jpg?versionId=R1MB0sHk3e_t1EjHC3wjBeH1N1VY11St",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_18.jpg?versionId=zFl92gnVthFN_B5tPFzKgw5e5FfCzbpQ",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_18.mp3?versionId=.X9Mv9KLdb5lhVX1Boy6BaZvJKXxyuCr",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2313045,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Moulin Rouge cabaret, built in 1889, is famous for its turn-of-the-century décor and risqué dancers. It was the haunt of artists, 20th century authors, and dazzled tourists, all of whom testified to its charms. It was one of the places where the Can-Can was perfected and showcased.",
+    "imageCredits": "Charles Bowman / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_19.jpg?versionId=JVNrqRHc1XWfUB00MR9YdV4GY8P8pNJ_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_19.jpg?versionId=lk4KFl8uNWugxGCWF3PhH0QACdKnKqqm",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_19.mp3?versionId=O32ioieQzG.RiVcFaAak8U8a_Jdoiszv",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2313223,
+    "cultureContent": {
+    "imageLocation": "Carcassone, Languedoc-Roussillon",
+    "imageDescription": "Carcassonne, a restored fortified town established by the Romans in southwest France, has 50 towers. Historically, the language spoken throughout Languedoc-Roussillon was not French but Occitan, an ancient language all but forgotten today.",
+    "imageCredits": "Peter Richardson / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_20.jpg?versionId=rBqs9pW_zkViivUTZS_mY7znSFjFZyzw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_20.jpg?versionId=_ag5dX8EvoF9Qfa6kbDtmWdzPM54JjJ4",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_20.mp3?versionId=P4vLvYPpUk6D.JUaZyvrw9L_sNXSVVuk",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2313419,
+    "cultureContent": {
+    "imageLocation": "Monte Carlo, Principality of Monaco",
+    "imageDescription": "Monte Carlo, the capital of Monaco, is still the playground of wealthy and titled Europeans. Located at the foot of the Maritime Alps along the French Riviera, it’s home to the world-famous Monte Carlo Casino. Residents of Monaco are forbidden by law to work or gamble at the Casino, and in fact, identity documents are checked at the door to enforce this rule.",
+    "imageCredits": "Sergio Pitamitz / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_21.jpg?versionId=Xui4q9kkwlukUxSU_7m182v1A9d25Hg3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_21.jpg?versionId=fI90gaKi7aYkTLApq_0EqjLgnsGccj2W",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_21.mp3?versionId=1wr5oQIveRmvbYIE2bhYF4FsKZSyXeVI",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2313651,
+    "cultureContent": {
+    "imageLocation": "Chamonix-Mont-Blanc,  Rhône-Alpes",
+    "imageDescription": "Home to one of the oldest ski resorts in France, Chamonix also boasts one of the highest cable cars in the world, which links the town to the summit of the Aiguille du Midi at 12,605 feet.",
+    "imageCredits": "Jakob Helbig / Cultura / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_22.jpg?versionId=X_nSxGBO2U7j1gwjE8YVTV6Nc1W02EZ5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_22.jpg?versionId=vAevRbYsdHgpxK8jHfwnI0Aq.KIZ0ZRy",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_22.mp3?versionId=oN8RC.FWZmfOw6pIGrLOUqRlNEjSoRd8",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2313863,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Le Grand Palais des Champs-Elysées is the world’s largest ironwork and glass-roofed structure. It was originally built for the Exposition Universelle, a world’s fair in Paris in 1900 that introduced the Eiffel Tower and talking films. Today Le Grande Palais is home to ferris wheels, a science museum, galleries, and restaurants.",
+    "imageCredits": "Arnaud Chicurel / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_23.jpg?versionId=NSOs.f1xXH2XQUWmAEW4adfzvXapiSLQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_23.jpg?versionId=onRW72wK0JlspoGenphh_ieBu7ZuMj_h",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_23.mp3?versionId=77ao1j0wAOIuoDG8bhwEQof5QKk8xOzA",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2314060,
+    "cultureContent": {
+    "imageLocation": "Languedoc-Roussillon",
+    "imageDescription": "The Languedoc-Roussillon region in southern France has 110 miles of coastline on the Mediterranean sea and ancient towns that can trace their origins as far back as 525 B.C.",
+    "imageCredits": "Paul Grand Image / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_24.jpg?versionId=4H7dzUuid__p4DwsBbp3Xk0Hru9Nibmi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_24.jpg?versionId=gjLhbWOVdqhLjzhXZYmhwjGtVBVCezro",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_24.mp3?versionId=5UWESznxbWTn4FOtUIBHQVOKjItpjVSe",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2314251,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Luxembourg Palace was built by Marie de Médicis, mother of Louis XIII, after her husband's death. The grounds were opened to the public during the 17th century, and now it’s the second largest park in Paris, offering everything from pony rides to classical music concerts.",
+    "imageCredits": "vkovalcik / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_25.jpg?versionId=Az6aHdIyO1T9pztgoauG6tLmRRtAuPHd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_25.jpg?versionId=fgODbWEgSOKUIh6c29Gwl_dfR9xxQzl5",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_25.mp3?versionId=tcrJD6GwoEnd.r6KysWFq56S73BqOJPP",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2314422,
+    "cultureContent": {
+    "imageLocation": "Bordeaux, Aquitaine",
+    "imageDescription": "Barrel aging for wine can take anywhere from six to twenty months, depending on the vintage. Barrels are typically made from oak. Winemakers choose woods from local forests to impart desired tastes and complexities into the wine.",
+    "imageCredits": "GEORGES GOBET / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_26.jpg?versionId=1NSibhQ0MiBaprd2mrLBmPaqKxR.evXW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_26.jpg?versionId=4NNAu4VvGAamkVmIzr5QrM5ShoZXC3VM",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_26.mp3?versionId=6Su0KFsW3nRfGn.erj_21xZdza_AFvVV",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2314607,
+    "cultureContent": {
+    "imageLocation": "Collioure, Languedoc-Rousillion",
+    "imageDescription": "Because of its harbor and proximity to the Pyrenees, Collioure has been fortified since Roman times. Each August the town celebrates the Festival of St. Vincent, with traditional dances, clothing, music, fireworks, and food.",
+    "imageCredits": "Azam/AgenceImages / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_27.jpg?versionId=LnnScDjhdkq9Re5bjAItwrsAbkJ6JdhT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_27.jpg?versionId=cSgeumt1GT0pO7YpjC95uvLvLX5_8cZM",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_27.mp3?versionId=1YJ83lIfmFRUVdjO4F35jey95GP9OS4G",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2314793,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The Fontaines de la Concorde in the Place de la Concorde are located near where the guillotine stood in Paris during the French Revolution. King Louis XVI along with thousands of others were executed there.",
+    "imageCredits": "Peter Scholey / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_28.jpg?versionId=wy1usMDjPYGBTHqQC7TOha.eqlaIp1m9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_28.jpg?versionId=cVpRI9avypZ8Jny96YXcgZ8vvR5tK8Si",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_28.mp3?versionId=g0HrEedHaO6FKI.Z3e9ND_g6aZT2lnb2",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2314978,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Musée Rodin is dedicated to the works of the French sculptor Auguste Rodin. Home to his famous statue, The Thinker, the museum also hosts Fashion Week where top designers parade the latest haute couture.",
+    "imageCredits": "Michel Dufour / French Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_29.jpg?versionId=MxymvKNrG5p9r6x_hm4OmG6e_7owFVc6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_29.jpg?versionId=oR1k_5Lp_Y25pjuiLn1Jk9xHuSLd7R1d",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_29.mp3?versionId=ibR4Q9KtvwRArZEFYziTnlfYv0LGh_P0",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2315135,
+    "cultureContent": {
+    "imageLocation": "Versailles, Île-de-France",
+    "imageDescription": "Weekend visitors to the gardens of the Château de Versailles are treated to the Grandes Eaux Musicales and Grandes Eaux Nocturnes. For about an hour at a time, the garden erupts into sound as classical music is played and the various fountains spring to life, rhythmically shooting jets of water into the air.",
+    "imageCredits": "Sami Sarkis / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/full/FR_2_M_30.jpg?versionId=SdFV1aXDf0EPP69FEg4Jq5QYPLQbl3g6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/lesson_photo/thumb/FR_2_M_30.jpg?versionId=DS2Kfky9Tlo9TlPLSN4Em7vebPopGiL3",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/main_audio/9781508295174_French_Level_2_Lesson_30.mp3?versionId=SvEY4eV3syBb0e60CndPjcvHuZBobSKR",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2315318,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "Each May, the city of Paris holds an annual competition called the Grand Prix de la Baguette de la Ville de Paris. The best bakery gains the honor of supplying the Elysées Palace with baguettes for the next year, and wins a 4,000 euro prize. The judging is based on taste, aroma, and appearance of the loaves.",
+    "imageCredits": "Francis Hammond / Photolibrary / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/French/French Level 2 2019/asset/RL/9781508295174_French_2_Intro.pdf?versionId=xaZyHgD7ga9lOHlmygOyK3N5MRFBrqr4",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_01.mp3?versionId=vrzkwGRTXeZ_60Z224eO9xK.pO.ttXqa",
+    "mediaItemId": 2223927
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_02.mp3?versionId=NtAKvgzeIju475VlngtKexkdWIShfUPh",
+    "mediaItemId": 2224132
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_03.mp3?versionId=FVcV.y7XICNHREcn05TmP4VrA8CXVDw4",
+    "mediaItemId": 2224311
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_04.mp3?versionId=_cEV0zkQ6blz9kUzDQ2jsH2c.1y14ia5",
+    "mediaItemId": 2224463
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_05.mp3?versionId=b0CDCpqZ4yjg4_5gZZPwE4.ROQbPFr.l",
+    "mediaItemId": 2224658
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_06.mp3?versionId=H4dRcc3Yuc7pyj0lbw0_dJgMNvI0d4Mn",
+    "mediaItemId": 2224762
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_07.mp3?versionId=TptzXtBSnh52K6RmHfHSQlqtXLej8MsG",
+    "mediaItemId": 2225649
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_08.mp3?versionId=yZMp3xfJmmPXpfHSzxIN4S0Xgp82_lsN",
+    "mediaItemId": 2227690
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_09.mp3?versionId=4pidK6N1rr.4GSK1einFF_OVpg7u.nnA",
+    "mediaItemId": 2230922
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_10.mp3?versionId=Xemp_FAo9zUT2_xNI3VkfO7WW0FqZT9H",
+    "mediaItemId": 2234254
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_11.mp3?versionId=lxlbvgH6hTkAaMx9peU5BZ6V4cqLeC9J",
+    "mediaItemId": 2237531
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_12.mp3?versionId=1t2qFY0St52jenXge7bwAzAcYeKBdSpo",
+    "mediaItemId": 2241052
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_13.mp3?versionId=Ahy1XwuCNP6OpbTAAj7qtMnxYjxfH8uT",
+    "mediaItemId": 2243891
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_14.mp3?versionId=gUVl8.E4PzuCWvFcDOaVQBNJur8L9PLA",
+    "mediaItemId": 2246988
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_15.mp3?versionId=LJ0jLlOwSNhA_L8Ic1acP0.TvFzVPXqp",
+    "mediaItemId": 2249977
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_16.mp3?versionId=DNeynW.1ReGtiT2.iMK8n4APjlcmLoAx",
+    "mediaItemId": 2252923
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_17.mp3?versionId=_.fGADQnlXsizTYGe1B1YznnPdl4Fjaz",
+    "mediaItemId": 2255758
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_18.mp3?versionId=JBW47A1GtheR1hgfwjTyOP.EQESIj8zD",
+    "mediaItemId": 2258601
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_19.mp3?versionId=1EtP6JoD_puHbSP5lScq1bzAAMV5twre",
+    "mediaItemId": 2261252
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_20.mp3?versionId=sgJOTPdoFpUL0G7pUjqX68aGi9XaCq34",
+    "mediaItemId": 2263682
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_21.mp3?versionId=civiQEkqm_a2p.SzZcEzfaJlyXF_Qka4",
+    "mediaItemId": 2265234
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_22.mp3?versionId=bD0QlgeRTXBKuDhVeKwVGM9rOl.QGTP0",
+    "mediaItemId": 2266094
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_23.mp3?versionId=kgpEr0AtP6cFdqh9w9F28iCzY8ubpI_a",
+    "mediaItemId": 2266608
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_24.mp3?versionId=7bsWPCNP4aHva2.h4ijaGTP5lVcuBmag",
+    "mediaItemId": 2267044
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_25.mp3?versionId=NBgtQaVWvhtixlnnRmuLxFTkOXxF6nQS",
+    "mediaItemId": 2267442
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_26.mp3?versionId=dby6EHXs_8udPI9GUvmKkpDXTFig7fLy",
+    "mediaItemId": 2267920
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_27.mp3?versionId=y6MN6eCYJpN99AzEJhQCtXdMdhUExQw8",
+    "mediaItemId": 2268303
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_28.mp3?versionId=p.RgSRBAIfUP.S56It1EDBHdmadX4wlr",
+    "mediaItemId": 2268780
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_29.mp3?versionId=mKuLszJh6ykOEhVQE7jEKLt.fO0sE7wb",
+    "mediaItemId": 2269158
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%202%202019/asset/RL/9781508295174_French_Level_2_Reading_Lesson_30.mp3?versionId=3DinH.JvZTyhkkXc9kUEFdiAP3vbeH2j",
+    "mediaItemId": 2269584
+    }
+    ]
+    },
+    "languageCode": "fr-FR",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508295174",
+    "level": 2,
+    "courseName": "French Level 2 Premium",
+    "simpleCourseName": "French Level 2",
+    "puArabic": false
+    }
+    ]

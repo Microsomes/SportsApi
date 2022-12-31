@@ -1,0 +1,684 @@
+[
+    {
+    "courseId": 51300,
+    "languageName": "Spanish",
+    "languageId": 166,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/01-107870484.jpg?versionId=QGt2D4tTHj0HA7klbEa0FQvtZ.TDt2ds",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/01-107870484.jpg?versionId=iF8ZAgDY0FC.bjoTvd3bzKzoAJJ0YkJT",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_01.mp3?versionId=aCpoYYjdZ9vCNuoYiDXQB4.3svTRdjmJ",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2309978,
+    "cultureContent": {
+    "imageLocation": "Latin America Culture",
+    "imageDescription": "There are thought to be over 500 million Spanish speakers worldwide. The country with the largest population of Spanish speakers is Mexico with over 110 million.",
+    "imageCredits": "Jacqueline Veissid / Lifesize / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/02-119546217_20.jpg?versionId=qVjojOov_aDmBHFjiZ_s9LNFftrISTf5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/02-119546217_20.jpg?versionId=xTvTBOOQ51zN4GQiBfRDW4FI77m4aJVc",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_02.mp3?versionId=Ac3ViThRq9wSRTPwZLk9MDZ5IxrL1mKk",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2310118,
+    "cultureContent": {
+    "imageLocation": "Majorca, Spain",
+    "imageDescription": "The old town in Alcudia was rebuilt in 1229 by Spanish conquerors, but archeologists have found remains of human habitation on Majorca dating back to the Paleolithic period (6,000-4,000 BC).",
+    "imageCredits": "Roine Magnusson, Johner Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/03-119609665_11.jpg?versionId=_QwSv8F8iFhdpF7jL4F865F25u3iqJPX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/03-119609665_11.jpg?versionId=ILelVhIevG0EdfiuKxHQECIvW9BAY7.m",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_03.mp3?versionId=XxfiqbdIOjQm8smC4EtOpCn10mgm0WkH",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2310261,
+    "cultureContent": {
+    "imageLocation": "Cancun, Mexico",
+    "imageDescription": "Dias de los Muertos (Day of the Dead) celebrations in Mexico have created a market for hand-painted masks and pottery.  The celebration is said to originate from an Aztec ceremony presided over by the goddess Mictecacihuatl, also known as the Lady of the Dead.",
+    "imageCredits": "Tuul / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/04-200453029-001.jpg?versionId=X25ByKyVuS5GfoQGbwlgnoEcx_594558",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/04-200453029-001.jpg?versionId=i0wkjGvsuEAcNDekOWU2b3jOEWM.vY_L",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_04.mp3?versionId=4NF700R31dXN_vcVnB5VFMAM94MuntUk",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2310424,
+    "cultureContent": {
+    "imageLocation": "Galapagos Islands, Ecuador",
+    "imageDescription": "The Galapagos Islands are over 500 miles off of Ecuador.  Because of this isolation, there are an unusually large number of plant and animal species found nowhere else in the world.  It is thought that Charles Darwin’s theory of evolution was developed based on his studies there. ",
+    "imageCredits": "Christian Hoehn / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/05-107954691.jpg?versionId=HSbUjhkKCef1uY5pEOW3droFIaXfPJ_L",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/05-107954691.jpg?versionId=3VdiR5FXxtvmaemSLdoDBYoPebPMxN3U",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_05.mp3?versionId=WowLTjjLh1TwO7gUgV1avZE1eip1YDQC",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2310556,
+    "cultureContent": {
+    "imageLocation": "Pisac, Peru",
+    "imageDescription": "This Peruvian village on the Urubamba River in the Sacred Valley near Cusco is a popular destination both for the Incan ruins nearby, and for the market that runs every Sunday, Tuesday and Thursday. ",
+    "imageCredits": "Juergen Ritterbach / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/06-108315429.jpg?versionId=8ijgSniR.PCG0hm9Z2Iyh3RhOzN8tvGo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/06-108315429.jpg?versionId=6DgTj8ptsQHfTdtFo8k3GRa7YIdgwU2I",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_06.mp3?versionId=sSWEpyM4EsmisVoMHur4x1E_O58GXkIG",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2310715,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "Many of La Boca district’s early settlers emigrated from Genoa, Italy.  In 1882, La Boca seceded from Argentina, raising the Genoese flag for a brief period of independence.",
+    "imageCredits": "Kevin Dyer / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/07-1075783642.jpg?versionId=ceHxOfxeTVFlkOlr4mMrbKnHrQfxl.MZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/07-1075783642.jpg?versionId=Q7AAo3APMg3tejj5A4E9d1ENlv7PGs.G",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_07.mp3?versionId=tjPuHUjZZx6tVkXGODUaCuvuXoUy4Q_x",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2310848,
+    "cultureContent": {
+    "imageLocation": "Mexico City, Mexico",
+    "imageDescription": "Designed by Alberto Kalach in 2006, Biblioteca Vasconcelos (known locally as \"Mega-biblioteca\") is a library with media stacks and reading areas constructed to form an intricate network of pathways and balconies resembling a plant’s root system.",
+    "imageCredits": "Joshua Davenport / 500Px Unreleased Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/08-84544404.jpg?versionId=s3hbVdpqQp4T0fsOLmg.tn5RCgDSx4nh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/08-84544404.jpg?versionId=zs6X1AcOZuyTQz2TeQREvwwFONgGvQXP",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_08.mp3?versionId=ZEf62KUdJIJ4O1sRf_4p.VhSeeBSG2HW",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2311018,
+    "cultureContent": {
+    "imageLocation": "San Ignacio, Belize",
+    "imageDescription": "The pyramid El Castillo at the Xunantunich Ruins is the second tallest structure in Belize at 130 feet.  Its name means \"Stone Woman\" in the Mayan language and refers to a ghost, which supposedly inhabits the ruins.",
+    "imageCredits": "Jane Sweeney / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/09-103582069.jpg?versionId=31bEhX0Xm140pFT26tDUkmWtV.h8a6lM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/09-103582069.jpg?versionId=MXAmbwwUs1Ya9R3RcK_71rWy2UcgXwgW",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_09.mp3?versionId=8NMsy3tSwfnBuWLYPRgqFlHKmqBW1oKg",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2311199,
+    "cultureContent": {
+    "imageLocation": "La Paloma, Uruguay",
+    "imageDescription": "Cabo Santa Maria lighthouse is one of a series of lighthouses built in the late 1800s to guide ships along the coast. Maintained by the Uruguay Navy, most are still in service today.",
+    "imageCredits": "Danita Delimont /Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/10-89755550.jpg?versionId=2nh9Pk6hc4kNyLg6.DBZWV5T6cry1pfs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/10-89755550.jpg?versionId=ywpmGVVF46M49O_jREZvF9z2VdT0eTen",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_10.mp3?versionId=sCodHnpKZnDJ9jnQ._zBBllIkeFNAQto",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2311350,
+    "cultureContent": {
+    "imageLocation": "Ecuador",
+    "imageDescription": "The 2-mile wide Quilotoa crater lagoon was formed about 800 years ago after a catastrophic volcanic eruption and collapse.  The hiking trail around the crater takes about 6 hours to traverse.",
+    "imageCredits": "Elisabeth Pollaert Smith / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/11-108191603.jpg?versionId=Z7NSFtv7kgXjwz.Afsce2Vw_BfjSSrd1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/11-108191603.jpg?versionId=F2WABbBmSLavl.gL4WTDbAAO7mrgVnUP",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_11.mp3?versionId=088hK1z1Zw.XyTBUwJy1zpiF9PEd8qX6",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2311586,
+    "cultureContent": {
+    "imageLocation": "Oaxaca, Mexico",
+    "imageDescription": "Gourds have served as containers at least as early as 8,000 BC.  Typically made from the rind of the fruit of the calabash tree, which grows in the coastal area of Oaxaca, carved and decorated gourds are a popular form of folk art.",
+    "imageCredits": "Rosanne Olson / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/12-110957149.jpg?versionId=j6JKOTOs9Idy2On7HS04NtTlrXkklQnR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/12-110957149.jpg?versionId=BBs._JCKRNfH2wcHIVMea8rZ1nBzSXy.",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_12.mp3?versionId=3kW.n8Nh3OxLm2XfG5hJusS5A2CvF8Sx",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2311921,
+    "cultureContent": {
+    "imageLocation": "Mayaguez, Puerto Rico",
+    "imageDescription": "Scuba diving is popular off the coast of Isla de Mona, the third largest island in the archipelago of Puerto Rico.  Mona is also home to many ancient cave drawings.",
+    "imageCredits": "Michael Gerber / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/13-82035694.jpg?versionId=RaC8bqpoca1_QuOCC3sfUuLLsLBh_k7J",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/13-82035694.jpg?versionId=as17YheQgPmG0oiCjF3433IaMQmSOQlO",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_13.mp3?versionId=CRHaEBoQuJfuAMGGWA7E5vUZVmCxqbVk",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2312108,
+    "cultureContent": {
+    "imageLocation": "Chimborazo Province, Ecuador",
+    "imageDescription": "The tallest mountain in Ecuador, Chimborazo, is an inactive volcano.  Since it is located on the equatorial bulge, its summit is considered the farthest point on the surface from Earth’s center.",
+    "imageCredits": "Steve Allen / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/14-119609608.jpg?versionId=_W2anS4zf8k3SnF8TdCxljxlVPhJlvCM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/14-119609608.jpg?versionId=7WZDqOjCRp9snNx8QTkbfwVAyEAIzKmh",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_14.mp3?versionId=0L_WLBoodBtw.TePsfsX7hCYQ.mP5.ru",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2312283,
+    "cultureContent": {
+    "imageLocation": "Quintana Roo, Mexico",
+    "imageDescription": "Isla Mujeres (Island of Women) in Quintana Roo in the northeast coast of the Yucatán Peninsula in Mexico is home to an underwater museum of hundreds of statues by Jason deCaires Taylor.",
+    "imageCredits": "Tuul / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/15-925674058.jpg?versionId=OCBwUo6k7fyqwSBJvqoLtodfEUVGrjM8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/15-925674058.jpg?versionId=v4AxQAgOafvLPD0LQKrnS4x8iy5M_hZp",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_15.mp3?versionId=vdSC_OO50zRf1yHsEjWBcpCfa5x20AP9",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2312438,
+    "cultureContent": {
+    "imageLocation": "Chichén Itzá, Mexico",
+    "imageDescription": "Cenotes are deep, water-filled sinkholes scattered throughout the Yucatán Peninsula; often used as natural swimming pools. One of the most beautiful is Ik Kil. Here, it is believed that the Mayans offered human sacrifices to the rain god Chaac.",
+    "imageCredits": "Csondy / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/16-547521820.jpg?versionId=C330NnK.idIjdJEB_N4y6P4OBv7FhiFI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/16-547521820.jpg?versionId=j7RsXqisaYn9ifL41eZNeDwpEhM873Iv",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_16.mp3?versionId=zdLC_yyQcYldVPRsoFp5KGREQI0CoITg",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2312606,
+    "cultureContent": {
+    "imageLocation": "Huacachina, Peru",
+    "imageDescription": "In the local Quechua language, Huacachina translates to \"Hidden Lagoon.\" Located five hours south of Lima, this legendary desert oasis is completely surrounded by ancient mountains of sand.",
+    "imageCredits": "NollRodrigo / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/17-97716729.jpg?versionId=PtYdpuCsYj5kL4V2wlGMhNWB6ddD8bKY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/17-97716729.jpg?versionId=ZsQuxpgNHexQtIhpAerjWjYe5YCn4xEB",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_17.mp3?versionId=BAetpAEavzIpf2kfPg4er0dyP7GLQrY0",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2312819,
+    "cultureContent": {
+    "imageLocation": "Oaxaca, Mexico",
+    "imageDescription": "Candles are lit to honor dead family members during Mexico’s Dias de los Muertos (Day of the Dead) celebration in November. The Aztecs celebrated the festival for an entire month in the 9th month of their calendar.",
+    "imageCredits": "John & Lisa Merrill / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/18-AB5870-002.jpg?versionId=xZwJSLjPWSO4wPklYaJJ8LzaSk9iyx81",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/18-AB5870-002.jpg?versionId=gqCKBHjHjwsKve4dE_zujeb0avvRHDE3",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_18.mp3?versionId=wSMgSTUswy4bcKSyWjmyXqCA_ZJwpr44",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2313023,
+    "cultureContent": {
+    "imageLocation": "Cabo San Lucas, Mexico",
+    "imageDescription": "Cabo San Lucas in Mexico is at the southern tip of the Baja peninsula and boasts world-class scuba diving and miles of sandy beaches, often sculpted by the wind and tides. ",
+    "imageCredits": "Randy Wells / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/19-111649852.jpg?versionId=e.xUgySzuNpQBuEuFZ2oALGiF6EBGl_g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/19-111649852.jpg?versionId=fVwmMiegsmAAHWJHMj2_zuFLiR1fHDWK",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_19.mp3?versionId=.Pk83MQDfDBsE1c.ah1W96dhL3bnZgEB",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2313194,
+    "cultureContent": {
+    "imageLocation": "Urubamba Valley, Peru",
+    "imageDescription": "Machu Picchu, located 2,430 meters above sea level, is thought to have been built around 1450 and abandoned only 100 years later.  It was virtually unknown to the outside world until 1911. ",
+    "imageCredits": "Kelly Cheng Travel / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/20-83024918.jpg?versionId=a1w9VYD1McHoMfJrWd5rmM057GLN6c1V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/20-83024918.jpg?versionId=2Ar._NKk.inllUuFi.kdgzafbrAJuwot",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_20.mp3?versionId=mbeS_btyYdJDJ9HSmPJ12455PmxB_FKC",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2313376,
+    "cultureContent": {
+    "imageLocation": "Mexican Culture",
+    "imageDescription": "Salsa ingredients vary by region and season. Salsa or \"sauce,\" can be traced back to the Aztecs, Mayans, and Incas, and are based on 4 essential ingredients: chilies, tomatoes, garlic, and onions.",
+    "imageCredits": "Dwight Eschliman / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/21-963627750.jpg?versionId=psEl2.fs627MIKTxjBc1aI7D3kDvt3aB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/21-963627750.jpg?versionId=vxHB5PPpU5swO6DYomPpwiEW3yaNbOIl",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_21.mp3?versionId=pLion44MMfBgHbb7Qw0mcxb6Trd8b7LG",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2313569,
+    "cultureContent": {
+    "imageLocation": "Argentine Culture",
+    "imageDescription": "Argentina's Lionel Messi, recognized as one of the greatest soccer players in history, has the record for most goals scored in a calendar year. In 2019, Messi received his sixth Ballon d'Or (\"Golden Ball\") win, setting that record as well, officially making him Europe's best footballer.  He plays for both Argentina's national team and FC Barcelona.",
+    "imageCredits": "JUAN MABROMATA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/22-109366366.jpg?versionId=uwSuGEjmQfdslEYThq97uyv7hf_CQdt5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/22-109366366.jpg?versionId=J_79S1iqc8w1ucJXMINpueB8sPD9fHyG",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_22.mp3?versionId=CMhlqKJadKsA7OqkY1lKiVOMAUXBoU1N",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2313760,
+    "cultureContent": {
+    "imageLocation": "Merida,  Yucatán, Mexico",
+    "imageDescription": "Carved stones from ancient city of T’ho were used to build many of the Spanish Colonial buildings found everywhere in Mérida, the capital of Yucatán state.  Throughout Mexico, stone fountains are a common sight. ",
+    "imageCredits": "Pam McLean / Lifesize / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/23-1025427276.jpg?versionId=W0itbPK2gwC_Pz_OhdW.XFYLPIVNV.Jl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/23-1025427276.jpg?versionId=_CW_TC9kA6gkPY0V7ub01Qfdjh9aGof.",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_23.mp3?versionId=A7y4_kZSXW3dw.laQkZBDwz2WXBNyaJS",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2314000,
+    "cultureContent": {
+    "imageLocation": "Mexico City, Mexico",
+    "imageDescription": "The sleek, iconic pair of buildings that comprise the Museo Soumaya were designed by famed architect Fernando Romero. The Mexico City must-see houses a collection of over 66,000 pieces of art including treasures by Diego Rivera as well as European masterpieces by Rodin, Renoir, Monet, Picasso, Van Gogh and Dalí.",
+    "imageCredits": "Amith Nag Photography / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/24-590640891.jpg?versionId=4g0h8UVWuAwMakL5Xe7F0vL2CETFtUtA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/24-590640891.jpg?versionId=jcABkW3siPe.Nx29LJ6rUSxfF8ytrVEE",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_24.mp3?versionId=JeSnP.6OKgZ_ZM5LRESj9DTB7YYEadaU",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2314163,
+    "cultureContent": {
+    "imageLocation": "Antofagasta Region, Chile",
+    "imageDescription": "High above sea level in Chile's Atacama Desert sits the European Southern Observatory's world-class telescopes at Observatorio Paranal. Far from city lights, with more than 350 cloudless days a year, Paranal is one of the very best astronomical observation sites in the world.",
+    "imageCredits": "Insights / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/25-109347097.jpg?versionId=FEfTSc1IvLYwzDHS_nN019dt_2K4Cfsl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/25-109347097.jpg?versionId=Wrg.r.dBXl9CB98o9P4JUhajgmav9Wbx",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_25.mp3?versionId=BloVYmqzows4bzrlP0PtBMcE4zBJiraw",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2314362,
+    "cultureContent": {
+    "imageLocation": "Cuzco, Peru",
+    "imageDescription": "The Inca road system linked nearly 25,000 miles of roadway, providing access to over 1,200,000 square miles. The Camino Real traverses the Andes at altitudes of up to 16,000 feet; the most famous segment is the trail to Machu Picchu.",
+    "imageCredits": "picturegarden / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/26-107954702.jpg?versionId=39ejNlYZRccS_pbBjAFHfLxMSwXk3xFp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/26-107954702.jpg?versionId=2tvP4G5WilQTwhsQEaBqly86rcvcsTIl",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_26.mp3?versionId=Ic.wT5XXyniqDX0SmmUai2x8L20CE1Br",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2314531,
+    "cultureContent": {
+    "imageLocation": "Cusco, Peru",
+    "imageDescription": "The terraces of Moray, thought to be Incan agricultural experiments, are located 50 miles northwest of Cuzco.  The depth of these circular depressions (up to 30 meters) and their orientation to the sun and wind cause a temperature difference of 27 °F between the top and bottom terrace. ",
+    "imageCredits": "Juergen Ritterbach / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/27-941232352.jpg?versionId=01f1ri7EyNw1E4c1Yey8.VkimTfJCUSO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/27-941232352.jpg?versionId=e0nYlJragMxC.vhbOW5TBL_1xtVJN8.E",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_27.mp3?versionId=m43a5FqcbtX_cFNDgjgLMJZG_5v0J_Xa",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2314691,
+    "cultureContent": {
+    "imageLocation": "Valle Nevado, Chile",
+    "imageDescription": "Serious skiers and snowboarders skip North America's sweltering summers and head to the Chilean Andes in search of endless powder and spectacular resorts. South America's largest ski resort, Valle Nevado, is less than an hour's drive from the capital city, Santiago.",
+    "imageCredits": "MaRabelo / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/28-112292903.jpg?versionId=MzlMqIW_1xkSzePtOJ2HhZxajE4Gr36A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/28-112292903.jpg?versionId=k6HI5t9asX3ZVM390rpS9dOEZmHiYbDA",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_28.mp3?versionId=rBxj_.D5GlNnXjDAMFFd2pU48iadpUsa",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2314865,
+    "cultureContent": {
+    "imageLocation": "San Pedro de Atacama, Chile",
+    "imageDescription": "A popular activity at the Death Valley desert near San Pedro de Atacama in Chile is sand boarding, similar to snowboarding, but done on sand dunes instead of ski slopes.",
+    "imageCredits": "E. Hanazaki Photography / Flickr  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/29-648272128.jpg?versionId=XprMEKfni1rCAGL2OqqhetnTB2bDhGpL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/29-648272128.jpg?versionId=.iafwtKQo5zbrQDvOVJlMqO_iM.5zyHo",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_29.mp3?versionId=w0OaC47B8q_L0cfSFw5efBKrYyCjqFbE",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2315083,
+    "cultureContent": {
+    "imageLocation": "Puerto Vallarta. Mexico",
+    "imageDescription": "Formed by underwater volcano eruptions, the uninhabited Marieta Islands, off Puerto Vallarta’s coast, are both a national park and a UNESCO Biosphere Reserve. The waters nearby are a breeding ground for humpback whales, and home to the blue-footed booby. The jungle-like islands are a natural sanctuary for sea and bird life. At low tide, adventurous visitors can swim or kayak through cave formations to discover La Playa Escondida, commonly known as “Hidden Beach,” and enjoy its remarkable secluded beauty.",
+    "imageCredits": "ferrantraite / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/full/30-1132602408.jpg?versionId=.0L_hdPn7ei3gio1J9GZGm7GsdHvLCbk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/lesson_photo/thumb/30-1132602408.jpg?versionId=VJHUivWYEQ9cAK_qJfhPk7qcWQWvNeLm",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/main_audio/9781508283683_Spanish_2_Lesson_30.mp3?versionId=Bxrr6UwbLegRhXVrCJc1qqZ.tWpqRXAE",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2315261,
+    "cultureContent": {
+    "imageLocation": "Guadalajara, Mexico",
+    "imageDescription": "Under constant earthquake threat, the towers and dome of the Cathedral of Guadalajara have been destroyed and rebuilt several times since its construction in 1561. The iconic structure houses the remains of two Mexican saints and dominates the skyline of the Centro Histórico.",
+    "imageCredits": "Elijah Lovkoff / EyeEm / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish Level 2 2020/asset/RL/9781508283683_Spanish_2_Intro.pdf?versionId=UUBAv2nHy4NROY.PFINBfZL2UBBJ4Qi3",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_01.mp3?versionId=MBveHG1.qM0sP26hNcmv6heYQ6sTmRHO",
+    "mediaItemId": 2223930
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_02.mp3?versionId=mwUYwMH_MKV42MLMZ1FsttM1ZKz.eZsx",
+    "mediaItemId": 2224133
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_03.mp3?versionId=c.LCcCKX.A6fYOvxx_361Bb0xU0rdcbq",
+    "mediaItemId": 2224315
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_04.mp3?versionId=EI0k96R2R6ijQ5jseLWIq2nya1cBPnF.",
+    "mediaItemId": 2224467
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_05.mp3?versionId=prhjTXlI8JVQdf6tGQwkDtdnU440hork",
+    "mediaItemId": 2224663
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_06.mp3?versionId=U8Ab2IDint1126viKGRu9ynqT9yR1rnz",
+    "mediaItemId": 2224761
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_07.mp3?versionId=NR_6D6Z9Ujz542x2WOPWEt9uPd3iNebT",
+    "mediaItemId": 2225625
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_08.mp3?versionId=O_BrgV0F9BVPvjYTnuG3asgO2Htt23fH",
+    "mediaItemId": 2227664
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_09.mp3?versionId=MrwnGbSI.Oph2P.1A6_hoWbEHNTj5hIi",
+    "mediaItemId": 2230877
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_10.mp3?versionId=q1mxeBJWY6wOPRqW3JVy45U_uVUy_s30",
+    "mediaItemId": 2234298
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_11.mp3?versionId=AQqTuz1Oc2Cjsil3TCDiNfWzWV17NXhd",
+    "mediaItemId": 2237684
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_12.mp3?versionId=GRvXnXE_FGqCznbr.uS71Rv9FBxpJukb",
+    "mediaItemId": 2241157
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_13.mp3?versionId=QV7ugc.p2NoK2tJANoWcQQ8EAyWT5n8X",
+    "mediaItemId": 2244045
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_14.mp3?versionId=eQVpd2VjsZWFeujbm4FMQWSkH2n4FOwd",
+    "mediaItemId": 2247171
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_15.mp3?versionId=MaU_XDqDZw6yu9uRdbUCZeO54I4sDXZ1",
+    "mediaItemId": 2250159
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_16.mp3?versionId=3aQENbvNxECsi.Ls3CS8fIeq7QjaJHtH",
+    "mediaItemId": 2253126
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_17.mp3?versionId=HhWEk0UbBgG0CEmVr8hNZ0Rwu6IY5sTF",
+    "mediaItemId": 2255817
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_18.mp3?versionId=8JTFeWS1wnkiX7csZdQQiDXfgy7fesjl",
+    "mediaItemId": 2258618
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_19.mp3?versionId=eSLMdrQvw8BzFPJQ2aTvxM3OJnK31MYn",
+    "mediaItemId": 2261307
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_20.mp3?versionId=dSYCkQ.1Z3iCjWjDsNKZ3vOx91nUlyQE",
+    "mediaItemId": 2263731
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_21.mp3?versionId=3a7fSPyJoXwoOp2wufgvQW0RUku5vu5b",
+    "mediaItemId": 2265254
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_22.mp3?versionId=vJKXzojJk_9OZGm4ZSJKvhChQFPHhEsX",
+    "mediaItemId": 2266084
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_23.mp3?versionId=l2ylM4ICs6KHULp6mtSJlyEP8RxT0JRK",
+    "mediaItemId": 2266542
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_24.mp3?versionId=eHlH.jm_slWmb4A91nPSnJ9qch24lAoA",
+    "mediaItemId": 2267020
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_25.mp3?versionId=0.fKPN3m4fsNXq5a6lJbDG0dWQUtVBA7",
+    "mediaItemId": 2267379
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_26.mp3?versionId=UPwtNDCyhU6ad8GjdM6qBDF8bBcswmh2",
+    "mediaItemId": 2267798
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_27.mp3?versionId=JmQr5L4rlfmspka7DHfdGyl7AtAAHgsQ",
+    "mediaItemId": 2268182
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_28.mp3?versionId=k9anr6spr3vqMtAu8wKqOxU8Z2StxUWa",
+    "mediaItemId": 2268590
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_29.mp3?versionId=l2v2kmfNAefmGHdayou8o7H5nC39p6n3",
+    "mediaItemId": 2268905
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%202%202020/asset/RL/9781508283683_Spanish_2_Reading_Lesson_30.mp3?versionId=Meuk4BhJc9zBHnXovYxzwxqN.Im_UmJD",
+    "mediaItemId": 2269296
+    }
+    ]
+    },
+    "languageCode": "es-MX",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508283683",
+    "level": 2,
+    "courseName": "Spanish Level 2 Premium",
+    "simpleCourseName": "Spanish Level 2",
+    "puArabic": false
+    }
+    ]

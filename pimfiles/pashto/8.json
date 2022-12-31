@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6039,
+    "languageName": "Arabic (Modern Standard)",
+    "languageId": 183,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_01.jpg?versionId=2W2CuG3B1_BBZ3tqf4oMDZSbLEef6IAB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_01.jpg?versionId=_1s6flPKOGU6sfzRYBM1pcWHwxH.uraF",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_01.mp3?versionId=yv.9moLs2TZrxSIjMpCQ1C2kYcIzocOs",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2310730,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though gender inequality remains a major concern in the Middle East, the number of women business owners in Arab countries is growing rapidly.  Up to 57% of STEM graduates in Arab countries are women, far surpassing the rates in universities in the Western world.",
+    "imageCredits": "m-imagephotography / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_02.jpg?versionId=18hqmRX1QAyaupyaAmeUjAGzE2q0PpP7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_02.jpg?versionId=Nj3pmLIUkLuGfHNRFwlshRD5dZ5JPe4B",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_02.mp3?versionId=.SJ7GAaEF.X2G3esKmdU4KtKilVIaVXR",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2310891,
+    "cultureContent": {
+    "imageLocation": "Sahara Desert, Morocco",
+    "imageDescription": "The camel is very important to Arab culture, so important in fact, that the Arabic word for camel, jamal, is almost identical to the word for beauty, jamaal.  Many Arab countries even have camel beauty contests, judging the animals on the size of their prominent features, including their knees!",
+    "imageCredits": "GavinD / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_03.jpg?versionId=nvEOlRSp6k35_F.B5KUwr6ATlcuRgfFT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_03.jpg?versionId=wWiMhKmicUJA1YAsaxrB_IgbFiEYJeA7",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_03.mp3?versionId=dAC.3InOQ0f7e1ifMukVdHnL_vU6z9qc",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2311038,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "The official language of Egypt is Arabic, with more than 50% of the population speaking a vernacular called Egyptian or Cairene Arabic.  Prior to the 17th century, Egyptians spoke Coptic, which is now only spoken in the Coptic Orthodox Church of Alexandria.",
+    "imageCredits": "Givaga / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_04.jpg?versionId=abTDQxZK4ayr_4eMnvHyWCVJAqoZkOR0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_04.jpg?versionId=Sl5ClOuYBJ.Lef5wt1dFFovWtxAc9N8u",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_04.mp3?versionId=pcQFquP.5NOHj3GRrZoHl_ODIlv85.oC",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2311229,
+    "cultureContent": {
+    "imageLocation": "Dead Sea near Jericho, West Bank, Palestine",
+    "imageDescription": "The second of two annual Islamic holidays, Eid al-Adha is a feast day celebrated by Muslims throughout the world.  It commemorates Abraham's willingness to sacrifice his son and marks the end of the annual pilgrimage to Mecca.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_05.jpg?versionId=XXbOMdFBvhM9FjIxRjIEya.nNEPkLwY3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_05.jpg?versionId=7sbfd_kA2AQ2gVoxfMy3xQH489vS6mTf",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_05.mp3?versionId=F5RrzjqSEAiGQ7oHOuA4mWeDRnULTiv6",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2311405,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "Completed in 2001, the Sultan Qaboos Grand Mosque in Muscat, Oman, is one of the most beautiful mosques built in modern times.  It houses an 8 ton chandelier encrusted with 600,000 Swarovski crystals, and the second largest hand-knotted carpet in the world.",
+    "imageCredits": "Florian Studenroth / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_06.jpg?versionId=AeAWbYVSSWfxEu7m.zU36OqLIg341gFk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_06.jpg?versionId=ErQXi3Lf4owDkrNFDOsGbrpC4ez5fzO4",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_06.mp3?versionId=lY4xU9Nlu3WIfN6Gabee6GmVWX4kq8xU",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2311587,
+    "cultureContent": {
+    "imageLocation": "Riyadh, Saudi Arabia",
+    "imageDescription": "Formed in 2012, the King Abdulla Petroleum Studies and Research Center is an independent, non-profit think tank which studies economics, technology, and policy related to energy.  The KAPSARC campus in Riyadh, Saudi Arabia, was opened in 2017, and features both a residential complex, as well as five interlocking buildings that house a computer center, conference center, library, research center, and a musalla, or place to pray.",
+    "imageCredits": "Abdullah Al-Eisa / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_07.jpg?versionId=bNNmxrnDT5pluaigKgtOe4gDCBuunPRV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_07.jpg?versionId=7k8VvTSaZxPtOFFWagFcbu_xCKvuZOg3",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_07.mp3?versionId=rN1e3qKa3QTcnWkod_dHSHBA8yVjbmsG",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2311774,
+    "cultureContent": {
+    "imageLocation": "Petra, Jordan",
+    "imageDescription": "Built in the 1st century, Al-Khazneh, or The Treasury, is an ancient temple carved into the side of a sandstone cliff in Petra, Jordan. It has appeared in many films, the most popular of which is Indiana Jones and the Last Crusade.",
+    "imageCredits": "Christopher Groenhout / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_08.jpg?versionId=EwFST0RGxkaPO5yN..cjZXrSFXXItWGd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_08.jpg?versionId=lt_BQ9NgW58kjVL4YQn2dbnikLmFX2lS",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_08.mp3?versionId=waiye73GPQjgSFhyoc6yZIHrHvCFRuGc",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2311959,
+    "cultureContent": {
+    "imageLocation": "Gaza City, Palestine",
+    "imageDescription": "Observed by Muslims worldwide, Ramadan is a month-long period of devotion and fasting from sunrise to sunset, ending in the festival of Eid al-Fitr.",
+    "imageCredits": "MOHAMMED ABED / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_09.jpg?versionId=j6WCVWkktEem4yWB6SCH7v5v6PZLFKUH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_09.jpg?versionId=KiToGYnk79Vfu9fxT41GE6_IhHOm97vP",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_09.mp3?versionId=6mAk9AxLmLErQtB3i0VNPFZCLvbwbIr9",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2312131,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "Opened in 2009, the W Abu Dhabi hotel on Yas Island was built above the Formula 1 Yas Marina racing circuit.  Its facade is known as the Grid Shell and features a rapidly cycling lighting system.",
+    "imageCredits": "ANDREW HOLBROOKE / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_10.jpg?versionId=mJxRbDTfa_clKS4bDrMIJnLHOwAPT6bI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_10.jpg?versionId=65hSJwmcPhKhnwnazEOHBPgDJTuNlveP",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_10.mp3?versionId=3cgEZDDK52VJW1iyKTYBKJhUip5NhgNK",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2312426,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Also known as Arab folk dance, belly dancing has a long history in Arab culture and features percussive and fluid movements of the arms and torso, along with shimmies, shivers and vibrations of the hips or ribs.",
+    "imageCredits": "PATRICK BAZ / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_11.jpg?versionId=eO8S9.B_YzOCXMnSB5rt1WN_LrAObTtL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_11.jpg?versionId=tkDuhgzUegsfVGLbxq53.cHypcbfLG3x",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_11.mp3?versionId=uQe1mlI0pjEk2js3XxeYqlMojYuSgsDi",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2312623,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "Beginning in December of 2010, a series of anti-government protests, armed rebellions and uprisings spread across the Islamic world as a response to the poor standard of living provided by oppressive regimes.  This period came to be known as the Arab Spring of 2011.",
+    "imageCredits": "Chris Hondros / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_12.jpg?versionId=vngA44fqgrnsucl5cWUpV5eJ1GTKSYVB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_12.jpg?versionId=00.cwM6BNaKh.3X7kdTAZ.9R3m5.H8O8",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_12.mp3?versionId=qN1qAEgVxif89hJyoTKreqSV7ukCWDox",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2312827,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "Established in 1866, Egypt has the oldest continuous parliamentary tradition in the Arab world.  The country's government is rated by Freedom House as being partly democratic.",
+    "imageCredits": "Daniel Berehulak / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_13.jpg?versionId=LC7qGEL91bHjY5jYgu5psZb.khFxDGbI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_13.jpg?versionId=CK9TVA8FnrxRiLXrrBirG.xOeBRLT.4D",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_13.mp3?versionId=a6euue4zg3vDo.k_ciwKIXPciOZazimK",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2312994,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Founded in 2007, Art Dubai is an annual international art fair held in Dubai in the United Arab Emirates.  It is the most globally diverse art fair in the world, featuring work from more than 40 countries.",
+    "imageCredits": "KARIM SAHIB / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_14.jpg?versionId=SAXbyswPW0QV23zTA4xOsjhKpr41zFQj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_14.jpg?versionId=c5kzaCj8YJh7Ch.u4K4GJmAtWqnCsAOo",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_14.mp3?versionId=gK.ilCMqWqUxFLkEDqZI_w2yOAjjLgWJ",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2313162,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "German artist HA Schult's work entitled Trash People is an installation of one thousand human shaped sculptures made from electronic waste and crushed cans.  A critique of human consumption, it traveled to the Pyramids of Giza in 2002.",
+    "imageCredits": "Patrick AVENTURIER / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_15.jpg?versionId=z5NUDBDZOK4Y19VYeiIvMhOwBdY4Z_93",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_15.jpg?versionId=p83WNCpvdqoWw84DCFKTsrSpeCqlnHkt",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_15.mp3?versionId=Hfb1X4K79.ukP.ffWCHV3v8mSUfg8Qjm",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2313332,
+    "cultureContent": {
+    "imageLocation": "Old Dongola, Sudan",
+    "imageDescription": "Large domed tombs known as qubbas dot the landscape of Old Dongola, a ruin in the desert of Sudan which dates to the fourth century.",
+    "imageCredits": "christophe_cerisier / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_16.jpg?versionId=hCsqNko6JYGTUeWZpZAIwm85ToNMx7CT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_16.jpg?versionId=X.pHIINn17jr9zo5tWlPZ8Nc9p1DgcYF",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_16.mp3?versionId=COCWujjKlFFsRQF56WCJG4YcWjpcZS4X",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2313524,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Egyptian midfielder Mohamed Salah is considered one of the best soccer players in the world.  He is known for being an advocate of women's equality in the Middle East, and has played for Liverpool F.C. since 2017.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_17.jpg?versionId=XTF6SvtXkBs5zML7mwu1X_9uL5XckB7_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_17.jpg?versionId=nVA17tOJG4ltbdHSLVXKTa8nT_i3SyRL",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_17.mp3?versionId=XxAsJPbo4iBYQCt1jkxtxg6lbJV3xVHy",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2313702,
+    "cultureContent": {
+    "imageLocation": "Merzouga, Morocco",
+    "imageDescription": "The desert-dwelling Bedouins are a nomadic Arab people who range through North Africa and the Arabian Peninsula.  They are traditionally animal herders who live in tents and speak variants of Arabic known as the Bedouin dialects.",
+    "imageCredits": "Nicolas VINCENT Photographe / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_18.jpg?versionId=t124vDzq1Zog6sROSN6Ip8m8fo5RQNB2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_18.jpg?versionId=Yo4Y.QRBd2AqnzJRna3x_9FfO0HMwsME",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_18.mp3?versionId=lWXOJE41qfPH6njALl4tl7Xt2wwAkysa",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2313897,
+    "cultureContent": {
+    "imageLocation": "Rafah, Gaza Strip, Palestine",
+    "imageDescription": "A Middle Eastern treat known as kanafeh is made of thin pastry soaked in sweet syrup and with a layer of cheese.  The world's largest plate of kanafeh was created in Turkey in 2017 and was 255 feet long.",
+    "imageCredits": "Pacific Press / Light Rocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_19.jpg?versionId=j2D8b6w8DfA13toCtv1ThOCgnH44SRws",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_19.jpg?versionId=_ocMvbG9lUExPQe5NjiroQ0FrwObHwd2",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_19.mp3?versionId=ywd7jYrWpbm1L6dSJaw4pve228HhYZqo",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2314094,
+    "cultureContent": {
+    "imageLocation": "Shibam Hadramawt, Yemen",
+    "imageDescription": "For over 1,700 years the city of Shibam Hadramawt has been an oasis in the desert of Ramalt al-Sab'atayn.  Known as the \"Manhattan of the Desert,\" Shibam contains of hundreds of ancient mud brick houses, rising 5 to 11 stories high, which served as protection against attacks from roving Bedouins.",
+    "imageCredits": "George Steinmetz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_20.jpg?versionId=d684xDB_C7bo.wYLuAEKCTF.Fq7TRI7D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_20.jpg?versionId=RrEX54dNd3rS1X2K1J8dA75eF33ufg8p",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_20.mp3?versionId=8jnJRyr4BRD1wMGX9u3Vf4ujbkfoM6Ni",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2314277,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Opened in 2016, the design of the Dubai Opera House was inspired by the shape of a traditional fishing boat called a dhow.  Seating 2,000 guests, the opera house boasts a system of hydraulic lifts which can convert the space from a concert hall to an exhibition space.",
+    "imageCredits": "GordonBellPhotography / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_21.jpg?versionId=pyrwj.VZOnrA3T7.fV75ZXEwVpnazc8F",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_21.jpg?versionId=xtwL8Lq.AMQjerFK0T26GVbFk35VobLm",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_21.mp3?versionId=QgTj2nMUPngYYV9nRBQNSc2tzRsK45fA",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2314456,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "A collection of five towering skyscrapers, the Etihad Towers in Abu Dhabi became world famous when used as a filming location for one of the popular Fast & Furious action movies. Added together, the height of the five buildings would be over 4,200 feet tall!",
+    "imageCredits": "Noppawat Tom Charoensinphon / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_22.jpg?versionId=X5vwaQlRnpN16mu0EYUEpcBH6Y8WXdPT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_22.jpg?versionId=UEKDkCVtv_755titB4dF8oVifI4P_1Kc",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_22.mp3?versionId=pAKix6nJDOjuN6qTx7g4S9bRbIgJKsgb",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2314681,
+    "cultureContent": {
+    "imageLocation": "Petra, Ma'an, Jordan",
+    "imageDescription": "Not only the home of Al-Khazneh, the ancient city of Petra is also home to glorious natural sandstone formations.  The most famous of these is a dim, narrow gorge called the Siq, which narrows to just 10 feet wide in some places.",
+    "imageCredits": "mantaphoto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_23.jpg?versionId=jPWTj4_00yCZxY8b1s_riPI559PqNvAA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_23.jpg?versionId=JqQjJ.zauuc0KDo76.p1rzIkKgvfBAVA",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_23.mp3?versionId=5PWHh4gM8yZj8GdimfS8..LnWqQ0ixGr",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2314906,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Opened in 2005, the Mall of the Emirates hosts over 100 restaurants and 960 storefronts, as well as the world's largest indoor snow park & ski resort.  Guests of Ski Dubai can enjoy skiing as well as sled and toboggan runs, ice slides, giant snowballs, and an ice cave, and can book encounters with the resort's flock of penguins.",
+    "imageCredits": "Gabriela Marj / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_24.jpg?versionId=Km9NkbkypDUvtORhQ3psWuwNU2UytmCs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_24.jpg?versionId=OArTXevcmgEwVtD9KXWgQ5zTYuqJH63F",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_24.mp3?versionId=tmG_ihqGAy6jVh56HyIopRhgkB.MtbYD",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2315073,
+    "cultureContent": {
+    "imageLocation": "Wadi Karak, Jordan",
+    "imageDescription": "Fed by springs, the waterfalls of the canyon of Wadi Al Karak provide a home for plants and animals in the wadi, or valley.  There are three main wadis in Jordan, all of which drain into the Dead Sea to the west.",
+    "imageCredits": "George Steinmetz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_25.jpg?versionId=AarSirh3shLX7f3Nhn3h75i20.NUz48u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_25.jpg?versionId=YilJG5tFdCgF1HB3Hb29rcLq6OQtfrXX",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_25.mp3?versionId=fJD4w2PUvdJ92eu3e7XXZy8n60m0hnWe",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2315258,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "After being used as the location for the spaceport of Mos Espa on the planet of Tatooine in 1999 Star Wars film The Phantom Menace, the abandoned set now serves as a Bedouin trading post.",
+    "imageCredits": "CANOVAS Alvaro/Paris Match / Controur RA / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_26.jpg?versionId=b69Z5uZb5cx2JD42KT_6cjAAe3NRZxvo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_26.jpg?versionId=jG7XjtruS16ZCwssfbmiWBEBDlxPyPNM",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_26.mp3?versionId=FcZKATTvri6fiLRBNVAIQ_UmIKafi7_4",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2315442,
+    "cultureContent": {
+    "imageLocation": "Onk Jmel, Tunisia",
+    "imageDescription": "Lebanese fashion designer Elie Saab was the first person of Arab descent to be admitted to the Chambre Syndicale de la Haute Couture, earning the right to call his fashion house an haute couture house.  Born the eldest son of a wood merchant, he now dresses celebrities, royals, and other members of the elite all around the world.",
+    "imageCredits": "Simon Kremer / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_27.jpg?versionId=2Qq_ovdKAyXHRMZpI05g69Rk_Y7aBKJ2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_27.jpg?versionId=grGbXFCb_RGw9iEIFxQAXymghcGC8yTx",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_27.mp3?versionId=eJQLv_Ni4OMlbsX.AH3hfEuiFLyGnsaO",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2315635,
+    "cultureContent": {
+    "imageLocation": "Moreeb Dune, United Arab Emirates",
+    "imageDescription": "Held each year from late December to early January, the Liwa International Festival is a seven-day festival featuring car, camel and horse racing, including a treacherous race to the top of the 1,000-foot Moreeb Dune.",
+    "imageCredits": "KARIM SAHIB / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_28.jpg?versionId=LYAOIhidGHc51.UFhvzi1McxEh1skLl5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_28.jpg?versionId=jqmveypi5cUwjq1xHrQcjJ_6.QP2szDf",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_28.mp3?versionId=AwDumlE7xaKNygKdEsNzwPAcyHsgXqza",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2315796,
+    "cultureContent": {
+    "imageLocation": "Red Sea, Sudan",
+    "imageDescription": "A diverse ecosystem, the Red Sea is home to over 1,200 species of fish, some found nowhere else on earth.  A splendid coral reef extends 1,240 miles along the coastline, and is thought to be between 5,000-7,000 years old.",
+    "imageCredits": "Vincent Pommeyrol / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_29.jpg?versionId=YzkMnFm1EVJyiBEyBK7gU4TroFkymSbf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_29.jpg?versionId=bMwyLKkZeIH5xL19GXGDQNu_JelNEoOZ",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_29.mp3?versionId=Fxb3LWPADKQxLeEEL4MS2zHhZCWVxaF.",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2315969,
+    "cultureContent": {
+    "imageLocation": "Gaza City, Palestine",
+    "imageDescription": "Not only a time for prayer and fasting, Ramadan is also a time for celebration.  In some countries, lights and decorations are hung across city streets, some people bathe in holy springs, and some beat drums to announce the evening Suhoor meal.",
+    "imageCredits": "MOHAMMED ABED / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/full/MSA_1_M_30.jpg?versionId=BBGTH6hSpBmH8_kQoH31nhX3YAk6bw8G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/lesson_photo/thumb/MSA_1_M_30.jpg?versionId=9innN7DPKl8oJxtb235_bHlqC9YO0C9i",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/main_audio/9781797112237_Arabic_Modern_Standard_1_Lesson_30.mp3?versionId=zh6zfYjqwrBd.ELD8Yj7H0anPWNps5EL",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2316104,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "Designed to retain as much moisture as possible, the Moroccan tajine is used to slow-cook savory stew dishes, traditionally served with bread.  The tajine is placed over hot charcoal to gently simmer for hours, ensuring that the stew is tender and rich with flavor.",
+    "imageCredits": "hadynyah / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 1 orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Alpha.pdf?versionId=gjcsZ_a54sSFIjpLT9G7pNzncwabCu5T",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 1 orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Intro.pdf?versionId=e._pUPicTZBcoKPp4bnYOp.xGyyp5Pg8",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_01.mp3?versionId=zfDASP3ev.Mk5HqD7Fb0P5FJ1is8i74T",
+    "mediaItemId": 2223850
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_02.mp3?versionId=.Kb48VPDGE9QnW9VSENafv44_litVQyj",
+    "mediaItemId": 2224053
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_03.mp3?versionId=x.GPCLLUQExqzQtrQXUZLSRsz4gfhiXz",
+    "mediaItemId": 2224184
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_04.mp3?versionId=LBqJmTkQtGFnoYSGEZ4FcKnXl82Eo1Mx",
+    "mediaItemId": 2224400
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_05.mp3?versionId=cndYKCPGDx87FFv4dnrx7vWn64z554eI",
+    "mediaItemId": 2224536
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_06.mp3?versionId=2kdbKHCM8FKFhxnLLAB7ver_9sjD5jaB",
+    "mediaItemId": 2224714
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_07.mp3?versionId=haitIFHj4thjUWZgZAtSmTNLOQw36ZGU",
+    "mediaItemId": 2224972
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_08.mp3?versionId=mTQDh6Ws4uLiqfanJhIOVkwWCiSEqn8v",
+    "mediaItemId": 2226356
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_09.mp3?versionId=2pNOF.UqmGu17Y.VyOp3ia.3Rl8UCbod",
+    "mediaItemId": 2228993
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_10.mp3?versionId=9HA17m26fqRhTV2uEQeX4NlzMUDwlKWf",
+    "mediaItemId": 2232341
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_11.mp3?versionId=F.qJXz7uybE_fP8FJ52NIIV0SFYDcXsi",
+    "mediaItemId": 2235899
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_12.mp3?versionId=fXPmBI3uhIqR0YYg6xM0ETFe7If1W_X2",
+    "mediaItemId": 2239088
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_13.mp3?versionId=mxKHsdkkn0Nm8L_mmRqS_G937oHnfuQP",
+    "mediaItemId": 2242210
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_14.mp3?versionId=.MLtuR1.3iS042hV8Sz.1bBXo_QaGAF0",
+    "mediaItemId": 2245467
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_15.mp3?versionId=I_u02KDEpZL3l6O1PTxEkjCUL5AsqkiX",
+    "mediaItemId": 2248496
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_16.mp3?versionId=JRu9D9WDTFjImFVB5WpG4HQ3Od5Y42Hh",
+    "mediaItemId": 2251407
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_17.mp3?versionId=WnOnLPLm_aiivH8ixUvhgQY31y7SPWOh",
+    "mediaItemId": 2254192
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_18.mp3?versionId=ePAZd4b.IzYPuGLFWVrIEb8Ylx89DepY",
+    "mediaItemId": 2256939
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_19.mp3?versionId=QCJJz5CYeDUc3tSDNB7ShMss68_HxJM6",
+    "mediaItemId": 2259784
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%201%20orig/asset/RL/9781797112237_Arabic_Modern_Standard_1_Reading_Lesson_20.mp3?versionId=25Fxe0w_GAdjJkajOECLPl4LkLd1VBlL",
+    "mediaItemId": 2262376
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797112237",
+    "level": 1,
+    "courseName": "Arabic (Modern Standard) Level 1 Premium",
+    "simpleCourseName": "Arabic (Modern Standard) Level 1",
+    "puArabic": true
+    }
+    ]

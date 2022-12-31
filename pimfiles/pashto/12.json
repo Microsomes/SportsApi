@@ -1,0 +1,152 @@
+[
+    {
+    "courseId": 3106,
+    "languageName": "Armenian (Western)",
+    "languageId": 123,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_01.mp3?versionId=YWeZxwJa9TMouud8.PL.SecFZ1YhsvrM",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321388,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_02.mp3?versionId=0H.2iQEyB1E4JsRk0iuxGKFAENmTkxPy",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321390,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_03.mp3?versionId=xHhqgH3tzbBpbSAY74.hGCyG7DLEYTTE",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321392,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_04.mp3?versionId=q1_QUVKgLmgd.mI3RROKbVR6O_BP9qNv",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321394,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_05.mp3?versionId=si6C6U2AERf2fJ1bf9LB6ZAsqcs2ik72",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321396,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_06.mp3?versionId=ku7F60k4_6CoEmF4mnPAPC6FGfB_9liy",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321397,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_07.mp3?versionId=I_7.Ov.lIwKBxHcJDivGwB4nKIbUI_NY",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321398,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_08.mp3?versionId=bwdNRoidK4vyQWoQcCYhC3oVlbxnA7Jn",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321399,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_09.mp3?versionId=DfpnNj4unYVP68kkYveIza7SQ8vh_fBj",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321400,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/language_image.jpg?versionId=.WaN37pjRKwTt0.M.WHIytI5ag1yv.i3",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/main_audio/9781442333161_Unit_10.mp3?versionId=JGdI7nUKXNOCugbqhUNdU.zGL6YJvcax",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321401,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Western%29/Armenian%20%28Western%29%20Level%201%20orig/asset/standard_reading/9781442333161_Armenian_Western_1_Bklt.pdf?versionId=wiI7KYxUA0rE37Fab2lJO4sangf5PNog"
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442333161",
+    "level": 1,
+    "courseName": "Armenian (Western) Level 1",
+    "simpleCourseName": "Armenian (Western) Level 1",
+    "puArabic": false
+    }
+    ]

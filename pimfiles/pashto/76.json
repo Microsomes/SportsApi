@@ -1,0 +1,684 @@
+[
+    {
+    "courseId": 200007,
+    "languageName": "Portuguese (European)",
+    "languageId": 162,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_01.jpg?versionId=UJfHZTgoilkYG2snRoj6nw3e0PyX1BRF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_01.jpg?versionId=FlFC1UuicPxeILFaGdCrENQe4.dSFrP3",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson01.mp3?versionId=6t_inasbJDrPk4MI_VgTm99V1rAS7syU",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2368820,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Known for its sparkling coastline, laid-back locals, and rich history, Portugal has become an appealing destination for international travel. Portuguese is the official language of Portugal, spoken by approximately ten million people. And as a result of colonization by Portugal during the Age of Discovery, an additional 280 million Lusophones (Portuguese speakers) can be found in such far-flung locales as Brazil, Mozambique, Angola and Macau.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_02.jpg?versionId=QxTWLwHBcmJsRU9tDWzgkjseuglaaaxD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_02.jpg?versionId=XbTultj9y9OZEOYtAC7FcJ1HrEN5KtSS",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson02.mp3?versionId=Tm7JehwpNHBUiggIQckXcrVmwVu0vwQN",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2368812,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Intricate tiling is a staple of Portuguese architecture, with buildings of all shapes and sizes patterned in detailed and colorful mosaics. While beautiful, these tiles have an interesting origin, dating back to the Moors’ invasion of the Iberian peninsula in the 13th century. After King Manuel I's visit to the Spanish city Seville he ordered tiles to be placed on the blank walls that remained from the Gothic period, putting a colorful façade on long-standing structures.",
+    "imageCredits": "typo-graphics / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_03.jpg?versionId=WzRgsxe0rdcBEnPXwAHYEsQd0MCVPBFP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_03.jpg?versionId=0oh3.tz8a7qTjY08Xc.qqMe7CqLZdBT9",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson03.mp3?versionId=wFVoVprc6OHqKQqRjzC2VVN36UnM0pLk",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2368821,
+    "cultureContent": {
+    "imageLocation": "Sines",
+    "imageDescription": "Located directly on the coast, the old town of Sines features buildings decorated in blue and white. Sines has been a fishing town for centuries, with historians uncovering artifacts related to fishing that date back to the Roman period. The city’s fascinating story and beautiful scenery make it a must-see destination for those looking to learn more about Portugal’s history.",
+    "imageCredits": "James O'Neil / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_04.jpg?versionId=WRBlC7LKc_z4fS59xqB5ugLC7Auk30f_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_04.jpg?versionId=91aaNzByOT57OnqfgaEQf3Q6cTIMVO5Y",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson04.mp3?versionId=hSVQDOnGH63m5QJS0.nlpXr2wjSkUO5g",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2368823,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "With more than one thousand miles of beautiful coastline, it makes sense for surfing competitions to be held in Portugal! Founded in 2009, the MEO Pro Portugal has both men’s and women’s contests. The current champion titles for men and women are held by Griffin Colapinto of the United States and Tatiana Weston-Webb of Brazil, respectively. ",
+    "imageCredits": "Damien Poullenot / World Surf League / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_05.jpg?versionId=mIcJYeLyGzaYdO.yHIedF4JMYBSsZ80Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_05.jpg?versionId=H.IfLgovraYaonK6fk.JLB6tAG1j7KWq",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson05.mp3?versionId=vasu0PiaGZmbyytgpV59ZnEdoScYNhmM",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2368824,
+    "cultureContent": {
+    "imageLocation": "Carvoeiro",
+    "imageDescription": "Although it holds historical significance for being the site of several naval battles, the seaside town of Carvoeiro is most known today as a picturesque tourist destination. Located in the south of Portugal, sandy beaches tucked in between rocky caverns maintain an even Mediterranean climate. In between visits to the beach, visitors can opt to take a boat ride that explores the insides of the caves, or take a short hike to climb on the unusual rock formations of Algar Seco.",
+    "imageCredits": "Inacio Pires / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_06.jpg?versionId=vfrPmsswlTdJZL3opta5OlmmVh4CqXAn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_06.jpg?versionId=iHTUVWjhYRQRMHZ2VRy8brC4srfTlR4u",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson06.mp3?versionId=bk5Ciwl7AkNtpyBHq9R5dylijaZeChDv",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2368813,
+    "cultureContent": {
+    "imageLocation": "Aveiro",
+    "imageDescription": "These colorful houses are only a glimpse of the unusual architecture of the Portuguese city of Aveiro. Bright hues and geometric patterns add an element of whimsy to the city streets, making for almost non-stop photo-ops. Gondola-style boats called moliceiros ply the city's canals, and pastel-colored Art Nouveau houses dot the quaysides.",
+    "imageCredits": "LucasFotoArt / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_07.jpg?versionId=h3HQfNyGRS8rnyVwgagLvezuJDdjGghi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_07.jpg?versionId=ZP7BtYZlaLJN08RPl87kCGzQTU6mg2tC",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson07.mp3?versionId=_wnMZzdlpt.A0u3xfwB1IjNnUqDIB0kf",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2368826,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "Built in the 1500s, Lisbon’s Belem Tower serves as a reminder of the Portuguese Renaissance and the Age of Discovery. The tower has witnessed the voyages of numerous notable Portuguese explorers, kings, and queens. In 2007, the tower was added as one of the Seven Wonders of Portugal. ",
+    "imageCredits": "Jui-Chi Chan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_08.jpg?versionId=0PdQn1WtIVH7TIesQAz_MhjDCXeK4IRx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_08.jpg?versionId=tb91vUOP6jneJLGqwFY292Ov1szFSKaU",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson08.mp3?versionId=EtLLqP_4HNQE5GiD2P_ZxkDWC5ZriLSS",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2368830,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "Lisbon is Portugal’s capital city, with a population of over five hundred thousand and an area of approximately thirty-eight square miles. The city has been hailed as one of the oldest on the continent, second only to Athens, Greece. Tourists have lauded the city for its historical architecture, vibrant culture, and stunning views.",
+    "imageCredits": "SeanPavonePhoto / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_09.jpg?versionId=abDkKgyJd.L5E5cWRtOJJDHSHPmz5eBf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_09.jpg?versionId=_a84dgkcRLE8kyxDaqSE2AcseGqo8WRT",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson09.mp3?versionId=bpFMX3GUukY_zb9g8g4bdyFNu3ou2n2y",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2368827,
+    "cultureContent": {
+    "imageLocation": "Madeira",
+    "imageDescription": "Madeira is an archipelago that lies off the western coast of Africa, containing lush forests and volcanic mountain peaks. The natural scenery of this autonomous region of Portugal is famously stunning, with trails like this one available for visitors all over the islands. The island’s highest point, Pico Ruivo, lies at 6,100 feet above sea level, making it a must-climb for ambitious hikers.",
+    "imageCredits": "Tim E White / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_10.jpg?versionId=pUTZSpRIfZb1TK5t5nNSF6M5wL1GqQ7N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_10.jpg?versionId=Z4mGP2lHCiI16L_eAq7trUa8RxxL_ndK",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson10.mp3?versionId=WuKXSwxffG__RrqIhf47eXpGV2kbtmis",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2368814,
+    "cultureContent": {
+    "imageLocation": "Funchal, Madeira",
+    "imageDescription": "The Monte toboggan rides are an exciting and easy way to engage with traditional Madeiran culture in the city of Funchal. Though riding the toboggan may appear to be a leisure activity, these toboggans had a practical use in the 19th century; in the old days, the only way to manage the steep descent was to ride a special toboggan that is essentially a wicker basket on greased runners!",
+    "imageCredits": "Ceri Breeze / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_11.jpg?versionId=XAlAIQ3lEb2sxEnusvHbNHuFdYswWGWT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_11.jpg?versionId=2zoKj9ywP7lztqzffOau.IqJEZf8UMKW",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson11.mp3?versionId=A27FwakCsLs2vOjRJQx8rQMGKVmUbihO",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2368836,
+    "cultureContent": {
+    "imageLocation": "Madeira",
+    "imageDescription": "On the northern coast of Madeira Island can be found the thatched roofs of traditional houses, built of wood and straw thatch. The brightly colored façades and steep triangular shapes create a whimsical ambience. The best examples of these traditional, rural dwellings can be found in Santana.",
+    "imageCredits": "Atlantide Phototravel / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_12.jpg?versionId=YXgTPSttKDeByAxgXS9_.evA3Ojc7.36",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_12.jpg?versionId=6U3gXycS1Sxt6ylkpMmNNPyRPyna2LfW",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson12.mp3?versionId=evSTx6bzDS1lwRIPpdeb7_qmSou8PTUP",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2368829,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "During late winter or early spring, the streets of Portuguese towns become hubs for revelry; the festivities mark the period before Lent. Ever the largest festival of the year in Portugal, month-long preparations are made to perfect elaborate costumes, organize parades, and prepare musical performances. The celebration is in keeping with Carnival celebrations in traditionally-Christian countries the world over.",
+    "imageCredits": "By Jorge Pereira / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_13.jpg?versionId=N1VAVgRUw430eI8Gj3BgDXjPWzp8VT.G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_13.jpg?versionId=WSt70cUF0XBjd3kk67JUB4P24_YTSeej",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson13.mp3?versionId=LtnolXC31JZfR8MlFW2GVwCkS.wNRiXu",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2368815,
+    "cultureContent": {
+    "imageLocation": "Lagos",
+    "imageDescription": "Translating as the “Point of Piety” in English, the Ponta de Piedade is one of Portugal’s most breathtaking spots. Showcasing rocky cliffs, cresting waves, and bright blue waters, this picturesque headland demonstrates the way that nature can shape the landscape over time. Several of the grottoes and limestone arches can only be reached by hiking trails or by taking a short boat ride.",
+    "imageCredits": "Jorg Greuel / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_14.jpg?versionId=vc_pLHtNnm4ghzirCXnS..jk04s8.LVI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_14.jpg?versionId=6DQy0nMh7i6aIVrWOvvD5Gz0QKO2wOHx",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson14.mp3?versionId=FJsrEVECpo2uHwUtlZSaP8ICS3yIv_Ii",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2368837,
+    "cultureContent": {
+    "imageLocation": "Lagoa",
+    "imageDescription": "The municipality of Lagoa is in the southernmost region of Algarve. With scenic beaches, quaint piers, and historic homes, Lagoa offers tourists the full package of Portuguese culture. It’s no wonder that it’s considered one of the most important tourist areas in the entire region!",
+    "imageCredits": "Gonzalo Azumendi / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_15.jpg?versionId=LvDp.9siS86uM8D0e8oZEfSeg5jO1IiE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_15.jpg?versionId=STERrGQ.jpSaqO7CFTCJ_KUme_5Jr07R",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson15.mp3?versionId=8Fm0fGQWpya1Fk10IhZKnObf94ms775p",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2368816,
+    "cultureContent": {
+    "imageLocation": "Berlengas",
+    "imageDescription": "Jutting out of the Atlantic off the coast of Peniche, the Berlengas Islands make for quite the unexpected sight to the unsuspecting tourist! The most recognizable landmark of the Islands is the old Fort of São João Baptista, built in the 16th century. Although no longer used for its intended purpose, the ramparts have been restored and opened to the public for summertime tours.",
+    "imageCredits": "TPopova / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_16.jpg?versionId=M1ySw4lUcOlTuvPkWDSkstbY4Rxt385e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_16.jpg?versionId=FRSdWX1LD9AADy730fOvyymRRRMwG1D_",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson16.mp3?versionId=eHMj886U3F00cdru9PGXR8HWcnKhLg0j",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2368819,
+    "cultureContent": {
+    "imageLocation": "Portugal",
+    "imageDescription": "Flowing from central Spain to northern Portugal, the Douro River has banks that are lush with plant and animal life. The Douro has inspired several man-made creations, including the scenic Douro Railway and the invention of port, a sweet red wine native to Portugal. Evidence of life along the Douro dates to the Paleolithic Age, with riverside findings of Paleolithic art being preserved as a UNESCO World Heritage site.",
+    "imageCredits": "Paulo Dias Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_17.jpg?versionId=CjShK5vW3RrP2FYNsUye.Ww3D1S8fJhl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_17.jpg?versionId=9rvRnuh8Ke9QG4WYlW6A.7e9YBrHiAYp",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson17.mp3?versionId=OMKAlPI5KM64gkFX8W1I7MOWOGIePbEh",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2368828,
+    "cultureContent": {
+    "imageLocation": "Azores",
+    "imageDescription": "The Atlantic archipelago known as the Azores is home to Mount Pico, a volcanic mountain that holds the title of the tallest mountain in Portugal. Though the volcano is considered active, the last known eruption was in 1720. By volcanic standards, Mount Pico is relatively young, with geologists suggesting that the formation was created less than 230,000 years ago.",
+    "imageCredits": "Marco Bottigelli / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_18.jpg?versionId=5bvD6g0NxNZLyiiSfq5efV3UNJetkQOj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_18.jpg?versionId=2UZJeLZhxRQnEmKbgU2GjfZ_vWlfxWlw",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson18.mp3?versionId=WrMfFv.OUwGcCWMLOVW0Bg..xb9OgIrA",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2368831,
+    "cultureContent": {
+    "imageLocation": "Soajo",
+    "imageDescription": "Although the small village of Soajo will charm visitors with its humble homes and characteristic chapel, the landmark of this town is certainly the curious, miniature stone \"churches\" that sit on stone stilts and surround the area. Created to protect harvests from storms and pests, these structures are granaries, and they were shared among the community in days of old.",
+    "imageCredits": "RolfSt / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_19.jpg?versionId=2SBI9Q.z8BHP7HbTMAF56Bby6JO72PLL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_19.jpg?versionId=FEdDJhK.L7SXaRIWFD.n8DJr6ijZaKqO",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson19.mp3?versionId=PKfL8RjB10YMKx2tqxgbi29w8v4Uhvds",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2368839,
+    "cultureContent": {
+    "imageLocation": "Porto",
+    "imageDescription": "Having the distinction of being Portugal’s second-largest city, Porto is situated on the coast in the northwest of the country. Despite it being second to Lisbon in terms of size, Porto has been recognized as one of the fastest-growing tourist destinations in Europe, with hotel occupancy rates reaching nearly 80% in 2017.",
+    "imageCredits": "Sean Pavone / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_20.jpg?versionId=z3mInA1b0Du_bEa4U0sdShzoF9sYaNfH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_20.jpg?versionId=ew5_YyTJ6oOIAhWyirZS4J2eJ2e3SKw7",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson20.mp3?versionId=8PkpzMepSo98JceJ7s4Vl7fP61kqfpIR",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2368832,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "With evidence of fisheries dating back to the Roman period, fishing is a staple of Portuguese culture. One of the most widely-used fish species for Portuguese cooking is the cod, with the iconic Portuguese salt cod recipe bacalhau believed to have been being made even in pre-history.",
+    "imageCredits": "Michael S. Lewis / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_21.jpg?versionId=94RW0Zp0YGOZvxiuTbkjLuGz_BWbQC5F",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_21.jpg?versionId=BYUi6LxVapFrhIu9TdH.2gJ_etcEkcEi",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson21.mp3?versionId=3QnWnGaZD9K_z3u8Ry62ih7veuRcqmjZ",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2368834,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "Bizarre costumes (and ornate headwear!) are a staple of Lisbon’s Iberian Mask Festival, a celebration that takes place in the first weekend of May. With the first-ever Mask Festival being held in 2006, the celebration aims to commemorate Spain and Portugal's ties to one another. Though Spanish and Portuguese cultures are distinct within the celebration, several costumes share a common origin in Catholic and Pagan traditions.",
+    "imageCredits": "rfranca / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_22.jpg?versionId=vNfdlh30Vm_Bj.Y1JCAraZmO4.IZbFOr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_22.jpg?versionId=G8wMGZlwxYS4nnuvEhaFS7F72uVqh._2",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson22.mp3?versionId=KHRJ9McN1hKjjwnxBkDQahU_.qwnIFcR",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2368825,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Traditional Portuguese wineries like Quinta da Pacheca are celebrated for their historic origins and old-school vinification methods, which include stomping barefoot on grapes! Barefoot treading on grapes allows winemakers to control the output of the fruit's tannins while minimizing the number of broken seeds that appear in the wine, thereby ensuring the wine’s quality and flavor.",
+    "imageCredits": "Joe_McUbed / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_23.jpg?versionId=GfIGkufGNG2akji5qd_ufSpsSEFBVSFZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_23.jpg?versionId=N59ReHADsGBZo6CS8qDKJmr7hOxjLRQh",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson23.mp3?versionId=6YYIKikz5HGMQS_1ysgOackdMM7p5mHd",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2368838,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "In 2018 the Red Bull Soapbox Race made a stop in Lisbon. This four-wheeled contest pits amateur drivers against each other in a downright hilarious fight to the finish line. Racers create their own car-like contraptions for the race, which are decked out to replicate anything from inanimate objects to more intangible concepts. The cars are motorless, meaning that pilots must rely entirely on their own strength, and the force of gravity, to complete the course!",
+    "imageCredits": "SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_24.jpg?versionId=aWnCZLw7BcJWqfa1VGsF1LhM5eDMLNJW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_24.jpg?versionId=jz95K9ibwNZbkTBVUjHoIfHg1wJW0Cun",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson24.mp3?versionId=EJ5MXLu31jMn4Px1Ug2GJs_2vjGLf.7Q",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2368833,
+    "cultureContent": {
+    "imageLocation": "Porto",
+    "imageDescription": "Meat-lovers looking for an indulgent Portuguese lunch may look no further than the Francesinha sandwich, hailing from the city of Porto. The sandwich contains ham, sausage, steak, cheese, an egg, and beer sauce, usually served with a side of French fries. This decadent Porto icon was invented when a Portuguese cook who had lived in France attempted to adapt the French croque-monsieur to Portuguese tastes by adding local meats.",
+    "imageCredits": "Ivan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_25.jpg?versionId=RU1pTaVOBEJjLtN7HZ8Y4Clcef2IY6z.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_25.jpg?versionId=AYW0MUJM9o_nLsep9oBafZq_HirgHljq",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson25.mp3?versionId=rImB_7H0ebSy18PliXfooeEku2acMY9X",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2368835,
+    "cultureContent": {
+    "imageLocation": "Lourinha",
+    "imageDescription": "The town of Lourinha, located just north of Lisbon, is a must-visit for dinosaur lovers – the town is known worldwide for being a treasure trove of fossils from the Jurassic period. At the Dino Park, one can even see a species called the Lourinhanosaurus, aptly named after its place of discovery!",
+    "imageCredits": "JOSE MANUEL RIBEIRO / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_26.jpg?versionId=20yPTpEFXevwXzRGbL5nLZx94xxngBiT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_26.jpg?versionId=xYu1UnACcrSF85yrby396o9VZHJImNQJ",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson26.mp3?versionId=BTTZ1q1OM6ma0ARitrwLnC_7lv6klCq8",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2368810,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "The color-blocked buildings of Lisbon are rendered even more eye-catching in the Alfama district, a traditional neighborhood that is one of the oldest areas of the city. Nearby shops sell handmade crafts, while street artists paint decorative murals onto the walls of nearby buildings. Alfama combines cultural staples with contemporary attitude, creating an atmosphere that feels wonderfully eclectic.",
+    "imageCredits": "Robert DEYRAIL / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_27.jpg?versionId=QJ3iHUQ2ceUHSC1AsRu5zDrMU2GZgb2y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_27.jpg?versionId=xVGP3KKSMFLpcWf91dHflipf5k7YuJ_e",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson27.mp3?versionId=.JT.5h8HtTClQxjtRIfV88peKjm5N3Y4",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2368811,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "Where the metro is not available, Lisbon’s tram system provides a way for people to get around. While some trams are equipped to handle the narrow, curved streets, others are only able to traverse the city’s flattest areas. Tourists may want to consider taking the 28 tram, whose classic yellow cars rattle and screech through several of Lisbon’s most popular historic areas.",
+    "imageCredits": "Matteo Colombo / DigitalVision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_28.jpg?versionId=LDAECk10EcEP7jgQd6c.sk.2.0Q5Bpoz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_28.jpg?versionId=9ptuBaXw9tdJiZkp_iDLTk.c_HsVM1l6",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson28.mp3?versionId=ouSZvU6Iwa28CcnwXZP4bGNABmJS6c7j",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2368818,
+    "cultureContent": {
+    "imageLocation": "Portimao",
+    "imageDescription": "First held in 1951 as a sports car race, the Portuguese Grand Prix, after some iterations as an F3 and several hiatuses, has recently been a Formula One World Championship event, where the world's best drivers can showcase their skills in a death-defying contest. Lewis Hamilton of Great Britain was overjoyed at his 2020 victory, achieving the world record for number of F1 wins – a staggering 92!",
+    "imageCredits": "Dan Istitene - Formula 1 / Formula 1 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_29.jpg?versionId=QnKxT.SKnUoRVZLnllU4f5oiPtIblo0c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_29.jpg?versionId=9869UMzSoTBA3nMy7cUcwJfDUTcwOb4G",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson29.mp3?versionId=K71o.DmLnbVHuMXEH015wOc2ugFsO_Oh",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2368817,
+    "cultureContent": {
+    "imageLocation": "Lisbon",
+    "imageDescription": "The remains of several royals and nobles are entombed in the Cathedral of Saint Mary Major, also called simply the Se, the oldest and most famous church in Lisbon. Believed to have been at first the site of a mosque during the rule of the Moors, the cathedral has become a hub of scholarship, with archaeologists continuing to unearth artifacts. After surviving several earthquakes and undergoing numerous reconstructions throughout its history, the cathedral’s exterior represents a mix of architectural styles.",
+    "imageCredits": "Brenda Kean / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/full/PortugueseEuropean_2_9781797144832_M_30.jpg?versionId=k9g87l6MgvNx6JvsXS90ty5sAhQoqWRU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/lesson_photo/thumb/PortugueseEuropean_2_9781797144832_M_30.jpg?versionId=vNli9wTUXnDdoeM4MsX49JDrGP8Lt_AS",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/main_audio/PortugueseEuropean_2_9781797144825_Lesson30.mp3?versionId=B06Db3.lOIdiZFcX5SMHwF7_qY8nZo3A",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2368822,
+    "cultureContent": {
+    "imageLocation": "Almada",
+    "imageDescription": "Created in gratitude by Portugal for being spared direct assault in World War II, the Sanctuary of Christ the King monument, inspired by Rio De Janeiro's famous Christ the Redeemer statue, overlooks the Tagus River and city of Lisbon beyond. The 92-foot-high figure of Christ stands on a 270-foot-high pedestal that sits atop a natural promontory. The monument’s interior houses a library, a bar, a chapel and religious artifacts.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese (European)/Portuguese (European) Level 2 orig/asset/RL/PortugueseEuropean_2_9781797144832_Intro.pdf?versionId=BIjXRs6VjgYRt0kNKzk6R9gWFccl7Rat",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading01.mp3?versionId=esMfTsARIAZnmIkn4aWIFJC9e8FbjFby",
+    "mediaItemId": 2365427
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading02.mp3?versionId=4s.j_UD0Wz4I9sORoY7U44gRdjslLa8t",
+    "mediaItemId": 2365428
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading03.mp3?versionId=8O.t5Go6jOkA8sBU6ym04BZCxexiKr9C",
+    "mediaItemId": 2365429
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading04.mp3?versionId=EYfi3XKctWZVNUKh7oOYCRff2wxc2wO_",
+    "mediaItemId": 2365430
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading05.mp3?versionId=JHY614Q.PcX5LmXebwWm.ABUVbeDIn1o",
+    "mediaItemId": 2365431
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading06.mp3?versionId=Lh.fraQS9ccyJuQyj93PU06U1Ip_fboi",
+    "mediaItemId": 2365432
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading07.mp3?versionId=LM5gBnp4_D0xXIaO2N7wh6bD.uEj7uSI",
+    "mediaItemId": 2365433
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading08.mp3?versionId=uTR4MZMos4UTaaGx2qD94UnmfaCf940C",
+    "mediaItemId": 2365434
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading09.mp3?versionId=zLSUcTkR8s4iVvzTNGpVxxCxTindcyaA",
+    "mediaItemId": 2365435
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading10.mp3?versionId=AZX87YIAkw3kBUzswU4ez2xaadyUUBN2",
+    "mediaItemId": 2365438
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading11.mp3?versionId=I4ts9RDHpgn05FFrBn1kwJYVSWcIzwkv",
+    "mediaItemId": 2365436
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading12.mp3?versionId=2o99Re9DZD05r7.sYft.19cbva_x6BDs",
+    "mediaItemId": 2365437
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading13.mp3?versionId=rRSfYLbQW6ID2ozK1HFsd44hWHMC7qJp",
+    "mediaItemId": 2365440
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading14.mp3?versionId=gyc57KqXpX_3nD6PXXxBu5cmw7ICcELq",
+    "mediaItemId": 2365439
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading15.mp3?versionId=upBTJb68poDN6kjldIXgA2qNPjMHNYKf",
+    "mediaItemId": 2365441
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading16.mp3?versionId=nA2tOJFAGDG1bD3Tq89zFFO08yqr0V4A",
+    "mediaItemId": 2365442
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading17.mp3?versionId=rYSEQep.pPu0FXIoUrsmuSuKhC4sTk99",
+    "mediaItemId": 2365443
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading18.mp3?versionId=jiaakldDsNwf7LWINL3gggR2N6rBeF_w",
+    "mediaItemId": 2365444
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading19.mp3?versionId=jGJeHUawZ7gPkGTMdtoMzONSjAquhq_y",
+    "mediaItemId": 2365445
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading20.mp3?versionId=l.J9PyNx.zKeVbG.v8Rag1ndoxi19BGm",
+    "mediaItemId": 2365446
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading21.mp3?versionId=X.Vsi57U9WAZdYmu6gKSnbXyiH_hDFQo",
+    "mediaItemId": 2365447
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading22.mp3?versionId=6.1eb7VPhHiqHMn5uU3eaurC7SCbOUNY",
+    "mediaItemId": 2365448
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading23.mp3?versionId=iZZpfF.bSnRwp4czhjaiR8TmyRrUe2ez",
+    "mediaItemId": 2365451
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading24.mp3?versionId=ivru3FKU3Rl9CjYmde_HDbNGb60MOJF.",
+    "mediaItemId": 2365449
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading25.mp3?versionId=i_iV_L0WouobM5EGBe1JAWPqP7zImNCC",
+    "mediaItemId": 2365450
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading26.mp3?versionId=oGwh4iM0ceTLq.uKVKKkMYovUoUG0bSt",
+    "mediaItemId": 2365422
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading27.mp3?versionId=LxR5kj8iVigNIbhQEEInEyA7G.kwXe7.",
+    "mediaItemId": 2365424
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading28.mp3?versionId=Bkm3tt1aF2y45RMRW7l4sVyRB1_vQ2tF",
+    "mediaItemId": 2365423
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading29.mp3?versionId=cNG3aU8Ml5s7XTgZg0mphFX19tK2SLJK",
+    "mediaItemId": 2365426
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28European%29/Portuguese%20%28European%29%20Level%202%20orig/asset/RL/PortugueseEuropean_2_9781797144825_Reading30.mp3?versionId=2dgi5SXpDZCIUIfOCICM1obzWEta.OW2",
+    "mediaItemId": 2365425
+    }
+    ]
+    },
+    "languageCode": "pt-PT",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781797144832",
+    "level": 2,
+    "courseName": "Portuguese (European) Level 2 Premium",
+    "simpleCourseName": "Portuguese (European) Level 2",
+    "puArabic": false
+    }
+    ]

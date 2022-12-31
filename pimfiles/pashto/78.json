@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 5204,
+    "languageName": "Romanian",
+    "languageId": 164,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_01.jpg?versionId=_op5Ig6WC3nZqb0PfX4o5b8mnGmfvx0z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_01.jpg?versionId=HMaUI9CaMHDqnwYgaTIl.I8kfh6kXLOn",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_01.mp3?versionId=D2mhB6dWPNRVTNIxA5drvOUKZb1ZS9sv",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323144,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Spoken by approximately 34 million people worldwide, the Romanian language has roots in the Roman settlement of the region. Romanian shares a basic vocabulary with Latin, with additional words borrowed from Slavic languages, as well as German, Hungarian, and Turkish. There are five main Romanian dialects and several sub-dialects.",
+    "imageCredits": "	Alexander Spatari / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_02.jpg?versionId=XpG9SPK__GbFaJxp2DYStfhHFezonaXy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_02.jpg?versionId=G2WSdL.vMdHggZn.ZIZza552Z_YGKkuM",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_02.mp3?versionId=aZTQQSRlGhtkanXdStUuA2pQgHwbCk4r",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323148,
+    "cultureContent": {
+    "imageLocation": "Transylvania",
+    "imageDescription": "One of Europe's largest castles, Corvin Castle is a Renaissance-Gothic style fortress in southwestern Transylvania. Construction began on the castle in the 15th century, with additions made in the 17th and 19th centuries. There are legends and tales associated with the castle, including that Vlad the Impaler was imprisoned there.",
+    "imageCredits": "Walter Bibikow / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_03.jpg?versionId=KFmaFapbbvUfkDR9hlkiZVY6V0WTAraX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_03.jpg?versionId=icNz5VqqURs9uqy4tpSMOKQHq5gOaoeJ",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_03.mp3?versionId=Ek1w6QKq9yWYBoHxeTTKxemtElFL4CA1",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323152,
+    "cultureContent": {
+    "imageLocation": "Sibiu",
+    "imageDescription": "An important trade city since the first century BC, Sibiu is located on the Cibin River in central Romania in the Transylvanian region. Known as The City with Eyes, Sibiu is a popular destination for tourists who flock to see its well-preserved medieval architecture. With a long history dating back to the Daco-Roman empire, Sibiu was once occupied by Saxons who named the city Hermannstadt after the archbishop Hermann II.",
+    "imageCredits": "Alexander Spatari / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_04.jpg?versionId=KuEkRPOxY.lkjoY0AJKQ0sR82Ohv5q7D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_04.jpg?versionId=jZQKbT.JohlM552CzpQwR7J_lZn17FGh",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_04.mp3?versionId=x8t7c0Ziwr1yL13Pzd0d7J6OXl4VKYi9",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323159,
+    "cultureContent": {
+    "imageLocation": "Vama Veche",
+    "imageDescription": "Located on Romania's Black Sea coast, the village of Vama Veche was founded in 1811 by Turkic Gagauz people. It was a popular destination for bohemians and intellectuals in the 1960s, and famous for its nude beach. The annual Stufstock music festival raises awareness of the issues of gentrification and overdevelopment in the region.",
+    "imageCredits": "sorincolac / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_05.jpg?versionId=9Jj3_oxWDqsxpkQIycpBUz4V.UcVqvmi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_05.jpg?versionId=197MtA6fKvtUbTmSPnvGthIsEs6lG9hy",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_05.mp3?versionId=AjcJzZ.xu6iYK19pR6grBBg1lnyrHzaD",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323166,
+    "cultureContent": {
+    "imageLocation": "Black Sea",
+    "imageDescription": "Romania has a coastline of 150 miles on the Black Sea, with the Danube Delta in the north, and seaside resorts lining the southern coast. The overdevelopment of these resorts has caused massive disruption to the environment, including coastal erosion of nearly seven feet per year in some areas.",
+    "imageCredits": "sorincolac / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_06.jpg?versionId=ICPgdI3VVImZQwQqKxpVJuiPOuDfYJVw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_06.jpg?versionId=ex8PkO26srV.hcDVo4M1n1p4PfH9Uia9",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_06.mp3?versionId=15OIYg_3avI93zPsP_lNIaGRlYlupt6d",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323175,
+    "cultureContent": {
+    "imageLocation": "Poiana Brasov",
+    "imageDescription": "Thanks to its accessible mountains and reasonable prices, Romania has been growing as a winter sport destination in recent years. Visitors can enjoy a long snow season and a multitude of accommodations near castles and other tourist spots. Most resorts serve hot mulled wine and țuică, a traditional Romanian plum brandy, perfect for warming the cheeks after a day on the slopes.",
+    "imageCredits": "Daniel Avram / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_07.jpg?versionId=rvQnnMSd_ZBNaOughbVNpto0pTy59XpM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_07.jpg?versionId=0VB4gWmJhWNYHMNDBnU6MRnDuLKwE018",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_07.mp3?versionId=bxsRsSZx9B.7V8jh75NsEfXTxvAHxdti",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323182,
+    "cultureContent": {
+    "imageLocation": "Székely Land",
+    "imageDescription": "The Székely Land is a historic and ethnographic region of central Romania in the eastern Carpathian Mountains populated mainly by ethnic Hungarian Székelys and Roma. The commune of Porumbenii has been settled since the Bronze Age, and the people support themselves by agriculture and sheep herding.",
+    "imageCredits": "Florian Gaertner / Photothek / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_08.jpg?versionId=qHcyg6.q1WqpkZN5QwYBcmvJ814.JmCF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_08.jpg?versionId=bhn_Ziq9YKnV_qABFgomECGikAbjYLw5",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_08.mp3?versionId=8ZThsIdn30RyNw4E1Ll2BauS4t7z8tB9",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323190,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though Romania is a secular state, over 80% of Romanians identify as Orthodox Christians. Easter is one of the country's most popular holidays, with festivities lasting several days. Eggs are dyed in intricate traditional patterns using a beeswax resistance method and children play an egg tapping game.",
+    "imageCredits": "DANIEL MIHAILESCU / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_09.jpg?versionId=MqbNNzvNvZDc0yRFbDmwdOdrpTAZHW.W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_09.jpg?versionId=J3BJXc5kf7dlqR9X2k7bTKvNa9_urHin",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_09.mp3?versionId=DcVGnv6CrwFQqxlls5uXoFpz642iWjTa",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323201,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Romanian people maintain rich folk traditions, even bolstered from the support of the courts and monasteries throughout their history. During New Year Romanians celebrate with Ursul, the bear dance. They dress up in bearskins and red cloaks, dancing their way through the streets, drinking, and visiting friends.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_10.jpg?versionId=boS.opfYhA25dajPeBAi43yHSCp8a5oY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_10.jpg?versionId=0_Dd8nhSNAXRf0_6PgvuIWocUIFBmMlJ",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_10.mp3?versionId=yjpY2eEz_zAufcODGktLGEPEc8onUEgg",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323209,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "At the 1976 Summer Olympic Games in Montreal, Romanian gymnast Nadia Comăneci became the first gymnast to be awarded a perfect score of 10.0. She won nine Olympic medals in her career, including five gold medals, and was known for her innovative, clean technique and calm demeanor during competition. She is still heavily involved in gymnastics, serving in leadership roles throughout the world.",
+    "imageCredits": "Andreas Rentz / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_11.jpg?versionId=mt7qaB35hlk3.IRUs9vbif_Ej9r4vpEf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_11.jpg?versionId=6jp_BFOhgrycAk3bt9Q_.gyZjPEhTxvN",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_11.mp3?versionId=ijlKaBuePiHwLBbreQ7tfSz4syRKVcBs",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323218,
+    "cultureContent": {
+    "imageLocation": "Sibiu",
+    "imageDescription": "First held in 2008, Feeric Fashion Week is Romania's most important fashion event. It's held in the city of Sibiu in Transylvania, and is known for utilizing atypical venues for showings such as actual airport runways, churches, factories, train depots and woodlands. The event gets its name from the Romanian word “feeric,” meaning enchanting.",
+    "imageCredits": "Edward Berthelot / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_12.jpg?versionId=cqsrVYcgBrWW76gYmHV95vPmXfMarp13",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_12.jpg?versionId=qUoQ8pUVhNCEaZ0J5p1bZ_lDKpcMUPKl",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_12.mp3?versionId=rvMnaMRWnd.PmXaaa0HnZuxV53fgxSV7",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323225,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Coming to power in 1965, communist leader Nicolae Ceaușescu initially eased press censorship, but his government gradually became totalitarian, exerting media and press control and mass surveillance. His rule ended in a violent revolution in 1989, since which freedom of the press has been guaranteed in the country.",
+    "imageCredits": "DANIEL MIHAILESCU / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_13.jpg?versionId=KzqKMUvvsrt6fs7MyCYVc4HiFT5.7UjL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_13.jpg?versionId=cc9TfLUsiAf2DP.46B4Y8gPK71PSlEcn",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_13.mp3?versionId=FRULXuMtSpnonBN8ihuzTBDnxUuudStA",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323235,
+    "cultureContent": {
+    "imageLocation": "Southern Romania",
+    "imageDescription": "Partially forming the border between Serbia and Romania, the Iron Gates of the Danube is an 83-mile-long gorge through which the Danube River flows. Called Porțile de Fier in Romanian, the gorge hosts two hydroelectric power stations and has been inhabited since the Neolithic period. Lepenski Vir, a Mesolithic settlement located at the gorge, is considered Europe's oldest planned settlement.",
+    "imageCredits": "GoodLifeStudio / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_14.jpg?versionId=RZP7KkVPmzjRdKgYgW6cs6alRNAZWmt_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_14.jpg?versionId=2qW4youl23jiRhczYTSnZEj2f2hI4KUR",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_14.mp3?versionId=WWSx1ciTrHuLlAK2jMEIKud1BecRm1ji",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323243,
+    "cultureContent": {
+    "imageLocation": "Prahova County",
+    "imageDescription": "Built by King Carol I of Romania between 1873 and 1914, Peleș Castle is a Neo-Renaissance style palace near Sinaia in the southeastern Carpathian Mountains. The palace has over 170 rooms, many of which honor a diverse range of cultures and styles including Florentine, Imperial, Turkish, Moorish, and French. The castle now functions as a museum, hosting a massive collection of over 4,000 pieces of arms and armor, and almost 2,000 paintings. The Romanian royal family still occasionally uses the property for public ceremonies.",
+    "imageCredits": "Vlad Busuioc / 500px / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_15.jpg?versionId=pEEfnizM5PvJUZRAr.eLpqEP0o4K0xR5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_15.jpg?versionId=iCJKJ6mmG_K5Qw2VGm5rThdfG1q5Y23E",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_15.mp3?versionId=ByLYjS5LcKC4QuQEYCjvka7xTvnaILKw",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323251,
+    "cultureContent": {
+    "imageLocation": "Mehedinți County",
+    "imageDescription": "Commissioned by Romanian business magnate Iosif Constantin Drăgan in 1992, the rock sculpture of Decebalus is a 180-foot-high sculpture carved into a rocky outcropping on the river Danube that honors Decebalus, the last king of Dacia. It took 10 years to complete, and is positioned across the Danube from the Tabula Traiana, standing as if in defiance over the defeat of Decebalus by Roman emperor Trajan in the year 105.",
+    "imageCredits": "porojnicu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_16.jpg?versionId=tH.cHET2ZfSl8VgsOrC1heZbA.OWQjZk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_16.jpg?versionId=AGJVw90Fw82dtwvO0IswpPSXLj7zIj24",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_16.mp3?versionId=KXXgHCWSIa49Y9qoQ.yRSK0YQtd.kSkU",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323258,
+    "cultureContent": {
+    "imageLocation": "Târgu Mureș",
+    "imageDescription": "The Palatul Culturii, or Palace of Culture, is found in the ancient city of Târgu Mureș in the Transylvania region of Romania. The palace was completed in 1913 in the Art Nouveau style, with two concert halls, three main buildings, and is home to a library, museum, and the state philharmonic orchestra.",
+    "imageCredits": "benedek / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_17.jpg?versionId=_7qnQP9skxgcHoC.sZ65vyf_RDeGH2Ze",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_17.jpg?versionId=GhxzLw7Dio_FZQr7wFpLAcTT00eCReBh",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_17.mp3?versionId=hJTwG45lGvofMXXilkmbDxvRlTGpFe1P",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323267,
+    "cultureContent": {
+    "imageLocation": "Caraș-Severin County",
+    "imageDescription": "In Romania's southwestern Anina Mountains can be found one of the most unusual waterfalls in the world. Due to the unique shape of the travertine and the accumulation of moss, the waters of Izvorul Bigăr, or Bigăr Spring, spread and descend in delicate shreds making this cascade a much-visited natural wonder.",
+    "imageCredits": "cta88 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_18.jpg?versionId=ubGn4DXFWmNtBfkbOcVfU_ujt_bxcrxc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_18.jpg?versionId=V4AYN.vd5XSQq46rsQe8cQKggw2trhb4",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_18.mp3?versionId=5LSi7Tm2fmokQnl2VSEhLgEnqKQ816GC",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323274,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "As with most of Europe, soccer is extremely popular in Romania. The Romanian national football team was founded in 1909 and has qualified for seven World Cup tournaments since 1930. Team Romania has a long-standing rivalry with neighbor Hungary, with matches often ending in violence between opposing fans.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_19.jpg?versionId=LKmuh3uNkfUAfKYS4XYFI6yp3omO3_tu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_19.jpg?versionId=092jX3bou0wnHtv8dcjK_3kjTOyQjmgG",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_19.mp3?versionId=o_YC1BcaO6YWlrMPfkTjscD34KHm8Lsz",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323283,
+    "cultureContent": {
+    "imageLocation": "Sucevița",
+    "imageDescription": "Built at the end of the sixteenth century, Sucevița Monastery is an Eastern Orthodox convent located in the village of Sucevița in northeastern Romania. It is considered to be one of the last monasteries with surviving exterior mural paintings in the Moldavian style. In the present day, the monastery houses a museum rich with historical objects.",
+    "imageCredits": "carmengabrielan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_20.jpg?versionId=UF1MGnA8d041X2YbmOoTHp82v9cX_PJM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_20.jpg?versionId=CnEgJ9XYnHBPOApVV4c5n7uK2UaxXkb_",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_20.mp3?versionId=3AUQlPe11ew7VWLY0HlHRz.csypIIQ2l",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323292,
+    "cultureContent": {
+    "imageLocation": "Brașov",
+    "imageDescription": "Populated since the Neolithic period, the city of Brașov in Transylvania has been a trade hub for thousands of years. Numerous cultures have occupied the area, from the Dacians to the Romans, Transylvanian Saxons, Hungarians, and Germans, making for a wide array of folk traditions, such as the Junii Brasovului, a springtime celebration of the town's youths that takes place the first Sunday after Easter.",
+    "imageCredits": "sorincolac / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_21.jpg?versionId=jXp3D27_wQdVUHiJcAO8k.TeJTAmRd4G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_21.jpg?versionId=Afv4p7s2E2s_rMtUSy7iiH33ai.8s4Mm",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_21.mp3?versionId=W.XRxI6ud5QigIOLOsHHnm5laBuy4p.9",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323306,
+    "cultureContent": {
+    "imageLocation": "Bucharest",
+    "imageDescription": "Bulevardul Unirii (Union Boulevard) connects Constitution Square with Alba Iulia Square in central Bucharest. This major thoroughfare was constructed in 1984 after the 1977 Vrancea earthquake had destroyed several historic buildings. It was intended to be Bucharest's answer to Paris's Avenue des Champs Élysées.",
+    "imageCredits": "benedek / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_22.jpg?versionId=bke7ZDNpRorBhghC0RINsGRrVGJAx3dl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_22.jpg?versionId=YLFVRloeitAAAJLgoUJj.mKgAaaA8_7T",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_22.mp3?versionId=fFyoEZSA7.iTOty6zl4IEFxtsY9zdwBG",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323315,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "With roots in Thracian, Dacian, and Getae garb, traditional Romanian dress has been influenced by other Balkan cultures for thousands of years. The “pieptar,” which has many other regional names, is a sheepskin vest decorated with intricate embroidery. It's worn with the fleece facing inward to keep the wearer warm and cozy.",
+    "imageCredits": "DANIEL MIHAILESCU / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_23.jpg?versionId=.qko6SA92JKg3vY.IdOkfWT2iWo8D4Ts",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_23.jpg?versionId=NSKkuhvVVyt.05MN.XVibNH2xA2TEt4r",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_23.mp3?versionId=D9CruANHdHqlOSjnvJwhohaqPnKE5ox8",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323327,
+    "cultureContent": {
+    "imageLocation": "Turda",
+    "imageDescription": "In use for many thousands of years as a source of table salt, Salina Turda is a salt mine complex in northwest Romania which is now open for tourism. Four main mines are accessible for visitors, along with a halotherapy center and an octagonal room that features an antique winch. The Terezia mine section contains an underground lake with rowboats for use, stalactites, and a salt cascade.",
+    "imageCredits": "DANIEL MIHAILESCU / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_24.jpg?versionId=DxJaqM_DZVl9oegnEsHXDzlwbY_vlYR0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_24.jpg?versionId=aKF3Jj6N0niRA_raVwavFAPpj3wB6w_Q",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_24.mp3?versionId=WiNuumhefm.jiftDnveivsZtFtL7mBVo",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323334,
+    "cultureContent": {
+    "imageLocation": "Sibiu",
+    "imageDescription": "Cisnădioara village in Transylvania is home to the oldest Romanesque-style church in Romania, the Biserica fortificată din Cisnădioara, or Fortified Church of Cisnădioara. It was built in the late 12th century atop a high hill, and served as a safe haven for villagers during Ottoman attacks. It was once a tradition that young men in the village must roll a large rock up the hill to the church before marrying; a way to keep the church armed with defensive ammunition against sieges.",
+    "imageCredits": "Eduardo Fonseca Arraes / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_25.jpg?versionId=CVUhMJf4HKBNnV_X0VdHrWSsvVV.XBv9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_25.jpg?versionId=bmIyqeYx5GpvLxdfWl6T6ilG22CemfnS",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_25.mp3?versionId=0R8v0HXSEEpCLtfO87ecMNizQVXkItPB",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323344,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Romanian cuisine has long been influenced by the country's Turkish and Hungarian neighbors, as well as the cuisines of Eastern and Central Europe. Sour soup, a common element in the cuisines of many countries in the Balkans, is made by fermenting vegetables or grains. In Romania it's known as Ciorbă. Also popular in Romania is Hungarian gulaș, or goulash, a centuries-old dish made popular by Hungarian herdsmen.",
+    "imageCredits": "alexrvan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_26.jpg?versionId=Nli1EgESMD04iP3YN7FofLCVIxME8K5c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_26.jpg?versionId=rkBq0Q.kPU1nmLG050Tx3RVaBGb5nIFR",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_26.mp3?versionId=ttydYGs45MUWIpqd.mQfGeLxeMGuklGC",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323351,
+    "cultureContent": {
+    "imageLocation": "Bistrița-Năsăud County",
+    "imageDescription": "Named after the Slavic word ”ruda,” meaning iron ore, the Rodna Mountains in Bistrița-Năsăud County, Transylvania are a subdivision of the Eastern Carpathians. One of the longest continuous ridges in Romania, the region is home to the Rodna National Park and Biosphere Reserve.",
+    "imageCredits": "Adrian Petrisor / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_27.jpg?versionId=DzMYpj4LYUo8QLpEBn9AsO6X3uLxlNdX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_27.jpg?versionId=9wqVMTdP3AGxVAjBgYFHyyWU6NqW7H7X",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_27.mp3?versionId=Di2.drAA6rKNP5knlyzfwhz9Gbw5dWyp",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323361,
+    "cultureContent": {
+    "imageLocation": "Sebeș",
+    "imageDescription": "Râpa Roșie, or Red Ravine, is a natural monument north of Sebeș in Romania. Formed by rainwater eroding the red and white clay and soapstone, the ragged landscape of Râpa Roșie has attracted many visitors through the eons, including peoples of the Bronze Age Coțofeni culture, and long before that dinosaurs from the Early Miocene epoch.",
+    "imageCredits": "Oancia Iulian / 500Px Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_28.jpg?versionId=YDds63ArjbOTZLRBqVrkPNJoQ1VIIflc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_28.jpg?versionId=V_EYc3dBRG1sF1dJGmQjZI6sxXHMbnFI",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_28.mp3?versionId=7J4M67b5z2eHDm5jD6eL9_YW9Kei61gR",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323370,
+    "cultureContent": {
+    "imageLocation": "Maramureş County",
+    "imageDescription": "Cimitirul Vesel, or \"merry cemetery,\" is found in the village of Săpânța, in Maramureş County, Romania. Famous for its colorfully decorated tombstones with funny stories about the departed, the cemetery is a popular tourist destination, attracting visitors who, one hopes, will leave with a feeling of whimsy about mortality.",
+    "imageCredits": "Jean-Philippe Tournut / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_29.jpg?versionId=F.FAVTUKHKCR6FwwwLx_Qmvx4zJXiJQ.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_29.jpg?versionId=ZMGZLjyj.rl7zPWVGomedZ8QEaJeui3_",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_29.mp3?versionId=DWhI0R0HhZWTpW205WPxL1BNm3a6DbhM",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323380,
+    "cultureContent": {
+    "imageLocation": "Carpathian Mountains, Romania",
+    "imageDescription": "Famously twisty with hairpins and s-curves, the Transfăgărășan is a paved mountain road in the Southern Carpathians in Romania. Built in the early 1970s to provide military access across the mountains, the road has since become a tourist attraction, providing thrills for motorcyclists and motoring enthusiasts.",
+    "imageCredits": "Christian Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/full/Romanian_1_9781797144412_M_30.jpg?versionId=AX1dOPKo1ysI590Hb.A4udg91iawmAgE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/lesson_photo/thumb/Romanian_1_9781797144412_M_30.jpg?versionId=p_M89.rlXtUvc1o3Yahme1qL0.IYz8aj",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/main_audio/9781442323070_Unit_30.mp3?versionId=QDjWTdEK_Nwj8bncRxDxwJcqTXat5XG8",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323391,
+    "cultureContent": {
+    "imageLocation": "Bukovina",
+    "imageDescription": "Populated since Paleolithic times, the Bukovina region straddles the border between Romania and Ukraine in the northern reaches of the Eastern Carpathians. Once ruled by the Kievan Rus, Bukovina has passed hands countless times. The region gets its name from an old Slavic word “buk,” meaning beech tree, thus Bukovina means \"the land of beech trees.\"",
+    "imageCredits": "MARIAN Gabriel Constantin / 500px / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian Level 1 orig/asset/RL/Romanian_1_9781797144412_Alpha.pdf?versionId=1uXcxj9HwoOOFl6xQbK.yd8MuxEY7VCC",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian Level 1 orig/asset/RL/Romanian_1_9781797144412_Intro.pdf?versionId=A7oudMHAOkn7z5L4wCO.UFk0dzcoLhtd",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading11.mp3?versionId=hrwXaEAtxBqSuoUgGc3ZYweMArmaetR9",
+    "mediaItemId": 2351324
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading12.mp3?versionId=SJb3cKIaLJah5AXqehd6epHK3jTtAN0E",
+    "mediaItemId": 2351326
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading13.mp3?versionId=kFZAmqjutr0l0Y_OZa9_F2RFghOu2Vaa",
+    "mediaItemId": 2351325
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading14.mp3?versionId=0jh8dVYqd_dCHVIIYt7TjlOmNDseDhue",
+    "mediaItemId": 2351328
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading15.mp3?versionId=1jc71WlDILRh.66GOhC9HF6jCswcsqTk",
+    "mediaItemId": 2351327
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading16.mp3?versionId=cWd4ahi3sU5YHfeMQ1jZT1EJgZG.mS1Q",
+    "mediaItemId": 2351329
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading17.mp3?versionId=6E4OKq8oTICUs.SrCbwGCPQkaVUQCB0K",
+    "mediaItemId": 2351330
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading18.mp3?versionId=eFTj3YfDovf.0qPkk14LRfv8dO8sGM43",
+    "mediaItemId": 2351331
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading19.mp3?versionId=_vzCyIkWSxSjD.J1fN1gsxKizg.Qjc0X",
+    "mediaItemId": 2351332
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading20.mp3?versionId=RY6YnT9C2iGN.2VxQAKdy1UZ3LFoymrv",
+    "mediaItemId": 2351333
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading21.mp3?versionId=QVipXQukLttdXO.mG2GZQ9llXdrQKRuh",
+    "mediaItemId": 2351334
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading22.mp3?versionId=yTOPETSLQCcdbq3Cu6Zl.ATpF9MLdE7F",
+    "mediaItemId": 2351335
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading23.mp3?versionId=af8ho7X8D1dHjeEMlNJKq0qjcT7Pq7bd",
+    "mediaItemId": 2351336
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading24.mp3?versionId=ktF9hr7PLV9Lx48RXEUOkJFeFk_auu.W",
+    "mediaItemId": 2351338
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading25.mp3?versionId=KlOLmQe1MT462djBhzsBZmtpL25PigJK",
+    "mediaItemId": 2351337
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading26.mp3?versionId=QH5Z3SmfEM9Dw2o9ptUoPIFnDfhdN30Q",
+    "mediaItemId": 2351339
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading27.mp3?versionId=4wCG9d3K_9yvHT.G.x9KY81KNTrSHbPp",
+    "mediaItemId": 2351340
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading28.mp3?versionId=w00hT53R6WR5JKkvEaFBEeU1zWVUycFN",
+    "mediaItemId": 2351341
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading29.mp3?versionId=lP_qeZGLRKxQYxybeVVMDFASw5Wivleg",
+    "mediaItemId": 2351342
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Romanian/Romanian%20Level%201%20orig/asset/RL/Romanian_1_9781442323070_Reading30.mp3?versionId=x7hum4QYZv8rR_8JxvifG5znr8OrM0da",
+    "mediaItemId": 2351343
+    }
+    ]
+    },
+    "languageCode": "ro-RO",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797144412",
+    "level": 1,
+    "courseName": "Romanian Level 1 Premium",
+    "simpleCourseName": "Romanian Level 1",
+    "puArabic": false
+    }
+    ]

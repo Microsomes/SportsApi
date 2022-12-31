@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 30244,
+    "languageName": "Norwegian",
+    "languageId": 159,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_01.jpg?versionId=EvQCtlkaXenYzk4_e5mwmGOng3gVSECL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_01.jpg?versionId=xk16q2J9_NOLjEiVwuV4rCXkKkChMrkI",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_01.mp3?versionId=9JEAnrxZ5ulOrwWMu9qGzizXNMJsT8kC",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2225316,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "Norwegians are descended from ancient Germanic tribes which migrated north around 3000 BC. Today there are over 10 million Norwegians living worldwide.",
+    "imageCredits": "Jen Pollack Bianco / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_02.jpg?versionId=8.my0Af07FT0maTtgHuISclbf1IF1pAQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_02.jpg?versionId=0x9EsN3tJViLGZj6e8bTKTTZPQKa6KGY",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_02.mp3?versionId=DSGfOhGIYjq88sK6adXzqORFidAHUwkA",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2225508,
+    "cultureContent": {
+    "imageLocation": "Vestvågøy, Lofoten Islands, Norway",
+    "imageDescription": "With its rugged peaks, and lush flat farmland, the island of Vestvågøy in the Lofoten archipelago is one of the most scenically beautiful areas in all of Norway.",
+    "imageCredits": "WIN-Initiative / WIN-Initiative / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_03.jpg?versionId=uBWGqA9_rUv6ZOPyRprpbTGsFK1VkIcv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_03.jpg?versionId=ZIleIWNLxgQ90pH8RKDLLrh64ErXl.SU",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_03.mp3?versionId=AIoeJxCemcIh_PK2AOe3ifN.qZDnxjOf",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2225674,
+    "cultureContent": {
+    "imageLocation": "Preikestolen, Lysefjorden, Forsand, Rogaland, Norway",
+    "imageDescription": "Meaning \"Pulpit Rock\" in Norwegian, Preikestolen towers 1,982ft above the Lysefjorden. It’s a popular tourist destination, both because of and perhaps in spite of its dangerous height.",
+    "imageCredits": "Orsolya Haarberg / National Geographic Image Collection / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_04.jpg?versionId=O18N8D2nSb40.7dXQlEDQKLfnsgr8dzW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_04.jpg?versionId=BV3Q0WOc17Sz0SgOmsphPFMsgcL3_8eL",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_04.mp3?versionId=7yprYFo2ETyN_8u8t0zD0GQbYTaGjgyJ",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2225864,
+    "cultureContent": {
+    "imageLocation": "Antholz-Anterselva, Italy",
+    "imageDescription": "Combining cross country skiing and rifle shooting, the biathlon requires endurance and precision. Norwegian Ole Einar Bjørndalen has won 13 Winter Olympic Games medals and 45 medals at the Biathlon World Championships, making him the most successful biathlete of all time.",
+    "imageCredits": "Vianney Thibaut / Agence Zoom / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_05.jpg?versionId=IxQrgjrnurUA4JrQRRnLPz1GC_vB.bSK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_05.jpg?versionId=gHuG8SQ1_bE.6L8Qv2wgjbQbdGjejYvo",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_05.mp3?versionId=souqRxp_x0QuQwQ38G0F_Npm5VilFsdA",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2226082,
+    "cultureContent": {
+    "imageLocation": "Bergen, Norway",
+    "imageDescription": "Built using a simple-but-strong framing technique, stave churches were common throughout Northern Europe in medieval times. Few stave churches remain today; but the vast majority that do are located in Norway.",
+    "imageCredits": "MariusLtu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_06.jpg?versionId=nvNucpuxZv9rfpeie9Gr4Rr0WcE1kJtB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_06.jpg?versionId=YN8MW2k.2gEyYVyBAtX6jOTqjnG9CR1O",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_06.mp3?versionId=n1dzIzOJZZvuE7i7144NVcwqzRqcKRbo",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2226287,
+    "cultureContent": {
+    "imageLocation": "Lofoten, Norway",
+    "imageDescription": "Horses were domesticated in Norway by northern Germanic people around 3000 BC. The Fjord horse is a sturdy, muscular breed, with a heavy, thick winter coat, and a sweet temperament.",
+    "imageCredits": "Lara_Uhryn / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_07.jpg?versionId=DvFPk76wk4F1GgKxqSD9kiWrK5opY7e8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_07.jpg?versionId=CFZIq9bWG5NvLnmeIbK.sWyDuUYTviJz",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_07.mp3?versionId=nvb4paJekzxAgENzd3V4MyGkjpiqjRCb",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2226541,
+    "cultureContent": {
+    "imageLocation": "Bodoø, Norway",
+    "imageDescription": "The road between Bodoø and Tromsoø through the Lofoten archipelago in Norway provides some of the world’s most beautiful coastal landscapes and mountain scenery.",
+    "imageCredits": "Viaframe / Corbis / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_08.jpg?versionId=ehfd7Ryp4gBeJeUV6vyc2x5kW_ho9efz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_08.jpg?versionId=.2roqvoXFEzwah465Hy8IIkdS3Xo6nza",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_08.mp3?versionId=PrdmRPRE9s2JKiKggXWUS95xUuxra76F",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2226780,
+    "cultureContent": {
+    "imageLocation": "Alta, Norway",
+    "imageDescription": "Towering in a titanium spiral toward the heavens, the Northern Lights Cathedral, or Nordlyskatedralen was constructed in 2013. The church can be found in the far northern town of Alta, in an area of Norway known as Finnmark.",
+    "imageCredits": "JKaren Deakin / 500px Prime / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_09.jpg?versionId=K1ThT3xIBKCX1DbBWekRVTeB5GUzqcDy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_09.jpg?versionId=iAppoDo.ohDeGbxKNUlr5SL04zFGgUT7",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_09.mp3?versionId=EY7Qpb0ovKLiW9CSAh_w2nYPc9Vr51W3",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2227050,
+    "cultureContent": {
+    "imageLocation": "Longyearbyen, Svalbard, Norway",
+    "imageDescription": "Due to its remote geographical location, Svalbard Satellite Station in Longyearbyen is exceptionally positioned to download data from satellites in polar orbit, and is used to study the northern lights.",
+    "imageCredits": "Nivek Neslo / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_10.jpg?versionId=yfWLM8jOl30bkJpxNJv.e2SVmWhTHb39",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_10.jpg?versionId=SZRM.dzR1U4XNJaOUg83xscEjC6eeBPE",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_10.mp3?versionId=_HbB4TUnDSDWdHMrJBIYLvgFmpcr5r6H",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2227457,
+    "cultureContent": {
+    "imageLocation": "Holmen, Alta, Norway",
+    "imageDescription": "The lavvu is a temporary, tent dwelling, used by the Sami people indigenous to northern Scandinavia. Its stout stature makes it stable in fierce polar winds.",
+    "imageCredits": "GSO Images / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_11.jpg?versionId=Sye0miaKXUT0SK10gswULMbe5iWh_5.D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_11.jpg?versionId=TLG5QPqGgwQofgO9YsZAFq7T2pOWswKp",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_11.mp3?versionId=Q43sGcasnF8ik8K6DPS7Z3ujVQJuzLaO",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2227712,
+    "cultureContent": {
+    "imageLocation": "Bergen, Norway",
+    "imageDescription": "Norway is one of the world’s top producers of Atlantic salmon. Norwegian salmon farms produce more than 1.2 million tons per year, much of which is exported.",
+    "imageCredits": "MariusLtu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_12.jpg?versionId=OT7_HyDeiwy9JcPuXk8XSgT8KqegtdrG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_12.jpg?versionId=VIzuyDu5U8Tgwncr6X2fS0c9K9Wc.6Ai",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_12.mp3?versionId=cj8g.w8XpuTN6O23u4fZa4n1wKC4ohkm",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2228020,
+    "cultureContent": {
+    "imageLocation": "Laerdal valley, Sogn og Fjordane, Norway",
+    "imageDescription": "At 15.23 miles, the Lærdalstunnelen is the longest road tunnel in the world. It takes 20 minutes to drive through, so three lighted caves were constructed for drivers to take breaks in order to reduce the mental strain of driving through such a tunnel.",
+    "imageCredits": "Günter Grüner / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_13.jpg?versionId=WNpgdOcyV4_snIp3T_D6BgcWBvBUPBXf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_13.jpg?versionId=orxM25YvmQPpd_y9C5pXn_mDDdlwTdJc",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_13.mp3?versionId=OrcRarHdE2zfXjXmROQyIYAAN80Jwv6D",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2228353,
+    "cultureContent": {
+    "imageLocation": "Alta, Norway",
+    "imageDescription": "The Igloo Hotel allows visitors to stay overnight in a structure made entirely of ice and snow. Each year the hotel is constructed from scratch, with a new theme.",
+    "imageCredits": "Mark Hannaford / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_14.jpg?versionId=mECH.LPAROaiKDrVElqh04eSStK5ZIMD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_14.jpg?versionId=uS.rFtJodDVUtq.yOuDOaFKavcJtcuE_",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_14.mp3?versionId=mazH53Q_doWlkKDRtg2TtIcLTO1hkAad",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2228729,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "Founded in 1040 Oslo is the capital of Norway and the hub of trade in the country. Though it is an expensive city to live in, the quality of life is said to be amongst the highest in the world.",
+    "imageCredits": "Leonardo Patrizi / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_15.jpg?versionId=TWsIr5dVLFp5OufzRigzj9ZbN7xJwokF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_15.jpg?versionId=YshrjlXiWefT24upuWwtK6Xx5FtxWahc",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_15.mp3?versionId=Uvh5pVTUOnfRTfw4bE2wzwGGxfz.eHKi",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2229078,
+    "cultureContent": {
+    "imageLocation": "Mo i Rana, Norway",
+    "imageDescription": "Located just south of the Arctic Circle, Mo i Rana is a small town on the edge of the Ranfjorden. It is home to one of the 33 sculptures of Artscape Nordland, an art project involving artists from all over the world.",
+    "imageCredits": "Anders Blomqvist / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_16.jpg?versionId=5ycDAP1mHjB0dPMbWrXb.s5gmu_8Xkre",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_16.jpg?versionId=i1JOgrmyCUzzz5KS4NLUvErBQq9JHGjb",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_16.mp3?versionId=xHiGJtO4WfMRvgwUHc4BM0JawV6zyZCH",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2229449,
+    "cultureContent": {
+    "imageLocation": "Oslo, Noway",
+    "imageDescription": "The Oslo Stock exchange was founded in 1819, and has been housed in the same building for over 180 years. Its leading sectors are in the seafood, shipping, and energy industries.",
+    "imageCredits": "ArveBettum / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_17.jpg?versionId=ZYhNxm3N_axGdy2lLd7oF2Bl_JP4EKGY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_17.jpg?versionId=4TKtL.v8SEMoj4b3BmmMoEzvMDOIT38l",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_17.mp3?versionId=kCXRIGMJn54i.hVyotXqrisCig9pmQB5",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2229787,
+    "cultureContent": {
+    "imageLocation": "Bergen, Norway",
+    "imageDescription": "Although the wharf area known as the Bryggen is most familiar to the world as a popular tourist spot, it is also home to a prolific community of artists and craftspeople, whose shops line the small streets and alleyways between the historic houses.",
+    "imageCredits": "Jean-Pierre Lescourret / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_18.jpg?versionId=KtlY23l7LcSjVAU1bkOxnBtk.ebERc0R",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_18.jpg?versionId=Uqq91bq96VkLnCnsfVAKE5vioq_6jHpB",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_18.mp3?versionId=ML9A3HfS4zMrfkEQsThrcb5gge_UWSjI",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2230145,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "Known in Norwegian as Hans Majestet Kong’s Garde, or “His Majesty The King’s Guard,” the Royal Guard serves to protect Norway’s king and all royal residences. It has been active in the country since 1856.",
+    "imageCredits": "coldsnowstorm / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_19.jpg?versionId=UuRHMM0n_YPQKDflRrGjhrLh0g2boC0F",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_19.jpg?versionId=V.Yl4sFnoa7IMAq2q4pNlITf32rP1n9k",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_19.mp3?versionId=FpsLT6Fb72FB9jV4oj5nvTGN_1zx0xaF",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2230493,
+    "cultureContent": {
+    "imageLocation": "Kristiansand, Norway",
+    "imageDescription": "Completed in 2012, the Kilden Performing Arts Centre is home to the Kristiansand Symphony. The wooden waves of the building’s facade call to mind both sound waves and the sea which it faces, perched on the edge of the island of Odderøya.",
+    "imageCredits": "HUFTON + CROW / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_20.jpg?versionId=QrfIjJ8zkPwHLoHw5HG9PVqhHgn20L76",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_20.jpg?versionId=_75fzjWFYY.3qaSc1LpC975lYv6PCd1g",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_20.mp3?versionId=S0Ew6BzhkPeT.2K.p.AFMMql.aVqdMyC",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2230885,
+    "cultureContent": {
+    "imageLocation": "Svalbard, Norway",
+    "imageDescription": "The world ice golf championship is held each year in the Spitsbergen archipelago on a nine-hole course built into the snow and ice. They play in temperatures that often drop below -22ºF, and must keep a watchful eye out for curious polar bears.",
+    "imageCredits": "Barry Lewis / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_21.jpg?versionId=B6.5Z5WpRRg8FdzHaoIW1A7ouQpmKSKo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_21.jpg?versionId=t4HkOBNZOMsrXaPzYFugtB8ZxhpSgZog",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_21.mp3?versionId=yP7v4E0dZjc1Ym.NicTzivz6H4FK27wb",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2231528,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "Norway is one of the world’s top producers of hard stone, such as granite. The country’s stone is a source of great pride for the Norwegian people and many of its important buildings, landmarks, and pieces of public art are constructed with it.",
+    "imageCredits": "aquatarkus / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_22.jpg?versionId=0LPPAapWb302RTpLF1nUThDAkIeI.ghF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_22.jpg?versionId=Ud8Zb0bD7PONGzJM05COSBw7LybMX4iR",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_22.mp3?versionId=SDnLTtOkaWNQzUkgaAy2q0HUID0dG9_Y",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2231850,
+    "cultureContent": {
+    "imageLocation": "Spitsbergen, Svalbard Islands, Svalbard, Norway",
+    "imageDescription": "Famed Norwegian explorer, Roald Amundsen led the first expedition ever to traverse the Northwest Passage successfully in 1903. He also successfully reached the South Pole in 1911, before disappearing into the Barents Sea in 1928 on a rescue mission.",
+    "imageCredits": "Olaf Kruger / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_23.jpg?versionId=hAzEZvOA7VY_QclhTsvzHdq1L33wXKE1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_23.jpg?versionId=jeSJ.8UQinKC6Aivn2iDjngw9mekrndN",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_23.mp3?versionId=KEW1OgPJEwd0KqPEe9sc_AspP.z8goZ2",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2232226,
+    "cultureContent": {
+    "imageLocation": "Grytviken, South Georgia",
+    "imageDescription": "Norwegians have a long history in far remote South Georgia and the South Sandwich Islands, which were used as stations in the whaling industry.",
+    "imageCredits": "Mark Hannaford / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_24.jpg?versionId=08epifCY7FiA7vVI7UsTIaCDkf_WnD21",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_24.jpg?versionId=JVcvJhLzAMPc51Hf4tetU1hKhVjnnWN7",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_24.mp3?versionId=sqcWKklFTA2DHkVmjzaGGuRvXO1O7qT2",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2232575,
+    "cultureContent": {
+    "imageLocation": "Lofoten, Norway",
+    "imageDescription": "Cod fishing has been a crucial industry in Norway since the time of the Vikings. Although the farming of cod in Norway all but ended in 2014, in recent years cod farming has seen a renaissance.",
+    "imageCredits": "Richard Cummins/ robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_25.jpg?versionId=rQVXCLA9ZBwdrMpoHsAP3DJ7wWIWdbR5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_25.jpg?versionId=b1okN1UL0l7ivA_aBra.4Kt3JIt9V65U",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_25.mp3?versionId=7edX25hjj47Q.DB.JaLWcOdWJePJCeqg",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2232955,
+    "cultureContent": {
+    "imageLocation": "Nordkapp, Finnmark, Norway",
+    "imageDescription": "Nordkapp, or \"North Cape,\" is located on Magerøya island in Finnmark county, Norway. It is a top tourist destination in summer for viewing the Midnight Sun over the Barents Sea.",
+    "imageCredits": "Pedal-Power-Photos / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_26.jpg?versionId=uT3sKogmG_oGdkZkIXec_1hkQlFmtfSj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_26.jpg?versionId=gUID.4rApyeuxv1VI_Oyotqn2sLamD_f",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_26.mp3?versionId=rwrG5jTaiZ5TDXuBGyHQa6J246k5R9U3",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2233369,
+    "cultureContent": {
+    "imageLocation": "London, England",
+    "imageDescription": "Since 1947, the city of Oslo has sent a large Norway spruce as a thank you gift for Britain’s support during WWII. It is displayed each year in Trafalgar Square in London at Christmas time.",
+    "imageCredits": "Fraser Hall / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_27.jpg?versionId=iN1F9Tedl8ikRgvKvQm84.Ej0sDZHMqz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_27.jpg?versionId=besuTJeHqBc7PYCiCCOxyDMzKN57gNlV",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_27.mp3?versionId=P3ShBm3sPywTgNXTbY.v3U8infINJgpU",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2233806,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "Though most of the country’s electricity comes from hydroelectric plants, Norway is one of the world’s most prolific exporters of oil and natural gas.",
+    "imageCredits": "MariusLtu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_28.jpg?versionId=HNuQE4RPCZNBXq6Qj5Et3Eo2kKc7OokJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_28.jpg?versionId=cJcivVT03nz1mNVisRD7T.R9JxKHrQuH",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_28.mp3?versionId=wVf31e3g2A7ADNxJ4ucwMRpMY260kyML",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2234203,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "The Oslo Opera house rises up from the Oslofjord in long, sloping marble plazas which guests can walk up for spectacular views of the city.",
+    "imageCredits": "Adam Petto / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_29.jpg?versionId=IMr3PPdNe.VSoa5QgeuD_kpnftd.ADeE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_29.jpg?versionId=tCZoXv07MG.B5nGauxuiWMzW8Hd1eZWK",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_29.mp3?versionId=tFOTETXbwkN2ZfYm4BAPEDb4VN8FYThx",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2234547,
+    "cultureContent": {
+    "imageLocation": "Pyeongchang, South Korea",
+    "imageDescription": "Norway sent 109 athletes to the 2018 Winter Olympic Games in Pyeongchang setting the record for the most medals won by a single country with 39 medals.",
+    "imageCredits": "DAVID J.PHILIP / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/full/NO_2_M_30.jpg?versionId=d3qbUcImN7xQCoYAMxHJ7oMhoBPHyzU5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/lesson_photo/thumb/NO_2_M_30.jpg?versionId=05tXnqRcAGkQT1VqaB5bdCYaYMWl1bf5",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/main_audio/9781508296799_Norwegian_2_Lesson_30.mp3?versionId=rr4ZYNX3oRC78ngG1rhXNyDQAM1cH6D1",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2235046,
+    "cultureContent": {
+    "imageLocation": "Honningsvag, Mageroya, Finnmark, Norway",
+    "imageDescription": "Reindeer are so important to the indigenous Sámi people that a special branch of the national police was created to maintain security and prevent environmental crime. They are known as the Reinpolitet, or \"Reindeer Police.\"",
+    "imageCredits": "Richard Cummins / Lonely Planet / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian Level 2 orig/asset/RL/9781508296799_Norwegian_2_Intro.pdf?versionId=Hq.ZXghbnlh9t0KKNTEMlNzRzP9rWtUp",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_01.mp3?versionId=7SRWn5FJaPtR1N4WgNnQ0c6dCCGdwMTQ",
+    "mediaItemId": 2223888
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_02.mp3?versionId=M3yUKlYVSWWI0qpnmY46sbKOZJXcHs.C",
+    "mediaItemId": 2224101
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_03.mp3?versionId=RmZbZlfrS2B6JTsRUWmzJTkvLCOCSZJq",
+    "mediaItemId": 2224241
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_04.mp3?versionId=jPkGFFB3ZBiLyNdYyrrjXXsXVpGhK.xO",
+    "mediaItemId": 2224438
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_05.mp3?versionId=zE5UIj5lXoGLEx1Nf0_qx6XRnmTgWbHk",
+    "mediaItemId": 2224597
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_06.mp3?versionId=dA1MIcDwHUXelaGA8f9LAfrY.GfWT.ep",
+    "mediaItemId": 2224738
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_07.mp3?versionId=gG9a0ELyNcZL1AaLCVtyWFSKY1La_vnT",
+    "mediaItemId": 2225122
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_08.mp3?versionId=VLMSCqau0hlbRXxppXk9ZcZlDrlmZ6Tc",
+    "mediaItemId": 2226825
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_09.mp3?versionId=q9axmq5egnTTrgKmxRvwbGoDrxpwCE67",
+    "mediaItemId": 2229722
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_10.mp3?versionId=0odkvzPAWwG8Yv.XhcIHQAJNT43CDyXO",
+    "mediaItemId": 2233094
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_11.mp3?versionId=8El3oV34sfzBKoNG55HTg_YndX6F2rqD",
+    "mediaItemId": 2237193
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_12.mp3?versionId=7DcIb25hM5lzHALOPWZJEyQkQwbfl6T5",
+    "mediaItemId": 2240636
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_13.mp3?versionId=urZPG.mY7adNifWYFKZxWpiMK.edrvz8",
+    "mediaItemId": 2243484
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_14.mp3?versionId=JcPbeFcTmBD34Qedwk0Fz6j96S2KGdsm",
+    "mediaItemId": 2246600
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_15.mp3?versionId=Ury1AVCNRWB5SfYXtzmHhbKfOxp.AStK",
+    "mediaItemId": 2249463
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_16.mp3?versionId=D24dY4s_Spmb0c0zA3vtCocPwdpPqZ.X",
+    "mediaItemId": 2252684
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_17.mp3?versionId=D6lH4ozIUW8n5Bk8.TD2hpSdFkeSuZ_1",
+    "mediaItemId": 2255538
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_18.mp3?versionId=e1BzQNynNwZkRJldSHJmL3MwEW.6PDsK",
+    "mediaItemId": 2258414
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_19.mp3?versionId=ETy6t7S3hFiWptGeXUWFxJtgm88ZAaDu",
+    "mediaItemId": 2261209
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%202%20orig/asset/RL/9781508296799_Norwegian_2_Reading_Lesson_20.mp3?versionId=YJJ36mmMLS3nNXuI6xnTaYh6Nscb55P0",
+    "mediaItemId": 2263562
+    }
+    ]
+    },
+    "languageCode": "no-NO",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508296799",
+    "level": 2,
+    "courseName": "Norwegian Level 2 Premium",
+    "simpleCourseName": "Norwegian Level 2",
+    "puArabic": false
+    }
+    ]

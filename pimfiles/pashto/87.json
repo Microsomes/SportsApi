@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 5686,
+    "languageName": "Spanish",
+    "languageId": 166,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_01.jpg?versionId=wyZOVhNTuBznBMoX6lHgGSrJ_rljn2pr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_01.jpg?versionId=whVvd3l2IBAYGaogTUAy35n2byjdwhLC",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U01_Lesson.mp3?versionId=792RvDAnLagGTmVcOdow.gE1eNf.JwrZ",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2312646,
+    "cultureContent": {
+    "imageLocation": "Mexico",
+    "imageDescription": "Spanish and English are the two most common languages spoken in Mexico, but there are 68 additional indigenous languages recognized by the government and spoken throughout the country.",
+    "imageCredits": "Glowimages / Glowimages / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_02.jpg?versionId=X6G8CeBiS5Bydlpe0WfiH6KJ.TuKM_Wq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_02.jpg?versionId=GDX3l8We8Mck1vpRfef4DidtB_squKed",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U02_Lesson.mp3?versionId=sfgpqNKMx4pM1RZWOsfEZuyxuBl61dCq",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2312814,
+    "cultureContent": {
+    "imageLocation": "Seville, Spain",
+    "imageDescription": "Alcazar Palace in Seville was originally built by the Moors.  Additions were later made after the Spanish regained control, which explains the blend of Moorish and Spanish architecture.",
+    "imageCredits": "Allan Baxter / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_03.jpg?versionId=iMCDNFIDormvRH30gLsMc1WneaaZ4rbB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_03.jpg?versionId=uCsnuKzOvbtQN.OgnjnXitBJHdKq1_7o",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U03_Lesson.mp3?versionId=fH6r_SDsu6OVmjMrWZBPW8cWkLlrlc7x",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2312997,
+    "cultureContent": {
+    "imageLocation": "Amazon, Ecuador",
+    "imageDescription": "Ecuador’s constitution was the first in the world to recognize the rights of nature as well as the rights of people, and so the country’s biodiversity is well protected under the law.",
+    "imageCredits": "Murray Cooper / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_04.jpg?versionId=4QXusRZjn8q8oNUoEvP7RsCGG4FD5gWh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_04.jpg?versionId=Glq0vPN0U3K73xt.pXv1gK9DqT17IU1V",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U04_Lesson.mp3?versionId=viTeDq.sE6G.HjugRdscLZlw8_1i0a6R",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2313159,
+    "cultureContent": {
+    "imageLocation": "Mexico City, Mexico",
+    "imageDescription": "Every Sunday morning, Mexico City’s main roads are closed to car traffic, giving pedestrians and bicyclists free run of the streets. Some days, there can be up to 80,000 bicyclists out at once.",
+    "imageCredits": "Harald Sund / Photographers Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_05.jpg?versionId=Vt4.rniAJLHA3JsgpP4wGq2umiyaVm2o",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_05.jpg?versionId=BVadCuP9vbOmIkbT4aRBpoABawJZh_e9",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U05_Lesson.mp3?versionId=jRM8pdjuZ8VkxQifyjVKSt4Wymhjc3.U",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2313325,
+    "cultureContent": {
+    "imageLocation": "Futaleufú River, Chile",
+    "imageDescription": "The Futalefú River is fed by lakes in Argentina, but crosses the Andes mountain range into Chile, and runs into Yelcho Lake. The river is a popular white-water rafting destination.",
+    "imageCredits": "Karl Weatherly / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_06.jpg?versionId=5vm_ToDLJnCID6C_u4jSbB_AhEcp8HQe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_06.jpg?versionId=XWQ2C4ZRN4P_U.uNJetFkyqkYMXf4k.z",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U06_Lesson.mp3?versionId=BgB2V3HVRrVpfwBoOL7fYBX4R4cVWJxn",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2313539,
+    "cultureContent": {
+    "imageLocation": "Xochimilco, Mexico",
+    "imageDescription": "Xochimilco’s canals were originally built by the Aztecs to increase the area available for farming. Visitors today can ride through the canals on trajineras: colorful gondola-like boats.",
+    "imageCredits": "Jeffrey Becom / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_07.jpg?versionId=1WUg.46DTABmusi84.wYQeWBOAbfCGRB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_07.jpg?versionId=LuB8iVgvHssnU.wa8DP4NksFGDLLSOBE",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U07_Lesson.mp3?versionId=036QS8xmd9dcXgJrWNl4y0gDpa19uJUQ",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2313686,
+    "cultureContent": {
+    "imageLocation": "Petrohué Falls, Chile",
+    "imageDescription": "Osorno Volcano, which supports Petrohué Falls, is one of the most active volcanoes in the Chilean Andes. Charles Darwin saw the volcano erupt in January 1835.  It bears a striking resemblance to Mt. Fuji.",
+    "imageCredits": "Ira Block / National Geographic  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_08.jpg?versionId=kPLyV6RwGsTl0fvPQ7ulYboTRcLps_JY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_08.jpg?versionId=yFcK.KMB.dPjsTPd_aUyCIAfIvkLQG3I",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U08_Lesson.mp3?versionId=6RbGjlnR.HqQf9oiwgQvJ0BS5xBPVCbV",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2313861,
+    "cultureContent": {
+    "imageLocation": "Salsa Brava, Costa Rica ",
+    "imageDescription": "Costa Rica means \"rich coast\" in Spanish. The country ranks at the top of lists for the world’s best surfing, sports fishing, and dive spots.",
+    "imageCredits": "JS Callahan - tropicalpix / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_09.jpg?versionId=OdWs0ecwznWgrMIPaaG_mOv_5Gx921NG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_09.jpg?versionId=Be.dvLqIQ_YREeHeYvbeeBMVpF3YW4TI",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U09_Lesson.mp3?versionId=poIXWQwLAzf9WFF3Txs9gMTpe53pXHxi",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2314026,
+    "cultureContent": {
+    "imageLocation": "Volcan Cotopaxi, Ecuador",
+    "imageDescription": "Cotopaxi Volcano is one of the highest active volcanoes in the world at 19,347 feet. It erupted in 1534 during a battle between the Incas and the Spaniards. The battle ended when the volcano erupted, as both sides had to flee for safety.",
+    "imageCredits": "Christian Kober / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_10.jpg?versionId=JiuhRoqe_RO_PbWJtrHCM8nOk1RVyPAL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_10.jpg?versionId=Kew7DMAfNsH5Y2W_GMQE8T_klVEkDEs1",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U10_Lesson.mp3?versionId=E.5igrsfjBnuESdOVTiaKYQX1i68ZQql",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2314213,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "The Plaza del Congreso is made up of three adjoining plazas. One of these, Moreno, is the site of one of the few surviving original casts of Rodin’s “The Thinker.”",
+    "imageCredits": "Medioimages / Photodisc  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_11.jpg?versionId=GECeXdR6TRplk2lNAYnik.hOBvMWZb4e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_11.jpg?versionId=nynMGIys82ABLBSdaRl44W.23.02P_wy",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U11_Lesson.mp3?versionId=gI.yjO0rMbo_8CO.Di7RSVunhUuXGYfZ",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2314436,
+    "cultureContent": {
+    "imageLocation": "Quisicancha, Peru",
+    "imageDescription": "Traditional Peruvian clothing is colorful and distinctive.  Women wear polleras, hand-woven wool skirts. Men wear ponchos and knitted hats with earflaps called chullos. The first chullo that a child receives is traditionally knitted by his father.",
+    "imageCredits": "Michael S. Lewis / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_12.jpg?versionId=p03J8Cnocb2JNXGza2SIKrI2Hem._M5p",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_12.jpg?versionId=_3J094aGbbT1978fqy_UuoqIM2JvbJOa",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U12_Lesson.mp3?versionId=azJneYSaRyLSnJ3WR3yQpuG7Y.yAFqT.",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2314814,
+    "cultureContent": {
+    "imageLocation": "Tegucigalpa, Honduras",
+    "imageDescription": "Dia del Nino, or Children’s Day, is celebrated on September 10th in Honduras. Celebrations include parties and gifts.",
+    "imageCredits": "David Alan Harvey / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_13.jpg?versionId=H0csW2xyEME1k6uuXRV6HRHpCfjLD50X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_13.jpg?versionId=0QGQVMvkeiHOaZzKLOprO1XJvR1Guf0z",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U13_Lesson.mp3?versionId=EiBq66aYEgSqJiqo0530wLcpXxOElBW3",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2314991,
+    "cultureContent": {
+    "imageLocation": "Lake Argentino, Chile",
+    "imageDescription": "Perito Moreno glacier in Argentina is one of three in Patagonia that is growing in size in spite of global warming.",
+    "imageCredits": "Andrea Booher / Stone  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_14.jpg?versionId=i3R_8V.yN15LYkKu0_2Tviey8T.Grk1i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_14.jpg?versionId=14qD8Pm0zbvOPL0rowA._yWoGFt.r3aO",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U14_Lesson.mp3?versionId=Vec6kSmFf3KCfQhrivaSBtBwftVUB4rR",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2315152,
+    "cultureContent": {
+    "imageLocation": "Baja California, Mexico",
+    "imageDescription": "The town of Todos Santos, located on the southwest coast of Baja California Sur, is believed to be the inspiration for the Eagles’ song \"Hotel California.\"",
+    "imageCredits": "Chico Sanchez / Aurora / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_15.jpg?versionId=abKmB5mnS8SNy502zpnN4l1LZR5ydEkl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_15.jpg?versionId=_adEpgOIPhtEqtyVcP35m1qD7TWQCUMV",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U15_Lesson.mp3?versionId=EgqM2pN0IbriW2Vo.RsX6tAr8N_VzkeS",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2315351,
+    "cultureContent": {
+    "imageLocation": "Cancun, Mexico",
+    "imageDescription": "In 1970, when development first started on turning the area around Cancun into the tourist haven it is today, there were only three people living there.",
+    "imageCredits": "Luis Javier Sandoval / Oxford Scientific / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_16.jpg?versionId=tsNJubOSjvNuImd69VLyC8HPEPNIAnXT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_16.jpg?versionId=Mu3vjPssaKGzTmKSDBlqLLjDRvu4L79A",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U16_Lesson.mp3?versionId=Xz3WAJx51nACr3ilTsX.CVq5HA9kdqmg",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2315538,
+    "cultureContent": {
+    "imageLocation": "Ciudad Real, Spain",
+    "imageDescription": "The region of Castille-La Mancha, Spain, is where most of the novel Don Quixote de la Mancha takes place. The novel’s most iconic scene has Don Quixote attacking a group of windmills, believing them to be giants.",
+    "imageCredits": "Martin Ruegner / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_17.jpg?versionId=_r3AvczDIM4._IMIhThZCdLSVH3faK8z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_17.jpg?versionId=CXooQ6zN9MJ7nJTOgt7LKe25zdOHVGrC",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U17_Lesson.mp3?versionId=AGFRGIV1OggldU2IZpxJFnUZUb6t6h1G",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2315728,
+    "cultureContent": {
+    "imageLocation": "Parinacota Volcano, Chile",
+    "imageDescription": "At almost 15,000 feet above sea level, Lake Chungara in the Lauca National Park in Chile is one of the highest lakes in the world.",
+    "imageCredits": "Leonid Plotkin / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_18.jpg?versionId=INehiE1Mo2WyR6Mn5DiYGkKqMmAthCQY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_18.jpg?versionId=DhsRt9ikTOB1_52LdDs_JcloIdYbiT16",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U18_Lesson.mp3?versionId=rE6pWQu2nWin3kWVNZKXLEXm_sx5KsSL",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2315919,
+    "cultureContent": {
+    "imageLocation": "Quintana Roo, Mexico",
+    "imageDescription": "Archaeologists believe that the wall surrounding the city of Tulum in Mexico was built not for defense, but to keep the Mayan ruling class separate from the lower class.",
+    "imageCredits": "Kris Hundt / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_19.jpg?versionId=R2uREnDFn9FdY4oWjB6aNuFeTXIIr.C7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_19.jpg?versionId=uSK66JwApUK7coH_F_LGaWtO7hp2pGCC",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U19_Lesson.mp3?versionId=m4fn7F2P.OaGANXmWfShcrUatGBZ6U0A",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2316065,
+    "cultureContent": {
+    "imageLocation": "Panamerican Highway, Chile",
+    "imageDescription": "The Carretera Austral highway runs for about 770 miles through rural Patagonia.  Often called \"the most beautiful highway in the world,\" one highlight is the sculpture, Homage to the Wind\" by Alejandra Ruddoff.  The structures are 36 feet high and rotate with the ever-present wind.",
+    "imageCredits": "Win Initiative / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_20.jpg?versionId=lJjTdvC8.By_Vg2A.0bVD3SYq8uVxU77",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_20.jpg?versionId=HlxYRmROappx6NB.WslfuwffWVSkOvCZ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U20_Lesson.mp3?versionId=DrxuibaxLJl08yrPk3556HjG.WkpFFMT",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2316233,
+    "cultureContent": {
+    "imageLocation": "Córdoba, Spain",
+    "imageDescription": "The Mosque of Córdoba was built around 600 as a pagan temple.  Since then, it has been a Christian church, a Moorish Mosque, and today it is a Roman Catholic church.",
+    "imageCredits": "Allan Baxter / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_21.jpg?versionId=brSXv9Je_SD1Mm_c_u0yypY3vc3B3ZA3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_21.jpg?versionId=e0QVtCuXNPsj55ESlOg7zohmodds205j",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U21_Lesson.mp3?versionId=y8mlHHhIxIGP0ZCJevIsckSTumzhMKuG",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2316408,
+    "cultureContent": {
+    "imageLocation": "Galapagos Islands, Ecuador",
+    "imageDescription": "The marine iguana is found only on the Galapagos Islands and is the only lizard known to live and forage in the sea.  It can dive over 30 ft. into the water.",
+    "imageCredits": "Tim Graham / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_22.jpg?versionId=Pkjs0gqNw0IpBoevDVsxyYPsF_zDGboD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_22.jpg?versionId=4M7tmdeG_AQXL5.ts0I8xK9wzsY0twt2",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U22_Lesson.mp3?versionId=mEKNscmmdPY6HORubacOoFhCkCkIO3S7",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2316626,
+    "cultureContent": {
+    "imageLocation": "Castro, Chile",
+    "imageDescription": "These palafitos or stilt houses are in Castro, a city on Chile’s Chiloé Island.  Castro is the third oldest city in Chile, founded in 1576.",
+    "imageCredits": "Rough Guides Tim Draper / Axiom Photographic Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_23.jpg?versionId=8mNqwQdGqnjccuKQCY3.YD_YtlPHSc0e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_23.jpg?versionId=rI.1wunXbRKWgohE91LtD0ndaOS4a._m",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U23_Lesson.mp3?versionId=m9jgqtBveBY4TCAkmIy0Lakkt5DzZgxq",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2316844,
+    "cultureContent": {
+    "imageLocation": "Baja California, Mexico",
+    "imageDescription": "The saguaro cactus can live for more than 150 years and grow up to 50 feet high.  They take up to 75 years to develop a side arm.",
+    "imageCredits": "Jeremy Woodhouse / Blend Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_24.jpg?versionId=AMxAUqQCdMxwT9NnxGn6MLp1sYrfAd5M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_24.jpg?versionId=kcAEO7SuadifButETi4_edtdF553Kh34",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U24_Lesson.mp3?versionId=.qTqWlNV1a8EOxTAevdylTox9BbNBaGt",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2316986,
+    "cultureContent": {
+    "imageLocation": "Salta, Argentina",
+    "imageDescription": "Salta’s colonial architecture and the natural scenery in the foothills of the Andes have made it a popular destination for travelers.  The town’s central plaza, Plaza 9 de Julio, is filled with dozens of different types of trees and shrubs.",
+    "imageCredits": "Mariana Eliano / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_25.jpg?versionId=EH2j2hf2im3WtEWCCc4vAk9asS3ncIgq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_25.jpg?versionId=bYyJpYfrxKt3mPo1HdtnI6.aJjpXe8gz",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U25_Lesson.mp3?versionId=SPc_.0qATzeT80u1JMW8zaJ2oAmHr.si",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2317122,
+    "cultureContent": {
+    "imageLocation": "Izamal, Mexico",
+    "imageDescription": "Many of the people of Izmal speak the Yucatec Maya language as their first language, and so it is just as common as Spanish in the city. Most signs are printed in both languages.  It’s known as \"The Yellow City\" as most of its buildings are painted yellow.",
+    "imageCredits": "Tuul / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_26.jpg?versionId=kE6GRTUEp4GCqXVUfqkF9vML3Qfd4Hto",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_26.jpg?versionId=XxscS.OmpyYlLrVCXpiLNsxt2rVtUc0J",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U26_Lesson.mp3?versionId=6D8JvsJeaClQwKfvZQiE5KV6D.UQzOVX",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2317235,
+    "cultureContent": {
+    "imageLocation": "Bariloche, Argentina",
+    "imageDescription": "San Carlos de Bariloche is sometimes called \"chocolate city\" because it is so heavily Swiss-influenced, apparent from the European architecture and the many chocolate shops in the city.",
+    "imageCredits": "Alex Joukowski / Flickr  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_27.jpg?versionId=pQWLnidM6Fuf3Nge6KICMUp2YGzJ6QIt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_27.jpg?versionId=WhLfhTWZSGDaM6hc0Uh0Xa5w_qhOgpuA",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U27_Lesson.mp3?versionId=ak8sdQPIxFxQ4C2oNpCfxBhzIvUv8mxd",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2317383,
+    "cultureContent": {
+    "imageLocation": "Santiago, Chile",
+    "imageDescription": "Santiago is the capital and the largest city in Chile, and has become one of Latin America’s most modern metropolitan areas. Because it’s located in the middle of the country, it is easy to get to both ski slopes and beaches from the city.",
+    "imageCredits": "Michael Turek / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_28.jpg?versionId=fik0K3ptgQ4BTtK1cG6p9USuCid5gjKd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_28.jpg?versionId=EoWdq8ljUv4cbEE3D47QwNhlBANFXpSv",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U28_Lesson.mp3?versionId=I0MM8ih.hVcs1DMbRGZMMGAyLsl4_X2t",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2317538,
+    "cultureContent": {
+    "imageLocation": "Torres del Paine National Park, Chile",
+    "imageDescription": "Guanaco are small herd animals, similar to domesticated llama and alpaca commonly found in Patagonia. The region was named by Ferdinand Magellan who used the word patagón, or giant, to describe the natives who averaged about six feet tall, much taller than the Europeans of the time.",
+    "imageCredits": "Steve Allen / Brand X Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_29.jpg?versionId=TdX.Yy4KdUyHJ4yjdqsorJQAb_U5K9bh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_29.jpg?versionId=VxEk7.TeDm9WI3ekWHfVrnzyOmf0kRcH",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U29_Lesson.mp3?versionId=hFuurvWIghAVdWP1fxJkvPfeBEnRgPv2",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2317688,
+    "cultureContent": {
+    "imageLocation": "Panama Canal, Panama",
+    "imageDescription": "Traveling through the Panama Canal to get between New York and San Francisco, rather than traveling around Cape Horn, saves ships 7,827 miles.  The 48-mile long canal has been named one of the seven modern wonders of the world.",
+    "imageCredits": "Jane Sweeney / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/full/SP_4_M_30.jpg?versionId=c0T.lfpvXbe4_gJAY9MQklfSjvXSgjFq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/lesson_photo/thumb/SP_4_M_30.jpg?versionId=dYF1YwCjmJQ2M_tDk70fXygjpUw56Y00",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/main_audio/9781442350403_Spanish4_U30_Lesson.mp3?versionId=mqEC1sjbQ8q.DqWfAckPt6AS.2aDJ_cT",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2317809,
+    "cultureContent": {
+    "imageLocation": "Arenal Volcano National Park, Costa Rica",
+    "imageDescription": "The Arenal Volcano is the youngest and one of the most active volcanoes in Costa Rica. It was mostly unexplored until 1937, and was dormant until 1968, when a major eruption buried over 15 square kilometers, including an entire town.",
+    "imageCredits": "Andoni Canela / age fotostock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish Level 4 orig/asset/RL/9781442350403_Spanish_4_Intro.pdf?versionId=zBS9QNWspFYWAV3LwZ6sxVLA6ITUnRwC",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit01_Reading.mp3?versionId=zOq4mbnJOq_t0SyyfJg9PDBG7xLNuilj",
+    "mediaItemId": 2223831
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit02_Reading.mp3?versionId=GdTjvFPi9TGZk2z9UgTu0ZcRUOM8.1f1",
+    "mediaItemId": 2224011
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit03_Reading.mp3?versionId=biKsuZVMv2ruKeS5QM8tXy1BGVj39DhB",
+    "mediaItemId": 2224171
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit04_Reading.mp3?versionId=Stdgw9muA9pYJI_Qszh84diARF8bInLg",
+    "mediaItemId": 2224383
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit05_Reading.mp3?versionId=4t6I6LcqPPN3XnoBvpL0JCV91axCAeEm",
+    "mediaItemId": 2224507
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit06_Reading.mp3?versionId=LpHw0NvzPQ.dlb9KqXlaqUMVLCvxDOG_",
+    "mediaItemId": 2224700
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit07_Reading.mp3?versionId=BlXahUAI42DhQgy16x645kgDngSOSZ6m",
+    "mediaItemId": 2224869
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit08_Reading.mp3?versionId=1VubmRqTvKShpX2JNxfZTK.y6nwQosAb",
+    "mediaItemId": 2226084
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit09_Reading.mp3?versionId=QcbrQskVt.WuSH7EhWVeSSV1lk.PMVOl",
+    "mediaItemId": 2228604
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit10_Reading.mp3?versionId=l.0T1V9NSCXWYAzL14HhiVkyjYUN.J6w",
+    "mediaItemId": 2231912
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit11_Reading.mp3?versionId=JhFzdiyUvdlZcIy.EI3mApJRXonNGHoo",
+    "mediaItemId": 2235508
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit12_Reading.mp3?versionId=NBOjv.GKFzHN444VyemB6fwwBmLlZC7Q",
+    "mediaItemId": 2238863
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit13_Reading.mp3?versionId=ITEWhOivMlWex7tnd9fOFfx0JaRt7Ofa",
+    "mediaItemId": 2242029
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit14_Reading.mp3?versionId=BsHatSiTaak2GiqPwQJVlbWr0z.NYZFU",
+    "mediaItemId": 2245176
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit15_Reading.mp3?versionId=4cQ4GgNGZEzV5jw77n_FY2MZiZf8YP0e",
+    "mediaItemId": 2248052
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit16_Reading.mp3?versionId=dW.DMhCtn2o4_WywnS5XR4LneoXx63NP",
+    "mediaItemId": 2251109
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit17_Reading.mp3?versionId=d5_oTMvdhg.ZPN5TAm8VWaL2KQRekZPn",
+    "mediaItemId": 2253862
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit18_Reading.mp3?versionId=cCJYwleJXaDCAagUsHq6eIqZ4cAiuwxF",
+    "mediaItemId": 2256698
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit19_Reading.mp3?versionId=iamtMmwWk1czQhi4OKIXAbaPviFim.dr",
+    "mediaItemId": 2259583
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%204%20orig/asset/RL/9781442350403_Spanish4_Unit20_Reading.mp3?versionId=.TdkRezXI9w.ChQZ0USzXb3VvXadpgHZ",
+    "mediaItemId": 2261967
+    }
+    ]
+    },
+    "languageCode": "es-MX",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781442350403",
+    "level": 4,
+    "courseName": "Spanish Level 4 Premium",
+    "simpleCourseName": "Spanish Level 4",
+    "puArabic": false
+    }
+    ]

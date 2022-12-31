@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 5591,
+    "languageName": "Turkish",
+    "languageId": 172,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_01.jpg?versionId=lmDafc2NmXdWshdKdFQqyLFw38R.zxot",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_01.jpg?versionId=9C.FRoLwRYNIEHwyATdb6kK6d4zfYgqL",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_01.mp3?versionId=0vCfPTxbbM9TI35SywfYG8FjDiKFElJu",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323140,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Turkey is considered the youngest country in the European Union. As of 2020 people between the ages of fourteen and twenty-four made up 15% of the population, while people under thirty make up fully half of the population. Turkish officials say that this forecasts the country's strength in years to come. ",
+    "imageCredits": "brightstars / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_02.jpg?versionId=s6U3fgAX25U6LJbDFk0JIKLr4BV37455",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_02.jpg?versionId=u7BjjFPsE4Dq2Rntsh92J85lJ2WzZkKM",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_02.mp3?versionId=0ySS1SJLfNfkaT2MeuJ0aonkcxlpfdrJ",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323142,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "The Sultan Ahmet Camii is nicknamed the Blue Mosque due to the blue tiles decorating its interior. Construction was commissioned by Sultan Ahmet I in 1609. The mosque was meant to surpass the Hagia Sophia which was at the time the most revered mosque. The Sultan Ahmet Camii is a combination of two architectural styles: Byzantine elements, like those of the Hagia Sophia, and traditional Islamic architecture. ",
+    "imageCredits": "Photosensia / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_03.jpg?versionId=Kt7rczTBwfzxtWAYphFRFwAfy2vdjZ_U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_03.jpg?versionId=n9Ahjd.eOMJOCb5BS4_7y2M_gZrLTQ3u",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_03.mp3?versionId=nsHxlagriyaGLoJwYVgsHiyXc5FXtNZQ",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323146,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "Istanbul's Grand Bazaar is the largest covered market in the world. Going since 1461, the shopping destination spans over seven acres. Home to roughly 4,000 shops, a mosque, a bank, a post office, and several restaurants, the bazaar is one of the greatest attractions in Istanbul. ",
+    "imageCredits": "Joel Rogers / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_04.jpg?versionId=RArdxIhXrKJd9x6pabQ5LC1zqGEKzG3T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_04.jpg?versionId=pZGeVLnilRfYIEbV6xSVeC_4hDvPqfHR",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_04.mp3?versionId=lTdDo.iHhUNKmTNrnCZ8Mo3MkhQCmlfC",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323150,
+    "cultureContent": {
+    "imageLocation": "Antalya",
+    "imageDescription": "Besiktas J.K., or BJK, is one of the Big Three, the best football clubs in Turkey. At a media day hosted by the team, Portuguese footballer Ricardo Querasma serves up some doner. Querasma played for Besiktas for two years before being released early from his contract due to spats within the team. ",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_05.jpg?versionId=WZVtUi_16lAMn46IyonVI9SGnzntwws.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_05.jpg?versionId=ilqDONz95hAhSTOq2SKCryhMem.VCtCF",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_05.mp3?versionId=sEfEGFuj7gt9Mdy9t4zEaoHJ33lAlx7s",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323154,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "Istanbul has two lines of what are called heritage trams in the city. These nostalgic conveyances are a popular attraction as well as a viable option for public transport. At one time in danger of extinction, the old electric trams were brought back on line in the 1990s as an antidote to pollution from cars and buses. ",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_06.jpg?versionId=Jtwtx_0DK9iFyrszjyRCQPEutwujQ3iN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_06.jpg?versionId=g_AS1PWoOKOmwskbwfbU3qiLHa7hm1Ff",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_06.mp3?versionId=KIB3SMzmj4vpJaknlIzQ40eN_JQaMJl7",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323161,
+    "cultureContent": {
+    "imageLocation": "Troy",
+    "imageDescription": "The site of the ancient city of Troy is a Turkish national park, active archaeological site, and as of 2018 includes an underground museum. The legendary city is featured in Homer's Iliad in the tale of the Trojan War, where the retreating Greeks left a giant horse-shaped structure behind at the city's gates. The Trojans brought the horse inside the city walls as a war trophy, but Greek soldiers hidden inside crept out in the night and vanquished the Trojans. A replica Trojan Horse now stands at the entrance to the site. ",
+    "imageCredits": "AlexKosev / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_07.jpg?versionId=jOPPSpq0BKXwDcUsM_guirrg7ScPmrak",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_07.jpg?versionId=wV.kxvf74SqzI.Ssp726e4Jf4T.7NFqw",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_07.mp3?versionId=GBsH5vwG7AjtM7BlAiKAmAEYLQOVkXKp",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323168,
+    "cultureContent": {
+    "imageLocation": "Cappadocia",
+    "imageDescription": "The dramatic landscape of the Cappadocia region within present day Turkey features grand geological formations. Due to erosion over eons, the soft volcanic rock has formed pillars, caves, and valleys in the desert. Churches from both the Byzantine and Islamic eras can be found carved into the rocks and connected by ancient tunnels. ",
+    "imageCredits": "benstevens / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_08.jpg?versionId=iO7f52fOjLQOt4SqxFA0Ot_CN.oQ4pq4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_08.jpg?versionId=zILNPJKPYpmePsuIN2OR3z8PhN9e8RRK",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_08.mp3?versionId=.Zl6g5qm_i9GHjNh80dDsqKa57V4iTiW",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323174,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "The interior of the grand Blue Mosque is full of intricate details making it a magnificent sight to behold. Hundreds of stained glass windows emit light into the mosque which has verses from the Quran inscribed on the walls. Over 20,000 hand painted Iznik tiles line the walls and pillars, featuring fifty different designs of tulip flowers. ",
+    "imageCredits": "Yarygin / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_09.jpg?versionId=7rXZgyuS8UnWISOWQLql8QbQFSrJGST5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_09.jpg?versionId=MmqXEzY9z5TKVgv.8cwbkc8ldACsdNcz",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_09.mp3?versionId=xu6WLmUDtI2s6BgMD7SwxboVC.7L5QHB",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323181,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "The harem of the Topkapi Palace was a secluded area meant solely for the female members of the household. At its height in the 17th century, this harem held 1,000 women, children, and guards and was run by the valide sultan, the mother of the reigning sultan. Women were allowed into the harem but once they were inside they were converted to Islam and taught how to sing, dance, read, write, play instruments, and provide pleasure to the sultan. The women were not allowed to leave, and competition among the concubines was intense as each one wanted to become the next valide sultan. ",
+    "imageCredits": "minemero / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_10.jpg?versionId=pm_yKoyigaa7FYicfNpAgnNuDNLDmTmp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_10.jpg?versionId=MPKZwdvxxeMxmB4h1PabQ_UnUkbEDdSG",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_10.mp3?versionId=Gfz8MPj5_FGQPVDmm8ayXiCvAc.zHOJp",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323188,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Yagli Gures, or Turkish oil wrestling is one of the oldest sports in history. Two participants coated in olive oil and wearing only tight leather pants compete in a wrestling match that can last forty minutes or until the loser is pinned belly up in the grass. During June the Kirkpinar wrestling tournament is held in Edirne. The sport has been designated a UNESCO Intangible Cultural Heritage. ",
+    "imageCredits": "SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_11.jpg?versionId=tLUR8cKyHg69urjpauyLGgUO6vP_avAp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_11.jpg?versionId=ADx0Bmu.lTLsidebV.BDMtociOmd1GPg",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_11.mp3?versionId=kVwJxsYctvoI2iH9BfIj1.XRt1JWCvBs",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323198,
+    "cultureContent": {
+    "imageLocation": "Muğla",
+    "imageDescription": "In Muğla Province in southwest Turkey Butterfly Valley is a breathtaking sanctuary of nature. The valley is situated on the Turquoise Coast nestled between steep mountains and pristine coastline and can only be reached by boat or a rough hike. Nearly one hundred species of butterflies can be found fluttering around the plants and flowers. ",
+    "imageCredits": "KenanOlgun / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_12.jpg?versionId=s4LpCHswyo0ibSXnwUTK3x3AUEOp9Yqa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_12.jpg?versionId=2aJfEolJrzm2hwxUsiMXIXpDPJj5Rp1Q",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_12.mp3?versionId=9xRTQx2gG7kDavCQxy.Q2fQ4Ns6vA15m",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323205,
+    "cultureContent": {
+    "imageLocation": "Muğla",
+    "imageDescription": "Named after its crystal clear turquoise waters, the Blue Lagoon of Ölüdeniz is a superb beach destination in the southwest of Turkey. Sugar Beach has bungalows that can be rented for overnight visitors. Paragliding over the scenic Mediterranean landscape is a popular activity for more the thrill-seeking set. ",
+    "imageCredits": "graphixel / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_13.jpg?versionId=DR.SFWEL1gKYLtht1Q3liTbpBr8Jmi4r",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_13.jpg?versionId=1QP7Q_ZLSc9pQ_RTjEkf6FPbFs6.266L",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_13.mp3?versionId=5G_7EPJxCOhIO8BbwCPNq8SBE6L8CACU",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323214,
+    "cultureContent": {
+    "imageLocation": "Antalya",
+    "imageDescription": "The rocky mountain Yanartaş has been burning for 2,500 years. As you get to the top of Yanartaş flames flicker out from cracks in the rock, fueled by methane seeping from the core of the mountain. It is said that the mountain was the inspiration for Chimera, the monster in Homer's Iliad. ",
+    "imageCredits": "KenanOlgun / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_14.jpg?versionId=F9MWXf2ND9AakgZOZDhHiIt.Hfdnq3YT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_14.jpg?versionId=htO4KRWj0EA0eeyX9Wl1bNqs2Xrn.HIk",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_14.mp3?versionId=gjw9MebtblEBXVUVHyB6eJj1YrEaxodc",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323223,
+    "cultureContent": {
+    "imageLocation": "Ankara",
+    "imageDescription": "The 15 July Democracy Museum commemorates the failed coup d'état attempt allegedly organized by the FETÖ group in 2016. On exhibit is a timeline of the violent event as a way to acknowledge and remember the past. Portraits of people killed defending against the plotters are hanging in one section of the museum. ",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty İmages"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_15.jpg?versionId=RZylsYDUEFoqp3qGPvNedwN3ntSvVdiR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_15.jpg?versionId=FVjYjAqFPKo9HRhkQOSWuZyRyodnpARI",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_15.mp3?versionId=omsn4dYIoEWuCWQpdK4KTwIvruLqxXf3",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323231,
+    "cultureContent": {
+    "imageLocation": "Uskudar",
+    "imageDescription": "Marmara University Faculty of Theology Mosque or simply Theology Mosque is intended to be a modern interpretation of classical Ottoman architecture using today's ideas. The geometric patterns communicate fractal rotational movement placing this mosque on the cutting edge of abstract mosque architecture. The structure accommodates 4,500 worshippers and the site also contains an urban square and cultural center.",
+    "imageCredits": "Ayhan Altun / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_16.jpg?versionId=qUBV7avaaNmuKm3eDpqnhQ3xSLmEXm4Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_16.jpg?versionId=o8kTKrHCQ7amxaakyBgJHYHSDUcK1M_4",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_16.mp3?versionId=BwH2On1EjCCE2CDsjOAFTghLo0mnOi05",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323238,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The whirling dervish ceremony is a practice of Sufism. Dressed in white cloaks and camel fur hats, the dervishes begin with their arms crossed to symbolize unity with God. As they spin, the right hands are extended towards the sky to symbolize their readiness to receive God while the left hands turn towards the earth, symbolizing the dervishes' willingness to share the benefits of God with those witnessing the ceremony. ",
+    "imageCredits": "GURCAN OZTURK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_17.jpg?versionId=tqM9ffqxNZ2VMy.XeMaSw8xgKfw6bUxK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_17.jpg?versionId=mjv8w49ZpgxZ.syQcJFAtpHJjaRzFMp3",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_17.mp3?versionId=zxS0RaoC8QQjtDJbcWxTlzQYbVmWYG6p",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323244,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Turkish coffee is brewed in a long handled copper pot called a cezve. The coffee grounds are powder-like and instead of filtering out the grounds they become part of the drink. The coffee is boiled twice and can be sweetened to the drinker's taste. ",
+    "imageCredits": "SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_18.jpg?versionId=1aYZC.BUakF0kIGoz6S2Iwn5eb394r.D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_18.jpg?versionId=uLINs9XVupMjyiR0p3iIZzlfJ.TdsLgv",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_18.mp3?versionId=uSO6Bp_1aJqUKeJcxCzSISBljMGUE7Hs",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323253,
+    "cultureContent": {
+    "imageLocation": "Eskisehir",
+    "imageDescription": "The Odunpazari Modern Museum was founded in 2019 with the mission to develop artistic and cultural endeavors for generations to come. Swedish artist Assa Kauppi's group of sculptures titled \"The Race is Over\" was featured at the museum as the artist's representation of life's constant competition. Seven figures of children on starting blocks before a swim race show the artist's interest in the individual's destiny and ability to succeed. ",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty İmages"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_19.jpg?versionId=4OVf19IXQR0.rhu57BKgi4Ee8nijbvzC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_19.jpg?versionId=6cWfX.KPRq5ZOkRflX4Klrr8g3ijh85H",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_19.mp3?versionId=jhhmY5Mfiy5mn.WcvZ.lOtV8nNqk2JIh",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323261,
+    "cultureContent": {
+    "imageLocation": "Istanbul",
+    "imageDescription": "The Wishing Column inside the Hagia Sophia attracts pilgrims and visitors to try their luck with the legendary orifice. Wishers must put their finger inside the column and rotate it in a perfect circle, and accordingly if their finger becomes damp then their wish will be granted. Locals claim that the powers and dampness come from Saint Gregory the Miracle Worker who appeared near the column in 1200. ",
+    "imageCredits": "Eric Lafforgue/Art In All Of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_20.jpg?versionId=FS.L1vNUjIxaz8mrigqB2UuQ2ntqm80E",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_20.jpg?versionId=Zih5Ujp4uEmiYorlNwRBHn4MKK1dmSHt",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_20.mp3?versionId=O9dKTrq15yEbJkrxzmlavtxumW0TnITB",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323268,
+    "cultureContent": {
+    "imageLocation": "Eskisehir",
+    "imageDescription": "The Odunpazari Modern Museum building was designed by Japanese architects Kengo Kuma & Associates who are renowned for their minimalist approach and preference for natural materials. Wood paneling arranged to look like rows of timbers piled up combine to create what look like a series of giant boxes stacked on top of each other. The name Odunpazari translates to \"wood market\" as timber is one of the area's top exports. ",
+    "imageCredits": "CihatDeniz / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_21.jpg?versionId=02AJgOOAAZjgOu5bZcC_yfGxX5njiaOZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_21.jpg?versionId=HsCX8rVI4puBy.nfe5EZA3Q6EfZ_YAyh",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_21.mp3?versionId=mS0zY5ZfH_il4wlbAs8I3lSQ64Femcfs",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323278,
+    "cultureContent": {
+    "imageLocation": "Büyükçekmece",
+    "imageDescription": "The Sancaklar Mosque located outside of Istanbul is unusual in its design because its sole focus is to be a religious space. The austere, almost hidden mosque is nestled into the ground inside a public park separated from a bustling highway by surrounding walls. The interior is cave-like, with natural materials creating a solitary place for one to pray to God. ",
+    "imageCredits": "erkan523 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_22.jpg?versionId=O_X9hJJLUb_snCGFRDzFpA98VybjlvHI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_22.jpg?versionId=.QTA7MImXE2KN6kw9SN8x2_g5HuoBaIT",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_22.mp3?versionId=e6MC.0peKQ4LVCaoPR8xwESE22duZ6gL",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323285,
+    "cultureContent": {
+    "imageLocation": "Cappadocia",
+    "imageDescription": "In the otherworldly landscape of Cappadocia stands the Evil Eye Tree. Laden with amulets and beads, the tree is said to ward off harm. The small blue beads, called nazar boncugu, meaning evil eye beads, are said to attract evil glances, and through the diversion protect the bearer. ",
+    "imageCredits": "Hasilyus / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_23.jpg?versionId=fSkGP4BmnqADzc3.QfmtWwTtQv..dmu1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_23.jpg?versionId=9zeN1sFbGJ84cAAO_ONf.iUgXLziL1uL",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_23.mp3?versionId=mGf99sZGVb0.WAaF.UKY8_iEdoocKXrj",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323295,
+    "cultureContent": {
+    "imageLocation": "Taşkale",
+    "imageDescription": "Carved into the limestone rockface some 800 years ago are an array of compartments for storing grain. Known as the Taşkale caves, residents are still using this peculiar complex for its original purpose. The niches are roughly forty meters deep and enclosed by heavy doors made of juniper. ",
+    "imageCredits": "irem01 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_24.jpg?versionId=Kw..TtFB64iVs7EACiRg_q3LsF1b3Bes",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_24.jpg?versionId=eHXOFiUg4rkwOTHXiVwegIJCbgGJwnpV",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_24.mp3?versionId=xbWP8Wg29lsMojzvOwQQkYmf9PmF8Oua",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323303,
+    "cultureContent": {
+    "imageLocation": "Antalya",
+    "imageDescription": "The ancient city of Termessos sits 3,000 feet above sea level, overlooking the Pamphylia region and the Taurus Mountains. Dubbed Eagle's Nest by Alexander the Great, Termessos is protected by a national park and is considered one of the most impressive ancient ruins in Turkey. The original inhabitants of the city called themselves Solymi, derived from Solymeus which would later be referred to as Zeus. ",
+    "imageCredits": "Dale Johnson / 500Px Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_25.jpg?versionId=LNyC6A6H1uAtaJaT28GQEtYnXtc2mAKe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_25.jpg?versionId=aF_H5RpxjOrXVmBVi8Bm9ucYWJA6JrSL",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_25.mp3?versionId=pPEJseLAmzYOReUS2V0tg25jT2m28gev",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323311,
+    "cultureContent": {
+    "imageLocation": "Antalya",
+    "imageDescription": "The Antalya Aquarium is home to the largest aquarium tunnel in the world, stretching 430 feet. Visitors can immerse themselves in the sea life held in the aquarium's forty themed tanks. During the 2019 Antalya-Kemer bicycle race, racers improbably rode through the famous tunnel. ",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_26.jpg?versionId=qDDjSooyM6bAc264dceT7sNRmzRT6wNq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_26.jpg?versionId=W2MHf5hqVDL8qKBkHkb4tOJ2e47Y08rJ",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_26.mp3?versionId=3c09O3VgaRXQEJvlmjik18gQBguNS31L",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323322,
+    "cultureContent": {
+    "imageLocation": "Isparta",
+    "imageDescription": "Davraz ski resort is one of the most famous in Turkey. With 12 routes and natural snow, the resort attracts many snow sports enthusiasts wanting to explore the Mediterranean region. Due to unpredictable weather changes it is best to find out the snow conditions before going. ",
+    "imageCredits": "umutkacar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_27.jpg?versionId=Dh2jikx5PEI.bHM12wARx9dI8IpqW7Sy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_27.jpg?versionId=Kqq1TsIsvEI3zoh3Xig2CxPRHqrgST.V",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_27.mp3?versionId=_XRtzDejM5JDsId0zXiex54j3akHfmSb",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323331,
+    "cultureContent": {
+    "imageLocation": "Ephesus",
+    "imageDescription": "Built in 117 A.D. in the ancient city of Ephesus, the Celsus Library is the final resting place of Roman official Tiberius Julius Celsus Polemaeanus. The library could hold 12,000 scrolls which were kept in niches in the walls to protect them from the elements. The two-story facade has several Corinthian columns which are shorter towards the edges of the facade to give the illusion that the structure is larger than it actually is. ",
+    "imageCredits": "Izzet Keribar / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_28.jpg?versionId=y2mPvdDgU19MmRVUtBJXtBd7D8eiFFXk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_28.jpg?versionId=YX8BaWQyb8zFPDyi0Jz_j8cIGc9j8un8",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_28.mp3?versionId=Rg.g4pT_lK1uOYGZd7RvcR_DpOzVz6SM",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323340,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Once served in Ottoman palaces, kavun dolmasi or stuffed melon is a traditional Turkish dish. The melon is stuffed with minced meat, often lamb, and nuts which offset the taste of the fruit. Several restaurants in Istanbul claim to serve the dishes of the Ottoman palaces and kavun dolmasi is a staple menu item. ",
+    "imageCredits": "Yoray Liberman / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_29.jpg?versionId=xkyhWm63VH7xi_nnDSPzWbb9GkdifDxL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_29.jpg?versionId=kWFkA.FuiNcIilqGTDfoqF5ru.sdQKfT",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_29.mp3?versionId=EBtjWadyhNP8owhFAidKqJqLP37yRzAv",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323349,
+    "cultureContent": {
+    "imageLocation": "Denizli",
+    "imageDescription": "The hot springs of Pamukkale are formed out of calcium carbonate accretions from hot water flowing out of the earth. Built on top of the travertine substrate was the ancient Greek city of Hierapolis, which can be seen adjacent to the warm baths. Pamukkale translates to \"cotton castle\" which is the nickname of the city Hierapolis.",
+    "imageCredits": "Keren Su / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/full/Turkish_1_9781797140766_M_30.jpg?versionId=QomvC7ctzgl99lHDRsqsQTrNMu9rWR87",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/lesson_photo/thumb/Turkish_1_9781797140766_M_30.jpg?versionId=V4qhDXRrzJx9XKl2pOJ_wH22vH4o0r2_",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/main_audio/9781442324183_Unit_30.mp3?versionId=70niYnaFMY4n8qZ0afXUZPKrQsv4opLe",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323360,
+    "cultureContent": {
+    "imageLocation": "Antalya",
+    "imageDescription": "The green waters of the Manavgat River flow nearby to Greco-Roman ruins in the city of Manavgat. Waterfalls and mountain lakes make the landscape picturesque. Oymapinar Dam standing 600 feet tall has created cavernous lakes such as Green Canyon, where rock walls jut straight up and one can see the remains of trees underwater. ",
+    "imageCredits": "SonerCdem / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish Level 1 orig/asset/RL/Turkish_1_9781797140766_Alpha.pdf?versionId=9QXgmmrELXjJ6IKvtTSOWWJQwtZR_9rC",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish Level 1 orig/asset/RL/Turkish_1_9781797140766_Intro.pdf?versionId=5p4Wjzd5.Nj2cXImMGOIr_yXR2ITMMCn",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_01.mp3?versionId=Nc5K23ubLrOZJ2WmvxST7QKGP_9DMn44",
+    "mediaItemId": 2334336
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_02.mp3?versionId=0PWIHENcUDMGQHjSkdaaSV5lsrnsj2Bs",
+    "mediaItemId": 2334337
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_03.mp3?versionId=NdhKeiHOMd6bLeZ0Y2VsmScLFzHjXgLH",
+    "mediaItemId": 2334338
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_04.mp3?versionId=PdKjZrNDlPiFvHo.K_49NARDnJP5QUIt",
+    "mediaItemId": 2334340
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_05.mp3?versionId=MT210kvmoKQpjtGmA2_fOtDBuCLtywcA",
+    "mediaItemId": 2334339
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_06.mp3?versionId=VeV2XcyKZcL.xeo_vCUFIyzv07By4d37",
+    "mediaItemId": 2334341
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_07.mp3?versionId=_T1nkmX_uKAbmWk.GJkOnAJBEbCAQoWt",
+    "mediaItemId": 2334342
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_08.mp3?versionId=LJ9Z.FnGVPr8b0oQ3ZFD7b6PN.Cx95KK",
+    "mediaItemId": 2334343
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_09.mp3?versionId=ULXIL7i0pBJLY3JCLWdg14cLigEuKrm4",
+    "mediaItemId": 2334344
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_10.mp3?versionId=.uJfW8dWFz5TzvHhy5BUtm6H8_5zq50e",
+    "mediaItemId": 2334345
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_11.mp3?versionId=kq8lOP._Apzs5ZEK9shhE0X6D5KYgFkI",
+    "mediaItemId": 2334346
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_12.mp3?versionId=Z8Qu4B4hp7MrQPV4wPYBmaCvJMd1u.Ei",
+    "mediaItemId": 2334347
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_13.mp3?versionId=1X5BhIuOed9VabF5y1B7hUKIW2bDSlnV",
+    "mediaItemId": 2334348
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_14.mp3?versionId=FWTggNwaFzTXKbgn1k.v5ox3A6aWqZlj",
+    "mediaItemId": 2334349
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_15.mp3?versionId=07JPOS3vQcBn4PmVo47qXjWgsEHlTHXy",
+    "mediaItemId": 2334350
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_16.mp3?versionId=HbSo93_Kehmt5t7mQ6BWyefsrLHKCtbI",
+    "mediaItemId": 2334351
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_17.mp3?versionId=exukk09KDqHPYfLD5gA806y0F977erid",
+    "mediaItemId": 2334352
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_18.mp3?versionId=B0bFdIgpxWefhWvXSbd2gRz4sgP7CYdm",
+    "mediaItemId": 2334353
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_19.mp3?versionId=HHkBawpB.FPhfELMtGiIgnm7uFuWmT15",
+    "mediaItemId": 2334354
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Turkish/Turkish%20Level%201%20orig/asset/RL/9781442324183_Turkish_1_Reading_Lesson_20.mp3?versionId=rdFaTOJgVJw.RbaE0gbUN1CR8OR2u3eT",
+    "mediaItemId": 2334355
+    }
+    ]
+    },
+    "languageCode": "tr-TR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797140766",
+    "level": 1,
+    "courseName": "Turkish Level 1 Premium",
+    "simpleCourseName": "Turkish Level 1",
+    "puArabic": false
+    }
+    ]

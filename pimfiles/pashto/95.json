@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 5693,
+    "languageName": "Swedish",
+    "languageId": 168,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_01.jpg?versionId=mA01gknskeVarzm1ZCcWob94iA6iCY4b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_01.jpg?versionId=r4uHx_CskLHMPMntrSEFDGkTA5XTMEMU",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_01.mp3?versionId=2yia52aD6a7GBY.z8xscJRwRSZKhHSw5",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323557,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Sweden placed seventh in the world on the Human Development Index for overall quality of life. The HDI considers life expectancy, education, and gross national income. Sweden scored a .945 on the scale, proving it to be one of the best places to live in the world.",
+    "imageCredits": "Maskot / Maskot / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_02.jpg?versionId=fh.gndl2XlDtee5p7As9yra6XXin.dWw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_02.jpg?versionId=_oQVEmYGBw4.5hYocYVjVTbMCUgaKOIT",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_02.mp3?versionId=8yUsDMLHzkKk7lF9zt4aheU5zH2Uufnj",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323564,
+    "cultureContent": {
+    "imageLocation": "Ronneby, Sweden",
+    "imageDescription": "Secondary school graduations are widely celebrated in Sweden. Graduates wear yacht captain hats with their names inscribed on the front. Champagne breakfasts, displays of baby photographs, flower chains and parties are all part of the big day. The festivities represent the idea that students should relax and honor their achievements before heading off into the world where work or university awaits.",
+    "imageCredits": "Reimphoto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_03.jpg?versionId=SRq4zdyI7edLieVcR12Oved_A3sgDwma",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_03.jpg?versionId=dhJcjVPaY3wMYx3_ScslkzJG3AOO2iw9",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_03.mp3?versionId=TQRQzo8I3EdI8p2GVXkb1ofgK9OhOVff",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323569,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "Södermalm is a trendy neighborhood in Stockholm. Stretching for 500 meters the Monteliusvägen is a walking path that gives a picturesque view of City Hall and Lake Mälaren. Fotografiska attracts artists and museum enthusiasts with their large selection of contemporary photography and visual art. The highest overlook in the city is Skinnarviksberget, where locals often gather for picnics and parties under the open sky.",
+    "imageCredits": "Nantonov / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_04.jpg?versionId=L3cc5oVXUUn26wqp.kngutYxVfQe.ASQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_04.jpg?versionId=NBTkLkZfhla.IpKJpedhcntASILHC.ss",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_04.mp3?versionId=ry9JuswcMIqbwWMQG.0O6EhHBB5bxpCI",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323572,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "King Carl XVI Gustaf is the head of the Swedish monarchy. Until 1973 the king held a formal office in the constitutional government, presiding over the council of state, commanding armed forces, and signing off on decisions for the government. The new laws relieved the king of all formal duties, leaving him with a solely symbolic role.",
+    "imageCredits": "Michael Campanella / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_05.jpg?versionId=sbksqSUk2SFT.tVad9G8pjoFlgAZC.0C",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_05.jpg?versionId=_u6v3HSx9fk7JLgx.2UDWniv22FJ4Nze",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_05.mp3?versionId=0jaMnDPCqwpqwl7Wk_UPwVTAnggQygHh",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323579,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "Cherry blossoms are an early sign of spring in Sweden. Kungsträdgården is one of the most iconic places to view the blooming trees, where Stockholm's famous park appears to be coated in a blanket of pink petals. Peak cherry blossom season falls in mid to late April.",
+    "imageCredits": "Maria Swärd / Moment. / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_06.jpg?versionId=YqHL2QiUO9bEU.Y8MxLNWdQS1gER0YxY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_06.jpg?versionId=Nn26iTlekH61WtuKxH_G.5FgJrxSvOrs",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_06.mp3?versionId=Byw0diT1CdU1c0COaDm7ClKLUtyoxufc",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323586,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Since 1989 the Icehotel has become a must-see phenomenon for winter travelers in Sweden. Built atop the Torne River which freezes during the coldest months, the Icehotel is constructed completely of ice blocks. Besides having rooms for guests to stay the Icehotel has twelve uniquely carved art studios that feature intricate ice sculptures.",
+    "imageCredits": "Dan77 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_07.jpg?versionId=TxBPYn.E5XTcvCIgj0f6qCo3qKd.BW0M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_07.jpg?versionId=gs.cuNT22xWZpsk4okjWJf9WnVHhaUb_",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_07.mp3?versionId=xeMBDdI.pL1xcKNBDwcofn4l3Z8.SjXK",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323593,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though there are no wild reindeer left in Sweden, reindeer herding remains an important facet for indigenous groups including the Sami people. The Sami began domestication of wild reindeer in the 17th century. Historically, the Sami moved with the reindeer herds as they traveled over expansive grassland for grazing. Around 10% of Swedish Sami make their living in the reindeer trade.",
+    "imageCredits": "JellisV / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_08.jpg?versionId=LN9OqgkuJOHwAuAikNVm0ZZJ5WnMZHnp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_08.jpg?versionId=r9zlez_bWDLQkXXcnnOzCoGDM58uj8FB",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_08.mp3?versionId=CZrrT04dtUNz.nrYza14H.w.OU8TTLJy",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323599,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "In Sweden, the celebration of Midsummer is a cherished tradition. On the longest day of the year, Swedes pick flowers to form festive crowns and dance around the Maypole. Feasting occurs throughout the day, including dishes such as pickled, fermented, and smoked herring, boiled potatoes, breads, and strawberry desserts. Light beer and flavored schnapps are imbibed while singing, and the merriment creates a welcoming atmosphere.",
+    "imageCredits": "Nadezhda Kharitonova / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_09.jpg?versionId=9bQylsEMuP8KqnqkO6DNk9ulOaFgfi46",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_09.jpg?versionId=XSOc3Bf5aCtPjtR4iKl5nJKQUBGdL1vh",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_09.mp3?versionId=czQ5_znaEWGHgz.c1Laxybje7vHTTokd",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323604,
+    "cultureContent": {
+    "imageLocation": "Lapland, Sweden",
+    "imageDescription": "Lapland is situated in the Arctic Circle, occupying parts of Norway, Finland, Russia, and Sweden. The Sami people have resided in this region since ancient times, and refer to the area as “Sápmi” in their language. Filled with picturesque, unspoiled nature, Lapland is an exquisite place to visit and provides an excellent view of the mystical Northern Lights.",
+    "imageCredits": "Lars Thulin / Johner Images royalty Free / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_10.jpg?versionId=wrdCs9nNt9AiRjGMSwc9OCW62OzIhDxg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_10.jpg?versionId=o7wvir1nefyY3QFX4glmwFptiTLwiNzb",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_10.mp3?versionId=fCcbl9Ql6BpQ51n9zt3xploH0vDp4JMF",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323608,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Many houses in Sweden are painted red with white siding and trimmings. The reason for this is the dye, Falu red, is a copper mining byproduct from the Falun mine. The color is both sustainable and self-preserving, as miners who died in the Falun mine were found to be mummified with the same red byproduct.",
+    "imageCredits": "Johner Images / Johner Images Royalty Free / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_11.jpg?versionId=r8MfMxFq1rjWjGKBpsjwpkID7SO.xwv9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_11.jpg?versionId=XPJyNoj7fpMUUnYHaVAaTQsfXnApy9vj",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_11.mp3?versionId=834VYsUSG7WZCrdG7kSlXSuZg8oFqRIy",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323613,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "The subway system of Stockholm has one hundred uniquely designed stations. Since 1957, artists have been employed to paint murals and patterns on the walls of the cavernous stations. One of Stockholm’s first cave stations near Östermalms IP was painted with bright rainbow colors and oceanic blues to deter passengers from thinking of the netherworlds in the caves. Coincidentally, Östermalms IP is the site of the Stockholm Pride Festival.",
+    "imageCredits": "JONATHAN NACKSTRAND / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_12.jpg?versionId=6l8wnbmFnUk5UB1ZHBE77kqxqFGS3lxq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_12.jpg?versionId=H9.vp48j7JCaBvhAkGvxzz_hmsOHQ1VI",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_12.mp3?versionId=.4LzSPJ6d2EOcwOLGa1R.V8j6NVar.Xg",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323617,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Filled with 100,000 lakes and several waterways, Sweden is a hot spot for fishing. The surrounding Baltic Sea has less salinity than most salt waters, and proves plentiful with pike and sea trout. Stockholm is also known for its fishing opportunities right in the city center of Stromgatan.",
+    "imageCredits": "Johner Images / Johner Images Royalty Free / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_13.jpg?versionId=qjsV_CqAkzbhKLPX8_SmVIhekb5Ce4D9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_13.jpg?versionId=auoPj881_NlmnrUAI7sK2QzjNfNaZqCd",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_13.mp3?versionId=tgDTymSbkTkGnhKtNmi.JWndnUofd4sz",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323621,
+    "cultureContent": {
+    "imageLocation": "Gothenburg, Sweden",
+    "imageDescription": "Formed in 1990, At the Gates is a Swedish band that was instrumental in forming the Gothenburg melodic death metal sound. This genre of music uses aspects of heavy metal and distorted guitars. Often bands will use melodic singing mixed with growling and screaming to form the unique sound.",
+    "imageCredits": "Pacific Press / Lightrocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_14.jpg?versionId=sgC6eW1TDAz5ODoVqfBFciJO5Awg6mL6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_14.jpg?versionId=JOe9OFec_qCkJRcLMlg3dAy3jcbjLU0e",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_14.mp3?versionId=oQjnd2Z2f8c2Oskav3vkFryszlHMyRyM",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323623,
+    "cultureContent": {
+    "imageLocation": "Älmhult, Sweden",
+    "imageDescription": "In 1943 at the age of seventeen, Ingvar Kamprad created the company Ikea. Originally a small goods store for items such as lighters and pens, Kamprad started selling furniture five years later. The success of the Swedish store has made it a household name, selling flat packed furniture for at-home assembly which reduces the cost of production.",
+    "imageCredits": "Picture Alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_15.jpg?versionId=Jbha9kWNx6DBdDJcsnMRoZBRY1u3jHGs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_15.jpg?versionId=RFweu9_mOlltm_3TRLZYPiE6MlOENAgO",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_15.mp3?versionId=IzF9w4SAOLCw0Aq4FuN2y4xz0hGSAE.v",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323625,
+    "cultureContent": {
+    "imageLocation": "Gotland, Sweden",
+    "imageDescription": "The Gotland Grand National is the world’s largest enduro race. Started in 1984, the race has steadily attracted more participants of all levels since its inauguration. The length of the track is around 22km long and is a lap race.",
+    "imageCredits": "Soren Andersson / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_16.jpg?versionId=rL0Ihhp83Od54d7itSluaVTeGTv9Xgs3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_16.jpg?versionId=dboJvgTLNByiO6NiXXo1ILma6aJMbht8",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_16.mp3?versionId=H4pr9v7yzaeJdQGtH.ezfylFdLPYj7S2",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323627,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "Commonly referred to as the glass obelisk, Sergel’s Torg in Stockholm stands as a pillar in the center of the popular public square. Named after the famous sculptor Johan Tobias Sergel whose workshop was located near the square, the monument is a starting point for many demonstrations in the city.",
+    "imageCredits": "Dag Sundberg / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_17.jpg?versionId=9i0AfqXxbOq1uBrJraMzRv.rhUxIINwz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_17.jpg?versionId=0Z1cihL5wYNWxxMoIpQ1Ov4LJy.qES6X",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_17.mp3?versionId=z5P3dc3rDbMSt3INFXAW5OlDLucHUfkl",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323628,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "Founded by Gustav III in 1773, the Swedish Royal Opera is the country's national theatre for opera and ballet. The theatre boasts the nation’s best performances of modern and contemporary ballet and orchestral and choral music. To create an accessible place for young people, the opera house puts on exciting shows to attract youth to the higher arts.",
+    "imageCredits": "Count_kerk / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_18.jpg?versionId=.wjsS8XHzCFpuXCPCVmWmQBkWzYlxiGB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_18.jpg?versionId=E3uS3Zppcs4NyyS.d8KXYycWYkfF4.9v",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_18.mp3?versionId=IYw6OxdbJWHr7.lgzbjVs7GW6mpQUKom",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323629,
+    "cultureContent": {
+    "imageLocation": "Gothenburg, Sweden",
+    "imageDescription": "Chalmers University in Gothenburg is one of Sweden's leading technology schools. The Kuggen building boasts a modern flair on the historic campus, featuring brightly colored panels and a geometric design. The structure was awarded the MIPIM award for its sustainable design in 2009.",
+    "imageCredits": "Trygve Finkelsen / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_19.jpg?versionId=ETmgoNOUeTr7MAsl0JpiYyEfoWXQRIvq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_19.jpg?versionId=l4_SGcrgzMkb_f5JfyVkSUebL9JVuDub",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_19.mp3?versionId=yz.Q2tSdHk_TSUB8jEdvY6jmH4bxf2XQ",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323630,
+    "cultureContent": {
+    "imageLocation": "Gothenburg, Sweden",
+    "imageDescription": "Founded in 1621 by King Gustav II Adolf, Gothenburg is Sweden's second largest city. Gothenburg has the longest summers in Sweden, with 144 days of the warm season. The city hosts the world’s largest football tournament, the Gothia Cup, which is a youth football tournament.",
+    "imageCredits": "Joahal0320 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_20.jpg?versionId=3adSBGAIZypPBV_bZbGVqm9CIydvcejg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_20.jpg?versionId=ryMPUsWQ1p4khl4m8Cpuggr5xiIhG4ua",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_20.mp3?versionId=Dl1JHDfwEAAAHH.wJy6FcTJeg3.PwEFg",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323631,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "The ABBA Museum in Stockholm houses memorabilia, costumes, music, and all things related to the iconic Swedish band. The exhibits are interactive with the use of virtual reality and holograms of the band members. The museum’s collections are mostly from the band member’s private collections, making it an authentic experience for any fan of ABBA.",
+    "imageCredits": "JONATHAN NACKSTRAND / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_21.jpg?versionId=FNfjxBGgYYHaHNFxGrEx7SWy9WCA7gxE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_21.jpg?versionId=6Lp2MQy2AvN8GSqekvNIoJaWYFMyre9e",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_21.mp3?versionId=t5qLm.yF1SsWgvjtKb_nTRmxwwPSRfK5",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323632,
+    "cultureContent": {
+    "imageLocation": "New York City, USA",
+    "imageDescription": "After the tragic death of John Lennon, family friend Carl Fredrik Reuterswärd created a statue to represent non-violence. The statue is an oversized Colt Magnum revolver knotted at the barrel. Non-Violence was initially exhibited at the Strawberry Fields memorial in New York's Central Park, and reiterations of the statue have been created and displayed at the United Nations headquarters and locations around the world.",
+    "imageCredits": "Anders Blomqvist / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_22.jpg?versionId=dl2tBNRS.MK5FrFRkzhCRQTsgxP4lRD_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_22.jpg?versionId=dca.k8UoIaQFswWYruEHQuKCJOo.3Q.j",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_22.mp3?versionId=s_.NPpF8kQcp8XEv_V2vPyppn98vxmDF",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323633,
+    "cultureContent": {
+    "imageLocation": "Baltic Sea",
+    "imageDescription": "The Øresund Bridge crosses the Baltic Sea between Denmark and Sweden. Both a bridge and a tunnel, the linking road was opened in 2000 and stretches 16km. The bridge crosses the artificial island of Peberholm, which observes migrating species and is used as a turn around for emergency vehicles.",
+    "imageCredits": "Ingus Kruklitis/Eye Em / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_23.jpg?versionId=fy5V.D82Ivgc1GQrQm773iCZyNFGoXkr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_23.jpg?versionId=mdOL6utdszXhy4dull4iMyDLEn_m5BfF",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_23.mp3?versionId=7JEXnw3WbXZbY2m4yukwlbKCXaO4pvr.",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323634,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Greta Thunberg is an award-winning climate activist. Thunberg created the Skolstrejk för Klimatet movement, a protest against world leaders for insufficiently addressing the climate crisis. Thunberg was nominated for a Nobel Peace Prize in 2018, named TIME Magazine’s Person of the Year in 2019, Swedish Woman of the Year in 2019, and several more accolades all before the age of twenty.",
+    "imageCredits": "CARL JOHAN-UTSI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_24.jpg?versionId=KPsL6x9JhVBpIAdzKNrUwDBeCUzCQtAB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_24.jpg?versionId=qfBC9oZjXDbt_KFt5WIzkFzl_EYs7Uil",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_24.mp3?versionId=zaHMgzfdpZJCtTX438q7PqQcTH0HiJUG",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323635,
+    "cultureContent": {
+    "imageLocation": "Skane, Sweden",
+    "imageDescription": "Fifty-nine large boulders make an irregular skyline against the Baltic Sea. Known as Ale’s Stones, the purpose and meaning of the arranged rocks is a mystery. Thought to have been arranged in the Iron Age, Ale’s Stones are speculated to be an ancient clock or burial site.",
+    "imageCredits": "Martin Wahlborg / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_25.jpg?versionId=96zozWclNV3CWbhbnrREs_rf2gK01Q_b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_25.jpg?versionId=Wdt.a3jA7SOGp78wNE0Yr.LzPxfw4uow",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_25.mp3?versionId=DZT3YLO3D0_7xrCRDxVUsHWd8WsTWDMf",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323636,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "Semlas are a traditional Swedish treat. The wheat flour buns are flavored with cardamom and filled with almond paste and whipping cream. The origins of the buns come from Fat Tuesday, where they were eaten as a celebration of the last meal before the fasting for Lent.",
+    "imageCredits": "Alexander Farnsworth / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_26.jpg?versionId=oLWT4SBKiaPyHaInzSGcilgKFH_HUWj8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_26.jpg?versionId=DfiWC.6qpetgH8DFi2Qlbjja5oB7CILn",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_26.mp3?versionId=V30o2QdQoShMgNK0W5xzTPVjRf7iyRRX",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323637,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "The popular character Pippi Longstocking originated from a book series by Swedish writer Astrid Lingren. The books were later adapted into a television series starring Inger Nilsson. The young Swedish character Pippi Långstrump famously lives alone in her old house called Villa Villekulla, accompanied by her pet monkey Mr. Nilsson.",
+    "imageCredits": "Izzet Keribar / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_27.jpg?versionId=R_TqPW6GACjdmUtxaUukCNAzwD3oV6rD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_27.jpg?versionId=7pBuZqDiqhstVyopB9r1lfSDuhRkm2xx",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_27.mp3?versionId=77N7WZY3GMJHvUMpEbMAW1CM_slWSajU",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323638,
+    "cultureContent": {
+    "imageLocation": "Skane, Sweden",
+    "imageDescription": "Valborgsmässoafton is a Swedish celebration of Walpurgis Night which honors 8th century Francian abbess Saint Walpurga. The festivities take place on April 30th and Swedes light bonfires to ward off evil spirits as they welcome spring. Fireworks, singing, drinking, and merriment are staples at a Valborgsmässoafton celebration.",
+    "imageCredits": "Anders Blomqvist / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_28.jpg?versionId=.QeHMYojuZoLmogu8yQi0.ltPIYckASx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_28.jpg?versionId=BuSELqDDcgr5mNr49OcFyfmJu2BWjXLO",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_28.mp3?versionId=WovetdDOMZ29Kg1W8EdldOvJlnmRHaaz",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323639,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "From September to early April, the Aurora Borealis or the Northern Lights can be seen at various locations in Sweden. The colorfully lighted sky is the result of charged particles from the sun colliding with the Earth’s atmosphere. The differing colors depend on the gas emitted from the particles. The indigenous Sami people believe that the lights are souls of the dead and are meant to be respected quietly.",
+    "imageCredits": "Dave Moorhouse / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_29.jpg?versionId=mtX5dvCLtyCSvS_PQMqNeFAzTCfDVB_g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_29.jpg?versionId=Rz_3ovPP0TK3J77DQoc0TS6MEkSnbqx2",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_29.mp3?versionId=F_a91QYa7hA06kFsSKpoPrgw8FE6UlQB",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323640,
+    "cultureContent": {
+    "imageLocation": "Mälmo, Sweden",
+    "imageDescription": "The Twisting Torso in Mälmo is the largest building in the Nordic countries and the first of its kind. The fifty-seven story skyscraper twists in 90-degree rotations around steel beams, and was a trailblazer in sustainable design. The building is divided into nine segments, the first three being filled with offices while the remaining are luxury apartments.",
+    "imageCredits": "JOHAN NILSSON / AFP / GETTY IMAGES"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/full/Swedish_1_9781797140759_M_30.jpg?versionId=fcb4FgajX.cgXtd0VSj0HQk5FJFDMKAb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/lesson_photo/thumb/Swedish_1_9781797140759_M_30.jpg?versionId=L_iszXCT1RIO3o.r7PjB6tsfMDL5LYgy",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/main_audio/9781442343702_Unit_30.mp3?versionId=6Or.XH1eNOK0u.UjDwz_nMuKUfXhQNM_",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323641,
+    "cultureContent": {
+    "imageLocation": "Stockholm, Sweden",
+    "imageDescription": "The formal residence of King Carl XVI Gustaf, the Swedish Royal Palace in Stockholm is one of Europe's largest palaces . With over 600 rooms, the palace contains five museums, an armory, royal costumes, and Queen Kristina's silver throne. The palace can be viewed from the bridge between Blasieholmen and Skeppsholmen, which has a gilded crown in its center.",
+    "imageCredits": "Mikdam / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish Level 1 orig/asset/RL/Swedish_1_9781442343702_Intro.pdf?versionId=FAZU5FGKWoxjqhkNWj0x0frtZQ7EYHWB",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading11.mp3?versionId=ko31WvMoI5lSDnnp.jdKX5Z_0A5pr9Xf",
+    "mediaItemId": 2347767
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading12.mp3?versionId=BKXjETwr4oP70BbKr_u.mBQ6z0ugTiy.",
+    "mediaItemId": 2347768
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading13.mp3?versionId=f5VpDZIutOW1wOfo1rGOF3inyJBsxnd5",
+    "mediaItemId": 2347769
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading14.mp3?versionId=AHL0zdnF51HwhVR0QOy1VBd5KK2Ftdiv",
+    "mediaItemId": 2347770
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading15.mp3?versionId=fhGmCQQSzp6Q_0UJyuFAHKy6ZKUvZYgQ",
+    "mediaItemId": 2347771
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading16.mp3?versionId=WN9B3B.r9U4UulqAzONWWNlaqxygpGkm",
+    "mediaItemId": 2347772
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading17.mp3?versionId=MKrSXMQM5lAUTLxHrft.QtKv3kOqkr9P",
+    "mediaItemId": 2347773
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading18.mp3?versionId=5zWTIAl7Oz6FYX25I6fVJ5rdR2rnNkPo",
+    "mediaItemId": 2347774
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading19.mp3?versionId=pwiWOWZknt.RQj1c73C4RfYj1j2f0ar_",
+    "mediaItemId": 2347775
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading20.mp3?versionId=WPRIia_f8KI2X.nGkgwWAobKFOREJHqf",
+    "mediaItemId": 2347776
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading21.mp3?versionId=MCFO618p93noMTFx6d_bsdScBlt6fzkp",
+    "mediaItemId": 2347777
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading22.mp3?versionId=0ifmAW6f_4sfpJqELE75PqtOdMJJf_R3",
+    "mediaItemId": 2347778
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading23.mp3?versionId=RjLU6MRAKShHSKMJUwMpo_aI.JLkOpdR",
+    "mediaItemId": 2347779
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading24.mp3?versionId=cJuCEhdN1bV_80K05jK6pGTRiMPqc8js",
+    "mediaItemId": 2347780
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading25.mp3?versionId=TqqTYDSOIAakoftm9XkzJucGIV5gK.YM",
+    "mediaItemId": 2347781
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading26.mp3?versionId=YbzUerYcYhOHiZeDK53y1xiz64awQDYf",
+    "mediaItemId": 2347782
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading27.mp3?versionId=Dg90_3xpuHlbOIsxqTodUVsQclbBcDYl",
+    "mediaItemId": 2347783
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading28.mp3?versionId=KKSNZO7Ijx6fuvLlP2KNof8iajkLWFNf",
+    "mediaItemId": 2347784
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading29.mp3?versionId=h3m5ljAuCIDSPHrUJnfPguI__KTtNKLi",
+    "mediaItemId": 2347785
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swedish/Swedish%20Level%201%20orig/asset/RL/Swedish_1_9781442343702_Reading30.mp3?versionId=D00DbrZ8CFdpXvyekJeZOnWdEXYxV1CX",
+    "mediaItemId": 2347786
+    }
+    ]
+    },
+    "languageCode": "sv-SE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797140759",
+    "level": 1,
+    "courseName": "Swedish Level 1 Premium",
+    "simpleCourseName": "Swedish Level 1",
+    "puArabic": false
+    }
+    ]

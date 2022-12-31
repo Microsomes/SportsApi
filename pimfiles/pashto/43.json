@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 6464,
+    "languageName": "Japanese",
+    "languageId": 156,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_01.jpg?versionId=z1T.DzXqe20lS.al8xULYVXii9Uywe_o",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_01.jpg?versionId=CPXdzP19l3bgBMEDWoOmi7WRFQlqzzpu",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U01_Lesson.mp3?versionId=BoQ0JEZyuWLo_32rL4qASPmnsHKVfrVp",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2321671,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Community gardens have long been popular, but now Japanese in urban areas have access to \"rental farms.\"  Members pay an annual fee for a garden plot, which includes access to a clubhouse with showers, high-end gardening tools, in-house gardening experts and ongoing classes.  Members without enough time for actual gardening can pay an additional fee to have someone tend their plot.",
+    "imageCredits": "Ryultsuki / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_02.jpg?versionId=P9pmAbrxV7ZX6JpfYCkhMUhUXAw17sdm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_02.jpg?versionId=V5CdZbaak23G0Zf7tvOY5Zw.AahdG1t4",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U02_Lesson.mp3?versionId=UvB.ybemGCwOauG.5iczBhHgEZNftvn6",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2321685,
+    "cultureContent": {
+    "imageLocation": "Matsuura, Nagasaki Prefecture, Japan",
+    "imageDescription": "Tanada (\"rice terraces\") were created by the ancient Japanese as functional works of art; enhancing the beauty of the natural landscape while enabling food production in areas not suited for traditional farming methods. Graduated terraces function as dams, filtering, purifying, and holding in rainwater to nourish crops and promote growth. They also help prevent erosion and surface run-off, and the way in which they circulate water supports an ecosystem that nurtures small organisms like frogs and insects.",
+    "imageCredits": "Agustin Rafael C. Reyes / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_03.jpg?versionId=PKjpBHyfaKEaN1UW61flGU2BzzX4HnNC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_03.jpg?versionId=Mip9KKh9I.dtbr3ZgP1MT7mXmbIUkAjP",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U03_Lesson.mp3?versionId=VLexNFEfLwiw110__qgoWp7b2NFroKQ6",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2321703,
+    "cultureContent": {
+    "imageLocation": "Kobe, Hyogo Prefecture, Japan",
+    "imageDescription": "The Kobe Maritime Museum roof was designed to evoke the sails of a ship.  Nearby, the Kobe Port Tower soars over 350 feet into the air, and offers panoramic views from its observation deck.  One section of the deck is constructed with special glass that becomes transparent as visitors approach, affording dramatic views straight down. ",
+    "imageCredits": "Kevin Miller / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_04.jpg?versionId=LauSd8.20PVsHtei1gkY8tOiVXrmiaed",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_04.jpg?versionId=3C4PelFJKoThae4ppAMcEwHA_YOr6Vtl",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U04_Lesson.mp3?versionId=gS.c2L_5mOE.TCktnCa4O3HJzSU9aV4j",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2321719,
+    "cultureContent": {
+    "imageLocation": "Shirakawa, Gifu Prefecture, Japan",
+    "imageDescription": "Shirakawa mountain village is located at the highest peak on Mount Haku in the Ryōhaku Mountains, one of the snowiest places in Japan.  It is home to the steep, straw-thatched roofs of  three- and four-story houses houses built in gassho-zukuri or \"prayer-hands construction\" style, which enables them to withstand heavy loads of snow.  They range in age from 100 to 400 years old, and are constructed without nails or other metal.",
+    "imageCredits": "Summer Yukata / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_05.jpg?versionId=9ZJuG388vrLmwyUVeK9vIIyFJJrJSuUa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_05.jpg?versionId=kQjHiZ5UB_04bYyxGnnyF3.lWdCsV5s6",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U05_Lesson.mp3?versionId=a.mTdSVgjDSC8gNUqsNgPxzvvahU6hwu",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2321737,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Kendo, or “The Way of the Sword,” is a Japanese martial art based on training given to warriors in the 15th century. Modern Kendo holds true to this tradition, focusing on teaching students to develop strong spirit, healthy body, and a sharp mind through the application of principles of the katana (sword). Kendo is practiced by over 8 million people worldwide, with schools in Japan, Korea, the United States, Brazil, and Canada.",
+    "imageCredits": "White Rock / amana images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_06.jpg?versionId=e3NXWL.xVnbvEqUY.T51xSesAt3ULZbs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_06.jpg?versionId=qm814jHC4OFvX1DervJMBSyEu31IQFSY",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U06_Lesson.mp3?versionId=gGQjgteFOmAAW_N5WHpWeK6TMbRDfHrt",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2321759,
+    "cultureContent": {
+    "imageLocation": "Kitakyushu, Fukuoka Prefecture, Japan",
+    "imageDescription": "The 400 year-old Kurosaki Gion Yamagasa Festival is a lively Shinto celebration held every July. Elaborately decorated floats are on parade and accompanied by musicians playing taiko drums, gongs, and conch shells. The highlight of the festival is a “battle,” wherein teams of men and women compete, spinning the giant floats, and racing to see who can cause their float to spin fastest.",
+    "imageCredits": "The Asahi Shimbun / Contributor / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_07.jpg?versionId=BIDIGzo1B5XbIPast_i2zPnzR31zmn.h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_07.jpg?versionId=UhwRGvwd3u9V2sdtSYYVt4IhoNTprPr7",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U07_Lesson.mp3?versionId=1oukMWZpFFC2KVLpsXUm8CMhE_qF7d3l",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2321779,
+    "cultureContent": {
+    "imageLocation": "Kamakura, Kanagawa Prefecture, Japan",
+    "imageDescription": "Thirty-two miles south of Tokyo is the seaside city of Kamakura, home to the Hase-dera temple, which is itself home to one of the largest wooden statues in Japan.  Carved of camphor wood in 721, it's over 30 feet high and gilded in gold.  The temple is also home to hundreds of Jizo statues, which are frequently adorned by bereaved parents in remembrance of a child. ",
+    "imageCredits": "Religious Images/UIG Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_08.jpg?versionId=I2zStlpN7_YO3G.q6HDyb.XOBmwX9sCj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_08.jpg?versionId=Kq5YbWVbvecYp_JzqCxw6xPHX99awQNm",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U08_Lesson.mp3?versionId=opNzJ_H7mlo2vDn._I0kezYUZOQ_PqYJ",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2321798,
+    "cultureContent": {
+    "imageLocation": "Nagasaki, Prefecture, Japan",
+    "imageDescription": "The Nagasaki Lantern Festival is held each year in late January and early February.  It was originally started by Chinese residents to celebrate Chinese New Year, but has grown to be a major winter attraction with parades, performances and dance exhibitions, and an estimated 15,000 lanterns.",
+    "imageCredits": "Jonathan Austin Daniels/ iStock / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_09.jpg?versionId=Qs9TGXxq6rsBboCsOUXdQaVq6IBdLK2V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_09.jpg?versionId=ZIZ22a5RRTVw912MhWdj2kGhDK5klFTr",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U09_Lesson.mp3?versionId=ObsZ7xFqxHaPFTJSRJHTlAq2gWik7TIo",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2321819,
+    "cultureContent": {
+    "imageLocation": "Hitachinaka, Ibaraki Prefecture, Japan",
+    "imageDescription": "In October, the fields of  Hitachi Flower Park appear to have burst into flame as the Kochia bushes turn from green to red.  The plant is native to Eurasia, although “burning bush,” now grows rampant throughout the northern and western United States and Canada.  The seeds are dried and used as a garnish called tonburi, which is also referred to as “field caviar,” because of its texture and appearance.",
+    "imageCredits": "Shihina / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_10.jpg?versionId=ehrTBCRvc.6JAA_MJVtTo6KHxjnLVLft",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_10.jpg?versionId=h.mq7Ht_x_byosztSSBX.lSyv_TarnDt",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U10_Lesson.mp3?versionId=ZiFeGndx_bKWu.VFLNsNWvSObd4HSYqC",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2321838,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Tokyo Prefecture, Japan",
+    "imageDescription": "Kanbukicho, nicknamed \"Sleepless Town\" is an entertainment and red-light district in Shinjuku district.  Neon lights advertise and entice tourists and citizens into nightclubs and hostess clubs, and its many stores, restaurants and movie theaters.",
+    "imageCredits": "Tom Bonaventure / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_11.jpg?versionId=mTpf5g.qa8N.GxKoePo7Y.8MiSfwmVh_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_11.jpg?versionId=2ngKw6XG2_OxJH.66URiwjUzY3ixohxY",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U11_Lesson.mp3?versionId=gwDpu.UwLLO9S2pfog3vfvLEG3ONdLiZ",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2321866,
+    "cultureContent": {
+    "imageLocation": "Okinawa Island, Okinawa Prefecture, Japan",
+    "imageDescription": " Japanese \"kimainu\" lion dogs were originally brought to Japan from Korea. Usually displayed in pairs at entrances to temples or other buildings, or on roofs, they are said to scare away evil spirits.",
+    "imageCredits": "Ziggy_mars / iStock / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_12.jpg?versionId=jiiDND5u8v.qqxeNpCIBP7t5oim6mvnp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_12.jpg?versionId=lCjeNvTuZyVYSORiUdPrDIOAP7M0zO6N",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U12_Lesson.mp3?versionId=.mx1DDdARIaTNyOyUSRDDPq4nOo6N8Hz",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2321900,
+    "cultureContent": {
+    "imageLocation": "Furano, Hokkaido Prefecture, Japan",
+    "imageDescription": "Furano and Biei are two towns in the center of the Hokkaido region famous for their flowers. Furano is known for magnificent fields of lavender and sunflowers. Biei flower fields are planted to offset the majestic mountains in the distance, the gently rolling fields are covered with a giant rainbow made of blossoms.",
+    "imageCredits": "Prasit Chansareekorn / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_13.jpg?versionId=UvpxBLZfMlJn0G5caqy_ziAjJCUcZrWH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_13.jpg?versionId=D2A415XkXyqach7TvCt01xoegSf4HAYq",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U13_Lesson.mp3?versionId=CTqOXqjwqqfmiW5z7pqDe_Qo_W1i27t5",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2321927,
+    "cultureContent": {
+    "imageLocation": "Nara, Japan",
+    "imageDescription": "Nara was Japan's first imperial capital. At its center is a park containing temples, historical buildings, and about 1200 wild sika deer, which wander at will, delighting citizens and visitors.  The park also contains the Nara National Museum where a 50' tall statue of the Buddha is housed in the world's largest wooden building.",
+    "imageCredits": "Kampee Patisena / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_14.jpg?versionId=GTDnqxM0mraIF51YxaR6hIqPIuXCYnia",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_14.jpg?versionId=6Rt_wfIXKyLLvO2XOMfhpQSlJ1HGSRsR",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U14_Lesson.mp3?versionId=eo.iGxXIyk8nOj7MfWz.SAUQOFVPeBNk",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2321955,
+    "cultureContent": {
+    "imageLocation": "Hakone, Kanagawa",
+    "imageDescription": "The Hakone Yunessun Hot Springs Amusement Park and Spa is known for its unique bathing options such as a Sake Spa, a Green Tea Spa, a Coffee Spa, and a Wine Spa. In each, a giant replica of the appropriate container (a 2-meter tall teapot, a giant Sake cask, etc.) refills the bath several times per day. In addition, Yunessun is home to several waterfalls and water slides, providing something for everyone to enjoy.",
+    "imageCredits": "Toshifumi Kitamura / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_15.jpg?versionId=yj7GZ5_YdUE3ORChuyZODtWeaV4eR.nr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_15.jpg?versionId=qRnxfosVEsAXZW5pxiSVVMGf18R9oRvs",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U15_Lesson.mp3?versionId=5C1yQIPjlKPfIBOghrqDSaVpYRVRJx2e",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2321984,
+    "cultureContent": {
+    "imageLocation": "Takehara, Hiroshima Prefecture, Japan",
+    "imageDescription": "Okunoshima, an isolated island in the Inland Sea, was the site of Japan’s poison gas production prior to and during World War II. Some rabbits intended to be test subjects survived; so today the island is home to their descendants, and known as Usaga Jima, “Rabbit Island.”  The island is accessible by ferry, and there is a hotel, a golf course and a small camp ground with walking trails. ",
+    "imageCredits": "Bernie DeChant/ The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_16.jpg?versionId=84F49G_hFWZeG5RGJPnssdwsrLul4Dli",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_16.jpg?versionId=p9Ysws4gbEFk6Mw4_Ms3B3PGYsS6oeib",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U16_Lesson.mp3?versionId=FKcj68Bx_EJnJqM_kE0oVVE_QycycFp6",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2322009,
+    "cultureContent": {
+    "imageLocation": "Uji, Kyoto Prefecture, Japan",
+    "imageDescription": "Japan's volcanic origins caused a shortage of flat land available for farming, so tea is often grown terraced on hillsides. Uji, near Kyoto, is the second-largest tea-growing region in Japan. It is also the setting for the world's first novel, \"the Tale of Genji\" by Murasaki Shikibu written in the early 11th century.",
+    "imageCredits": "Imagenavi / Imagenavi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_17.jpg?versionId=7cZr_urt5TSOuncyIWni7ko_JuT_E2fZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_17.jpg?versionId=GQRLIf6FkeuKMP_o87Wp8VlBIpYrSmd0",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U17_Lesson.mp3?versionId=0WsZdZMzT6Mo8c_GzxtLrfpTwCsocxwD",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2322036,
+    "cultureContent": {
+    "imageLocation": "Peace Park, Hiroshima, Japan",
+    "imageDescription": "Industrial Promotions Hall was one of the few buildings left standing after the atomic blast in Hiroshima in 1945. At night the illuminated “A-bomb dome” is visible through the arch of the Peace Memorial Cenotaph in Peace Park.",
+    "imageCredits": "Paul Quayle / Axiom Photographic Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_18.jpg?versionId=6k7dXAMLxoduCMRWt2cBgdjkGKuPadQr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_18.jpg?versionId=GsEgN_BmVB3f94WLyo23aPiYZP6Ojg9B",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U18_Lesson.mp3?versionId=s8gec0VRuL6QBSS7uXdwyJKBjvwo7WYb",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2322063,
+    "cultureContent": {
+    "imageLocation": "Nagoya, Aichi Prefecture, Japan",
+    "imageDescription": "In the 17th century, the head priest of the Kojakiyi Temple at the summit of Mt. Timori ordered maple trees to be planted along the pathway to the temple. After that, maples continued to be planted on the mountain. Today, about four thousand maple trees produce the Korankei Valley’s fall foliage display.",
+    "imageCredits": "Mynamenot / iStock / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_19.jpg?versionId=u1M8NcJYlkT9yYW8R3hVANDGixSo65BE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_19.jpg?versionId=om91Zur5h9QNAujDcNQJMhkGn0OTQbZN",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U19_Lesson.mp3?versionId=r7.vXYBuX.UCOcreFzzD_L7ycR0ld.DN",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2322087,
+    "cultureContent": {
+    "imageLocation": "Odaiba Island, Tokyo Bay, Japan",
+    "imageDescription": "Odaiba is a large artificial island in Tokyo Bay, home to a replica of the Statue of Liberty, which rises above the landscape, overlooking the Rainbow Bridge, and the Museum of Maritime Science. Originally built as a temporary structure during the 1998-1999 “French Year of Japan,” it proved so popular that a permanent version was erected in 2000. There are two other Japanese replicas in Osaka and Shimoda.",
+    "imageCredits": "TommL / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_20.jpg?versionId=RA6AGvYLJT0SUEgjkazVQqMF7bf3Cqtk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_20.jpg?versionId=4Kmqlai2tMNp7qKmbMQfFLAa8vgb0_v0",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U20_Lesson.mp3?versionId=88WO5ialr92L1FKnKwi83vN0DeDoje5K",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2322110,
+    "cultureContent": {
+    "imageLocation": "Shinjuku, Tokyo, Japan",
+    "imageDescription": "The Robot Restaurant in Shinjuku is home to nightly cabaret shows of bikini-clad women fighting and dancing with dinosaurs, ninjas, transformers, a giant panda, and robots! There are nearly one hundred robots (both piloted and remote-controlled) of all shapes and sizes. Although food is available, the venue is really designed around spectacle, with flashing LED lights, loud techno music, thudding taiko drums, and a large robot arena.",
+    "imageCredits": "Chris McGrath/Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_21.jpg?versionId=lTA_ijjgB1Q3ITmjtXlEgSx8W1SJWPm5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_21.jpg?versionId=RVcWsN_ZL78sVMS0jAXx09_mnCJJ78cU",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U21_Lesson.mp3?versionId=ypSgOp6kOZd3KyUYR5nX8gIzYdPpQ55c",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2322136,
+    "cultureContent": {
+    "imageLocation": "Nagasaki, Nagasaki Prefecture, Japan",
+    "imageDescription": "In 1550 the first European ship to reach Japan arrived in Nagasaki Harbor. Portuguese sailors brought Christianity with them, and soon the whole area was a center for European Christian missionaries. By 1587, their growing influence caused Japan to expel the missionaries, and bloody persecutions followed. In the 1630s Nagasaki was Japan's only window to the West under a policy of national isolation that held for 218 years.",
+    "imageCredits": "Christian Kober/ John Warburton-Lee Photography Ltd / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_22.jpg?versionId=btDdIAMc8a53NYAsTOeweZgnlSB95e50",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_22.jpg?versionId=laasDLYnHn4RVaAvXY8KJ1k.Fw7.o3H0",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U22_Lesson.mp3?versionId=y.574JvB5P8nJpl2YOks6rhXDycEJk7W",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2322163,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "On a clear day you can see Mt. Fuji 100 kilometers away from the Tokyo Sky Tree observation deck.  The smaller upper deck has a circular corridor with a glass floor reported to make visitors feel as if they're walking in mid-air.",
+    "imageCredits": "Shioguchi / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_23.jpg?versionId=4z8zUNj04RwTb.Wf3nFTIpHFEqjrWZjj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_23.jpg?versionId=RjqY4RDvfWWTYnhPV26ADeQ1EvoAoYbV",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U23_Lesson.mp3?versionId=LxG60xy2aQyHE9u8pc27yB3K43v_L2IU",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2322191,
+    "cultureContent": {
+    "imageLocation": "Aoyama Neighborhood, Tokyo, Japan",
+    "imageDescription": "Many restaurants, boutiques, and cafes opt to grow vertical gardens on their facades or interior walls. These eco-friendly “green walls” are not only aesthetically pleasing, they help combat the heat by protecting buildings from direct sunlight, thus preventing a rise in wall temperatures. ",
+    "imageCredits": "Claire Takacs / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_24.jpg?versionId=Bvvfdxn8vAnEgKvv1HR5WmiSiJfYTuOZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_24.jpg?versionId=cuTtbFj7tMpo53FsOeEfoN4aPfgMPJIt",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U24_Lesson.mp3?versionId=I.bcd3h6Kk9lqiFLVgEOMBXWHxo_gH6O",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2322221,
+    "cultureContent": {
+    "imageLocation": "Otaru, Shiribeshi Subprefecture, Japan",
+    "imageDescription": "Formerly the Otaru Canal provided vital access as workers unloaded cargo from large ships to smaller ones and then to warehouses. When modern port facilities were built, the canal was no longer needed, and its warehouses were converted to charming shops and popular cafes, which welcome visitors to Hokkaido.",
+    "imageCredits": "Imagenavi / Imagenavi /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_25.jpg?versionId=4JHw670xMN9cpE1ZkNa4OyT2lyUMNhJm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_25.jpg?versionId=d3QqVJDbbHB6.egGIWIWcEnne.kVcsgH",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U25_Lesson.mp3?versionId=2Vev3SjS9ylXS1gTDSjo6CB3JvJwc1nW",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2322248,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Kabuki combines music, dance, and mime with spectacular makeup, costuming, and staging. Known as “the people’s theatre,” Kabuki was the first dramatic entertainment designed for the tastes of the common people. It began in the early 17th century when a young female dancer named Okuni became famous for her parodies of Buddhist prayer, but by the 18th century, it had transformed into an established art form.",
+    "imageCredits": "Kazunori Nagashima / Taxi Japan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_26.jpg?versionId=zBjHAQZfcCk8XfMWFHSTSN_oR1_gE.Hg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_26.jpg?versionId=CWEvt.5RD8aPAFZ4oWMVpsCSxjk.qx16",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U26_Lesson.mp3?versionId=X4J0SFNtoaDuQACYynP_c0d56JcMAQDi",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2322275,
+    "cultureContent": {
+    "imageLocation": "Shinjuku, Tokyo, Japan",
+    "imageDescription": "The Shuto Expressway is a network of toll roads and tunnels running throughout greater Tokyo. The first route was built in 1962 with the idea of streamlining traffic and making travel easier and more efficient.  Since then, and in spite of world-class rapid transit, more than 170 miles of highway have been added to the network, and there's no end in sight.",
+    "imageCredits": "Hidehiko Sakashita / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_27.jpg?versionId=OxN9Qm9ll_cMtkjYUwNWNRrIBhxJvRjv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_27.jpg?versionId=sZPX8g.H71_kpY9Mvihz.23XYn9lvWtD",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U27_Lesson.mp3?versionId=.i_21QfBFiXVtfUgOkl569xvtFUK.NO.",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2322306,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "During Tokyo’s annual Festival of Ages, a marcher wears the armor and carries the weapons of a samurai warrior in feudal Japan. Tucked behind a curved sword is a dagger, and he carries a bow because samurai were expert mounted archers.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_28.jpg?versionId=xBHwwpghcmFRt0y22dULkKz8GCQC6Yxr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_28.jpg?versionId=tViON6dDUJcR44NJfWPCML2qNzCsq_iO",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U28_Lesson.mp3?versionId=cgqWFzsJndrUJXPCTRoCbiFNC8laepbs",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2322331,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "In spite of the efficiencies of planting crops in terraces, only 12.5% of Japan's land is suitable for agriculture.  Usually Japan can provide all the rice its people can consume, but it must import soybeans and many other crops. ",
+    "imageCredits": "Trevor Williams / Taxi Japan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_29.jpg?versionId=u5dpO8haCopZ.tvBzgijknt.ZmI2sIPO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_29.jpg?versionId=ijMuXmdATSJDzZkbznrJqOS_IfS7l2Px",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U29_Lesson.mp3?versionId=zDFkpx1x43RrFCu32cUdJ.ITj7PfKDMB",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2322356,
+    "cultureContent": {
+    "imageLocation": "Yamanouchi, Nagano Prefecture, Japan",
+    "imageDescription": "Macaques or \"snow monkeys\" live throughout Japan. In northern Honshu, winters are very harsh, so they grow heavy fur coats to prepare for the sub-arctic cold.  In winter in Jigokudani Monkey Park they relax and warm up in onsens - hot springs, which are closed to humans.",
+    "imageCredits": "James Martin / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/full/JP_4_M_30.jpg?versionId=ymJDHCmlxFfGIrXTAPS0L.a47bNfi3r5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/lesson_photo/thumb/JP_4_M_30.jpg?versionId=3uBQ5df1mKiPcQn5hhoxDo_0Pa6gg2zX",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/main_audio/9781508222064_Japanese4_U30_Lesson.mp3?versionId=Lj38sjllVbmUsrzSXe9EW0SZTrs5N0co",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2322378,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Standing at over 12,300 feet, Mount Fuji is an iconic symbol of Japan. It is actually a composite volcano formed by the hardening of layers of lava.  Although the last major eruption is thought to have occurred approximately 10,000 years ago, there was significant activity in the early 1700s. The lava acts as a natural filter for snow and rain, which forms numerous ponds and lakes around the base of the mountain.",
+    "imageCredits": "Katsumi.Takahashi / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 4 orig/asset/RL/9781508222064_Japanese_4_Alpha.pdf?versionId=owKnSyZ8q_Tj4.uAlnHtS5VAK_1ZhYS7",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 4 orig/asset/RL/9781508222064_Japanese_4_Intro.pdf?versionId=86ryTqeSNJ6TM1CIHU3pPm27Js79prx2",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit01_Reading.mp3?versionId=07fm70RkhvBIE.p2KFhAy9GIJKTNbIdK",
+    "mediaItemId": 2223863
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit02_Reading.mp3?versionId=nc4HfgbadnnEvONs92dVg1u7A3wtbYzk",
+    "mediaItemId": 2224068
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit03_Reading.mp3?versionId=D3gQSkg640WsruQinYbl0b7laPpm498c",
+    "mediaItemId": 2224195
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit04_Reading.mp3?versionId=JRkA8GrIz6vo7dILkFcFxqcVL_HXhrKX",
+    "mediaItemId": 2224406
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit05_Reading.mp3?versionId=IFDXCV.objw2PZ0y0gAxsb.9CFYbGHrH",
+    "mediaItemId": 2224534
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit06_Reading.mp3?versionId=Z096o0f146789LAkqz6W1Um4hGqH1Oju",
+    "mediaItemId": 2224716
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit07_Reading.mp3?versionId=9PUHLHD83BL2o40WDMqyzTDbYI5pB_PS",
+    "mediaItemId": 2224964
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit08_Reading.mp3?versionId=79cs5IjQnl.Ssng0SFwpl2PXvCX65OPr",
+    "mediaItemId": 2226342
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit09_Reading.mp3?versionId=bRHTI4JxschL9tsLEsI3AD0aK0ExR2RO",
+    "mediaItemId": 2228937
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit10_Reading.mp3?versionId=eNcygvLoX3y_e8plmEO4uOAoE64Ure8l",
+    "mediaItemId": 2232192
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit11_Reading.mp3?versionId=XMx3H6pHI7FjiQaweYyeioFokhws32An",
+    "mediaItemId": 2235880
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit12_Reading.mp3?versionId=.L9hIey.sStFzvzjgrkYC66YKdxMJIMp",
+    "mediaItemId": 2239186
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit13_Reading.mp3?versionId=04bKiSvCoeu0bRLOvlzGEwgmkgKDLAoR",
+    "mediaItemId": 2242262
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit14_Reading.mp3?versionId=H49x.VQWWa.eVuQs5gZF7Q..DXCpQwF0",
+    "mediaItemId": 2245452
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit15_Reading.mp3?versionId=XmJ.JxN2.OPNFlUX.Sax8Zi.uPnlc6bx",
+    "mediaItemId": 2248325
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit16_Reading.mp3?versionId=thf5DVXIOEJLSGsi8YRIWqEdVCx15KXv",
+    "mediaItemId": 2251379
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit17_Reading.mp3?versionId=GiCH97w8DS_So.KoX0QSpF4r6HjmaaNR",
+    "mediaItemId": 2254017
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit18_Reading.mp3?versionId=FbIhzjJkWtWOr3Cc_JwLHLFmBiiWH8bL",
+    "mediaItemId": 2256861
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit19_Reading.mp3?versionId=IuoRKoCbwM.GCbVVgovxsjwezu28ZG5j",
+    "mediaItemId": 2259739
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%204%20orig/asset/RL/9781508222064_Japanese4_Unit20_Reading.mp3?versionId=vLuu2wm4D.ojA4c5QONfef9RwNtL39FR",
+    "mediaItemId": 2262210
+    }
+    ]
+    },
+    "languageCode": "ja-JP",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508222064",
+    "level": 4,
+    "courseName": "Japanese Level 4 Premium",
+    "simpleCourseName": "Japanese Level 4",
+    "puArabic": false
+    }
+    ]

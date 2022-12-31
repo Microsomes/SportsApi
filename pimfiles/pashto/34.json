@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 4255,
+    "languageName": "German",
+    "languageId": 147,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_01.jpg?versionId=gunjVxL1q9DPVe0CNMaFl_8geJBBRfL9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_01.jpg?versionId=S3S6GTgTPg8Xm57NObS.7Q4Me4y6ixZ3",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U01_Lesson.mp3?versionId=dA3DUIb0v56XlUMIkKs5pITNuLV4zPB0",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2291268,
+    "cultureContent": {
+    "imageLocation": "St. Peter-Ording, Germany",
+    "imageDescription": "St. Peter-Ording is a spa on the North Sea in northern Germany.  This seaside spa is famous for its sulphur springs and sand beaches that can reach over one mile in width.",
+    "imageCredits": "Westend61 / Westend61 /                              Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_02.jpg?versionId=pNO8zcx3Hw.HHTCzYvVgdbiHeabdq.dG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_02.jpg?versionId=07Ibb6tjH2qF2gL7.YwlM5otfDdlPL4Z",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U02_Lesson.mp3?versionId=5ryWf2ZhVxhzGDVG6E6E3y4DCYZMFb6s",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2291527,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Paul-Löbe-Haus and Marie-Elisabeth-Lüders-Haus are connected by a footbridge over the river Spree in Berlin. Both are auxiliary buildings of the German Reichstag (parliament). ",
+    "imageCredits": "Luis Veiga / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_03.jpg?versionId=gpaDYFtsb_PG1hMOFOQHdTYC_eH8YeNF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_03.jpg?versionId=QWxmk5_1uHyrJrbDd38.YFhi49snVoeu",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U03_Lesson.mp3?versionId=JDXaundhRgeDDPCjZ4s8v1XmsvSVhNiu",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2291774,
+    "cultureContent": {
+    "imageLocation": "Trier, Rheinland-Pfaltz, Germany",
+    "imageDescription": "Trier is the oldest city in Germany.  It is situated on the banks of the Moselle river.  In English it is called ‘Treves’ and in French ‘Trèves.’  The Romans conquered Trier in the 1st century AD.  Pictured here is the imperial Roman bath complex, circa 4th century AD, one of the largest north of the Alps.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_04.jpg?versionId=buEcWn4hNEMSZXOJaVUCxQPFhN2vOdeV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_04.jpg?versionId=7Rbv5grcsqWSh7Hz6FJzrksLES3nfkG0",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U04_Lesson.mp3?versionId=SqkpcAaZQwOMayjo_FmJYybgphPMweyN",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2292000,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Oberbaum Bridge over the River Spree is an important symbol of German unity.  It links two boroughs that were divided by the Berlin Wall. ",
+    "imageCredits": "Matthias Haker Photography / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_05.jpg?versionId=1orrfCWXv.hZ_5_hT3tgCPXbFzVBdEVQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_05.jpg?versionId=4K8teU79MSCUpZ7uYIpLiBP6gVDx7Hi5",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U05_Lesson.mp3?versionId=YmrRh23P8R3HRSWyA1nmBh2vB49S88Bp",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2292367,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Potsdamer Platz, a famous and important public square in Berlin, was mostly destroyed during World War II and remained so until Germany's reunification.  In 1990 Roger Waters, an ex-Pink Floyd member, staged a gigantic charity concert, ‘The Wall’ to celebrate German reunification. Since Germany's reunification, Potsdamer Platz has seen a major transformation and redevelopment.",
+    "imageCredits": "Harald Braun, Berlin / Workbook Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_06.jpg?versionId=U2Oo8At0mkqCUR2WBp9Wy2qPG9xEuGpc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_06.jpg?versionId=uP8N9k_fCeVpp30jwosuR6v2PRT4n5rX",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U06_Lesson.mp3?versionId=qtBN3YND1O8ichaHDpekZ1eQi1HLHw1O",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2292608,
+    "cultureContent": {
+    "imageLocation": "Rügen Island, Germany",
+    "imageDescription": "Rügen Island is Germany's largest Island and is located on the Baltic Sea.  Rügen Island has approximately 574 kilometers of coastline, but much of the island is covered by leafy vegetation. The island includes two national parks and a nature reserve, the Southeast Rügen Biosphere Reserve. The island is a favorite of windsurfers and kite surfers.  ",
+    "imageCredits": "Peter Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_07.jpg?versionId=7jgjWh_YJvvWttKW22dBW9efw6rPMQwz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_07.jpg?versionId=noiHLE7jD_2QMNwIl8rFQ9IhLOomRI3b",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U07_Lesson.mp3?versionId=0om.IdZCCayenLYyKgR9mtmnpSqkDB2w",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2292894,
+    "cultureContent": {
+    "imageLocation": "Düsseldorf, North Rhine-Westphalia, Germany",
+    "imageDescription": "Düsseldorf has a strong relationship with Japan and it is reported to have the third-largest Japanese community in Europe.  In fact, Japan Day (German: Japan-Tag) is celebrated every year in early summer in Düsseldorf.",
+    "imageCredits": "H. & D. Zielske / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_08.jpg?versionId=thc5pKH5CKAPZXWispJ2mJGHCQ4nKrWK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_08.jpg?versionId=6QHfmL05Wpu4qXgWwDIEnTc7KiZQGDPt",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U08_Lesson.mp3?versionId=wPof2hTHfMTa3v0RRMV5XZo7ST5wu3eo",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2293137,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "These statues of Marx and Engels (authors of ‘The Communist Manifesto’) can be found in the Marx-Engels-Forum, a public park, in Berlin.  On the western end, a carved marble wall shows the suffering of the oppressed under western rule and, at the eastern end of the park, the various bronze statues show the happiness of life under the socialist regime.  The park was created by GDR (East Germany) in 1986.  ",
+    "imageCredits": "SuperStock / SuperStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_09.jpg?versionId=xm23tQSc.AzIkif0uJt2omFfdPYVzL_k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_09.jpg?versionId=j0q74Me8jupcQUrRbGVaJ3a.6BMwDTOR",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U09_Lesson.mp3?versionId=xTSqxU8uXUOxAqCnXvHhE1yNe39kYg9z",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2293354,
+    "cultureContent": {
+    "imageLocation": "Füssen, Bavaria, Germany",
+    "imageDescription": "Füssen is at the end of the ‘Romantische Straße’ (Romantic Road), a term coined in the 1950's.  The road is approximately 290 kilometers long and includes many picturesque German towns (e.g., Dinkelsbühl and Rothenburg ob der Tauber) and castles (Burg Harburg and Neuschwanstein Castle). ",
+    "imageCredits": "Yadid Levy / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_10.jpg?versionId=pR4ScGeQiEd_SGFy2ddvldbVVQ5vgzDK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_10.jpg?versionId=vh7LD2VUNKPtG260ljFaw.bRO9xgK1X9",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U10_Lesson.mp3?versionId=g8GIxT6Kld4C8YKwEDJPzZ19Hk0l28.N",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2293661,
+    "cultureContent": {
+    "imageLocation": "Düsseldorf, North Rhine-Westphalia, Germany",
+    "imageDescription": "Pictured is the Neuer Zollhof building by American architect Frank Gehry in the Medienhafen (Media Harbor, Düsseldorf).  The building is actually three separate buildings with different facades -- white plaster, red brick, and stainless steel.",
+    "imageCredits": "Ingmar Wesermann / The Image Bank  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_11.jpg?versionId=EwCO.gyGqtSsqrUmI3Au7BsMFvgsFi7_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_11.jpg?versionId=AIWE8mvE9z9tGLdYQzuEVgIJNi.8eAKP",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U11_Lesson.mp3?versionId=Sr8SSk5QRrt2N3A78WNZiQeoFgZbAd6U",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2293877,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "The famous Munich Oktoberfest, which has been celebrated since 1810, begins in September with a twelve-gun salute and the tapping of the first keg of beer by the mayor of Munich.  It lasts for 16 days.  Only beer brewed in the city limits of Munich can be served and almost seven million liters are consumed by the five million visitors during Oktoberfest.",
+    "imageCredits": "Glen Allison / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_12.jpg?versionId=FpklbNG.OCkbu_oGgHYteYz0ykd6hSV1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_12.jpg?versionId=bNbQz2PT7S0Mgg2Wg1j_eALGrSmxi_nU",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U12_Lesson.mp3?versionId=2Mi_B6Us.1jQDOcni._RzrRCUAxyr7FV",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2294120,
+    "cultureContent": {
+    "imageLocation": "Düsseldorf, North Rhine-Westphalia, Germany",
+    "imageDescription": "Since the 1970's, Düsseldorf’s old Rhine harbor has been redeveloped into Medienhafen (Media Harbor) and is now a modern business and residential district home to about 800 companies, especially those dealing with communications and media.  This area includes buildings designed by renowned architects such as Vasconi, Frank Gehry, and Chipperfield.",
+    "imageCredits": "Allan Baxter / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_13.jpg?versionId=sL8zDkuKPGDG.Cxddno7qYIOnJIgWwY.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_13.jpg?versionId=734njt6u3XYN0aub1ME16VYAgjSX9uHJ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U13_Lesson.mp3?versionId=fUjJeMxc7MC14ELcgzoYivtmGRR5FqpA",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2294321,
+    "cultureContent": {
+    "imageLocation": "Germany",
+    "imageDescription": "Two-thirds of Germany's wine production is white wine, primarily made from Riesling grapes.  Most vineyards are located along the Rhine or its tributaries.  A traditional Eiswein (ice wine) is produced in years when the first frost freezes grapes that are still left on the vine.  Harvesting can only happen after consistent below-freezing temperatures.  When this does happen, grapes are harvested by hand early in the morning and are pressed while still frozen.",
+    "imageCredits": "Habub3 / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_14.jpg?versionId=HXKenRhrp4GoDcZI1GfWM5CZSOTkHz.0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_14.jpg?versionId=vFxynhy.kvx5FO4pnGgFBugb5NqgtRT3",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U14_Lesson.mp3?versionId=mtP3ZZoX5Ynzhav0DEARLXMSXhn2hc_D",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2294568,
+    "cultureContent": {
+    "imageLocation": "Garmisch Partenkirchen, Germany",
+    "imageDescription": "Germany has had a long skiing tradition.  The first ski club in Europe was founded in Munich in 1891.  Germany's Maria Riesch (pictured) was the FIS Alpine Ski World Cup champion in 2011.  Austria is by far the most successful country, for its male and female skiers have won the championship 24 times since 1967.",
+    "imageCredits": "Clive Mason / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_15.jpg?versionId=FxdmBExDUazLaa6Bx4Jw_wLsCpvFOeVq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_15.jpg?versionId=Fflvr5.x8.JcZ6jF8D2psJsNkN0DAAr4",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U15_Lesson.mp3?versionId=AOGXq9EzWu8_kxqyNHXpVtE2K9EzJ1pI",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2294805,
+    "cultureContent": {
+    "imageLocation": "Baden-Württemberg, Germany",
+    "imageDescription": "The Black Forest is famous for its cuckoo clocks and has been since the 17th century.  Modern clocks today can be powered by quartz batteries and the cuckoo call is not produced by bellows, but by a digital recording of a cuckoo calling in the wild, sometimes accompanied by nature sounds and other birds in the background.  ",
+    "imageCredits": "Moritz Hoffmann / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_16.jpg?versionId=kNkc2V954ij1o0A2bbobauAEouqQwMq1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_16.jpg?versionId=vSE3El1V.e4oF3ms1zuIl7WX9fbuBHg0",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U16_Lesson.mp3?versionId=Hqw3B.tZtDFaCJu0ztmOAYyyB91PCYZe",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2295044,
+    "cultureContent": {
+    "imageLocation": "Germany",
+    "imageDescription": "The German Autobahn system is ranked as the fifth longest in the world.  For most vehicles there are no speed limits and the advisory limit is approximately 81 mph.  Some vehicles like buses, motorcycles, and cars with trailers do have speed limits.  All Autobahns are identified with the letter ‘A’ followed by 1 or 2 digits (sometimes 3 for smaller roads) which identify their region.",
+    "imageCredits": "daitoZen / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_17.jpg?versionId=yixQjRZGMvnFp.UfI0qkk4_l2hwYH9uo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_17.jpg?versionId=YIqZ6jyxBT1kIflAsxfYkJylXCYJsZWa",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U17_Lesson.mp3?versionId=J2n6YxbSST6eMRFO8pm6i4fu2R1hNmZE",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2295301,
+    "cultureContent": {
+    "imageLocation": "Dessau, Germany",
+    "imageDescription": "Pictured is the Bauhaus Building, architectural icon and home of the Bauhaus Design School (1926-32) in Dessau, Germany, founded by Walter Gropius.  The school had a profound influence on modern architecture and design throughout the world.  The White City in Tel Avivi is a collection of 4,000 Bauhaus style buildings built starting 1930 which was declared a World Heritage site by UNESCO in 2003.",
+    "imageCredits": "JOHN MACDOUGALL / APP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_18.jpg?versionId=7unXkIEdkgAteAo7ASgMaAK4inhL1fUc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_18.jpg?versionId=qZdBCkwZF5EQIEda9WF_b1VjIQ6_g5Fc",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U18_Lesson.mp3?versionId=HCDVQ0tKjbKw7p6WRpgSWwvl.ldti9NO",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2295556,
+    "cultureContent": {
+    "imageLocation": "Wallgau, Bavaria, Germany",
+    "imageDescription": " In Munich, the Eisbach, a man-made tributary of the Isar River, includes a permanent wave around one meter high that is used for river surfing.",
+    "imageCredits": "Raimund Linke / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_19.jpg?versionId=Cd2SvlYKRtdGd8dkcqWzqcKryXHo.tgF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_19.jpg?versionId=oacqyv6VCOXoQesIV7yz4lNTowEHz9N_",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U19_Lesson.mp3?versionId=OfWKKkoM6iGiYHi6YBwuW0gWPaGu8zur",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2295818,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "Allgäu is a notable vacation spot known for its magnificent alpine landscape, including castles like Neuschwanstein.  At the foot of the Allgäu Alps is the Ries basin – a 24-kilometer wide depression left by a meteorite strike fifteen million years ago.",
+    "imageCredits": "Norbert Rosing / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_20.jpg?versionId=RHPDkwaiSSg5zzEBaMfEenhow9aYAgOw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_20.jpg?versionId=X.VK309Ks8L33UDV3FA6Y0AgXL9Ae_Ta",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U20_Lesson.mp3?versionId=Nv4OmwDKNKvgcpTWTDUr.h1PYrC4Ztys",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2296074,
+    "cultureContent": {
+    "imageLocation": "Dresden, Germany",
+    "imageDescription": "15 square miles of Dresden center were entirely destroyed during World War II during 4 raids carried out by 1,300 bomber aircrafts.  After the war Dresden became a part of East Germany.  Since the reunification of Germany, Dresden has become an important economic, political, cultural, and educational center.  ",
+    "imageCredits": "Picture Finders / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_21.jpg?versionId=19Jt8MPniThpHFdWy.YhKe293UnNfkX7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_21.jpg?versionId=8ZtXfPkjqyfRBGURqBKStxZTq3VphxGB",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U21_Lesson.mp3?versionId=w5_6yN_Co0pHi.LzCqxXR4.x5jbTiL99",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2296309,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "The Angel of Peace or Friedensengel is a monument in Munich erected in 1895 to commemorate 25 years of peace after the Franco-German war of 1870-71.  In 1981 the angel fell and was damaged.  A leg and both wings were replaced and the angel put back on its column in 1983.",
+    "imageCredits": "Hans Ulrich / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_22.jpg?versionId=mYU1SFoQNtZQHDvxx7r2j3ODsk5eOvdS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_22.jpg?versionId=F5JpUElKsCFlySl3KWE1rQx4Wuvx4ZhY",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U22_Lesson.mp3?versionId=RO4KkbJPgZTFISw2D7BxmJ5_XQmINa58",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2296572,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Reichstag building in Berlin houses the German parliament.  The glass dome designed by architect Norman Foster provides 360-degree views of Berlin and a symbol of German reunification.  It also provides a view of the working chamber.",
+    "imageCredits": "Datacraft Co Ltd / imagenavi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_23.jpg?versionId=s6CZlmF9T1Bc2LwTFnpHVI3GA4or9Diw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_23.jpg?versionId=OuezfZweGaKtMxi.tcBtOZMcp1_c1w1X",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U23_Lesson.mp3?versionId=Frz9esf7doEQueLv9Rto2MbhPgTiB.XN",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2296806,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "The Hellabrunn Zoo in Munich was opened in 1905.  It became the first geo-zoo in the world, in which animals are grouped geographically.  The zoo includes an extensive array of ditches and natural landscape designs, providing unobstructed views of animals.",
+    "imageCredits": "Christian Beirle González / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_24.jpg?versionId=tK2.0FDhuX8zg.lQvpvp0t7nfm7IyJ67",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_24.jpg?versionId=dUF0WoIYoerotcJ6NpqucMStK77iPDsg",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U24_Lesson.mp3?versionId=07S4IJB.s4U3H99yKQtkRcso5eqm.0Cv",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2297031,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "BMW headquarters and museum opened in 2007.  Here, new owners can pick up their car, and visitors can see exhibitions of cars and technological developments.  It was designed with an 800-kilowatt solar plant on its roof.",
+    "imageCredits": "Chris Walsh / The Image Bank /  Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_25.jpg?versionId=hRzZpCY3kMQFaDLfBpSgN6jgXDW0kSsT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_25.jpg?versionId=OreBfKcxWLUsrNc80ryOCyttK1whw5PN",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U25_Lesson.mp3?versionId=qFhzNBR1cxtLPjfO46s.y4b_rMkIO0Xy",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2297271,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "Bavarian Forest National Park was established in 1970 as the first national park in Germany.  It includes 300km of clearly marked footpaths, some 80km of cross-country ski trails, and almost 200km of cycle routes. ",
+    "imageCredits": "Kathrin Ziegler / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_26.jpg?versionId=IliNTO80A8t.YTxeusq3DtDmiSC.QMji",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_26.jpg?versionId=VcgLfFccOBnU1eOej7wEe5unh.4M4EAN",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U26_Lesson.mp3?versionId=.LA_zEMSo2HtcrqfwgOenp3mixkh3hsU",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2297491,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "With its crustacean-like facade, the Haus der Kulturen der Welt (‘House of World Cultures’) in Berlin is Germany's national center for contemporary non-European art. The ‘pregnant oyster’ (as it is often nicknamed) was designed by American architect Hugh Stubbins in 1957.  Its roof collapsed in 1980 and was rebuilt with stronger support.  Stubbins created many buildings in the United States, including the Loeb Drama Center in Cambridge (home of the American Repertory Theater) and various parts of the Boston Museum of Fine Arts.",
+    "imageCredits": "Christian Beirle González / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_27.jpg?versionId=mqnJNEC5gB0vKtvUpORPcqVEz0tmSW4u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_27.jpg?versionId=gIr_lyl0E_kno81NbEB4Oi5qU4sMgiaj",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U27_Lesson.mp3?versionId=fkKW73D.WAILK7siJe5NBMpeB0v_wFMf",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2297961,
+    "cultureContent": {
+    "imageLocation": "Freudenberg, North Rhine-Westphalia, Germany",
+    "imageDescription": "Pictured here are 17th century half-timbered houses in Freudenberg.  Freudenberg lays on the  ‘Orange Route,’ a holiday route that runs from Amsterdam through north and central Germany, joining towns, cities and regions associated with the House of Orange, the dynastic order of the royal family of the Netherlands.",
+    "imageCredits": "Jorg Greuel / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_28.jpg?versionId=4B0vl4pQcsJtW_mguJIP2yNTb5mxndlk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_28.jpg?versionId=1C_6b8f8gPQKIi0mdMiR2z0gwCeUIYGZ",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U28_Lesson.mp3?versionId=EThKV_j8sEsv7bXx230rHcrMZUrQs0Jz",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2298206,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Brandenburg Gate is one of the most well known landmarks of Berlin and Germany.  In the mid-1600's, Berlin was a walled city with several gates.  The Brandenburg Gate is the only remaining gate.  In 1963 U.S. President John F. Kennedy visited and spoke at the gate and in 1987 Ronald Reagan also uttered these famous words there, ‘Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!’",
+    "imageCredits": "Silvia Otte / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_29.jpg?versionId=ieuj6ksV2bBj_EorGdOjCVHzQb5LOMzj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_29.jpg?versionId=rKTenFJcxb9bxhKMEAtbsFMe_stkL7bo",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U29_Lesson.mp3?versionId=kD_J_HT3.fitL7VgYiMBU1dyRgPZyHtj",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2298425,
+    "cultureContent": {
+    "imageLocation": "Stuttgart, Baden-Württemberg, Germany",
+    "imageDescription": "Stuttgart is sometimes called the ‘cradle the automobile’ - Mercedes-Benz, Porsche and Maybach are all produced in Stuttgart and nearby towns, and the first prototypes of the VW Beetle were made in Stuttgart.",
+    "imageCredits": "B.SCHMID/a.collectionRF / amana images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/full/GR_2_M_30.jpg?versionId=BLWMeECqZWLSq7nbOXFFPvZ8tGJLvznA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/lesson_photo/thumb/GR_2_M_30.jpg?versionId=BFU0STFYVU9fuFvdw6JCeJKjtmPdNAQe",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/main_audio/9781442350342_German2_U30_Lesson.mp3?versionId=IBV07ghleF6_ZUayvD4jUwLktXFrWXe9",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2298685,
+    "cultureContent": {
+    "imageLocation": "Frankfurt, Germany",
+    "imageDescription": "Frankfurt Airport am Main Airport (FRA) is the busiest airport in Germany and the third busiest in Europe.  It first opened in 1936 and was home to the two largest zeppelins - one of which was the Hindenburg, which crashed in Lakehurst, NJ in 1937.  In 2010, 53 million passengers used Frankfurt airport.",
+    "imageCredits": "Christian Beirle González / Flickr / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/German/German Level 2 orig/asset/RL/9781442350342_German_2_Intro.pdf?versionId=uwG6C3H4WVTQUM67SXN2ZK78zhK92bbA",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit01_Reading.mp3?versionId=bBvro54VfBwrrpF.jt.yO2jlr_1F6ysf",
+    "mediaItemId": 2223733
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit02_Reading.mp3?versionId=mNqqzLac2ohh_am34had0H1B.eUoRHeI",
+    "mediaItemId": 2223838
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit03_Reading.mp3?versionId=NE7COUPbmJHr.zN3188SMwWCy9RPWbFi",
+    "mediaItemId": 2224017
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit04_Reading.mp3?versionId=Ktm_0DVY2WsaAaPyscyk5jeASM0R10_y",
+    "mediaItemId": 2224176
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit05_Reading.mp3?versionId=5Nifyi9wf4xj2jnUNT0AM6JLHsfdCR7G",
+    "mediaItemId": 2224385
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit06_Reading.mp3?versionId=dtPnVHVXRUKgyT4ZuKkuMStqBo70CP0Y",
+    "mediaItemId": 2224510
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit07_Reading.mp3?versionId=5YfrFGc1l_x4euh7wE87bLcMSbhB141Q",
+    "mediaItemId": 2224698
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit08_Reading.mp3?versionId=TkFxv8.c30bpMFA.YODiKmbXJAHIcWFf",
+    "mediaItemId": 2224897
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit09_Reading.mp3?versionId=l3.HnNd1r0QE0rh6c5Mx7poC75spDCC_",
+    "mediaItemId": 2226006
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit10_Reading.mp3?versionId=.S3D7f2vi0RIhNOB4bicwxcaQwBSnusa",
+    "mediaItemId": 2228420
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit11_Reading.mp3?versionId=gdfOYysNLf5aEZ3wWaaHYUhWxk5y6uZJ",
+    "mediaItemId": 2231788
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit12_Reading.mp3?versionId=MAivuN5u2BvRDr0RiFdtDWdv.zAKQKuZ",
+    "mediaItemId": 2235256
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit13_Reading.mp3?versionId=odf_s5S.s8UBFEuLs_Hvj4uykncIjnqr",
+    "mediaItemId": 2238649
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit14_Reading.mp3?versionId=q_szSREtTvhWsn.rL21NE9I0UuG.50Bg",
+    "mediaItemId": 2241737
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit15_Reading.mp3?versionId=gCfBu72IbxmCChKGdL905IknvWGOTByS",
+    "mediaItemId": 2244825
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit16_Reading.mp3?versionId=g7YOvFCAE9qCdD036IKbGOaY2y6l0bi7",
+    "mediaItemId": 2247625
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit17_Reading.mp3?versionId=uFjvDpw_zaULUa2_y_5ZFy_5iRTr4xkj",
+    "mediaItemId": 2250702
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit18_Reading.mp3?versionId=qAKSo9F6mx7lLuvXtgRbcjALUccOFjcy",
+    "mediaItemId": 2253595
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit19_Reading.mp3?versionId=k8Za.jzG1d03MofmfKVnlYoKBXfHpztO",
+    "mediaItemId": 2256342
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%202%20orig/asset/RL/9781442350342_German2_Unit20_Reading.mp3?versionId=VoO4sJaKnnLKBPfrikdZtNUetbCCEwPM",
+    "mediaItemId": 2259108
+    }
+    ]
+    },
+    "languageCode": "de-DE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442350342",
+    "level": 2,
+    "courseName": "German Level 2 Premium",
+    "simpleCourseName": "German Level 2",
+    "puArabic": false
+    }
+    ]

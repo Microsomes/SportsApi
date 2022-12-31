@@ -1,0 +1,152 @@
+[
+    {
+    "courseId": 3093,
+    "languageName": "Armenian (Eastern)",
+    "languageId": 122,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_01.mp3?versionId=tkL74scGalHprNrpowIdxC4WlYBhjwnp",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321382,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_02.mp3?versionId=5ibxi_BqwYFSsRomtJbe7qWHnoe1hxHl",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321383,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_03.mp3?versionId=RXFaXeJFQcfZkNnc3aRGaJd2VQbISNx9",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321384,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_04.mp3?versionId=Z7pIBrWuBDa6LRgFDfNdXIIjOaMv6JYX",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321385,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_05.mp3?versionId=GUE95tBar0RE3vGWgQp5L7zIxVYFn.cH",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321386,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_06.mp3?versionId=xlm7KUj_Fu5HLTnSz2yj7baUib_3ebSQ",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321387,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_07.mp3?versionId=XuodnvSbT_.WT2O7QCSxiHs2xv1wAKQT",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321389,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_08.mp3?versionId=YQ_3yvO6Ji5xGnLsrORDo05Em.LbSTlV",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321391,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_09.mp3?versionId=rvTZbmSM0es87DJNSGgw6BoqRZBU25G5",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321393,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/language_image.jpg?versionId=.EH7B.NeVESF7_a5HZWv1Z_plrDRVu9f",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781442333031_Unit_10.mp3?versionId=sBZTUvn4Y9ty661ADlxlBO8.vvyvtyZV",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321395,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Armenian%20%28Eastern%29/Armenian%20%28Eastern%29%20Level%201%20orig/asset/standard_reading/9781442333031_Armenian_Eastern_1_Bklt.pdf?versionId=d5aDFx98UBc0q3fAa917yHAtotz1K9WO"
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442333031",
+    "level": 1,
+    "courseName": "Armenian (Eastern) Level 1",
+    "simpleCourseName": "Armenian (Eastern) Level 1",
+    "puArabic": false
+    }
+    ]

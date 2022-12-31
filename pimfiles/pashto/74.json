@@ -1,0 +1,636 @@
+[
+    {
+    "courseId": 51100,
+    "languageName": "Portuguese Brazilian",
+    "languageId": 163,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_01.jpg?versionId=5xC2I1wT5YkuNSnJk0BVBzlxd0iFEOH.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_01.jpg?versionId=Dc3PgROezNRTR99d68gSeYqgkhFDP6Gl",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U01_Lesson.mp3?versionId=PGhIDlX3PkFno1KuZBUt3XBS5B_KG.6L",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2292460,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "The face of Brazil today combines ancestry and cultural traditions from Portugal, Italy, Spain, Germany and West Africa, as well as indigenous tribal populations. ",
+    "imageCredits": "Andresr / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_02.jpg?versionId=4XiZiWFcHO85_gs91khyXTj_Jvy6lqbE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_02.jpg?versionId=my1s1TgtcAkhqirEvm4qCreHVq7KaJu_",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U02_Lesson.mp3?versionId=2FD9KYzogeKKBDi273_9iAgsa7UMsEk8",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2292927,
+    "cultureContent": {
+    "imageLocation": "Caraguatatuba, São Paulo, Brazil",
+    "imageDescription": "Caraguá, as it is known locally, boasts 17 beaches. It's also home to Serra do Mar State Park, which at 780,000 acres is the largest Atlantic forest protected area in Brazil.
+    ",
+    "imageCredits": "Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_03.jpg?versionId=s6H.2di_5ZkOe23OfhcWAoYx_W55v4Xc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_03.jpg?versionId=9OT_0SCMc5Su_t8DFOah4nIEBn5pafB5",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U03_Lesson.mp3?versionId=YnITW_p1YuJC.gjtiBifc2jzZHdlRxLg",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2293204,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Footvolley, created by Octavio de Moraes in 1965 in Brazil, is played as a combination of beach volleyball and soccer. Players may not use their hands and use a soccer ball instead of a volleyball. ",
+    "imageCredits": "Nikada / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_04.jpg?versionId=pinwfZiuINajg_YIMUMNVuOO3qG_FnQE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_04.jpg?versionId=0T6uXlO1nB3s3Y2gKyGI4zQQTjKFiQxf",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U04_Lesson.mp3?versionId=o4G3YM8Vp.NKa5qZx.jBH1y0FVhrm2do",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2293432,
+    "cultureContent": {
+    "imageLocation": "Milan, Italy",
+    "imageDescription": "Renowned Brazilian conceptual artist Clido Meireles built this sculpture with hundreds of radios, each barely audible and each tuned to stations in different languages to evoke the Tower of Babel.",
+    "imageCredits": "Pier Marco Tacca /Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_05.jpg?versionId=M_qzzQM9L8dL0pIutf7roiPGylPsxSw_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_05.jpg?versionId=biQooeZCwI0HW.UK1YnLrqqYsS6C8VHU",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U05_Lesson.mp3?versionId=PZryQH3mmrC.jVp2M3Rb0G3fiU5rvd_c",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2293671,
+    "cultureContent": {
+    "imageLocation": "João Pessoa, Paraíba,  Brazil",
+    "imageDescription": "The Cabo Branco Centre of Science and Culture was designed by architect Oscar Niemeeyer. The center includes an octagonal tower, an auditorium, and an amphitheater.",
+    "imageCredits": "Anderson Alcantara / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_06.jpg?versionId=M6ibH3USSxYA9jrUp3s0WZTpa3zeFRcc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_06.jpg?versionId=lB498pknismGPTkiojZHbguC966t8Mt5",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U06_Lesson.mp3?versionId=7Hp8ZhRHD5ePXgLySN_6TNxMApbibuAV",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2293915,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "The 2016 Summer Olympics in Rio was the first time a summer Olympics was hosted in a country's winter season. It was also the first time that the games were hosted in a South American country.",
+    "imageCredits": "Clive Brunskill / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_07.jpg?versionId=fGgTdciuVPLc._kQ2.ZXPhLssOnIfJma",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_07.jpg?versionId=QvksiiKd2oKPJEpDuomW5c3dvahh_lHc",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U07_Lesson.mp3?versionId=DLsnZEi8ofIuXLbZik9HiEzYLpdCyLzG",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2294158,
+    "cultureContent": {
+    "imageLocation": "",
+    "imageDescription": "Favelas (slums) are a breeding ground for gang violence. Fitness programs are growing in popularity as a way to help youth and adults stay off the streets and on a path to success. ",
+    "imageCredits": "Spenser Platt / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_08.jpg?versionId=kAtjqJBJukMrgXe0IZJhxxAICxYVlkPY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_08.jpg?versionId=VS31yoe5tSsvNM.NV9PLBrZV4VwETuW9",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U08_Lesson.mp3?versionId=w4j9zTNkkJrwS1WJFrbS9S659QlWC4Ns",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2294418,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "\"Cooking Crystals\" by Brazilian sculptor and performance artist Tunga was acquired by New York's MOMA in 2011 shortly after this exhibit in Moscow.",
+    "imageCredits": "NATALIA KOLESNIKOVA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_09.jpg?versionId=k6uSxIvipG9CndDuAcahggVnTGfYxzx7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_09.jpg?versionId=TDeHKaIRhA6DyzHQy6p7rVuJEqlI1RIu",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U09_Lesson.mp3?versionId=RCS1OYrA57L97W4I8On64rVQGOnil6uy",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2294662,
+    "cultureContent": {
+    "imageLocation": "Manaus, Amazonas, Brazil",
+    "imageDescription": "Manaus is the main access point for visitors to the Amazon. In the 1800's rubber made it the richest city in South America, and Manaus was nicknamed the \"Paris of the Tropics.\"",
+    "imageCredits": "TacioPhilip / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_10.jpg?versionId=WUf.bw7ioOL0uZwIfFAoeATtNRdFfQrL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_10.jpg?versionId=Za0l1b7ZgDXA_VBJVYJG1Onp29TfdtyE",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U10_Lesson.mp3?versionId=66jmeAYDmMhvXFl.qtA7mhCbdsB5NHxa",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2294967,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "This 32,000-square-foot mural, titled \"We Are All One,\" was created by Eduardo Kobra for the 2016 Summer Olympics hosted in Rio. ",
+    "imageCredits": "Mario Tama / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_12.jpg?versionId=XXcbIIjrIshoRczEtnb2o8UNAeVpWwdD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_12.jpg?versionId=708Fsl7JiInpW_HyEKpa7ccafE720IEp",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U11_Lesson.mp3?versionId=AYRh1zJDSnJ6RGr3.cWX4b229p3gJBx.",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2295224,
+    "cultureContent": {
+    "imageLocation": "Belo Horizonte, Brazil",
+    "imageDescription": "Official Carnival parades featuring samba schools are meant to appeal to spectators, but many smaller cities organize local blocos celebrations where audience participation is encouraged. Bloco Então Brilha (So Shine) attracts tens of thousands to Belo Horizonte each year.",
+    "imageCredits": "Lucashallel / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_11.jpg?versionId=6KWjtMeopz_hpuFFxKLnoZ0xK6Z5UPHE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_11.jpg?versionId=F4RU2NQyI0Z5UXqZbBv1HYpw_yj6a.c1",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U12_Lesson.mp3?versionId=FR2GGP9D4LBXAalDDqeyUut4zAJ37Arw",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2295499,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "Beco do Batman or Batman's Alley got its nickname from the DC Comics character who appeared in graffiti art there in the 1980's. Vivid street art makes a popular backdrop for fashion shoots.",
+    "imageCredits": "VW Pics / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_13.jpg?versionId=.1GkvgOFXGUc1BQ355jidH5M8gGIIeFm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_13.jpg?versionId=0beyj5VqK7z6SpvbI_nHhX_MTz4sDvo2",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U13_Lesson.mp3?versionId=zXWVhT1QX1HABMNBMIcxciQGo85K1aIC",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2295747,
+    "cultureContent": {
+    "imageLocation": "Blumenau, Brazil",
+    "imageDescription": "Blumenau was founded by Dr. Hermann Blumenau along with seventeen other German immigrants. Every year the city hosts the largest Oktoberfest of the Americas.",
+    "imageCredits": "Mario Tama / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_14.jpg?versionId=qqyKz52qHBJf3ZsddJQ_nlvV6cKPStnP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_14.jpg?versionId=0VRKrJTfq8tVtEJRGXtB9bIdxXsj8tfp",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U14_Lesson.mp3?versionId=ko11PiA.aDYhta7aalUBMcBjJ5EjTsoz",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2296033,
+    "cultureContent": {
+    "imageLocation": "Congonhas, Minas Gerais, Brazil",
+    "imageDescription": "\"Isaias\" is one of a series of soapstone sculptures completed between1800-1805 by Aleijadinho, Brazil's most famous baroque artist. It can be found in Santuário do Bom Jesus de Matosinhos, a UNESCO World Heritage site, built in the 2nd half of the 18th century.",
+    "imageCredits": "Fred Matos / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_15.jpg?versionId=QupHpgDN3cwbeqUPcZcv.E6g.bt7KCjZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_15.jpg?versionId=TP.5KweN0DHeGUv58B3kFNFosJOkt7D4",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U15_Lesson.mp3?versionId=pwthHECUCM2EAnAlYeCji6oJeVdh18lg",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2296280,
+    "cultureContent": {
+    "imageLocation": "",
+    "imageDescription": "\"Operação Lava Jato\" (Operation Car Wash) has been categorized as the largest corruption scandal ever. It centered around Petrobras, the state-owned energy corporation, and in addition to massive fines, has resulted in nearly 100 convictions. ",
+    "imageCredits": "Mario Tama / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_16.jpg?versionId=EH5b6tgsRCiZMOA9wsqUKA.n7kWmINxN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_16.jpg?versionId=AmgPUEkzTxhKbFJ0Q5QfSOmdYhbRsffg",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U16_Lesson.mp3?versionId=UZ.ixCrugtA3Qo7bdPZubWR5wzuUOx7H",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2296543,
+    "cultureContent": {
+    "imageLocation": "Ilhabela, São Paulo, Brazil",
+    "imageDescription": "This archipelago known as the \"Sailing Capital\" is located in the Atlantic Ocean 4 miles off the coast. It includes 400 waterfalls and the waters around the archipelago contain over 50 shipwrecks of which six are opened for divers to explore.",
+    "imageCredits": "Mark Meredith / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_17.jpg?versionId=01dJunVOtDjyVGHi0OVDvFSndjk4qAJI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_17.jpg?versionId=anwVI.aDw8MD958Biba_5SqtgO22kwGh",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U17_Lesson.mp3?versionId=flVX8F5x4d9e716huBhdvXgUoSGWXufS",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2296793,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Dating back to 1872 and drawn by mules, Santa Teresa district trams were originally blue, silver, and green, but residents complained about visibility, so they were painted bright yellow instead.",
+    "imageCredits": "Mikolajn / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_18.jpg?versionId=wX.iUhjJpD7bF1j95c3DPjlaKyWUqda7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_18.jpg?versionId=Zv1bcLzXEtH7HvAnBGQ.Ef5Y3ra4X07Y",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U18_Lesson.mp3?versionId=uK7ynKMvSK9FZu.FrU8f9.gPbzZdi5rN",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2297010,
+    "cultureContent": {
+    "imageLocation": "Samara, Russia",
+    "imageDescription": "Football was introduced to Brazil in 1894 by the Scottish expat Thomas Donohoe. Today many Brazilians refer to their country as \"o País do Futebol\" (\"the country of football\"). Brazil is the only country to have participated in every World Cup ever held. ",
+    "imageCredits": "Dan Mullan / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_19.jpg?versionId=8Zk7rkBJIf310WFq1h7NiAeT3oZto0nN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_19.jpg?versionId=KAqOl45MqYA.uIWSBjXiMBq4rYa2wRN6",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U19_Lesson.mp3?versionId=479tS7A648Cd.LUTSL5r672J3Le5bT93",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2297249,
+    "cultureContent": {
+    "imageLocation": "Mato Grosso, Brazil",
+    "imageDescription": "There are 570 species of catalogued birds and new species discovered every year in western Brazil. The capped heron (Pilherodius pileatus) shown here is a water bird inhabiting the Amazonian rainforest.
+    ",
+    "imageCredits": "Ignacio Yufera / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_20.jpg?versionId=zAONQmQl3kmZKGsdctXV57Hl7q1aUMdy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_20.jpg?versionId=wyp7gaQ4YD8sGSX.tYV227djBnufasTD",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U20_Lesson.mp3?versionId=SMc0zuAufPLGECb6w5LFxdxj3_2fNHp7",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2297469,
+    "cultureContent": {
+    "imageLocation": "Bahia, Brazil",
+    "imageDescription": "Candomblé meaning \"dance in honor of the gods\" is a religious tradition which originated in the early 19th century. Ceremonies are usually led by women, and there are an estimated two million followers today, mostly in Brazil. ",
+    "imageCredits": "Jan Sochor / LatinContent Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_21.jpg?versionId=o3DfsZithExieOEK1GMMHkoMV7zBPnpL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_21.jpg?versionId=ewluHaxcMcVXE68ln49N4xJbvaKHdJBD",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U21_Lesson.mp3?versionId=wGB5htabBAbaP6lwSflA2Xy01BWj5JfJ",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2297707,
+    "cultureContent": {
+    "imageLocation": "Goiás, Brazil",
+    "imageDescription": "The Procession of the Torches has been held in Goiás since 1745. At midnight during Holy Week, forty farricocos dress in colorful robes and hoods and lead a procession through the city barefoot by torchlight, reenacting Roman soldiers' search for Jesus before the crucifixion.",
+    "imageCredits": "Fandrade / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_22.jpg?versionId=..4Ti.nAr7..7T5q2zVzByaMLrKM8Beq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_22.jpg?versionId=NYGYUBExa3QfPcjPZTqIgjTYrgSaTSux",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U22_Lesson.mp3?versionId=IhDZKjvz3j1lFwObbSEe3uO5XBNIIV9C",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2298016,
+    "cultureContent": {
+    "imageLocation": "",
+    "imageDescription": "The castor oil plant (locally known as mamona oil) is used as a raw material for some varieties of biodiesel. The plant is extremely allergenic and can be toxic to animals and humans.",
+    "imageCredits": "CRMacedonio / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_23.jpg?versionId=20IsRjPSYR8DsHr156mxDqzBw.s7cqOi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_23.jpg?versionId=9F7hDwykdGO8CUhm6DXFn5UXmzSstFMQ",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U23_Lesson.mp3?versionId=NQDJDg8Hb9ahPeBLIBWOCiVy50wwnPFc",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2298266,
+    "cultureContent": {
+    "imageLocation": " Curitiba, Brazil",
+    "imageDescription": "The Botanical Garden of Curitba was created in the style of French gardens. The main greenhouse resembles the Crystal Palace in London. It is home to the Garden of Sensations where visitors can walk blindfolded to experience the garden using other senses besides sight.",
+    "imageCredits": "Wsfurlan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_24.jpg?versionId=VlqvzVjLU98mLHKhOcpua39M9qRQ27t1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_24.jpg?versionId=aArPeWOJ2gsxaLUy4REzES_EcEGGxocB",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U24_Lesson.mp3?versionId=sojkKiWIOrwcCesbMz1RWBSHDu.Ps1Dr",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2298516,
+    "cultureContent": {
+    "imageLocation": "Santos, Sao Paulo, Brazil",
+    "imageDescription": "Because of lax building codes, many skyscrapers were built only 4-5 meters deep, and about 90 of them are askew by up to several feet.  However, after evaluation, the city declared the buildings safe and most are inhabited.",
+    "imageCredits": "diegograndi / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_25.jpg?versionId=UnU14hVIs6mbmY6Mb2bHnVn2u7ylfkcB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_25.jpg?versionId=0xhDTlN2mpL._NCCNPL.wJWzp2SJAfIL",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U25_Lesson.mp3?versionId=QiYaNwt858cePG2CoLsRmxziUXEMGIEQ",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2298815,
+    "cultureContent": {
+    "imageLocation": "Palmeiras, Bahia, Brazil",
+    "imageDescription": "In Chapada Diamantina National Park, erosion formed these towers of minerals known locally as tepuy.  One waterfall inside the park is so high (415 feet) that the water evaporates before hitting the ground. ",
+    "imageCredits": "Leandro Wissinievski / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_26.jpg?versionId=rYaWr0E5mQR2XDvALZx__bMlAGnu18jL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_26.jpg?versionId=1YESN6Gx7G2jzTr6YR4J0jIjHOy6Qq0d",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U26_Lesson.mp3?versionId=G0BmEIZiVcFjl7gBIAqphYVyHVPc5pYB",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2299072,
+    "cultureContent": {
+    "imageLocation": "Brazil",
+    "imageDescription": "The Fernando de Noronha archipelago features 21 islands, islets and rocks, including the affectionately named Ilha Dois Irmãos, the Two Brothers Island.",
+    "imageCredits": "Giancarlo de Sousa Gianne / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_27.jpg?versionId=g9SJM4L_Nm80Q23_O_pL9.aj2BRsVCjx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_27.jpg?versionId=K1_tGGdDF.LxqdhnY_Kfm..SLgyoAPuc",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U27_Lesson.mp3?versionId=6cn2yzOAwEmyeU5hQyg8nipm2eBjcVB5",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2299357,
+    "cultureContent": {
+    "imageLocation": "Ipojuca, Pernambuco, Brazil",
+    "imageDescription": "Famous for its natural pools and crystal clear water, Porto de Galinhas is truly a gem of the northeastern Brazilian coast. ",
+    "imageCredits": "Filipefrazao / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_28.jpg?versionId=HO4G.qZCPtd8kMZ9zDlwcVFJR.hPrag4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_28.jpg?versionId=V.ELvCSn0vxLMzAt4ufvMmmh2aZdMhAi",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U28_Lesson.mp3?versionId=FtoOQTpjSBcSXzDhYy9A34rotj04vxgx",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2299588,
+    "cultureContent": {
+    "imageLocation": "Amazon River, Brazil",
+    "imageDescription": "In the Brazilian state of Amazonas dozens of cities, home to nearly a million people, are only accessible by boat or plane.",
+    "imageCredits": "Peetatham Kongkapech / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_29.jpg?versionId=dvwKkLq7EjejBqPHG._VVkvyCvIkJhcp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_29.jpg?versionId=8bdX2s9cB8F3BqXLq2WBfEZ6YAJchQsY",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U29_Lesson.mp3?versionId=nTLwsYhXoG6rcbUkel1Oj8RiArIRfAid",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2299774,
+    "cultureContent": {
+    "imageLocation": "Goiás & Mato Grosso do Sul, Brazil",
+    "imageDescription": "Covering 510 square miles of cerrado savannah, Emas National Park is home to many unique life forms, including the giant anteater and its favorite meal, the termite. ",
+    "imageCredits": "Edson Vandeira / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/full/BP_5_M_30.jpg?versionId=4PDe2rFkQsrBCebbZS9Ko4owK8iqa_jn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/lesson_photo/thumb/BP_5_M_30.jpg?versionId=88acuqcnmgpCOJrmuha4uuBwZoh6S6xm",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/main_audio/9781508286752_Brazilian_Portuguese5_U30_Lesson.mp3?versionId=W_QgtaCEh8DOaqy_2dlxPW8LeTSzL.0_",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2300038,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "Famous Brazilian footballer, Gabriel Jesus hails from the Jardim Peri neighborhood of São Paulo, where local residents painted a mural honoring his accomplishments. ",
+    "imageCredits": "Victor Moriyama / Getty Images News / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese (Brazilian)/Portuguese (Brazilian) Level 5 orig/asset/RL/9781508286752_Brazilian_Portuguese_5_Intro.pdf?versionId=3nt9Uh8KoM6vMNgJjHedH_8rWUVolRcy",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit01_Reading.mp3?versionId=Rps3QmrLZ5uYRDyIi4uW3lRpcI9Gr70t",
+    "mediaItemId": 2223921
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit02_Reading.mp3?versionId=gN3By.exBMVF724mmRd1fOoWQHwgXbCe",
+    "mediaItemId": 2224126
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit03_Reading.mp3?versionId=2fVtHFmHBkaYagcPMYcQbF7C9WEHlppP",
+    "mediaItemId": 2224283
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit04_Reading.mp3?versionId=H8XzS2EU3qyQN0fspr7x5xno509x_Dtg",
+    "mediaItemId": 2224455
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit05_Reading.mp3?versionId=_WxD0_4JuxaLp4JWIBdKqweU5a3wqmjS",
+    "mediaItemId": 2224639
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit06_Reading.mp3?versionId=bNle5X5tRsJxVO5oW8EalqtNWbxF1wi6",
+    "mediaItemId": 2224755
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit07_Reading.mp3?versionId=H4Hatkztcts1KHNorpnGLf2t5UM.WlvM",
+    "mediaItemId": 2225485
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit08_Reading.mp3?versionId=NSTujELhslR7XXvHyga6NBOckII2QQVD",
+    "mediaItemId": 2227441
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit09_Reading.mp3?versionId=oxn.LDqvcZdNvrG4n4JgdlMCt2klBOfL",
+    "mediaItemId": 2230350
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit10_Reading.mp3?versionId=VzTGZRHDJ3BGq3A0CsJ8FThUoOFHtfYZ",
+    "mediaItemId": 2233836
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit11_Reading.mp3?versionId=koGqQVC3Qga.CKeXlLNBPmYA1uVm8PJl",
+    "mediaItemId": 2237292
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit12_Reading.mp3?versionId=2PhDg1n7su.78aSsNZzRX8rL2SzSFTf5",
+    "mediaItemId": 2240794
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit13_Reading.mp3?versionId=5uT2v5HCEB1Fuf394BV9e3wyl7TybMql",
+    "mediaItemId": 2243637
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit14_Reading.mp3?versionId=Z7p8xSu5UL2OLUO1dO1PV47yAPUoMTiS",
+    "mediaItemId": 2246891
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit15_Reading.mp3?versionId=K5WpttFQyl0RoOaIKIL0Avuml2nq2PMb",
+    "mediaItemId": 2249843
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit16_Reading.mp3?versionId=o6IBPCAva8zrdCY2pNk1kPjD59kIL52.",
+    "mediaItemId": 2252775
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit17_Reading.mp3?versionId=u6ruZnmjG9sOgdQgOU0d.fXNmtjHH_Oa",
+    "mediaItemId": 2255543
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit18_Reading.mp3?versionId=3sfN2u0cJ4Fm_lLZudPEare7nQ.eeV9Y",
+    "mediaItemId": 2258433
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit19_Reading.mp3?versionId=k9hehciTpa8h2usBHjFkDFWtLH98G5a9",
+    "mediaItemId": 2261065
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%205%20orig/asset/RL/9781508286752_Brazilian_Portuguese5_Unit20_Reading.mp3?versionId=JZeIKC5c5IY0SZKxj1TtRVdasswlAC.1",
+    "mediaItemId": 2263368
+    }
+    ]
+    },
+    "languageCode": "pt-BR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508286752",
+    "level": 5,
+    "courseName": "Portuguese (Brazilian) Level 5 Premium",
+    "simpleCourseName": "Portuguese (Brazilian) Level 5",
+    "puArabic": false
+    }
+    ]

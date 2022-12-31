@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6044,
+    "languageName": "French",
+    "languageId": 146,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_01.jpg?versionId=VQnqFXTlojgOuflAa03Vg_lSuLWGbZ9A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_01.jpg?versionId=W5EHiOJbeRB0X2ixeblV2LAYrYKpPSUA",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U01_Lesson.mp3?versionId=hlWPLTbkMIlq7EzTQ4.GybUmU8PRnlC3",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2310953,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "More than 80 million people visited France in 2012, 15 million more than the entire population of mainland France and all of its overseas territories.",
+    "imageCredits": "Dmitri Otis / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_02.jpg?versionId=UfeVRqYs4epUBM3FTCf.UnZAlBfPJ9tt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_02.jpg?versionId=wz1UXQv7zxSZ_qvnX4KdJ5XItTKKgUQm",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U02_Lesson.mp3?versionId=cWaWVpBe6RBkxmTo39rx16YYCJ.9irh2",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2311133,
+    "cultureContent": {
+    "imageLocation": "Hérault, Languedoc-Roussillon",
+    "imageDescription": "Famous alumni of the University of Montpellier include Nostradamus, who was expelled from the school in 1529 for being a practicing apothecary.",
+    "imageCredits": "P. Eoche / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_03.jpg?versionId=T.fuuJ1RDvuJ88_ECfw0pch3vt19s1F1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_03.jpg?versionId=j6ttL5yCq739Wm3yTUfFcqKFTf8ErNUC",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U03_Lesson.mp3?versionId=a.pUCne0iEqCoYHp0UbA_xOnW.QEH_HJ",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2311277,
+    "cultureContent": {
+    "imageLocation": "Puy-de-Dôme, Auvergne",
+    "imageDescription": "In 1873 the ruins of a Gallo-Roman temple dedicated to the god Mercury was discovered at the summit of the Puy de Dôme volcano in central France.",
+    "imageCredits": "Joel DAMASE / Photononstop / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_04.jpg?versionId=VwK.x9WjZsqgL.QNJ4k4bEvTjjLgLFUW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_04.jpg?versionId=yoWcjohQgLWUS7cXqOzhMeONvqFI7GhY",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U04_Lesson.mp3?versionId=zvEKuvkfMm5bLrT9pfZ82AXyhqjKccc3",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2311465,
+    "cultureContent": {
+    "imageLocation": "Marseille, Provence-Alpes-Côte d’Azur",
+    "imageDescription": "The French Constitution includes references to the Declaration of the Rights of Man and of the Citizen, written in 1789, that is considered the world’s first universal declaration of human rights.",
+    "imageCredits": "ANNE-CHRISTINE POUJOULAT/Staff / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_05.jpg?versionId=Ij11LROGOXOD6yDR4bdiSKm.spUNwdfb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_05.jpg?versionId=uidUA2GDoHUFb_jliYmsUCQYKWmjkfIu",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U05_Lesson.mp3?versionId=QQia.Tn4BlHG2_D7Ti5PV8bk1LaSgM..",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2311620,
+    "cultureContent": {
+    "imageLocation": "Lyon, Rhône-Alps",
+    "imageDescription": "Each night the light show of the Festival of Lights in Lyon features a different theme and color scheme.  Residents place candles outside their windows and the Basilica, dedicated to the Virgin Mary, is illuminated.",
+    "imageCredits": "Pascale Beroujon / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_06.jpg?versionId=1n5Hu1fLZlpM59J1jA.r.Uuzkt4CzoHG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_06.jpg?versionId=AjZVVeKVq7v_GZRdwfp6MVtat4E66B.g",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U06_Lesson.mp3?versionId=5EjEpm.KefDyj3639uLddklPeWBmaaOk",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2311797,
+    "cultureContent": {
+    "imageLocation": "Isle of Pines, New Caledonia",
+    "imageDescription": "The Isle of Pines in the Pacific Ocean became a French penal colony in 1872.  The water tower built by prisoners is still in use today.",
+    "imageCredits": "DU BOISBERRANGER Jean / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_07.jpg?versionId=jcbs6mDPp2XAMxGZopQ4svffAU7LE.zq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_07.jpg?versionId=TRH14KObjsyd3hcVs5iiCU9vZFpPy_CC",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U07_Lesson.mp3?versionId=pdsvaTiV7e8ur79JWxuw9xmWJ0NgEF9W",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2311980,
+    "cultureContent": {
+    "imageLocation": "Lascaux, Aquitaine",
+    "imageDescription": "Primitive cave paintings were discovered in 1940 in a Lascaux cave and are estimated to be nearly 20,000 years old.",
+    "imageCredits": "Sisse Brimberg / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_08.jpg?versionId=I66rGytm39JBteMcGFJLUHsB6K_XAS6A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_08.jpg?versionId=l19bgqFgo1Npahcj2BrwkIt0Qek42_jt",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U08_Lesson.mp3?versionId=TjhEjtpkxWZCeyHISUmerburkWH_FvQs",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2312154,
+    "cultureContent": {
+    "imageLocation": "Avignon, Provence-Alpes-Côte d’Azur",
+    "imageDescription": "The Festival d’Avignon, founded in 1947, is a three-week-long celebration of theater, dance, art, and music.  Each year almost a thousand shows are performed.",
+    "imageCredits": "ANNE-CHRISTINE POUJOULAT/ AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_09.jpg?versionId=pNUTOwEYkQYeboimk5uCOGo7kj_26LBc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_09.jpg?versionId=glkfVZGKCqlLL0RmSVpDDx5RXkRLne95",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U09_Lesson.mp3?versionId=H1uNuYW9Q6IUOFKn.SsML6ur1dknHawP",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2312343,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "La Défense business district contains many of Paris’s tallest high-rises with 72 glass and steel skyscrapers and 180,000 daily workers.",
+    "imageCredits": "Hal Bergman / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_10.jpg?versionId=eEwcmjol6HAmb.X151Ijxo.ZXSC1N.Gb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_10.jpg?versionId=T09upzhx6BVv7GPLSO5c3m.E3reHVCbJ",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U10_Lesson.mp3?versionId=.NJu.sp.eQs20JGyz82bsfYMtY_Puuup",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2312599,
+    "cultureContent": {
+    "imageLocation": "Cergy, Île-de-France",
+    "imageDescription": "L’Axe Majeur (“Major Axis”) in Cergy-Pontoise, is a 3-kilometer- long art installation with twelve monumental components including the red bridge, the amphitheater, the astronomical island, the tower, and a pyramid, which rises up out of the lake.",
+    "imageCredits": "Nicolas Thibaut / Photononstop / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_11.jpg?versionId=0G4RpOQcKp9YoSR3i2JLQoHc1C_nzHeS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_11.jpg?versionId=wKbp_p_4EMChT65ndttBkCmlHuJOkB0d",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U11_Lesson.mp3?versionId=l2gqlhgs205K.wJjcZujGvwgT0r83x_1",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2312825,
+    "cultureContent": {
+    "imageLocation": "Bayonne, Aquitaine",
+    "imageDescription": "Bayonne is a city in southwestern France, in the heart of Basque Country.  The main language in the city is Basque, followed by French.",
+    "imageCredits": "GUIZIOU Franck / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_12.jpg?versionId=xOkVUpOiDNzJjkEQy_1120.DWlk_UJ9C",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_12.jpg?versionId=HrnwGnD_NE_lGcoSlW8ilkoe5BERKhlx",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U12_Lesson.mp3?versionId=6Vdqax4bE6SxA2VdidClf_t3bcIdmfR8",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2313074,
+    "cultureContent": {
+    "imageLocation": "Espelette, Aquitaine",
+    "imageDescription": "The Espelette pepper, brought to France from Mexico in the 16th century and originally used medicinally, has become such a staple in Basque cooking that it is honored in a festival that draws up to 20,000 enthusiasts each October.",
+    "imageCredits": "Oliver Strewe / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_13.jpg?versionId=VqD0pH6PYmd6g5olHpHtUXVsI4tMJSUe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_13.jpg?versionId=XAhwwjmW5BQJZB8PLIJp0ohUi.xUfLd1",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U13_Lesson.mp3?versionId=OHaFExYSaJVZ6yRNx_PPMyxSh8RpLUoc",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2313267,
+    "cultureContent": {
+    "imageLocation": "Marseille, Provence-Alpes-Côte d’Azur",
+    "imageDescription": "The Calanque de Morgiou contains an underwater grotto known as the Cosquer Cave which is believed to have been inhabited during the Paleolithic era. Its walls are decorated with paintings and engravings thought to date to 27,000 BC.",
+    "imageCredits": "CAVALIER Michel / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_14.jpg?versionId=jqEaChcqzvPaUpDu7r0g2cXJxLGmAfm3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_14.jpg?versionId=fKlJx2G_jXag.0AeiljtTJtZO2LvVqdv",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U14_Lesson.mp3?versionId=N7gQ1pLe4CNZvwo3B7Wgq4Z752MUhYn2",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2313428,
+    "cultureContent": {
+    "imageLocation": "Bramans, Rhône-Alps",
+    "imageDescription": "The church of Saint-Pierre d’Extravache, dating to the 10th century, is thought to be the oldest Christian church in southern France.  Believers claimed that it was founded by Saint Peter or his disciples.",
+    "imageCredits": "Franck Guiziou / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_15.jpg?versionId=oTspCN0lUNUjQC3f_A4PpIRbYU5NTf1D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_15.jpg?versionId=RRDtA6DsgNlHISOFKKddzetex5BjDebr",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U15_Lesson.mp3?versionId=ELkA6db7l77_1zThuoSR9kKBk7UhobUA",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2313614,
+    "cultureContent": {
+    "imageLocation": "Concarneau, Brittany",
+    "imageDescription": "The Festival of the Blue Nets held in the Breton town of Concarneau is named after nets traditionally used by the town’s fisherman, and celebrates Breton language and culture.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_16.jpg?versionId=Zi4opkrJS_srcK4on03VQ0sDUIXvqw7P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_16.jpg?versionId=rbkxQ5w3up7nNXy4GgqJqbnPtp7l.wU9",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U16_Lesson.mp3?versionId=2hPQcDFu85NVDlFzef1HQrLUE0KdhNLY",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2313780,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "Père Lachaise Cemetery in Paris is the most visited cemetery in the world and is the final resting place of many celebrities including Oscar Wilde, Frederic Chopin, and Jim Morrison.",
+    "imageCredits": "Steven Greaves / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_17.jpg?versionId=4Z5yzCMWhxFTwHiNPzEKcJL.RGDCny8v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_17.jpg?versionId=B1hOyWOifVBBng6HToS4ezJ0EPB2kVrp",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U17_Lesson.mp3?versionId=02f3P_mRcYD13QLRxG7gG9j_kuh2rffL",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2313956,
+    "cultureContent": {
+    "imageLocation": "Aigues-Mortes, Languedoc-Roussillon",
+    "imageDescription": "Medieval folklore claims that gargoyles originated from La Gargouille, a dragon, who lived in a cave near the Seine River, and could spout water and breathe fire.",
+    "imageCredits": "Foucras G. / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_18.jpg?versionId=dNzNO7E.E9rU.KNtoeauFE6xDcRNehLo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_18.jpg?versionId=A5I2eWVRrYbCIRsCbpHEjCZQD2fc9S3a",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U18_Lesson.mp3?versionId=OAPRxXR5Rkxyti.YXeYMyu1x.e1KWF23",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2314255,
+    "cultureContent": {
+    "imageLocation": "Étretat, Upper Normandy",
+    "imageDescription": "While attempting to make the first nonstop transatlantic flight from Paris to New York, two WW I heroes disappeared in their plane, The White Bird.  A monument was built in Étretat, the last town in France from which the plane could be seen.",
+    "imageCredits": "Christophe Kiciak / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_19.jpg?versionId=cIcBTbSD8BIsEK.FlyVZ.PPmJ4R9rJja",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_19.jpg?versionId=LdqCkqOq15RedCzDcjkwsf63HBzAIw.G",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U19_Lesson.mp3?versionId=pk89Lmp8Sd8HrcMDqkQnCF3Kl_v0q31C",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2314429,
+    "cultureContent": {
+    "imageLocation": "Tolouse, Midi-Pyrénées",
+    "imageDescription": "In Tolouse, Airbus Aircraft does flight training, research, design, development, and testing.  The company is the region’s largest employer with nearly 11,500 employees.",
+    "imageCredits": "Patrice Coppee / StockImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_20.jpg?versionId=5L6aaUP6UeqE.0khAxim2aRWZJw_M9Kl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_20.jpg?versionId=cpF4PScS8xkfHTcR28pdTD2Vn_BHhzZF",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U20_Lesson.mp3?versionId=n3_SPtPq4Mg8.itIgZpnXAPA6iRacAlV",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2314614,
+    "cultureContent": {
+    "imageLocation": "Nice, Provence-Alpes-Côte d’Azur",
+    "imageDescription": "The Nice Carnival includes the Battle of the Flowers, where costumed models throw up to 100,000 flowers at each other and spectators.",
+    "imageCredits": "Bruno Barbier / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_21.jpg?versionId=cRvhG8RLfF3XaeVKVG0hp57QkABT._Tt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_21.jpg?versionId=qHELFneBOdP9FZcXlSFRZ7a5o4z7YFTN",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U21_Lesson.mp3?versionId=cxy4YRCguGxJo7ULElXL6hAg7tyXkDxI",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2314799,
+    "cultureContent": {
+    "imageLocation": "Conques, Midi-Pyrénées",
+    "imageDescription": "Abbey St. Foy is the only medieval site that was part of the pilgrimage to Santiago de Compostela in Spain that is still standing today.",
+    "imageCredits": "John Elk / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_22.jpg?versionId=Pr1tKjq6XuI03OhplZthxewHSBMsYOCZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_22.jpg?versionId=0VPQW2ReOgIPZVHSORQcchMTYP2Pm6L6",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U22_Lesson.mp3?versionId=MIbI83YrAkEP_OKrtxRbeLH2h8o0RYsM",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2315007,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "In addition to being the largest deliberately built business district in Europe, La Défense also serves as an open-air museum, with 60 statues and pieces of modern art.",
+    "imageCredits": "VII-photo / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_23.jpg?versionId=ZlGCpl99tjyfTzVLzMnAnKU_6h7nM8oS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_23.jpg?versionId=269AdSFB.I.oMD22P2B1XFJy0wwt.Ck1",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U23_Lesson.mp3?versionId=fVLE5Xsn6vn7J8BEuLOApEjH0Al_hTx9",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2315229,
+    "cultureContent": {
+    "imageLocation": "Cayeux-sur-Mer, Picardy",
+    "imageDescription": "The two-kilometer boardwalk running through the town of Cayeux-sur-Mer is lined with 400 iconic cottages.  It’s the longest boardwalk in Europe and one of the most beautiful.",
+    "imageCredits": "Philippe Renault / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_24.jpg?versionId=cRjtjA4zAMGvu9UuXlI1iNvlDuUce92M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_24.jpg?versionId=RIHAJ49GdjeAk_ByrZlCqCg3Jq2e_GoE",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U24_Lesson.mp3?versionId=lRxIlSP1Pv4NTx0PfqyyQ_v.1DBC3Q2.",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2315424,
+    "cultureContent": {
+    "imageLocation": "Lyon, Rhône-Alps",
+    "imageDescription": "Water jousting is an ancient sport, depicted in bas-reliefs dating from ancient Egypt and Greece. The sport is popular throughout France and jousting festivals are held in Cognac, Accolay, Brittany and Merville.",
+    "imageCredits": "P. Eoche / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_25.jpg?versionId=pQiT5Q6W39vJD3oi75Czl2YcG10F2fQS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_25.jpg?versionId=PGvWBtgOf6iGSRE1lfhpiWkW7ACVQUiO",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U25_Lesson.mp3?versionId=NwuD21xipVm7s3IlpdIGNV0eh4o1b7QH",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2315599,
+    "cultureContent": {
+    "imageLocation": "Paris, Île-de-France",
+    "imageDescription": "The dome atop Sacré Coeur is the highest point in the cathedral and the second-highest point in Paris.  Visitors can see the entire city from the top of the dome.",
+    "imageCredits": "AG photographe / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_26.jpg?versionId=Q9Ukwn.BTqikNSauhZne5VQHhfcG4vA9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_26.jpg?versionId=y2RFPijuueCkhSaj5pxr8iH8vOo1bx0i",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U26_Lesson.mp3?versionId=1yACitPlkXnMUxxfL.l_4K7WqyHgekjQ",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2315778,
+    "cultureContent": {
+    "imageLocation": "La Grande-Motte, Languedoc-Roussillon",
+    "imageDescription": "Architect Jean Balladur’s distinctive hotels transformed La Grande-Motte from sand dunes and lagoons to one of the most popular destinations in France, attracting up to 2 million tourists annually.",
+    "imageCredits": "Chris Hellier / age fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_27.jpg?versionId=niH96Wr6b.qi3.afVjnLoQWDnvV5RqK1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_27.jpg?versionId=I._dPaEeJHOHiley8dmtAX75sHyR80Dz",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U27_Lesson.mp3?versionId=gi1VTf_Z7nMrSPlkRIzJs8jlfAc6g.JD",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2315974,
+    "cultureContent": {
+    "imageLocation": "Nantes, Pays de la Loire",
+    "imageDescription": "The Royal de Luxe performance troupe based in Nantes, is known for its enormous marionettes used in street performances and parades alongside live actors.",
+    "imageCredits": "Alain DENANTES/Contributor / Gamma Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_28.jpg?versionId=1g_ZYqtVPziii7DVLjZ.NgHn3Iv29rwR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_28.jpg?versionId=0K41aRZc1NKV9X2Nn1wCChFjATbgGJRb",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U28_Lesson.mp3?versionId=BearbzLqoaXlzdIyyjgVogftAYaxza6a",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2316110,
+    "cultureContent": {
+    "imageLocation": "Grenoble, Rhône-Alps",
+    "imageDescription": "At 98 meters high, the Three Towers of Grenoble were the highest inhabited buildings in Europe in 1967 when they were built.",
+    "imageCredits": "MAISANT Ludovic / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_29.jpg?versionId=yXa9Me6L4FTapJo.ASelznwHIBsM4uPP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_29.jpg?versionId=QXFqpacQ2ntSqEqVJwPhm7p9tRr_ja5Q",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U29_Lesson.mp3?versionId=RLi1sr2VytYQI9ovKa8alGDiWPn1ZbbD",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2316301,
+    "cultureContent": {
+    "imageLocation": "Réunion Island",
+    "imageDescription": "The beaches surrounding the Piton de la Fournaise volcano on Reunion Island have a greenish tint formed from volcanic lava that has broken down over hundreds of thousands of years.",
+    "imageCredits": "Philippe Bourseiller / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/full/FR_4_M_30.jpg?versionId=tZVrUEiEfZ17XJnZOE1alxzXnkmcR.YW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/lesson_photo/thumb/FR_4_M_30.jpg?versionId=6H4pDIOm.GX5iC51_Ljsbn5trgiaJ_T7",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/main_audio/9781442370555_French4_U30_Lesson.mp3?versionId=UIF60YtoMrLFwSWUAQptotWzHzOPviI2",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2316468,
+    "cultureContent": {
+    "imageLocation": "Colmar, Alsace",
+    "imageDescription": "The neighborhood of Petite Venice is crossed by canals of the river Lauch, and is more easily navigated by boat than on foot. The area was once known as the butchers’, tanners’, and fishmongers’ quarter.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/French/French Level 4 orig/asset/RL/9781442370555_French_4_Intro.pdf?versionId=NRu.vGGk8_Xj8MIHLE3IRAMCGJa461v5",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit01_Reading.mp3?versionId=2cjOs6vQLl6NUkbYLh2EJrv9oBjC_26j",
+    "mediaItemId": 2223842
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit02_Reading.mp3?versionId=JFFaEksVujHS0KpAligf7fSBRZjh8PDe",
+    "mediaItemId": 2224039
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit03_Reading.mp3?versionId=yFhem8F7KiKXGdxDF8t7npKk2UJTzw4s",
+    "mediaItemId": 2224182
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit04_Reading.mp3?versionId=R9JJqnuo_4Srg96UDr6K_mecf87BhJuq",
+    "mediaItemId": 2224394
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit05_Reading.mp3?versionId=8FMbt_3djCASqCpX2lY3rv58.WFvmrB6",
+    "mediaItemId": 2224528
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit06_Reading.mp3?versionId=izRjaPnUIrBNMDqVPPKZjG405QnazgiN",
+    "mediaItemId": 2224715
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit07_Reading.mp3?versionId=seJWrxNtZ9HCVB3QDskUnaHcLeMqeAlt",
+    "mediaItemId": 2224980
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit08_Reading.mp3?versionId=OYIZ58eNP2XgsAc1tp6dQgSqaQFXw79n",
+    "mediaItemId": 2226366
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit09_Reading.mp3?versionId=ZlTeHBQ0uWNjK30yW5RoBYW2oVAVL6bW",
+    "mediaItemId": 2229029
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit10_Reading.mp3?versionId=GN8mU8bfTZAfJEtk1D6CxPvvM17TcrVl",
+    "mediaItemId": 2232411
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit11_Reading.mp3?versionId=JI8s5stEu4jgS_5hvlk5cmKGcgjK7tc4",
+    "mediaItemId": 2235991
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit12_Reading.mp3?versionId=1_yvYU42h8fOldZ9L7a6el_1EaIMrc1x",
+    "mediaItemId": 2239272
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit13_Reading.mp3?versionId=lRAkfXb6nJaxDiwdF7oYa5pAK73hd4Gy",
+    "mediaItemId": 2242358
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit14_Reading.mp3?versionId=g0V8KkADpSq4t7i27f1maIvuCglg7fJf",
+    "mediaItemId": 2245570
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit15_Reading.mp3?versionId=rmFVemLBXF38gU9_9Xp_65RTBFdjq2Di",
+    "mediaItemId": 2248568
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit16_Reading.mp3?versionId=SziKUnGRe92VblRl.4sGX16XfZWp2dpU",
+    "mediaItemId": 2251529
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit17_Reading.mp3?versionId=ucXfvJ.9cNEdaoNMf7b7tXrQFHqvalw2",
+    "mediaItemId": 2254339
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit18_Reading.mp3?versionId=bwk6XWMvE.AjQVGSQhYUSsgR_Z6R4WL5",
+    "mediaItemId": 2257210
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit19_Reading.mp3?versionId=.kD0yeRIg6f_WafQXFC2SA0IAHpmF7vu",
+    "mediaItemId": 2259997
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%204%20orig/asset/RL/9781442370555_French4_Unit20_Reading.mp3?versionId=PR2xVfV0oHgww5M_W9K5anhCqr5kyg3B",
+    "mediaItemId": 2262415
+    }
+    ]
+    },
+    "languageCode": "fr-FR",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781442370555",
+    "level": 4,
+    "courseName": "French Level 4 Premium",
+    "simpleCourseName": "French Level 4",
+    "puArabic": false
+    }
+    ]

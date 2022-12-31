@@ -1,0 +1,227 @@
+[
+    {
+    "courseId": 4931,
+    "languageName": "Lithuanian",
+    "languageId": 158,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_01.mp3?versionId=cnE0BdDR.UFLcl_AZz0VH.EZXJVO.JKY",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323102,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_02.mp3?versionId=AjqTQuKZeBEvu_xZIGZ717.xAIpSqNJc",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323103,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_03.mp3?versionId=bfxoKj5Vsxn0AGDoiU1xhEPwZZeOdvrO",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323104,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_04.mp3?versionId=EtGjLzZ745xwEeYqwf4Mx6MrcpXOvVMQ",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323105,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_05.mp3?versionId=JLug_U0dFAlvqToHQPc..4JJHcSNfDnY",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323106,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_06.mp3?versionId=VbfIItzvWhgMgu_0URLVTHRSx.CoThOV",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323107,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_07.mp3?versionId=moU.cdXl_O2H87ueC7xd.VpKKpDu0sgP",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323109,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_08.mp3?versionId=kUWaAlPPZ.bHvm6seThZoaVPBqk6aaow",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323112,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_09.mp3?versionId=ro7Cfc1RpnlwT5_Ya4D6yFZk6SaFZ0QK",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323114,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/language_image.jpg?versionId=UwotW3cKar6ETpTFyNPJaFkponzGWexa",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/main_audio/9781442333819_Unit_10.mp3?versionId=Ei5K21xqK5WkFRPoNZhPIVZdXH9MrvVS",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323117,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Lithuanian_1_Bklt.pdf?versionId=99j2r2QkNTkTtLuAaRohsww61QZvG9yL",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U02.mp3?versionId=yeWjW6jSzB.I7vimsKOmsXQdFeM.0fVf",
+    "startPage": 6,
+    "pageCount": 1,
+    "mediaItemId": 2223571
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U03.mp3?versionId=_Dr80f0zXf1ZSRivLMSv.OftdATWFzxg",
+    "startPage": 7,
+    "pageCount": 1,
+    "mediaItemId": 2223606
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U04.mp3?versionId=3Hq6w6Kkwuw1MPS9UYm4I8QF9gthhnTv",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2223644
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U05.mp3?versionId=Fr.tb16nCn7oLKbpaZyhI4q4YJoaqkFD",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2223747
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U06.mp3?versionId=HGP.C_4NeB1azYfp3bP5pH_bCclJCnPI",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2223984
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U07.mp3?versionId=rqx.DcYmRodPEbVtJgur98.q5ntJ0MSN",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2224296
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U08.mp3?versionId=C85ezPWby0C8yifmuvnFzhoRYYgu3ptJ",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2224604
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U09.mp3?versionId=V0s4JN1pHhW9SSjLcYfMCW3UF2bjDwgl",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2225018
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Lithuanian/Lithuanian%20Level%201%20orig/asset/standard_reading/9781442333819_Reading_U10.mp3?versionId=HqmqYyv2lxkxhSmdfGjOfupUvmSJaxpJ",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2228245
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442333819",
+    "level": 1,
+    "courseName": "Lithuanian Level 1",
+    "simpleCourseName": "Lithuanian Level 1",
+    "puArabic": false
+    }
+    ]

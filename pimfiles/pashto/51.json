@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 4543,
+    "languageName": "Hindi",
+    "languageId": 151,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_01.jpg?versionId=jmVsBHfN_MRQ3ljn2RFvofUo2CciAiyS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_01.jpg?versionId=SDg6nkUfxp85Zp3.w5Y7E57eRFAzS4Zc",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_01.mp3?versionId=kFqkBCRnGIHNbHvwYQUmIoJerCA65Eyc",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322875,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "India has one of the largest populations of young people in one of the fastest growing economies in the world today. Known for their independence and optimism, they represent an enormous potential for economic and social progress.",
+    "imageCredits": "MStudioImages / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_02.jpg?versionId=OKK06WZoKYUP06Cr_YOjItheFUaDc1VT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_02.jpg?versionId=7zxeNgRDdQhH80zKaHb0pqIf9JlLaBds",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_02.mp3?versionId=LhFm2A2fw5mGkwewwZXny3GIo02gLKEl",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322884,
+    "cultureContent": {
+    "imageLocation": "Agra, Uttar Pradesh",
+    "imageDescription": "One of the Seven Wonders of the World, the Taj Mahal is built on the southern bank of the Yamuna River and has 7-8 million visitors per year. The magnificent white marble mausoleum is built on a wooden foundation that depends on a consistent moisture level from the river to stay strong and free from decay while supporting the massive structure.",
+    "imageCredits": "Dinodia Photo / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_03.jpg?versionId=MbGVNw1F.TalmD90Q0Nm8jL9CMjdTZLI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_03.jpg?versionId=nV6voVynqXA.5drbqXZe8z5CRSpNxLDT",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_03.mp3?versionId=JCjqvW7i9ZlH_QWZUAgHbMG2anKpWaqs",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322902,
+    "cultureContent": {
+    "imageLocation": "New Delhi",
+    "imageDescription": "Constructed in the early 20th Century, the Rashtrapati Bhavan, official residence of the President of India, took 29,000 people 17 years to complete. It includes a museum that houses all of the presents received by the presidents of India through the years. The banquet hall can seat 104 guests at a time and has an elaborate system of lights over the portraits of former presidents to signal the butlers when to serve or not and when to clear the hall.",
+    "imageCredits": "Kriangkrai Thitimakorn / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_04.jpg?versionId=l9d_gl_KdJvoLiZmbu8CK5Aw_k_w9W3C",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_04.jpg?versionId=gLz6ddcbpjqOYrxG7AUvBRNU8Y2DvsMH",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_04.mp3?versionId=vMbLwfGxRAVXsXF2n08EdAyUXDxtl7rJ",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322913,
+    "cultureContent": {
+    "imageLocation": "Coimbatore, Tamil Nadu",
+    "imageDescription": "The world’s largest bust sculpture, the Adiyogi statue of the Hindu deity Shiva, was inaugurated in 2017. The 112 foot height of the statue symbolizes both the 112 possible ways to attain moksha (liberation) as well as the 112 chakras (centers of spiritual power) in the human body. Adiyogi means first yogi and visitors to this site can participate in cultural programs and events or opt to meditate, chant or practice yoga.",
+    "imageCredits": "Srinivasan J / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_05.jpg?versionId=RtnhA.KoSOW6npXTZut6h4xtcvzhwTnL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_05.jpg?versionId=uAiXBLdtvS6AvH1xH4qW2Nw7z7VV_tO7",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_05.mp3?versionId=hgfomWw_7OZAIumcnapkc6X_4kQ7yj_M",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322924,
+    "cultureContent": {
+    "imageLocation": "Gandhi Park, Port Blair, Andaman Islands",
+    "imageDescription": "Mahatma Gandhi was the leader of the nationalist movement against the British rule of India and is considered the father of India. He was so esteemed by his followers for his nonviolent means to achieve social and political progress, that huge crowds gathered to see him wherever he went, allowing him little time to work or rest.",
+    "imageCredits": "Darren Robb / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_06.jpg?versionId=nG8rEPreMB1gGJikdhVar4N1vcdYR1bt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_06.jpg?versionId=qQ4Q6UJ2RkYuNbzVAMX3gzqYb.6LqU1H",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_06.mp3?versionId=6DIYkICMdcunjXclaxXloS3Px.CCPm5Y",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322937,
+    "cultureContent": {
+    "imageLocation": "Gulmarg Ski Resort, Kashmir, Western Himalayas",
+    "imageDescription": "India doesn’t typically come to mind when one thinks of skiing, but from January to March, the powdery Himalayas offer several options for serious skiers. Gulmarg has the best infrastructure with its gondola, and helicopter skiing is another option for experienced skiers wanting to access remote locations.",
+    "imageCredits": "AAGGraphics / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_07.jpg?versionId=RVpvRqRwM8rDgwnq6aDv3XFj4nuks.vH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_07.jpg?versionId=LLxRsgg4qHVnWLY1_INjWJ2uvizBCPc6",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_07.mp3?versionId=6pVZGQWpHGZDBxCkyQDwSraQbdxsp0Hj",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322949,
+    "cultureContent": {
+    "imageLocation": "Film City, Mumbai",
+    "imageDescription": "Bollywood, a portmanteau of Bombay (now Mumbai) and Hollywood, is the distinctive Indian movie industry that produces more than a thousand movies a year! These long films are known for explosively colorful and melodramatic plot lines, lots of singing and dancing, fight scenes and always, a happy romantic ending.",
+    "imageCredits": "Jonathan Torgovnik / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_08.jpg?versionId=3P0WbYBeEh13HR6zlHqRASpkzelrwOAh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_08.jpg?versionId=gQiEKxkhQyI_wqdFF2GGCpzLpQc28u1k",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_08.mp3?versionId=2pLSiD9tD5ZPxgobPphRjsiOzCH4HsMM",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322960,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "An Indian bride’s hands and feet are adorned with henna paste in intricate designs the day before the wedding in a mehndi ceremony, attended by the bride and her female family members and guests. A belief associated with the henna is that the darker the henna, the more the daughter-in-law will be beloved by her mother-in-law.",
+    "imageCredits": "Mahesh Hariani / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_09.jpg?versionId=PqCdprwo0aveL3J5p6C_5s8z23YU9gkm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_09.jpg?versionId=M5IztMvk3TUu3Q.h2auaa96sEAY43OIe",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_09.mp3?versionId=ISqxnR3CJCjRS04BWiec1YpVw1pja0eY",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322973,
+    "cultureContent": {
+    "imageLocation": "Goa",
+    "imageDescription": "The Goa hippie movement started in the 1960s and 70s when backpackers, traveling by foot, cheap buses, or hitchhiking, often started out in London or Amsterdam and ended their trek in Goa. It was an area known for free love, open-air markets, friendly locals, and all night parties on the beaches. Today, Goa still attracts backpackers along with middle-class Indians looking for fun.",
+    "imageCredits": "Ami Vitale / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_10.jpg?versionId=.YgNECEVpZvX8VgIaw6jkpH_1quCSCqz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_10.jpg?versionId=hLiC0RNcWurtdCCQXzxPDTMqyAU9fUOi",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_10.mp3?versionId=afdjzEmMBuG_Hm.2TgyIcO.cPYMb0vMh",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322982,
+    "cultureContent": {
+    "imageLocation": "Kolkata",
+    "imageDescription": "Durga Puja is an annual fall festival celebrating the Hindu goddess, Durga and it is particularly exciting in Kolkata when the city is transformed into a massive outdoor public art festival. Beautiful lights decorate the city to symbolize the victory over darkness. Elaborate pandals (fabricated outdoor structures) are constructed throughout Kolkata like this example from 2017 with the theme “Cycle of Life.”",
+    "imageCredits": "Samir Jana  / Hindustan Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_11.jpg?versionId=qsohkMvr2otij98U0csCkYmIrwwi0ln2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_11.jpg?versionId=Ea.UyPhwEvjGwgAWE3Ttmoon8.95PrwO",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_11.mp3?versionId=mwS5EawKa4j07rBKVn31XO8.aGrqMFP_",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322995,
+    "cultureContent": {
+    "imageLocation": "Jaipur",
+    "imageDescription": "Jaipur is famously called the Pink City because the exteriors of buildings were painted pink to honor the visiting Prince Albert in 1876. The Maharaja selected the color pink to be used in beautifying his city because it represented hospitality and was the favorite color of his queen. A law passed in 1877 ordered all buildings to be painted the same shade of “Jaipur pink” and is still in effect today.",
+    "imageCredits": "Arpit Modi  / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_12.jpg?versionId=p.H_82ghk1R_iA0AyyBox_ueA38YqgsN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_12.jpg?versionId=TgqwDf7im1ZL94ZkL2NflX09oL0QvNmF",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_12.mp3?versionId=iv.7C.iZY_7mhZIGwDvkpjj3ZkapEGY.",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323005,
+    "cultureContent": {
+    "imageLocation": "Madurai, Tamil Nadu",
+    "imageDescription": "Today’s Meenakshi Temple, erected in 1559 for the Hindu goddess Meenakshi (the wife of Shiva), has 14 towers covered in over 1500 brightly painted sculptures. These massive towers, or gopurams, are repainted and repaired every 12 years and rise as high as 170 feet, similar to the height of Niagara Falls.",
+    "imageCredits": "F9photos / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_13.jpg?versionId=O369WpNV8oz8qdTIOfvT4RMikc2Aywfv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_13.jpg?versionId=nXBjLqel590mea08Dk369vSjPVK0oeKJ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_13.mp3?versionId=PjlV1qMGRZc8Frw.kd4j5Cp6SBqOSRol",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323014,
+    "cultureContent": {
+    "imageLocation": "Jaipur",
+    "imageDescription": "Built in Jaipur in 1799, the Hawa Mahal Palace is a five-story pyramidal shaped monument made of red and pink sandstone. The palace has 953 windows on the outside walls allowing women (at the time) to view scenes from the street without being seen in public as they were observing pardah (a practice of female seclusion). The large number of windows also allows a breeze to blow through the building, giving it the name “Palace of Winds.\"",
+    "imageCredits": "AGuyWhoClicks / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_14.jpg?versionId=NiKyOgvgYwB29FvoMU4U40qR25iMSa1Z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_14.jpg?versionId=G4oVZTWWCmW8iEHV19JGoiBTzuznPlXy",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_14.mp3?versionId=pXvSkc7e2n8bj0Iu4irpNacPLgEK_NjJ",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323020,
+    "cultureContent": {
+    "imageLocation": "Srinagar",
+    "imageDescription": "Dal Lake is located in Srinagar, the summer capital of Jammu and Kashmir. It is a popular  attraction with a multitude of houseboats that both natives and visitors enjoy in the summer season. In the shallows of the lake, vegetables are grown in floating gardens and a unique floating vegetable market sells these fresh vegetables from floating shikara boats on the lake in the morning hours.",
+    "imageCredits": "Kuldeep Mourya / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_15.jpg?versionId=owpePnqOs89xWKDCBcsa2rh0i0100WTv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_15.jpg?versionId=vkzguGD9wWiPpbG2Fe9wc2MbhZep9AV_",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_15.mp3?versionId=VgMCs21Q1m94XwHNfUg5KZi6NzlYk9uk",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323026,
+    "cultureContent": {
+    "imageLocation": "Jodhpur, Rajasthan",
+    "imageDescription": "In the oldest district of Jodhpur, most of the houses have been painted blue, giving it the moniker, Blue City. Some believe it’s because blue is a sign of high social class and others believe it is a good reflector of sunlight and keeps the houses cool. There is even a theory that chemicals were added to the house paint to repel termites which caused a blue tint, but ultimately there is no agreement on why these houses are blue.",
+    "imageCredits": "Arthit Kaeoratanapattama / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_16.jpg?versionId=V38PEHG7.MTGPtAnnQJLTRz5BOn6XEqQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_16.jpg?versionId=GGxN_Ib2G8OX6R4FUtYYhSmkicg1awTf",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_16.mp3?versionId=_qDPtOe5UDZ7w6m7NvVOURnFGdaRlFtv",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323032,
+    "cultureContent": {
+    "imageLocation": "Hyderabad",
+    "imageDescription": "The main campus of the Indian School of Business in Hyderabad was established in 2001. This highly-ranked international business school was founded by two senior executives from McKinsey & Company and has partnerships with the American business schools Wharton (University of Pennsylvania) and Kellogg (Northwestern University).",
+    "imageCredits": "Bigapple / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_17.jpg?versionId=h9b1lXU6B.Tz9OwmYXAlQ5iHG8lKfS4c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_17.jpg?versionId=0_2ZYLlD7OiJX5vK_2FnsPDhJ0P_Butf",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_17.mp3?versionId=4EdPrHLM73bCXWXD6icUt9cV4Bi_J1d2",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323038,
+    "cultureContent": {
+    "imageLocation": "Varanasi",
+    "imageDescription": "Devotees dressed as Hindu gods prepare to participate in a religious procession from a crematorium along the banks of the Ganges river in Varanasi in 2021. Every day, operating around the clock, around 100 bodies are cremated on wooden pyres along the river’s edge at a given site (there are two in Varanasi). It is believed that if one is cremated there and their ashes are released into the sacred Ganges, they will end their reincarnation cycle and reach nirvana.",
+    "imageCredits": "Anand Singh / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_18.jpg?versionId=pY52iXIsPhw7asCx7eOjAlsfYu_evORa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_18.jpg?versionId=kxiohTqy_7KJ03rNct_r32OY6aKQYfAK",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_18.mp3?versionId=ezzgkve5WNWJI6VUSZDaLljg04tjNYTv",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323042,
+    "cultureContent": {
+    "imageLocation": "Palitana, Gujarat",
+    "imageDescription": "At least once in their lifetime, Jains are encouraged to make a pilgrimage to the Shatrunjaya, a holy mountain with more than 850 ancient temples. Pilgrims climb over 3,000 steps to reach the summit and visit the shrines and temples where they believe their most revered prophets achieved spiritual enlightenment. They begin their descent by sunset since no one is allowed at the summit overnight.",
+    "imageCredits": "Frank Bienewald / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_19.jpg?versionId=Mj6nRp8GBNxI3YtLU4.x4ON8A2qVBMvK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_19.jpg?versionId=rS0nbv2Rqc2FvvVgQkp3ZbgLkZfqbG5t",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_19.mp3?versionId=OllJomDrM2qCQiowpEhxX.uIiPrG6NvK",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323047,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "A symbol with a long history, the swastika, has been discovered in artifacts all over ancient Eurasia and appears on many Hindu temples and homes. It signifies luck and prosperity in Hinduism and means “that which is good” in Sanskrit. Prior to being used by Nazi Germany and becoming one of the most hated symbols of the 20th Century, it was also an advertising fad used by Coca-Cola, Carlsberg beer and the Boy Scouts.",
+    "imageCredits": "DVB60 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_20.jpg?versionId=fIOEr6c63bfGJkobX4Flvu2pZUxX9r4_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_20.jpg?versionId=ffQPVasRoLKEwXR_GC9HBjzaZ5J5GunK",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_20.mp3?versionId=43djNMrzh2dGXYwDaG265m0Ba8yxzLyN",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323055,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Kathi samu, or “fighting with swords,” is a historical Indian martial art which originated in the Andhra Pradesh region where royal armies mastered the ancient skill.. Martial arts in India entered a period of decline after the British conquest but saw a resurgence post-independence. Now they are practiced as a means of physical fitness and self defense and are also showcased in celebrations and rituals.",
+    "imageCredits": "Noah Seelam / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_21.jpg?versionId=alR..7cswcPpsuE8x8gVNZCW2hMDCgsc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_21.jpg?versionId=QEr0sUriP_l3Y49SDn7T50r.QzpUedGD",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_21.mp3?versionId=O0sU7VCIY5g4bWoL61BYAn8wsg2Og1Ns",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323060,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "In Hinduism, a sadhu is a religious ascetic, monk, yogi or holy person who has given up the pursuit of the first three goals of worldly life: kama (enjoyment), artha (practical objectives) and dharma (duty). They are solely dedicated to the fourth goal, moksha (liberation), through meditation and contemplation. Detached from all material comfort, they often wear ochre-colored clothing, symbolizing renunciation.",
+    "imageCredits": "Hadynyah / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_22.jpg?versionId=JLaBJJdQIWygVMJKnMeK7w5L4lM9GlXy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_22.jpg?versionId=LNv.wX4MRRcWYwqHDr0TL_NhDtWoN8ZT",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_22.mp3?versionId=.oHQ5K40WjvXtHNXfpSXzlKJf6S6fokN",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323064,
+    "cultureContent": {
+    "imageLocation": "Lodhi Colony, New Delhi",
+    "imageDescription": "New Delhi’s Lodi Colony has over 50 murals that range from funky to environmentally and socially conscious artwork in India’s first open-air public art museum. What started in 2015 as a three-wall experiment utilizing the distinctive architecture of a government housing neighborhood built by the British in the 1940s, soon transformed the Lodi Colony into a unique street art district.",
+    "imageCredits": "Muzamil Mattoo / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_23.jpg?versionId=HEfA79LTFOtV0BM.vVJ6KHJ.4jnu3o2y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_23.jpg?versionId=uEohd7pzCZHYLXReQtaXNFO7JgDHFpAh",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_23.mp3?versionId=lH4zLB6aWgM7tiEnROYB3mt_fviVlrrs",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323069,
+    "cultureContent": {
+    "imageLocation": "Jaipur, Rajasthan",
+    "imageDescription": "The iconic sari, draping the human form for over 5,000 years, is a versatile piece of clothing considered both conventional and contemporary. The design and craftsmanship including dyeing, printing and weaving varies by region and conveys a story about that society. There are hundreds of ways to drape a sari and prices can range from $20 to $10,000.",
+    "imageCredits": "Tuul & Bruno Morandi / DigitalVision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_24.jpg?versionId=YNgfmJdLf4x6ILjnaofmO1gZUwwClr3t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_24.jpg?versionId=Trpw2Cz6oNq22FwPP7XXbhZ37yUkMTq3",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_24.mp3?versionId=NcxAmxbIPdcK.dqjHMunkJaJ09yC6pYJ",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323073,
+    "cultureContent": {
+    "imageLocation": "Udaipur City",
+    "imageDescription": "Indian Railways (IR) is one of the largest and busiest rail networks in the world, operating long distance and suburban trains as well as freight transport. IR has over 1.5 million employees and on a typical day it carries almost the equivalent population of Australia from one place to another.",
+    "imageCredits": "Sanga Park / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_25.jpg?versionId=wCyj2EnV2oYgIYjNk0CMW6NwGAmtY5Bi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_25.jpg?versionId=5YGjdM5NonosjZ9hIH.aOPVXR12s5IDB",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_25.mp3?versionId=94UmeynErnUnx.7NvVOd0dRWX48z4w.0",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323076,
+    "cultureContent": {
+    "imageLocation": "Indira Gandhi International Airport, New Delhi",
+    "imageDescription": "India has one of the fastest growing aviation markets in the world and Indira Gandhi International Airport is the busiest airport in India. Recognized as one of the most powerful women of the last century, Indira Gandhi was India’s second longest-serving prime minister after her father, Jawaharial Nehru, the 1st prime minister of India.",
+    "imageCredits": "Saiko3p / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_26.jpg?versionId=OZQ9gZHgFE91OJxMrAYnVBI9OcqL2UbY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_26.jpg?versionId=ybEL7CHXySrR1AGY1hKMtqfYZhONfFkc",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_26.mp3?versionId=fPG8u.LIrWrKC11NDWDfST82JNLQLN5X",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323080,
+    "cultureContent": {
+    "imageLocation": "Khajuraho, Madhya Pradesh",
+    "imageDescription": "The Khajuraho Group of Monuments are an unusual group of ancient Hindu and Jain temples known for erotic sculptures depicting asanas (postures) from the Kama Sutra that are carved on the exterior walls. The intricate carvings depict everyday life and ideas central to Hinduism and although they became famous for the erotic statues, those make up a small percentage of the carvings.",
+    "imageCredits": "Enduro / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_27.jpg?versionId=H6JlBhY084SHiLUZ0FQAgoB_NRC6GziX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_27.jpg?versionId=vakNt59QN0RgSr0PQlBzzrGfK3lusGde",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_27.mp3?versionId=2tqtmGgWILY5.UxO8FQXUC88KZX.7nh2",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323083,
+    "cultureContent": {
+    "imageLocation": "Pushkar, Rajasthan",
+    "imageDescription": "A horse breeder shows the rare Marwari horse which originated in Jodhpur in the 12th century as a cavalry horse, known for its bravery, endurance, loyalty and beauty. The breed has distinctive heart-shaped ears in which the tips curve inward enabling them to have exceptional hearing. Because only a few thousand purebreds existed, it was once illegal for a Marwari horse to leave India and it wasn’t until the 2000s that a small number of exports were allowed.",
+    "imageCredits": "Mike Powles / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_28.jpg?versionId=FWjK3VAtBPlKCU2XHXJrtyzCwAtvMR3u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_28.jpg?versionId=OZrtk4grwvMYWYod7jT1KMN9i6fi.8Ru",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_28.mp3?versionId=PQEbAsDUipxhCEu2Ka7peRdoPAvJU8sT",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323086,
+    "cultureContent": {
+    "imageLocation": "Allahabad",
+    "imageDescription": "Kumbh Mela, considered the world’s largest religious gathering, is held at four specific riverbank sites, in 12 year cycles determined by the planetary position of Jupiter in relation to the sun and moon. This festival and pilgrimage based on Hindu mythology, takes place over several weeks and is highlighted by a sacred dip in the river signifying a ritual cleansing of sins through penance. As many as 30-60 million people have attended the celebration on a single day.",
+    "imageCredits": "Zanskar / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_29.jpg?versionId=a72833qoAPDLLYYNueS4cERpt0SIeq_P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_29.jpg?versionId=4.PWGTSMTbMq16N9RUxFvB_TL1zv7VtH",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_29.mp3?versionId=7hrcfdldetaexoWEJShwDnDCO9LNwAMX",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323090,
+    "cultureContent": {
+    "imageLocation": "Varanasi",
+    "imageDescription": "The city of Varanasi, the holiest city in Hinduism, is famous for its ghats (the long flights of wide stone steps leading down the riverbank) on the River Ganges. Of the more than 80 ghats in Varanasi, two are used exclusively for cremation and the others are used to offer morning prayers, for various ceremonial purposes and for taking a holy dip believed to cleanse one physically, mentally and spiritually.",
+    "imageCredits": "Tuul & Bruno Morandi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/full/Hindi_1_9781797139906_M_30.jpg?versionId=5QsdLo_5tqLxRMDr1L2tLSOrBkIwDiw_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/lesson_photo/thumb/Hindi_1_9781797139906_M_30.jpg?versionId=Wx.BL2yLv4SptyqP1Sd7lu5T_WMQr1HT",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/main_audio/9781442331556_Unit_30.mp3?versionId=H2ko80_i2qTHo4eq5aKqzfBhW43kH17I",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323092,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "There is a long history of yoga in India and as long as there is space for a yoga mat, almost anywhere is an appropriate spot to practice yoga. In western culture, yoga is often practiced for exercise, while in India, it is a whole mind/body experience that includes breathwork, poses and meditation.",
+    "imageCredits": "Swissmediavision / E+ / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi Level 1 orig/asset/RL/Hindi_1_9781797139906_Alpha.pdf?versionId=vc2iYXF8yzVabH10MI740hy_MsoR.3Cm",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi Level 1 orig/asset/RL/Hindi_1_9781797139906_Intro.pdf?versionId=EmsLyuEJMHPPJ.oZs2EYbOyylfs5wqtU",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading01.mp3?versionId=9Hy0MwGVs56cCN.avRgnu8tiJgOt3tJM",
+    "mediaItemId": 2344949
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading02.mp3?versionId=nFFT9D3Q3pa9YpO8cUkKRLlDkT90pnMl",
+    "mediaItemId": 2344948
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading03.mp3?versionId=IBcHvylWWBePEZHOIT.ALrbO0FP.WMHz",
+    "mediaItemId": 2344947
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading04.mp3?versionId=IQnHtYLZROZQsA7CMXIbnbVGvXewygmF",
+    "mediaItemId": 2344946
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading05.mp3?versionId=EIZyWXrPNHVPZsJos6wQeQ.vofD.jc9G",
+    "mediaItemId": 2344945
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading06.mp3?versionId=lJsnK7PwS2oIaZ.qh8Q0ovRvd4c3ds_S",
+    "mediaItemId": 2344944
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading07.mp3?versionId=civr13C1V0Ft1yhoHqNQVcotm9zeh.be",
+    "mediaItemId": 2344943
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading08.mp3?versionId=Zq04vWbp1se4Gc7dMR6Ac1gdbHYC0yUd",
+    "mediaItemId": 2344942
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading09.mp3?versionId=5TuPMyI1gOXewv5XUgdv2hRICeCdy9W6",
+    "mediaItemId": 2344941
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading10.mp3?versionId=Kl9xq30scQiVHUNTpZJZl3pk3ULh3v4W",
+    "mediaItemId": 2344940
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading11.mp3?versionId=mv.aMI5olqSCXj8eXg7j6NsC3WfVbk85",
+    "mediaItemId": 2344939
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading12.mp3?versionId=LP2njtPCEMbYL3ZEz6CCuLeGH8F1jrea",
+    "mediaItemId": 2344938
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading13.mp3?versionId=IF_huU6fwe1F7qy7U_4zqObzE1LM98mX",
+    "mediaItemId": 2344937
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading14.mp3?versionId=lX24d3xQoYxSQciqnkwmHB89gIBQwYdX",
+    "mediaItemId": 2344936
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading15.mp3?versionId=KWYsbfBgtMQ7VYQIun_UTonpCUb.6Rn_",
+    "mediaItemId": 2344935
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading16.mp3?versionId=Td21orKFzRaQ1NLKmW_xYeDEz6cySapZ",
+    "mediaItemId": 2344934
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading17.mp3?versionId=p_6Kp0e..TkkSJ9S1Qn6dfVz803n7guH",
+    "mediaItemId": 2344933
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading18.mp3?versionId=_Rk6MvyodMlhkd.flHxpAo66ItPHGvvd",
+    "mediaItemId": 2344931
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading19.mp3?versionId=H9sABVk_RBuA3XlkGyIF45wbZX96bOk9",
+    "mediaItemId": 2344932
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%201%20orig/asset/RL/Hindi_1_9781442331556_Reading20.mp3?versionId=NnT1xuKDxNimLoQ6VNlylAzUc1fkm4sR",
+    "mediaItemId": 2344930
+    }
+    ]
+    },
+    "languageCode": "hi-IN",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797139906",
+    "level": 1,
+    "courseName": "Hindi Level 1 Premium",
+    "simpleCourseName": "Hindi Level 1",
+    "puArabic": false
+    }
+    ]

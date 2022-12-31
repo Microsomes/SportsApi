@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 6582,
+    "languageName": "Chinese Mandarin",
+    "languageId": 125,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_01.jpg?versionId=bk3p6oSxa0jQROEyo8HpExZgxKCXaXgp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_01.jpg?versionId=rHUO1BjD9W..x3CR7bQ4xlD8HQ1Xs2Bd",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U01_Lesson.mp3?versionId=DTEHt5VmAlm_e8VI7_DOqCGqKFO2UrVp",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2321686,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "One quarter of China’s entrepreneurs are female, and women have started more than half of China's internet companies.  In addition, roughly half of the world’s self-made female billionaires are from China.",
+    "imageCredits": "Hero Images / Hero Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_02.jpg?versionId=H125vX7h811SYTzBIBNpUC6K.0ADWprA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_02.jpg?versionId=EBbbZkEJSiDGi3KjmJzzLQIwz5ox.kLx",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U02_Lesson.mp3?versionId=Lt.wRM1qEbM2C3T7pX06e0bYOpyDJv8c",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2321704,
+    "cultureContent": {
+    "imageLocation": "Ordos City, China",
+    "imageDescription": "The Ordos Museum, featuring local history and culture, was built to serve as the centerpiece of the Kangbashi city district.  The amorphous shape of the outer walls are built to follow the natural curves of the dunes, and are strong enough to protect against even the most powerful sand storms.",
+    "imageCredits": "Qilai Shen/ Corbis Historical / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_03.jpg?versionId=ohmDaUiXKuG9X4yiAbK7qn4f.J3uxspN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_03.jpg?versionId=sjkeZTOqaQ71AdDbYHZTVEpboGXDq5uH",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U03_Lesson.mp3?versionId=P3WiyL3rQlHnERZUXBer530Rx9V6_EAX",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2321720,
+    "cultureContent": {
+    "imageLocation": "Xinjiang Province, China",
+    "imageDescription": "The Id Kah Mosque is the largest mosque in China, covering 180,000 square feet, or over 4 acres in the central square of Kashgar City.  Thousands pray there every day.  In fact, it is not uncommon to find the mosque, courtyard, and even the roads outside the gates filled with worshippers.",
+    "imageCredits": "Kevin Frayer / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_04.jpg?versionId=TrghgZLux1FSODQVtbI.eqV2XxG17ugP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_04.jpg?versionId=he5M6jmAwHEm_vLRqXXbLL72l2TBimYx",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U04_Lesson.mp3?versionId=2kLGBGMMxGdLtGS0VOitaOfp2CLU_BGn",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2321743,
+    "cultureContent": {
+    "imageLocation": "Henan, China",
+    "imageDescription": "With a 1500-year history, Kung Fu is one of the oldest of the Chinese martial arts.  According to legend, it was introduced to the Shaolin monks at the Song Mountain Temple by an Indian monk.  Today the monks devote much of their lives to learning and training in kung fu, and are world famous entertainers.",
+    "imageCredits": "Aldo Pavan / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_05.jpg?versionId=Q0U9BF1lwh0sfO5oSCL09GIDaZEQ98v1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_05.jpg?versionId=5hMrjxiDQt6AzhuMdn5_OqTsCjv76w6S",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U05_Lesson.mp3?versionId=kV76CwcD8eZ7.1PczqikATwP3RB3Irdy",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2321760,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "Competition for a spot in one of China’s thirty-one art and design universities is fierce.  Each year, roughly 900,000 students take the college entrance exam for art.  Only about one out of every thirty candidates gains admittance.",
+    "imageCredits": "VCG / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_06.jpg?versionId=0_wL6RsjR70_pk5lYgcISu7JJb6S1r.u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_06.jpg?versionId=Ucww_Y8.2414PJF2X7t3ZMVh.kMXW46f",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U06_Lesson.mp3?versionId=hpRNJrHHAKMBsKQ2kwsxBJ.54EyWpPR9",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2321782,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "In spite of its startling appearance, the Chinese facekini actually serves two important functions.  Invented in 2004 to protect sensitive skin from harsh UV rays, the waterproof fabric also helps the wearer stay cool.",
+    "imageCredits": "Kevin Frayer / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_07.jpg?versionId=y6Uz4f83O_Rlp7V9eN_pNgpkXk4hlyuz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_07.jpg?versionId=jv.At5AyVVBeRIdO0DaHpYOT4OGi_oid",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U07_Lesson.mp3?versionId=PGkS_zrKXJPPTZ2qikJaVukoKFH8hFg8",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2321803,
+    "cultureContent": {
+    "imageLocation": "Fenghuang, Hunan, China",
+    "imageDescription": "As in ancient times, the best way to navigate on the Tuojiang River is using boats propelled by bamboo poles. The banks are crowded with wooden houses built on stilts, which keep them safe from spring floods.",
+    "imageCredits": "Cultura Exclusive/Gu / Cultura Exclusive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_08.jpg?versionId=RgJ93XRIWiCz1_DwuR3se807NFl.nkCk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_08.jpg?versionId=IMGID.33mce1CadhGK4sSswTPaEIW1.r",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U08_Lesson.mp3?versionId=JTCGdQ.WzjgMbiIIrXWKtU7gtXmm2rNf",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2321822,
+    "cultureContent": {
+    "imageLocation": "Ordos City, China",
+    "imageDescription": "Ordos City’s Kangbashi District was designed to be the pride of Inner Mongolia.  However, without industrial or urban centers nearby, the new district failed to attract residents.  Today, less than 2% of buildings are occupied, and the one-promising district is sometimes called “China’s Ghost City.”",
+    "imageCredits": "ED JONES / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_09.jpg?versionId=A8DOl5YWddEQUuPbsRYmT8h2Ic4vOyq5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_09.jpg?versionId=6XDS7JiorTQigXTMqRoBxuDgtoa1gw2B",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U09_Lesson.mp3?versionId=q.HVXgqCTK1Ra_CaICWtuYBMeL9EU19Q",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2321846,
+    "cultureContent": {
+    "imageLocation": "Tibet",
+    "imageDescription": "With a surface area of 740 square miles, Namtso Lake is the largest in Tibet.  It is also the highest saltwater lake in the world, located over 15,000 feet above sea level. Yaks are often used to transport goods and people in this mountainous region.  The animals have three times the blood cells of domestic cattle, and so are able to manage easily at high elevations.",
+    "imageCredits": "Chaojidan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_10.jpg?versionId=EjMYtV3btUeFqhxTpwumoBlXzYC8YUNS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_10.jpg?versionId=kwRgSdIcMPBwqdQ8QAjFZmpd4HP5aDQT",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U10_Lesson.mp3?versionId=n9jcPs.J8mdeiZxmdN7ycbWbB4jf6al3",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2321874,
+    "cultureContent": {
+    "imageLocation": "Nanjing, Fujian Province, China",
+    "imageDescription": "Tulou, or castle houses, are built with thick dirt walls, wooden beams, and a single entrance.  Each is three to five stories high and can house up to eighty families. Found only in the mountainous regions of southern China, the style is unique to the Hakka people, and was popular from the twelfth to the twentieth century.  This is the Tianluokeng tulou cluster.",
+    "imageCredits": "Keren Su / China Span / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_11.jpg?versionId=aUJGXtoeotlpAEtKO_P9fAcmADJsaCLv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_11.jpg?versionId=bHr5Tk2PH3vshhabz5TUz09dcvT5tMYM",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U11_Lesson.mp3?versionId=mkUAZvOh8MQQF7l84bFDTmkw37PUkScA",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2321898,
+    "cultureContent": {
+    "imageLocation": "Lijiang, China",
+    "imageDescription": "China’s Yunnan Province is home to at least  twenty-five ethnic minority groups, making it one of the most ethnically diverse areas in the country.  The area offers over four hundred festivals throughout the year.  One of the most famous is the Naxi Torch festival in Lijiang celebrated by the Naxi, Bai, Jino, and Lahu peoples. It features horse races, cock fighting, storytelling, and traditional folk dance performances like the one shown here.",
+    "imageCredits": " Bob Krist / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_12.jpg?versionId=Lx4tQTqZwKRJGA.lr4tv.mIiy3NnyB0P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_12.jpg?versionId=dMChPAYfo1T4dwVoV8BRn1T_oijAOV30",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U12_Lesson.mp3?versionId=rQcwYD_cE2e_iN3XFEyRJUFJ7f73cacy",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2321932,
+    "cultureContent": {
+    "imageLocation": "Yunnan Province, China",
+    "imageDescription": "The Dongchuan Red Lands, located about 100 miles northeast of Kunming, is a mountainous region famous for its red clay earth, which contrasts against hundreds of terraced fields of purple and white flowers, golden buckwheat, and green seedlings.  Depending on the light and season, the vistas are said to be some of the most spectacular on earth.",
+    "imageCredits": "Sino Images / Sino Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_13.jpg?versionId=pnJm_QOmOyCVPu5hDtlwi41h7POai8ly",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_13.jpg?versionId=1TaOXnHJjqtIWhnmqwvjp_tx0k6egzT3",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U13_Lesson.mp3?versionId=zKA.BND6Qpn7D7xoED_1cqxGAUh9ChLV",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2321968,
+    "cultureContent": {
+    "imageLocation": "Hangzhou, China",
+    "imageDescription": "August to October is crab season in Shanghai. In some subway stations, the Da Zha or Mitten crab is so popular, that they’re sold live from vending machines.  Machines are restocked daily, and crabs are kept at a temperature which induces a state of hibernation.  Edible packages are designed to be dropped directly into boiling water at home.",
+    "imageCredits": "VCG / Visual China Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_14.jpg?versionId=dPX3MYHdca0oJCJFSXyAjWOI7ryDHUic",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_14.jpg?versionId=luP6VRqVGMSRErepQw9sMzr9RL9Ybqje",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U14_Lesson.mp3?versionId=NcGTaXwLtG_MJBGKQbY1hXm3tUVdCqkE",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2321993,
+    "cultureContent": {
+    "imageLocation": "Tianducheng, China",
+    "imageDescription": "In 2007, construction began on Tianducheng, in Zhejiang province, a gated community built to resemble Paris, complete with a 354 ft. replica of the Eiffel Tower. The community was designed for up to 10,000 residents, but is now something of a ghost town, with fewer than 2,000.",
+    "imageCredits": "Guillaume Payen / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_15.jpg?versionId=ql.3DSeTBK1rjwYQgCqILIKqvHH0sjoC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_15.jpg?versionId=wX3BR818R4Eg996_E3ETJcpylvXj6xQo",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U15_Lesson.mp3?versionId=CvgiXValbcG6qDXLdjHwr_8kDxu53AH_",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2322021,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "Hong Kong is the center of the lucrative shark fin trade, and is responsible for nearly half of the global market. The huge demand is one of the major factors contributing to dwindling shark populations worldwide.  The World Wildlife Federation is working with the government and local businesses to encourage citizens to stop consuming shark fins.",
+    "imageCredits": "ISAAC LAWRENCE / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_16.jpg?versionId=.VaY9v2UCVAi7w5fZAmKhIENRRCzmBHN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_16.jpg?versionId=izJsXpAKq8OHj_biLcAxFUe_bqCanjqe",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U16_Lesson.mp3?versionId=PRWRU5Bgfb9ORGP9uJ1N8rHYFWnnHer0",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2322069,
+    "cultureContent": {
+    "imageLocation": "Taiwan",
+    "imageDescription": "Taiwan’s Laomei Green Reef was formed thousands of years ago when nearby Datun Mountain erupted and formed a volcanic stone reef along the northern coast.  Over time, the tides cut deep channels into the rock, creating bizarre and beautiful geographical formations visible at low tide. In April and May, the reef is covered with brilliant green algae.",
+    "imageCredits": "Kecl / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_17.jpg?versionId=xquhLfzC3MESmML0xSV_YVi0tI72AEkS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_17.jpg?versionId=o62XapkG_ls9vx3dfah4X_3rtxgUKew4",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U17_Lesson.mp3?versionId=VCRPx3KgIPcNmieo1bAT1CUdax5y4j4V",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2322123,
+    "cultureContent": {
+    "imageLocation": "Zhangjiajie City, Hunan Province, China",
+    "imageDescription": "In 1982, Zhangjiajie National Forest Park became China’s first National Park.  The park covers 11,800 acres in the west of Hunan Province, and is best known for these pillar-like sandstone structures; the result of many years of erosion.  One of these, the 3,540-ft-high Hallelujah Pillar, was the inspiration for the Hallelujah Mountains in the 2009 film Avatar.",
+    "imageCredits": "www.tonnaja.com / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_18.jpg?versionId=TZsyFQVVRmhuIEV8mu3qi7GbBat.A6Ib",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_18.jpg?versionId=JxeTVzmyrqj8zYKGPH7eQjU3SzV3b2.g",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U18_Lesson.mp3?versionId=x4UWPUIJmEqB9HAhtXbRUv96rvyna5Ll",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2322148,
+    "cultureContent": {
+    "imageLocation": "Singapore",
+    "imageDescription": "Founded in 1859, the Singapore Botanical Gardens were the nation’s first UNESCO Heritage site. The National Orchid Garden there boasts the world’s largest orchid display with over 60,000 plants and orchids.",
+    "imageCredits": "Shahzeb Nasir / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_19.jpg?versionId=jf5gNV5ODk7AoOIEJvn.cEuIEO56MIzc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_19.jpg?versionId=ENdf.wYMDj3N8FgXhhZTRqgNJp3q_Owq",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U19_Lesson.mp3?versionId=GkHDUfGRLr.bz1wS8T6JeBd1zJmEQSsK",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2322174,
+    "cultureContent": {
+    "imageLocation": "Yunlin County, Taiwan",
+    "imageDescription": "According to legend, the sea goddess Matsu, protector of sailors and fishermen, was born in the coastal Fujian province in 1000 AD.  The Beigang Chaotian gong temple is one of hundreds dedicated to Matsu.  Founded in 1694 when a monk brought a statue of the goddess to the area, the temple has survived in spite of fires, floods and even an earthquake.  The current structure, with its grand, open design and elaborate decorations, has stood since 1908.",
+    "imageCredits": "TopPhotoImages / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_20.jpg?versionId=kU0h0AzR0UeFwJwQKk4GPqpDpZ9tXSyZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_20.jpg?versionId=4b.1glphe5OE3Z9m07zQojlbZ7WwlTqr",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U20_Lesson.mp3?versionId=zKT9EdBEGED4totvO5_GVM1yejUMHMLy",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2322215,
+    "cultureContent": {
+    "imageLocation": "Lhasa, Tibet",
+    "imageDescription": "Jokhang Temple was built in the year 647, in what is now the holy city of Lhasa.  According to legend, every time Tibet’s King Songtsem Gampo attempted to build a Buddhist temple, it would collapse.  His wives decided that this was due to the geography of Tibet, because it resembled a hag with a lake at her heart.  To defeat this hag, they filled the lake by loading 1,000 goats with soil from a nearby mountain.",
+    "imageCredits": "Bob Krist / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_21.jpg?versionId=Au3vpv9b5UbE1tInhm8lHkxtGXx1sGve",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_21.jpg?versionId=KXfxZt8DZZhQJ7QdQaNPDH90ViKosQtD",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U21_Lesson.mp3?versionId=yyhooPAzZL6EA.y6ir7qxATy_M.bn8yo",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2322241,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "Built in 1962, the Choi Hung Estate is one of the oldest public housing estates in Hong Kong.  It consists of eleven blocks of residential buildings, which can house up to 43,000 residents.  These are surprisingly festive; all are painted in a variety of bright colors as a way to keep spirits high.",
+    "imageCredits": "Jason Langley / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_22.jpg?versionId=e5TcIg6WbcrO8D8y_m8nALONmQHZNp5F",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_22.jpg?versionId=nRNwYo_m8Jz3TGkvl8iVF3Vnd_41b63g",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U22_Lesson.mp3?versionId=19N9rCj9Hm8XhZUBKXtWQplRaZ70Ljri",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2322269,
+    "cultureContent": {
+    "imageLocation": "Hangzhou, China",
+    "imageDescription": "The Hangzhou Civic Center is a striking landmark in the city’s Qianjiang District.  The complex consists of a large public garden surrounded by a tight circle of six high-rise buildings.  The curved corridors of the buildings and their connecting walkways were inspired by the nearby mountains and by the shape of the lotus blossom.",
+    "imageCredits": " Xia Yuan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_23.jpg?versionId=p89iBB8xTUlxv7.RJ8qnq9mvCtStNsvl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_23.jpg?versionId=8quqZJVRr0DcuNtZYiUS27.x2EgUNh9V",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U23_Lesson.mp3?versionId=UyjvDl4Hn9FnIuavjzG_cmySN9OxtiF2",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2322300,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "The majority of Hong Kong’s 7.3 million citizens live in high-rise apartment buildings, arranged in a series of connecting blocks, referred to as housing estates.  Estates are characterized by clusters of anywhere from ten to one hundred individual towers, each housing thousands of residents.",
+    "imageCredits": " Jason Langley / Corbis Documentary"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_24.jpg?versionId=KnTKZtndOSb032l_aEV1cjs0tLP.nW4h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_24.jpg?versionId=IPqK4ZwveC_vPrxwPYEzfjgSahCvAhi1",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U24_Lesson.mp3?versionId=4BhhSfaBZlstKQKQk48VIBmnP1GdA8P9",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2322329,
+    "cultureContent": {
+    "imageLocation": "Singapore",
+    "imageDescription": "ION Orchard is a residential / retail complex that contains one of the largest shopping malls in Singapore, with over three hundred retail stores and restaurants. The complex includes a 5,600 square foot gallery displaying contemporary works from Asian artists.",
+    "imageCredits": "Fiftymm99 / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_25.jpg?versionId=rh.FoKZZYiMXilPBXjhEuhLe56XRx.RH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_25.jpg?versionId=98vDQWbiQF8FOI0dMjfHU8694j_snbdP",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U25_Lesson.mp3?versionId=SK95bckNJMA126_I2L.IhHcdIIihj3eW",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2322348,
+    "cultureContent": {
+    "imageLocation": "Shanghai, China",
+    "imageDescription": "Many traditional buildings in Shanghai tend to be wide rather than tall, with gabled tile roofs that are noteworthy for their sweeping eaves, which extend far beyond the walls of the house.  Early Chinese roof tiles were grey, but over time these colors changed to include green, blue, and yellow or gold.",
+    "imageCredits": "Hans Henning Wenk / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_26.jpg?versionId=WsmFFnLmER_vcEZB7WN5vZCUlOqfRtyF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_26.jpg?versionId=WxgFTKr0f54bCRvrMLkfWIMdGnlJbA3w",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U26_Lesson.mp3?versionId=JMt6CI_MkxGRhibANhspoFpNUzCWKv1S",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2322372,
+    "cultureContent": {
+    "imageLocation": " Jilin Province, China",
+    "imageDescription": "Tianchi (Heaven) Lake is located in a crater atop a dormant volcano, straddling the border between China and North Korea. The North Korean government claims that Kim Jong-il was born near the lake, and that when he died, the ice on the surface of the lake split apart with such force that it could be heard throughout the country.",
+    "imageCredits": "Willcao911 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_27.jpg?versionId=jCROxuqGPMkTj4xfv0ZFm4JNuKLo8uHV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_27.jpg?versionId=jKHj4cazl7m5U972i7qjMmIvaTX3TWHs",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U27_Lesson.mp3?versionId=Ae3rRx8ho2ZSqUKSGLQ26AFqjJXvBavF",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2322392,
+    "cultureContent": {
+    "imageLocation": "Lzf / iStock / Getty Images",
+    "imageDescription": "The Guanyin of the South Sea of Sanya in Hainan Province is a 354-foot tall statue of three aspects of the goddess Guanyin.  It is the 4th tallest statue in the world.  Tens of thousands of pilgrims have visited each year since the statue was enshrined in 2005.",
+    "imageCredits": "Hainan Province, China"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_28.jpg?versionId=48dgYI6IfM.pgKJb0Xn.4WMFOf2c39P3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_28.jpg?versionId=o6_w2UpGaTQoPWU8ogsO.ZT9IVMCoUV_",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U28_Lesson.mp3?versionId=J1IFesrP2fAiOtqPcJRvd_Z_wmk.fKKA",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2322409,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "A basic tenet of traditional Chinese medicine holds that the body’s vital energy or chi circulates through channels in the body, and disruption in the chi causes illness.  A Nobel Prize in Medicine was awarded in 2015 to researcher Tu Youyou for discovering an effective treatment for malaria using a Chinese herb traditionally used to treat fever.",
+    "imageCredits": "Tomwang112 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_29.jpg?versionId=zMuLuXo4ybaZqNnrdLrSyuhdRETDp0E8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_29.jpg?versionId=XWnW8MlmdhBmrQSGI_U8V8mWmS75xVgU",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U29_Lesson.mp3?versionId=ypBdnzYMU2KWM61nbR9hjP.0vEb2l1sP",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2322425,
+    "cultureContent": {
+    "imageLocation": "Chinese culture",
+    "imageDescription": "Traditional Chinese painting has much in common with calligraphy and uses black ink or colored pigments, not oils, and paper or silk.  The brush is similar to a watercolor brush in the west, but it has a finer tip.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/full/MA_5_M_30.jpg?versionId=pF6v.qFGDeVkqyycl4j0yKf_dhel804i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/lesson_photo/thumb/MA_5_M_30.jpg?versionId=UIcFaIT.CXE_byGJZwTEUxEF879CTjeH",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/main_audio/9781508230823_Mandarin_Chinese5_U30_Lesson.mp3?versionId=OFYuxGFme8piX0Wz4h0Ycz.FFPFdW0u4",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2322440,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "Aberdeen floating village in Hong Kong contains approximately 600 junks, traditionally home to an estimated 6,000 people.  As the fishing industry has evolved however, less people live on the boats, preferring to make day trips either to fish, or to provide sightseeing tours.",
+    "imageCredits": "Fiftymm99 / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 5 orig/asset/RL/9781508230823_Mandarin_Chinese_5_Alpha.pdf?versionId=yfqqcyksvEHGgrcmktKVj7DOEEIv7XNT",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 5 orig/asset/RL/9781508230823_Mandarin_Chinese_5_Intro.pdf?versionId=1D8o2nBcwIDgX4mIsLDlT1GjwU2.fLIR",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit01_Reading.mp3?versionId=Jx126rx0EGHdShBguXnqSCkrh3X76jXO",
+    "mediaItemId": 2223887
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit02_Reading.mp3?versionId=rZC8sjA3m0b.S9L1k8ayOc9k1HCBS88.",
+    "mediaItemId": 2224098
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit03_Reading.mp3?versionId=FpxSgniUVwWtK9gx6lhg7rYcwUASNFoM",
+    "mediaItemId": 2224233
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit04_Reading.mp3?versionId=q6dBwz9onFFAfK2_ME3BYeop2wIDjT5f",
+    "mediaItemId": 2224429
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit05_Reading.mp3?versionId=Ln_.RQa.U6seAFqaODpjoxdZnhtJ5Vwp",
+    "mediaItemId": 2224564
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit06_Reading.mp3?versionId=2lVpiRd9KE3nXDkim6.3batjwaEg2iG8",
+    "mediaItemId": 2224737
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit07_Reading.mp3?versionId=6tMr0jXFLEtw.1x9L_bFgldpXpkH4yXA",
+    "mediaItemId": 2225174
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit08_Reading.mp3?versionId=ODkCzUI_UGMdD1cZ4LJwfm4dYt2opEvQ",
+    "mediaItemId": 2226945
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit09_Reading.mp3?versionId=gg1DRQjyKiIhsTy2eieE5k1RxRQnaCFD",
+    "mediaItemId": 2229847
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit10_Reading.mp3?versionId=wMo_3tzoYsaV4Vrh057XBpEa3C1gyYe8",
+    "mediaItemId": 2233431
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit11_Reading.mp3?versionId=iJQefGo4ZurJUtEPAhT61G5jxKpvQJoq",
+    "mediaItemId": 2236978
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit12_Reading.mp3?versionId=4Hqr1kpLZK8xGKZElIWTJB6FKGmylr8.",
+    "mediaItemId": 2240506
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit13_Reading.mp3?versionId=KCsl_mUCBQ09V2g1uBh8G8zfmdVtEi2M",
+    "mediaItemId": 2243414
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit14_Reading.mp3?versionId=lfdA0A.TD8YEmd6MQoOAb8m8MQCVztO0",
+    "mediaItemId": 2246654
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit15_Reading.mp3?versionId=ngb2Ca4qZWmOn7sEoLN6oIP3VKx4vbSZ",
+    "mediaItemId": 2249656
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit16_Reading.mp3?versionId=aTnQ4GI9GtrkJDhXE7uDttb0Ax7wGs7G",
+    "mediaItemId": 2252672
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit17_Reading.mp3?versionId=7iw_Zn4KkCed8ppxNXD9VvjJWjelt8by",
+    "mediaItemId": 2255429
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit18_Reading.mp3?versionId=R.Pm6M8UIAjtox8M5kDe4freE310WMp0",
+    "mediaItemId": 2258256
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit19_Reading.mp3?versionId=EGOKkHAtP72DaenDDcMF0DFnAlzSxGrq",
+    "mediaItemId": 2261010
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%205%20orig/asset/RL/9781508230823_Mandarin_Chinese5_Unit20_Reading.mp3?versionId=qJCw6hKquaavRJLDMA7TBK7nLJ5fw1xR",
+    "mediaItemId": 2263476
+    }
+    ]
+    },
+    "languageCode": "zh",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508230823",
+    "level": 5,
+    "courseName": "Chinese (Mandarin) Level 5 Premium",
+    "simpleCourseName": "Chinese (Mandarin) Level 5",
+    "puArabic": false
+    }
+    ]

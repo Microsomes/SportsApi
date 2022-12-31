@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6445,
+    "languageName": "Arabic (Modern Standard)",
+    "languageId": 183,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_01.jpg?versionId=KJiKIK5t0dWl8R2BLolohMH0cPf7PAWT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_01.jpg?versionId=k8Gf9EMGoJ.UF0_ClZs25tnaOoXTM.ZY",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_01.mp3?versionId=Dd2KcyY2j7bFEe9b9SzeUZXBYSLVR6Di",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2321856,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "While many folks living outside the city wear traditional robes, young people living in more urban environments wear more Western-influenced clothing. Youth between 15 and 29 represent over 30% of the current population in Arab countries.",
+    "imageCredits": "andreonegin / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_02.jpg?versionId=.LoI09cDH7UcjwjPhs0_ju_kw3vVdEbE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_02.jpg?versionId=u8h8RY1rOPxv_lQ9_7q86zoFUrDjhpAT",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_02.mp3?versionId=iyl3Ys7eWYnreuALhehwvlhB2yY3dkke",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2321883,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "Located in Abu Dhabi, The Sheikh Zayed Grand Mosque serves as both a place of worship and a library of Islamic studies. It boasts the world's largest carpet in its main prayer hall along with 96 marble columns inlayed with mother of pearl.",
+    "imageCredits": "Siddhartha De Photography / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_03.jpg?versionId=Itg28rgKJcVi0NozN8HEIGMJBSxE4TNg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_03.jpg?versionId=xYxNY.9Jn6wtnaQwrCJUeze2GHJQYD3Y",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_03.mp3?versionId=iVaznNSp3._t9JNBq9I9EguKL3jlB093",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2321904,
+    "cultureContent": {
+    "imageLocation": "Doha, Qatar",
+    "imageDescription": "The National Museum of Qatar was created to celebrate the culture, heritage and future of Qatar. The building, designed by French architect Jean Nouvel, is based on the shape of desert rose crystal, and is built around a restored palace.",
+    "imageCredits": "KARIM JAAFAR / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_04.jpg?versionId=iVpHxLNUzxdoHLfrUo8Vc2WvmxEBIKQ9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_04.jpg?versionId=9DTRjrTZUQghUWmMLaRKUkOhIR3U6rRb",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_04.mp3?versionId=iQ8_RCE5WZ.UL0UGgX0GaNsJhgNq.OoT",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2321930,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Men perform Wudu, a Muslim purification ritual of washing the face, hands, and feet before prayer and in particular before handling the Qur'an, the holy book of the Muslim religion. Wudu taps as shown in this image are present in most Muslim places of worship.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_05.jpg?versionId=0sXqM.w7i1AnpDx4jXxh7XT9vmz.yOJX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_05.jpg?versionId=CFCPt.vBuQaLIcCVuLp59pdmJqK2r.6d",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_05.mp3?versionId=HhmC6yQ6p5v8j0bXPl85mysBTOh4ht1M",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2321961,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Food in Muslim culture is diverse and delicious. It is prepared under the rules of halal, with particular care paid to the preparation of meat. The animal must be slaughtered by a Muslim butcher in a religious ritual.",
+    "imageCredits": "merc67 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_06.jpg?versionId=H62b.4AEwT5cqtYd_smGloeSQTN80ZB9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_06.jpg?versionId=VfpMlqs29W.wO.Hx_WZvHJSk9D4SYQbA",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_06.mp3?versionId=kuXrYBXj.CxojEXtyZI2B9lsuhRUzqF6",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2321991,
+    "cultureContent": {
+    "imageLocation": "Baghdad, Iraq",
+    "imageDescription": "During the solemn holiday of Ashura, worshipers practice matam. This practice involves mournful rituals which reflect the grief over the violent death of Hussein ibn Ali, a grandson of the Prophet Muhammad, including self-flagellation.",
+    "imageCredits": "AHMAD AL-RUBAYE / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_07.jpg?versionId=EXerjSYoEN9sr_AJEFzw7PikR9VdJT.0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_07.jpg?versionId=ToF_3QQOtarqasKlMTzWuYzISm1Ur9dc",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_07.mp3?versionId=o36RIhgguJnnztZgDNDMnfp_bx9qVcPX",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2322017,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Located in the United Arab Emirates, Dubai is one of the fastest growing economies in the world, with a population of over 3 million people. It is home to the tallest building in the world, the Burj Khalifa skyscraper, as well as the Palm Jumeirah, a man-made archipelago.",
+    "imageCredits": "Neal Wilson / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_08.jpg?versionId=JyygoFPyEXNr36tikEqBcuuL6fFkV.U1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_08.jpg?versionId=18.fhxebL3J.uMJRp.Uj7117hqsNpRmn",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_08.mp3?versionId=vh98GtmkTpp_jLo2oHHNYeRiR9JeJv_u",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2322047,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "By day the marketplace of Jemaa el-Fnaa is filled with snake charmers, storytellers and orange juice stands, by night it fills with food stalls, magicians, dancers and performers of all sorts, and healers offering traditional medicines. Considered to be a cornerstone of the culture of Morocco, it is protected as a historical landmark.",
+    "imageCredits": "Visions of Our Land / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_09.jpg?versionId=LHUgK4Z8QFdiJj07BYoEKVOSvWEbgHXq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_09.jpg?versionId=.XTQS7IjXZNqOHJ2HmxEaCDY1X9knK7J",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_09.mp3?versionId=mjquk.vCn1Nq2CxFmkRdv60nfmWpKiDm",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2322075,
+    "cultureContent": {
+    "imageLocation": "Palmyra, Syria",
+    "imageDescription": "Located in Syria, the ancient Semitic city of Palmyra dates to the Neolithic era. The site is home to four temples, a senate, court and extensive baths, along with crypts, which when excavated unearthed mummies formed in a similar style to those of ancient Egypt. In 2015 the site was damaged extensively by ISIS, but a restoration is underway.",
+    "imageCredits": "Ugurhan Betin / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_10.jpg?versionId=zh_DzjTp0bWry9a8l7Hkt_BP6A5ere4n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_10.jpg?versionId=j150NQNpTUbyPf5yxaHBdMFzqsnbFUyB",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_10.mp3?versionId=qRh7MEXbbesPUUz61NqbuORuQ.t0KC8w",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2322099,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "The night markets of Jemaa el-Fnaa square in Marrakesh fill up with food stalls, magicians, dancers and performers of all kinds, and healers offering traditional medicines. Snake charmers and fire spinners light up the night. It is a not-to-be-missed destination in Morocco.",
+    "imageCredits": "Pavliha / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_11.jpg?versionId=ap6x4S7_GQgJZhm_gsyDI6_R6uZ8w86P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_11.jpg?versionId=b0.TxyvDGjbLagtTpy_hIvkiHqtC42bD",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_11.mp3?versionId=cM2EZ.7UAG.UyCFvzGa68hL1dPiF9A3.",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2322151,
+    "cultureContent": {
+    "imageLocation": "El Jem, Tunisia",
+    "imageDescription": "The Amphitheater of El Jem, located in Tunisia, was built by the Romans in 238. It's one of the largest ancient amphitheaters in existence and seated 35,000 people. It's one of the best preserved Roman era structures in the world.",
+    "imageCredits": "Oloan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_12.jpg?versionId=yc8AGR8NYXky40Nx5BBNm2o_qClZkkR7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_12.jpg?versionId=bFVrI7p81FNIXmRe5eVUAUoYBPg_2oWM",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_12.mp3?versionId=GKZtjppN9_wgiSxEQPSqMljZzYaC0CSP",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2322176,
+    "cultureContent": {
+    "imageLocation": "Erg Chebbi, Morocco",
+    "imageDescription": "An erg is a large sea of windswept sand near larger deserts. Erg Chabbi is usually around 17 miles wide, but the peaks of the dunes are ever changing by the wind. Erg Chabbi is a tourist attraction and the town nearest to the erg offers camel rides through the dunes.",
+    "imageCredits": "Massimo Pizzotti / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_13.jpg?versionId=drRVmogsyaDhoL.pfuuxGLi51QJ3Cwtp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_13.jpg?versionId=lS2i6zI4UFYnZtNZV8uNgNLiQgb4mIFc",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_13.mp3?versionId=kT8wHD2pqzrMC3SNsK2HaaGgdlnQSE8i",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2322205,
+    "cultureContent": {
+    "imageLocation": "Baghdad, Iraq",
+    "imageDescription": "Al-Kadhimiya translates to “the two who swallow their anger.” This mosque in Baghdad is the burial site of the Twelver Shia Imams Musa al-Kadhim and his grandson Muhammad al-Jawad. It has been the site of many bombings and subsequent repairs in recent decades.",
+    "imageCredits": "rasoul ali / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_14.jpg?versionId=XhVyRNCI6J0yR6mNs13pGZjk0ZtG0jcB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_14.jpg?versionId=xlkJ3pTvNJ3c7cB4MMcgU7tfWxeY6DDs",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_14.mp3?versionId=H_tz.H650EggHEppX6n_3NC406mNQ3Za",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2322231,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Dubai is home to the Palm Jumeirah, a man-made archipelago which houses over 10,000 people. Construction began in 2001 and continues still. The Palm Jumeirah is part of a trio of archipelagos which when completed will increase the shoreline of Dubai by over 300 miles.",
+    "imageCredits": "Delpixart / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_15.jpg?versionId=j1TX7FONpBLyziVHIs4xJsHQGG3Fz2aH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_15.jpg?versionId=Bh_jGAlrVwPpbl4hxFIG0Tiyvff5w2ym",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_15.mp3?versionId=KwjuygBsBvcOuBt8IA1n_IZNLOFu.bM8",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2322258,
+    "cultureContent": {
+    "imageLocation": "Baghdad, Iraq",
+    "imageDescription": "Al-Shaheed Monument was created in 1983 to memorialize the soldiers who perished in the Iran-Iraq War. Also known as Martyr's Memorial, the monument was designed by Iraqi sculptor Ismail Fatah Al Turk. The shape is a dome that has been split in half, revealing an eternal flame. The dome is set in a large pool of water with a small bubbling fountain. There is a museum and learning center located beneath the dome.",
+    "imageCredits": "DEA / C. Sappa / De Agostini / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_16.jpg?versionId=4p5aQQPIVGSLV6l8QzHNSjMdWNVyhno6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_16.jpg?versionId=6mKPQ7any90kr3wU6lf4zZoXWFyGiixW",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_16.mp3?versionId=V.IgaVbB53vDvYJSvOVFR3d0EyZBilyG",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2322283,
+    "cultureContent": {
+    "imageLocation": "Madaba Governorate, Jordan",
+    "imageDescription": "The Ma'in Springs are a group of over 63 hot springs in Jordan. They are frequented by tourists because the waters contain elements with healing properties for treating various ailments. The springs descend from the basalt rich Ma’in Mountains and are beautiful and popular destinations, particularly in the winter months.",
+    "imageCredits": "Ostill / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_17.jpg?versionId=cZU01i2gyuebzr1KRXKySKy1TQnC1AlS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_17.jpg?versionId=0E320pFmWGgw0VVIJ9dknoOCkH7olh3h",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_17.mp3?versionId=Hr6mZXFHtdS8MR6FcAX.OnDOO3vBOG_1",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2322316,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "The United Arab Emirates won the bid to host the 2018 FIFA World Cup. It was held in Abu Dhabi at the Zayed Sports City Stadium and was attended by 150,000 people over two weeks. Team Al Ain became the first Emirati club to reach the final that year, after participating in the World Cup for over 50 years.",
+    "imageCredits": "Tom Dulat / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_18.jpg?versionId=bi4uutQXsO3qGqC.TyFdsihuMkUbNBNL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_18.jpg?versionId=09eMNH7wWsOuVdY47HRBREXpA638dq3Y",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_18.mp3?versionId=3zFNDGauIH.IgcYy7CgHyMkSnEw18uA7",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2322340,
+    "cultureContent": {
+    "imageLocation": "El-Heri, Lebanon",
+    "imageDescription": "The Nabu Museum located in Ras Al Shaqa’, Lebanon opened in 2018 and is named after the Mesopotamian god of literacy Nabu. The museum is home to a permanent collection of Bronze and Iron Age artifacts as well as contemporary Lebanese works of art. The building was designed in a collaboration with Iraqi artists Mahmoud Obaidi and Dial Azzawi and has a simple cube interior which is easily adapted for various exhibitions.",
+    "imageCredits": "Kaveh Kazemi / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_19.jpg?versionId=LbUD1Km1tqHnRYvfh20vl7_98J2_XGx_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_19.jpg?versionId=.GZHFzHkjXuOmt7Y1bFbnp_PWN9hU9MY",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_19.mp3?versionId=iRG7JygEeWlyzotrCocfJGK1.mJ_1Lze",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2322360,
+    "cultureContent": {
+    "imageLocation": "Mecca, Saudi Arabia",
+    "imageDescription": "The Great Mosque of Mecca is the largest mosque in the world and can host over 1.5 million worshipers at a time. The mosque surrounds the Kaaba, the most holy shrine in Islam and a place to which all Muslims are expected to make a pilgrimage in their lives. Over 2 million worshipers make this pilgrimage each year. In or near the Kaaba are sacred sites including the Black Stone, the Station of Ibrahim and the Zamzam Well.",
+    "imageCredits": "Neil Turner / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_20.jpg?versionId=m6NWwBmk6HFt3JGj3PwOoPJtJoz3j9gh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_20.jpg?versionId=E80Wo5hjg7TQ4QhXAbkqGfIMO6T8S1os",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_20.mp3?versionId=4weOjtzK76cNaU2gtrXw88506TA3YcLT",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2322380,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "The Dubai Miracle Garden was created in 2013 and is the world’s largest natural flower garden. There are over 50 million different flowers and 250 million plants in the 780,000 square foot garden. The flowers are maintained by wastewater drip irrigation, taking 200,000 gallons a day. The initial landscaping took 400 workers two months to complete.",
+    "imageCredits": "WhiteLacePhotography / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_21.jpg?versionId=N9CDESAY46t9mH0WZGTqMBjSprmkt9wf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_21.jpg?versionId=.SdRCqKyCudDKl0hFIIax0RdBXwKFnBG",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_21.mp3?versionId=w7591cFCJrQ3UMa1WmhWPrdSESyfmSDu",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2322399,
+    "cultureContent": {
+    "imageLocation": "Wadi Rum, Jordan",
+    "imageDescription": "Visitors to the Sun City Camp in Jordan’s Wadi Rum Desert can experience what it might be like to live on Mars. The resort is made up of geodesic domes set on the red dirt of the Valley of the Moon, which are intended to simulate what it might be like to sleep on the Red Planet. The camp is also home to many Bedouin-style tents, the classic style of accommodation in the Jordanian desert.",
+    "imageCredits": "bonafau / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_22.jpg?versionId=WTYy5M4RSn_MUrkowLETsD8ENN9RiIP7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_22.jpg?versionId=ber3OSchVxyWRdtfOspblyMMOr4cDulJ",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_22.mp3?versionId=Jgdo2yZLvAGQYuKE2_oVJRg0G.DgEE7c",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2322417,
+    "cultureContent": {
+    "imageLocation": "Essaouira, Morocco",
+    "imageDescription": "The Sous region of Morocco is home to the argan trees, which produce oil-rich seeds. Argan oil has become a high-value export but the trees are threatened by overgrazing from an increased goat population, which in turn is a result of newfound wealth from the sale of the oil. The trees have dwindled by half over the last 100 years.",
+    "imageCredits": "yavuz sariyildiz / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_23.jpg?versionId=YfXeoxaeZZj32oA3K6RWML3EnhNtrZR3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_23.jpg?versionId=n_b0XcGHzIX77EqHxFrxjKGeBE.Zp1uA",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_23.mp3?versionId=8cr.enIQ7_N8vuYy0__N_LKwlCuWqilg",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2322432,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "The red walls of the city of Marrakesh have given it the nickname the Red City. The walls are made from red sandstone and were built in 1132. The ramparts, which stand over 30 feet tall, were commissioned by Ali Ben Yousef to surround the old town as protection from enemies. Marrakesh is Morocco’s most visited tourist attraction, with over 2 million visitors a year.",
+    "imageCredits": "fafou / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_24.jpg?versionId=z_yzDeHNg7MuacDWJEaXyIfVi0IvQlgi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_24.jpg?versionId=V0vLxOtbnh5ZNTfsbp_lV.TbrB2GfJwF",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_24.mp3?versionId=vxMFMEM39VAQJzHWmyCegyhSZpX73ag.",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2322448,
+    "cultureContent": {
+    "imageLocation": "Taghit, Algeria",
+    "imageDescription": "The old city of Taghit is an oasis in the Algerian desert and is a popular tourist destination. The red walled city was created from mud brick and is still partially inhabited. The surrounding area is a lush oasis, framed by picturesque desert dunes containing secrets like Neolithic petroglyphs carved into rocks 9,000 years ago.",
+    "imageCredits": "George Steinmetz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_25.jpg?versionId=HBxJVvZK3Nb41sN3MiG1AFHxKPEQF5Zn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_25.jpg?versionId=Z1VTUzy1KX0NquDZR4tEwJBhePPAPu1J",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_25.mp3?versionId=vwUmBq8oQI9TTmrV7eFXemeEQT_MB5Sk",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2322459,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Moroccan-American rapper and founder of Coke Boys Records Karim Kharbouch, better known as French Montana, had a song in the top 10 of the U.S. Billboard Hot 100 chart. He was born in Casablanca, Morocco and immigrated to the United States when he was 13. At the time he only spoke French and Moroccan Darija. He is now a Grammy-nominated rapper. He is currently working on a project to open schools of music in his birth city.",
+    "imageCredits": "Christopher Polk / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_26.jpg?versionId=_58W.1twBv8_U587W1oaTG6h9FcV2WU0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_26.jpg?versionId=STZanRV_CXjG6EDEVyk662AkYYyPHCD2",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_26.mp3?versionId=4_4uR8TQk3CF_0CySM9ypRaWW3yIXDH5",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2322467,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "Snake charming is a common attraction in the city of Marrakesh. The charmer plays an instrument called a pungi, waving it to appear to hypnotize the snake, usually a cobra. Many snake charmers will perform other seemingly dangerous acts with the snakes that usually include handling them. Snake charming is one of many ancient arts practiced in the popular markets of Marrakesh.",
+    "imageCredits": "Peter Phipp / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_27.jpg?versionId=8GCh8lBhPjK7j3Klsuxx.6_hC7m07cxD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_27.jpg?versionId=ujQqLX5xVeD1EwsCb3PGKu05KFlAOn2T",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_27.mp3?versionId=T3EaJgEB8LKi5P6xj8SfzeELidji.lBB",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2322475,
+    "cultureContent": {
+    "imageLocation": "Sahara Desert, Libya",
+    "imageDescription": "Sandboarding is a popular activity in the Sahara Desert. It is a sport that involves riding down dunes while standing with both feet attached to a board similar to a snowboard. Sandboarders hike up steep dunes and can reach speeds of up to 50 mph. There are tour companies in in the Maghreb that will take visitors out to the dunes for sandboarding expeditions.",
+    "imageCredits": "hadynyah / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_28.jpg?versionId=y._.7yGGImr9DzMsdQyiwjxe7VkM9Mou",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_28.jpg?versionId=y6hdOXeQ.haMr1..qOULPdpcVzRKU9Gh",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_28.mp3?versionId=kU7y8j6_rgkr5dasE.n35SFZwS0fe3yH",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2322486,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Tourists can learn the art of falconry at the Dubai Desert Conservation Reserve. This 87 square mile nature reserve is home to Al Maha, a luxury resort, spa and tour operator which hosts many Bedouin style activities like safaris, nature walks and camel rides. Al Maha is home to numerous wild animal species such as oryx, Arabian and sand gazelles, Rueppell's fox, Arabian red foxes, hares, and the Ethiopian hedgehog.",
+    "imageCredits": "Keren Su / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_29.jpg?versionId=_4ZrmANHqErBBWgaS1e19PPfxi5o62Ua",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_29.jpg?versionId=5Z7bgpI8K0RbRUPTxYizovCF9KB6397R",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_29.mp3?versionId=TYIdDhQ1sPsPGbG_6pgRBQg7UeJsWqB8",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2322494,
+    "cultureContent": {
+    "imageLocation": "Faraya, Lebanon",
+    "imageDescription": "While Lebanon is mainly known for its deserts, during winter months the remote hillsides of Faraya are blanketed with snow, with trails perfect for snowshoeing trips. The Horsh Ehden and the Shouf Biosphere Reserve offer beautiful views along the trails. These reserves are home to a variety of animals such as wolves, jackals, hyenas and wild boars, and their tracks are highly visible in the snow.",
+    "imageCredits": "Lindsay Manzella / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/full/MSA_2_M_30.jpg?versionId=DCxsXdrmMRat5EapC5uVhNKpHK84TBax",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/lesson_photo/thumb/MSA_2_M_30.jpg?versionId=0f8s5EPanysYJ.69fChjfOghc53Leg1e",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/main_audio/9781797112244_Arabic_Modern_Standard_2_Lesson_30.mp3?versionId=ecu2JiCbTWiQmd8.B74QOLtmq6HAgVMd",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2322503,
+    "cultureContent": {
+    "imageLocation": "Manama, Bahrain",
+    "imageDescription": "Manama, Bahrain is home to the Bahrain World Trade Center, a 787 ft, 50-floor, twin tower complex. Completed in 2008 by architectural firm Atkins, it is the first skyscraper in the world to integrate wind turbines into its design. The three turbines located in the center between the two towers were created and installed by the Danish company Norwin and have earned the building several awards for sustainability. The energy created by the wind turbines is equivalent to providing lighting for 300 homes.",
+    "imageCredits": "Henryk Sadura/ Tetra Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 2 orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Alpha.pdf?versionId=Qmux5pW9hRaTpUACcA2kkgXusSvOcK9O",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 2 orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Intro.pdf?versionId=SLW9Q9b8QSQ8UgcYm38sAtp149U__7Md",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_01.mp3?versionId=kFZ.G7GhfPKbDloomMmkPyI3n2QGrGBn",
+    "mediaItemId": 2223860
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_02.mp3?versionId=5GBc5t22SVQYUxFbpRmcIUzScu3B9xVk",
+    "mediaItemId": 2224063
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_03.mp3?versionId=6Gfvp12NywzcD0BwVscsRUgh6yXWvOse",
+    "mediaItemId": 2224194
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_04.mp3?versionId=Tz9cDNzp4sFU8YZemzF_lZMzFe7MYiJV",
+    "mediaItemId": 2224403
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_05.mp3?versionId=_hbe498nvtwlFwqFeIZxBNEuDx5jFzlN",
+    "mediaItemId": 2224526
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_06.mp3?versionId=t1C4cwMXuPIOBgeGU3cApnvL8PR_bMXv",
+    "mediaItemId": 2224712
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_07.mp3?versionId=w2JdaplofH3Jk.b2NlAB8lX1Qz8kvSAZ",
+    "mediaItemId": 2224949
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_08.mp3?versionId=lnG9T4GTW3.xTiKMaKL6R0hu_acIz5UB",
+    "mediaItemId": 2226347
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_09.mp3?versionId=JZn26ro.TnQSZeYSSOnpQCOSbNmtJdZE",
+    "mediaItemId": 2228973
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_10.mp3?versionId=tx7DqJLepDP_FHrKYW0Y.HF88GdCOcZ0",
+    "mediaItemId": 2232373
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_11.mp3?versionId=Rd3x5mwV4n0yuej6_UAP3RvjcCWWHefZ",
+    "mediaItemId": 2235908
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_12.mp3?versionId=EOtCZ3.v4pK9ZpTGB.X0Knjp96TLKnST",
+    "mediaItemId": 2239261
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_13.mp3?versionId=RTnJFnmsF04o1IkWY7KsGo61P27qg8qZ",
+    "mediaItemId": 2242333
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_14.mp3?versionId=13fTcaY52UT176..YHfxrzcqqQSFb09d",
+    "mediaItemId": 2245507
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_15.mp3?versionId=qn.w0uGQchYGA5Yt7j2sfvyslDT32SQa",
+    "mediaItemId": 2248365
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_16.mp3?versionId=y4gf65err2i8VoQp_QQuo61nwjdh20Ia",
+    "mediaItemId": 2251429
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_17.mp3?versionId=O0_RKqlFjGGlThrFrgJX8IFpSVBnmTFs",
+    "mediaItemId": 2254088
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_18.mp3?versionId=MofEl78lt87C9M0HWJMK3TPzs3axG.WM",
+    "mediaItemId": 2256907
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_19.mp3?versionId=ouRmJsDmT5VwcEmODlx9xGcFlu3vOPnH",
+    "mediaItemId": 2259754
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%202%20orig/asset/RL/9781797112244_Arabic_Modern_Standard_2_Reading_Lesson_20.mp3?versionId=5WVfUZ6q5.h2Up8lLKQwXpNoRzsPDaiN",
+    "mediaItemId": 2262251
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797112244",
+    "level": 2,
+    "courseName": "Arabic (Modern Standard) Level 2 Premium",
+    "simpleCourseName": "Arabic (Modern Standard) Level 2",
+    "puArabic": true
+    }
+    ]

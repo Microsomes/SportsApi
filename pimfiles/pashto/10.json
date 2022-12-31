@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6500,
+    "languageName": "Arabic (Modern Standard)",
+    "languageId": 183,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_01.jpg?versionId=wiub2dG0gSE_eF69mlJy9_Pjh0d1hFh_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_01.jpg?versionId=XtGatgNTcbfmZtCTtYWOoc9eM5XUiypj",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_01.mp3?versionId=PU0bXuyC2UelsoYVzXW2J7xoCHkuB8E_",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2321724,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "A hijab is a head scarf worn by Muslim women. Covering the hair and neck, it is meant to adhere to the Muslim guidelines of covering while in public. A hijab can also refer to any item of clothing worn to abide by sharia rules of modesty.",
+    "imageCredits": "SrdjanPav / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_02.jpg?versionId=w0D7Bd.7EPJzN21TJ_SckibW3aLKrYGN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_02.jpg?versionId=n05Ejp6rT.yh7YPT11Ez5S06JmGBzRqF",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_02.mp3?versionId=i.Ug.8UUiBDuGLdqA.fR7ukkp2XnvvVT",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2321748,
+    "cultureContent": {
+    "imageLocation": "Jericho, West Bank, Palestine",
+    "imageDescription": "Eid al-Fitr is a Muslim holiday celebrated around the world, marking the end of the daily fasting of Ramadan. The festivities include family gatherings and acts of generosity and hospitality.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_03.jpg?versionId=eKs17Wk_WxSndhaCvv1LOh0vrLKRnIz3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_03.jpg?versionId=ocZ1CkH7neED7wC2RVVtbg2T53bU8aJI",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_03.mp3?versionId=5Ajd99lIcF23_h3_0C26wB_PlKE7q.oP",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2321763,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "Evening street markets in Marrakesh attract large crowds in search of delicious food, spices, and a bustling local gathering place. Stalls sell fresh meats, vegetables and sweets under the lights, while snake charmers entertain crowds with their intimate handling of the reptiles of all sizes.",
+    "imageCredits": "Pavliha / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_04.jpg?versionId=8PxjSVSECWWjaujv_zvSUHKr3N48mB2X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_04.jpg?versionId=WHwpQICX.VHk.OMIbpZbJHV_ToZG0Utc",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_04.mp3?versionId=u7T114VxzTPS2qRtbRG7zTqbWkyebqiI",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2321785,
+    "cultureContent": {
+    "imageLocation": "Manama, Bahrain",
+    "imageDescription": "Manama is the capital of the small island kingdom of Bahrain. Fifteen percent of Bahrain's population lives in Manama, making it the largest city on the main island. Bahrain has a growing tourism industry, and many people visiting the Arab world come to see the expanding city of Manama.",
+    "imageCredits": "typhoonski / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_05.jpg?versionId=mCoFtB_jdaD3JxqTtm6RW3okv1eLD9Cv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_05.jpg?versionId=9bXt3v4jkqxu7F1jkqUNW1JlGlwAIPUU",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_05.mp3?versionId=gxEhAtSDLezNfsgmnD_riccLf1qomvSv",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2321802,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "Masdar City is a futuristic city being planned and built by British architect Norman Foster. The city is in the Abu Dhabi desert and is meant to be a completely sustainable community. Masdar is planned to be home to around 50,000 people by 2025, and is an experiment to determine what cities may look like in the future.",
+    "imageCredits": "Hufton+Crow / View Picture s/ Universal Pictures Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_06.jpg?versionId=cRx2pieIG70H.WJRLp8_fjRagLlvp1IN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_06.jpg?versionId=b8QlclMT10jYv4vC6qiLAzxse8tzY2f0",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_06.mp3?versionId=QhoYBO_dwHJ_zF4QhBYuboGIdgD3vygc",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2321821,
+    "cultureContent": {
+    "imageLocation": "Casablanca, Morocco",
+    "imageDescription": "The Hassan II Mosque in Casablanca, Morocco is the largest mosque in Africa. It was built in the 1980s as a mausoleum to honor the late King Mohammed V. The mosque is built over the Atlantic Ocean and the main prayer hall features magnificent water views.",
+    "imageCredits": "RuslanKaln / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_07.jpg?versionId=uPxZEQUZjWsybVl32q7FiKYI3maTawgn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_07.jpg?versionId=aF1HM.Wu0Ta4UeY_u5uQqrBaAm50EmzJ",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_07.mp3?versionId=KBAyTN9thAcJJPynm6asArWSIJHoglBb",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2321839,
+    "cultureContent": {
+    "imageLocation": "Chott el Djerid, Tunisia",
+    "imageDescription": "The Chott el Djerid is an expansive sediment basin in the Sahara Desert containing a salt lake. Extremely high temperatures cause the water to evaporate in summer, leaving behind salt sediment, and passing travelers have begun to construct salt sculptures along the expansive depression.",
+    "imageCredits": "JudyDillon / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_08.jpg?versionId=wgVphjPfN8SKA38dCX0hbli_5ifQc5PB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_08.jpg?versionId=5i_FxkkHq22n2ZIjlI_ipwLGn4qa5vxc",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_08.mp3?versionId=EwfmZjNF1Pmyd9HsHgAfHpf2roCavqHk",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2321868,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The five times of daily prayer are one of the most important aspects of the religion of Islam. Before praying, Muslims must be clean in body and mind.  A ritual washing of hands, feet and face is performed before facing Mecca to begin prayer.",
+    "imageCredits": "ozgurdonmaz / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_09.jpg?versionId=SwYoFzJCu7Og5EYnrX3_IVBmS4t5fMf3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_09.jpg?versionId=_JDAhT2vsfI.KZibq15IAQPRGIRkf_ZN",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_09.mp3?versionId=44FpbkjqO86wzoSaint0OKcEUeQ0d0Zx",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2321893,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "Oman's National Arabian Horse Championship is a three day event featuring the best of purebred Arabian horses. The Arabian is a prestigious breed with its distinctive head shape and high tail, and dates back 4,500 years. The breed's bloodlines are found in almost every riding horse today.",
+    "imageCredits": "MOHAMMED MAHJOUB / AFP /  Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_10.jpg?versionId=PYpwNGTtgXLxwhTQNGLD1gj4DAaJN7im",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_10.jpg?versionId=5df4yAByR90LasrRVfIc87XNmUMMKdCE",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_10.mp3?versionId=P_77Se4DkxViFQ_EBJbC1_vLQRSEHRm8",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2321922,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "The Said bin Taimur Mosque is one of the most  breathtaking architectural landmarks in Oman.  Built in the 1990s with private funding to memorialize the father of Sultan Qaboos, this mosque is in the style of Ottoman mosques found in Turkey.",
+    "imageCredits": "Gopal Sutar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_11.jpg?versionId=NRD5DXxiyE3fcZxiMq_uvTc_XXZuuel2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_11.jpg?versionId=ZQ4ci0OiAfVtm9xxT1bHt33EPcvTFWcG",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_11.mp3?versionId=WLiJvwCwuX6O3e92s37ZYBSNeW6UpO6Z",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2321956,
+    "cultureContent": {
+    "imageLocation": "Madaba, Jordan",
+    "imageDescription": "The Madaba Mosaic Map is an ancient mosaic dating to the 6th century. Discovered in 1884, the floor mosaic is one of the only surviving maps of the Holy Land in ancient times. Located in the Church of Saint George in Madaba, the map is not oriented northwards, rather facing east towards the altar in the church.",
+    "imageCredits": "Paul Biris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_12.jpg?versionId=YnQuoOZ3lp4Clm8dwPSSEqGi6UvkbYF7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_12.jpg?versionId=jWP2yimzfCU_zNmaZZoZEmjxEMrLNgKd",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_12.mp3?versionId=DkbyTT0TiEU7e6zXpNw3bypfM1bTsDuT",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2321998,
+    "cultureContent": {
+    "imageLocation": "Sharm El Sheikh, Egypt",
+    "imageDescription": "Sharm El Sheikh is a resort town in Egypt along the Red Sea. The beach resort was developed 1970s by the Israelis during their occupation of Egypt. There are plenty of luxurious shops and restaurants in the coastal town, and crystal clear blue waters make it a prime location for snorkeling and scuba diving.",
+    "imageCredits": "lilithlita / iStock / Moment"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_13.jpg?versionId=d_tyX3R1FiXgxMoCI1nLE7PUJ5rfHmVG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_13.jpg?versionId=3iIgeen_2Rh0q_1il79Ig0qdNlkltZKv",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_13.mp3?versionId=JBPyPZv_TUre.gpSMDF0ztgwEFcl8JWh",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2322027,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Art Dubai is a talent incubator art fair showcasing work from artists in and around the Middle East. The show takes place for a week in March and is a launch pad for artists beginning their careers or making a name for themselves on the global map.",
+    "imageCredits": "Rubina A. Khan / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_14.jpg?versionId=MWpliP2qGqyV.k0WZqZIN0ejvlO0VEa6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_14.jpg?versionId=ijP939RwK0BAW0yNTD7qrbNaPwg4Lqul",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_14.mp3?versionId=rjJJ2u1OQnpyIvld9PkxjmvaNCboaVSd",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2322056,
+    "cultureContent": {
+    "imageLocation": "Damascus, Syria",
+    "imageDescription": "The Sayyidah Zaynab Mosque was built with intricate mosaic patterns juxtaposed against white walls. The mosque has a distinct golden dome on top of the structure, and inside the dome are ornamental patterns. The mosque can hold 1,300 people at once and more in the surrounding courtyards.",
+    "imageCredits": "mustafanazif / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_15.jpg?versionId=HSGXuQzgNFaUlRpiQe953U_uAuqNy8Sr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_15.jpg?versionId=RyjQ8vC410oFxyQ0ZEuqwXx48P.0a5.6",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_15.mp3?versionId=VLh_gsWR6fYIlRiwviPe0ELtxqhzZFFk",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2322078,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Acclaimed Lebanese chef Alan Geaam received a coveted Michelin Guide star at his restaurant in Paris.  Lebanese cuisine consists of staple ingredients including chickpeas, parsley, garlic, olive oil and lemon juice. A common savory side dish is baba ghanoush, which is mashed eggplants mixed in tahini, olive oil, lemon and garlic.",
+    "imageCredits": "STEPHANE DE SAKUTIN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_16.jpg?versionId=asJMZo5IjSSxtGW57BqZl9.Z_yBLGUyj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_16.jpg?versionId=15Gegp_Jbn7EPbNMRrlKD8tPd.2FwUaR",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_16.mp3?versionId=lQArjWVj2bL7Yp3G7D1HnBdUby4Jt5UX",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2322103,
+    "cultureContent": {
+    "imageLocation": "Jerash, Jordan",
+    "imageDescription": "Jerash, Jordan has one of the most elaborate historic reenactments of chariot racing and gladiator fights. The ancient Roman city was resurrected in 1806 after centuries of ruin after an earthquake in 749. The \"Roman Army Chariot Experience\" puts on a daily show inside the ancient hippodrome, reenacting the historic sporting events that once took place there.",
+    "imageCredits": "Richard Ross / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_17.jpg?versionId=1io.oJeo1rsBsAzFEXbtdF_yHENPNreu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_17.jpg?versionId=jLloZwQ70bTO_qoIAhOgbNIqrRZHKFlj",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_17.mp3?versionId=CmLIG.ew9JlL24Yo1xvIwuK.NoujHnO9",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2322130,
+    "cultureContent": {
+    "imageLocation": "Hurghada, Egypt",
+    "imageDescription": "Bread making in Egypt goes back to ancient times, when bread and beer were staples of the Egyptians' diets, economy, and religious rituals. Several different kinds of loaves were crafted using a variety of grains, and the different shapes of bread represented some of the hieroglyphics in the world's oldest writings.",
+    "imageCredits": "Aleksej Sarifulin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_18.jpg?versionId=oKj6EPUeWF2LD_wbZmr0Zrd7PDkpXKDx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_18.jpg?versionId=1RLUYx10KMCvQ53mXFR2II5S7h_QvvdL",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_18.mp3?versionId=PpMp7WClpE7jpAcwktFO8snNy8O98OFE",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2322162,
+    "cultureContent": {
+    "imageLocation": "Chefchaouen, Morocco",
+    "imageDescription": "Chefchaouen, Morocco is nicknamed the blue pearl of Morocco because of its blue-washed buildings and streets throughout the old city. There are several theories as to why the city is mostly blue, including an idea that it repels mosquitos.  But some say it was painted blue sometime in the 1970s simply to encourage tourism.",
+    "imageCredits": "Elena-studio / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_19.jpg?versionId=a_MlDvW2k9YDxfMTrQ2NupV8kLCvNr3M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_19.jpg?versionId=hW5kZ1ndx44azBf5J.VB.nV0joBJENGo",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_19.mp3?versionId=ylUwMyyQtuRyZOthO8KGpWxnVgGARk6f",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2322192,
+    "cultureContent": {
+    "imageLocation": "Damascus, Syria",
+    "imageDescription": "The gold-leafed dome of the Sayyidah Zaynab Mosque is an example of Shia-Persian architecture. According to Twelver Muslim tradition the mosque holds the grave of Muhammad's granddaughter Zaynab. There is a big market in front of the mosque where religious items are bought and sold.",
+    "imageCredits": "mustafanazif / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_20.jpg?versionId=LBUfTqy4pqK2ppcN0ntjfKbSapwWVatR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_20.jpg?versionId=E7L48ggMnOuuRNPiWuTcmQGVcLX2ytCj",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_20.mp3?versionId=KnrrGBwRK2STJTkG1eeAAHaHM9.yH_L9",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2322217,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "Fish markets are very popular in Kuwait, which is located on the Persian Gulf. There are a variety of fresh fish and sea creatures for sale at the markets including sharks, grouper, and blue crabs, and often a buffet where one can select a fish to be prepared on the spot.",
+    "imageCredits": "Westend 61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_21.jpg?versionId=7s44zT7akhWL65vEIiCbOEQdOeQ2o5fc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_21.jpg?versionId=vLvdSLI0OpRNiT.o4iLE9hirqCtH_ddr",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_21.mp3?versionId=h_IUjb_1NwMmBh4pBzrzCQca8vN46uop",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2322244,
+    "cultureContent": {
+    "imageLocation": "Algiers, Algeria",
+    "imageDescription": "France ruled Algeria from 1830 to 1962, and much of the architecture of the city of Algiers is decidedly French influenced. The architect Le Corbusier was highly critical of the urban development of the city and set about redesigning it. Algiers fought for independence after World War II and won in 1962 after a bloody battle for freedom.",
+    "imageCredits": "mtcurado / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_22.jpg?versionId=qloiYh.NjcZv1XKTaAM93EIpbCKv41sY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_22.jpg?versionId=d8QPzHq98.H7MxI5fL3Z7HGRLH0fwRCN",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_22.mp3?versionId=5GJ1kflOk2KJHYKDT.Aq5H3db0_1CuKp",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2322272,
+    "cultureContent": {
+    "imageLocation": "Tamanrasset, Algeria",
+    "imageDescription": "About one third of Earth's land is desert, and the Middle East is about 85% desert. Due to climate change and the average global temperature rising, the size of deserts is expanding yearly. Tamanrasset is an oasis town and tourist destination in the middle of the Sahara Desert where once only the nomadic Tuareg people lived.",
+    "imageCredits": "Zakaria Guedjali / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_23.jpg?versionId=c8.GpliQzz9GrVxiI2NhGkI4g04GPrx6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_23.jpg?versionId=Epz932xTIHYzGDzo2JRqhN58vhtHKgo3",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_23.mp3?versionId=6ABovrhUY2nblLbXMFagYLy6LoGxlUQB",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2322304,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "The Kuwaiti government commissioned a Swedish company to design and build a new water supply system in 1965. Sweco built a group of thirty-one water towers in the shape of large mushrooms with blue stripes. The towers are landmarks in their districts.",
+    "imageCredits": "Frans Sellies / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_24.jpg?versionId=Os9owy45PUrDRxT2Ztjo9ts6piOfdq7G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_24.jpg?versionId=rTX1kzoMTzrWgoBornCSkDr1Ry24HnKI",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_24.mp3?versionId=C7y.JDtGzX5nQZVic492m.lhNMaL_y9g",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2322339,
+    "cultureContent": {
+    "imageLocation": "Amman, Jordan",
+    "imageDescription": "In the ancient city of Amman, Jordan lies the Temple of Hercules. The structure was built between 162-166 CE and was larger than any structure in Rome. During excavation of the ruins a large marble model of three fingers and a bit of elbow suggested that there was once a massive statue of Hercules near the temple.",
+    "imageCredits": "Dmitry_Chulov / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_25.jpg?versionId=ahcR.z40aEUuqwAmMvsHw.ZmsanAAnQN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_25.jpg?versionId=vDHxhOe6bdFiNLzlhWlwGHDYR0wm5Y24",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_25.mp3?versionId=z3kxS_1AEnOZS1KMpws.CnSAfyjgXD17",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2322362,
+    "cultureContent": {
+    "imageLocation": "Aleppo, Syria",
+    "imageDescription": "Ramadan is celebrated during the ninth month of the Islamic lunar calendar. The entire month is a holy time of fasting from sunrise to sunset each day and then having an evening meal called Iftar.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_26.jpg?versionId=dHtJKKgAUNq2GQvWgTAx1mY2AfNd7HHC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_26.jpg?versionId=L.K_5GZkV7zGeI6jDJK2tmbPko8WoH8s",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_26.mp3?versionId=XKSGsc8jHhodGHEZjK4qOyifwr1Jba0n",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2322382,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Tajine is a traditional North African casserole dish slow-cooked in a clay pot. The pot's lid is a tall dome with an opening at the top to allow steam to escape, and the heating of the pot on coals provides an even and gentle cooking of the food inside. Some tajine recipes include lamb, prunes, and apricots in the casserole.",
+    "imageCredits": "Samere Fahim Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_27.jpg?versionId=GzErA4L1osX4V1xL8V06gicw3SMx9Edz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_27.jpg?versionId=4R0j6dGnOc3.QsUeWzBdXTMjAlRJZxqu",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_27.mp3?versionId=Nashfqysdf7aI8mYtiaE4opYrPTvO7XN",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2322402,
+    "cultureContent": {
+    "imageLocation": "Socotra, Yemen",
+    "imageDescription": "The dragon blood tree is a uniquely shaped tree native to the Socotra archipelago of Yemen, in the Arabian Sea. The tree produces small berries that turn orange when ripe, and are eaten and dispersed by birds. The tree is used for medicinal purposes and is known for its red sap, hence dragon's blood, which was cherished in ancient times.",
+    "imageCredits": "John M Lund Photography Inc / DigitalVision /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_28.jpg?versionId=tZ318ASTP2lzqDM8mDk5mXCTCVdmKqwl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_28.jpg?versionId=fsSJ_.NCYT4kcEVmXdS5jxDC7KwnUzp.",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_28.mp3?versionId=bOv67P2tD0I0OZbuSg5DoRAi.S7JLh3x",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2322423,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "The slender Kuwait Towers are unique among the Kuwait Water Towers. They were briefly closed for maintenance in 2016 and there was a festival to celebrate their reopening. The Danish architect who built the towers says the rocket and globe shapes represent ideals of technology and humanity.",
+    "imageCredits": "Walter Bibikow / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_29.jpg?versionId=_unbMqqm5mtNOeyWbGlEs_A1rc_1ZLuC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_29.jpg?versionId=2kbgpqak3FgqDKr7J3j5rfR1wMpv6FhV",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_29.mp3?versionId=ADOR97265M479PJ.T86Buksz7faLkRQf",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2322438,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "The Sheikh Zayed Bridge connects the island of Abu Dhabi with the mainland. The bridge is illuminated in changing colors and the arches are undulating, evoking the shape of sand dunes. The bridge's architect, British-Iraqi Zaha Hadid, was the first woman to win the Pritzker Architecture Prize.",
+    "imageCredits": "spreephoto.de / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/full/MSA_3_M_30.jpg?versionId=UqRDKFtvn6nC18ZCK.dz1rSCHoPhn53i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/lesson_photo/thumb/MSA_3_M_30.jpg?versionId=pXZ.wKYK_XpJ_v9jWhS7C.xc0J3.9Hf.",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/main_audio/9781797112251_Arabic_Modern_Standard_3_Lesson_30.mp3?versionId=iq3hDqenQ_x.UaO7oRD.G9o3rhqBUDkn",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2322451,
+    "cultureContent": {
+    "imageLocation": "Casablanca, Morocco",
+    "imageDescription": "Mosque is an Arabic word that may derive from a word meaning  \"site of prostration\" and is a place of worship for Muslims. Mosques have an ornamental niche for prayer that faces Mecca in Saudi Arabia.",
+    "imageCredits": "Philipe Marion / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 3 orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Alpha.pdf?versionId=VY2pI8jaWEGnDWtNlYq6vxfn7Ik_C7L9",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Modern Standard)/Arabic (Modern Standard) Level 3 orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Intro.pdf?versionId=F23wRDwZXbXygndwsd5j_ZEh02Z313Xd",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_01.mp3?versionId=KnmQS9zYFbvZejQW5v6S.ZYvBVCrgsVP",
+    "mediaItemId": 2223878
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_02.mp3?versionId=E0wyvEYzrhnN8dUf7UBADInXoKMOTcxS",
+    "mediaItemId": 2224090
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_03.mp3?versionId=M.fvAjeGcrwhy3xhd7wB5001JU26kXCy",
+    "mediaItemId": 2224224
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_04.mp3?versionId=mxklqiT7AEFSJtXHLWd2ttZCSjePzhQO",
+    "mediaItemId": 2224421
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_05.mp3?versionId=Idcuhonla9t8A6ImTEA.jC6q7VlsAAPX",
+    "mediaItemId": 2224559
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_06.mp3?versionId=k9OPZN.9jSXoFj0AMiGWfyhYAMpGqbyo",
+    "mediaItemId": 2224729
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_07.mp3?versionId=TgDAIbTqxSREs4b0zKA4Fy8Ej8g_7g_v",
+    "mediaItemId": 2225063
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_08.mp3?versionId=gzN2kqdxbSaPPoFyow9M2DWIMMUHEIEl",
+    "mediaItemId": 2226633
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_09.mp3?versionId=6uGccMFI4IGwnEGR9s4c1DY32H_WYQ.y",
+    "mediaItemId": 2229422
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_10.mp3?versionId=OoU.5TAcCQJ52Ab.IG3.KHFJ52fVwiHO",
+    "mediaItemId": 2232696
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_11.mp3?versionId=MUztrdLCV0Dt2aG9yuDaCDbja0MsjdDY",
+    "mediaItemId": 2236430
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_12.mp3?versionId=Pj5rel0yRlEuTQxgjZk57Y1oUaK.2unj",
+    "mediaItemId": 2239726
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_13.mp3?versionId=ksamlxz75FIJaiAEmHpfSs.87.PWp8ms",
+    "mediaItemId": 2242685
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_14.mp3?versionId=lFlB480J6epmTRS54.U9CqUw3dbzsfOu",
+    "mediaItemId": 2245934
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_15.mp3?versionId=2gjnvEQtGBeSAlxUmzQ24QhFmQnK2hhz",
+    "mediaItemId": 2248855
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_16.mp3?versionId=QuZqg8P5tvTuio5ovpCV4kQM3AWJGYu5",
+    "mediaItemId": 2251888
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_17.mp3?versionId=VgBDpvxurgmCYq2kE.spbLPtC3cghBOF",
+    "mediaItemId": 2254779
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_18.mp3?versionId=TEUSJIzcQaIXUJouwz0fAVfjzeSw5935",
+    "mediaItemId": 2257706
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_19.mp3?versionId=PCc1sgHe8px6SrzTqv1PRv_y.4DiEQip",
+    "mediaItemId": 2260365
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Modern%20Standard%29/Arabic%20%28Modern%20Standard%29%20Level%203%20orig/asset/RL/9781797112251_Arabic_Modern_Standard_3_Reading_Lesson_20.mp3?versionId=uwd9ov8hPD613bK.Koe8.aMO48WMMqoj",
+    "mediaItemId": 2262906
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797112251",
+    "level": 3,
+    "courseName": "Arabic (Modern Standard) Level 3 Premium",
+    "simpleCourseName": "Arabic (Modern Standard) Level 3",
+    "puArabic": true
+    }
+    ]

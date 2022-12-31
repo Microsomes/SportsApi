@@ -1,0 +1,638 @@
+[
+    {
+    "courseId": 3292,
+    "languageName": "Croatian",
+    "languageId": 126,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_01.jpg?versionId=mnC29p.hLdD1zW.eQIJdJ.mtGI1GW8rS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_01.jpg?versionId=FhtvL7Hbigmok93yBBnn79v6GUNNO5ca",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_01.mp3?versionId=7YG.MrqDnrUtDSUsUk7UyI5X2SBWCS_R",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321412,
+    "cultureContent": {
+    "imageLocation": "Croatian Culture",
+    "imageDescription": "The Croatian people are a South Slavic ethnic group making up roughly 4 million people in diaspora throughout the world. Croats are known for their friendliness, dark humor, generosity, and family centered lifestyle. Due to Croatia's varied geography, Croatian culture has a rich regional diversity. ",
+    "imageCredits": "Lumi Images/Dario Secen / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_02.jpg?versionId=D4Rw0GZ6aYxzgYGwBiWYhfE23l5YfW86",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_02.jpg?versionId=gr1b0tuLc9rDTSlsoySpNgqbzQ.ENq1z",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_02.mp3?versionId=ugdkVRRXuT4vWptQxqWTteKWXivRQqrA",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321413,
+    "cultureContent": {
+    "imageLocation": "Dubrovnik, Croatia",
+    "imageDescription": "The Walls of Dubrovnik have protected the city in one form or another since the 7th century. Constructed from local limestone, the walls, framed by four city gates, reach heights of 82 feet, and are reinforced by 17 towers. They are considered some of the greatest defensive fortification structures of the Middle Ages.",
+    "imageCredits": "Dreamer4787 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_03.jpg?versionId=brgIY_qTWVCuy2Z7e3e2QUJFmhl8HNf3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_03.jpg?versionId=b.i7Eyf_OufJV8WjUUuaYosgmWngZZZs",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_03.mp3?versionId=x7LwMM_sGtYX5cuT9rJoMeUkOm.FOHIj",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321414,
+    "cultureContent": {
+    "imageLocation": "Cavtat, South Dalmatia, Croatia",
+    "imageDescription": "Founded by the Greeks in the 6th century BC, Cavtat is a small coastal village 9 miles south of Dubrovnik. With its clear blue water, ancient architecture, and sunny climate, Croatia's Dalmatian Coast is said to be the most beautiful coastline in Europe.",
+    "imageCredits": "xbrchx / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_04.jpg?versionId=COsuwXAEdN49GEyit27HXdEcKVW7cJUk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_04.jpg?versionId=gVd8JqsOCXX2X9MsyMocOxj.Fz6yLPGp",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_04.mp3?versionId=tjwypEgsakRpNl9fhUcx2YM.owiV1yYd",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321415,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Soccer is the most popular sport in Croatia and has been played there since 1873. In 2018 the country's team reached the World Cup Final held in Moscow. While the team finished second, losing to France, Luka Modrić, team captain and a midfielder was named the tournament's best player, and received the Golden Ball award.",
+    "imageCredits": "FRANCK FIFE / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_05.jpg?versionId=Xnu1ITpiGZ3wJW__xrSqy_54k_00Jp1_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_05.jpg?versionId=fjfhJTRSM1K14K5Cx08CEzVNRbFAt0Vf",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_05.mp3?versionId=8mIXOrHBOlbMnvYMAShHs8qy6lvpFmbl",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321416,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "The ancient city of Zagreb, Croatia's capital city, has been settled since Roman times. Home to nearly 770,000 residents, it is Croatia's largest city, financial hub, cultural center, and popular tourist destination. The city's annual Festival of Lights illuminates the downtown during winter's dark days.",
+    "imageCredits": "STRINGER / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_06.jpg?versionId=xvSLR8mNQVlELMf12Ucvg0iooVZYZins",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_06.jpg?versionId=i0WKehcYNdYt3bAfe1EbqJGMpicDC0C7",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_06.mp3?versionId=sTflSSQSgoHxlvjsNWIpeQQSSSFBxhQo",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321417,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "Famed inventor and engineer Nikola Tesla was born in Smiljan, which though part of the Austrian Empire at the time of his birth, is now a part of Croatia. When declaring his intention to build a power station in Croatia's capital city of Zagreb, Tesla said, \"As a son of this country, I consider it my duty to help the City of Zagreb in every way, either through counsel or through action.\"",
+    "imageCredits": "DENIS LOVROVIC / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_07.jpg?versionId=eYxKcYxdo3BIADRp_wJaGUTUmKe0iSW8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_07.jpg?versionId=YBca.ysXcqbMm52Ko2KI6WqKNnYWKhI5",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_07.mp3?versionId=6sievqpHag0pCc4VrBHsDN0JvcKZu.yk",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321418,
+    "cultureContent": {
+    "imageLocation": "Zadar, Croatia",
+    "imageDescription": "Settled since Neolithic times, Zadar is one of Croatia's oldest cities. Situated on the Adriatic Sea, Zadar is home to many tourist attractions, including the morske orgulje, or \"sea organ,\" an experimental musical instrument that utilizes ocean waves to play music through a series of tubes. ",
+    "imageCredits": "xbrchx / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_08.jpg?versionId=mz0UysT.bI9Bn2yadA_6.hzBhD0a6wVz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_08.jpg?versionId=Ey21WrDAJz6chTcWAUKd2C_40Ik063HC",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_08.mp3?versionId=zXblcDsLl6kFkthO.N2.KrThFJUxruRV",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321419,
+    "cultureContent": {
+    "imageLocation": "Petrova Gora, Croatia",
+    "imageDescription": "The Petrova Gora Monument was constructed in 1981 to celebrate the people of Banija and Kordun; ethnic Serbs who rose up in resistance against Nazi fascism and occupation. It's made of reinforced concrete and slabs of stainless steel and was designed by renowned Croatian sculptor Vojin Bakić.",
+    "imageCredits": "
+    Darmon Richter / Barcroft Media / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_09.jpg?versionId=i5Ul935_PW6Krkl1xRob7oXbgKENU3EW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_09.jpg?versionId=oUHcc19WI4c6bjlZkWEFCzL9m78lCAXn",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_09.mp3?versionId=y3xbuanJXS44XmtLy7sRea9r5wX0Xs59",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321420,
+    "cultureContent": {
+    "imageLocation": "Rijeka, Croatia",
+    "imageDescription": "Croatia's principal seaport and third-largest city, Rijeka, is situated on Kvarner Bay in the northwest. Devastated by an earthquake in 1750, the city had to be almost entirely rebuilt. Rijeka's many attractions include the Croatian National Theatre, Trsat Castle, and the Petar Kružić staircase.",
+    "imageCredits": "Dragoncello / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_10.jpg?versionId=yUFYVJUfj0ySoC7b.WnKiyMxmoS1ssA0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_10.jpg?versionId=wiKoZdhXcqlAFd7eO1CfYVsUHMvOTId9",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_10.mp3?versionId=O7QxHjSgYUDm6IeuyoERYl2mi1biPAz0",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321421,
+    "cultureContent": {
+    "imageLocation": "Rijeka, Croatia",
+    "imageDescription": "Rijeka is famous for its carnival, an annual festival held between January and March. Established in 1982, it's Croatia's biggest festival with as many as 100,000 visitors in attendance. The carnival parade features the Halubajski zvončari, or bellmen, who dress in white trousers, a striped shirt, and a sheepskin hood with horns, a Slavic pagan tradition.",
+    "imageCredits": "Damir Skomrlj / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_11.jpg?versionId=k.v5ix_UeriYBD3PYnQUeIR7u8_HDKVq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_11.jpg?versionId=EP.kf2aj_Fu5BJyKKR6IEuYE1ZM3Lcok",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_11.mp3?versionId=wGaq_y5ng7Wbv3e1N37e9JgM4fb9Zizf",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2321422,
+    "cultureContent": {
+    "imageLocation": "Krk Island, Croatia",
+    "imageDescription": "The island of Krk has been settled since Neolithic times. It's connected to the mainland by a 4,692ft bridge, and is a Croatian cultural center and popular tourist destination. The village of Baška is home to an archeological site where the Baška tablet was found, one of Croatia's most famous relics. ",
+    "imageCredits": "Paul Biris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_12.jpg?versionId=raoz7OO8Oh63xVtVdS6c45hx3JL_Dafs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_12.jpg?versionId=YXKGed_H2kDFK4pTDkLJOvzTEXjJpKSg",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_12.mp3?versionId=yGTe6GiMYQza6WkO50tzl5U6l2WwW50V",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2321423,
+    "cultureContent": {
+    "imageLocation": "Croatian Culture",
+    "imageDescription": "Croatian cuisine is known for its regional diversity, but every region has its own version of pod pekom, which is the tradition of cooking dishes in a stone oven under a metal cover onto which hot coals are placed. Charcuterie is popular in every region and common seasonings include, paprika, garlic, bay, oregano, clove, lemon, and orange.",
+    "imageCredits": "Jelena990 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_13.jpg?versionId=2JlXWS7o.28nyiZAMwAPyPWFEr6M.hns",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_13.jpg?versionId=201Bg3JCyza8L.6ov5EiI_0TheTR19yb",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_13.mp3?versionId=1Ntd9NT174dicfm.m08607TA0K09BOeG",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2321424,
+    "cultureContent": {
+    "imageLocation": "
+    Korčula Island, Dalmatia, Croatia",
+    "imageDescription": "One of the sunniest places in the Adriatic Sea, Korčula island, with its lovely towns and villages, is considered one of Croatia's most treasured islands. The area is rich in vineyards, olive groves, beaches and dense woodlands and offers plenty to do, especially in the summer months.",
+    "imageCredits": "Anton Petrus / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_14.jpg?versionId=SiIsfVDNzrUAJBJCFgWvQlLsmjcyMKaN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_14.jpg?versionId=eRkvL028ZOjhHQ3m.c8wl2DWGP0Vo5Ld",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_14.mp3?versionId=qWax4jgcLUshYO11RVy2xgZm52DeXYtn",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2321425,
+    "cultureContent": {
+    "imageLocation": "Paklinski Islands, Croatia",
+    "imageDescription": "Named after the Croatian word for pine tar, paklina, the Pakleni or Paklinski Islands are home to aleppo and black pine forests from which tar was once harvested to coat the bottoms of ships. The archipelago is a popular yachting destination, full of tranquil coves for fishing and swimming. ",
+    "imageCredits": "xbrchx / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_15.jpg?versionId=.RUMrtaWX8ArZVyHZoeNRnTzNzKPeean",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_15.jpg?versionId=FeikGpLGtC0buXcqIRRQ6Ib0zK4vVGK5",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_15.mp3?versionId=6m3uTPKpiIGHmGnyxtABTL3OkPp4b6eK",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2321426,
+    "cultureContent": {
+    "imageLocation": "
+    Plitvicka Jezera, Lika-Senj, Croatia",
+    "imageDescription": "Founded in 1949, Plitvice Lakes National Park is one of Croatia's largest. Peppered with cascading lakes, waterfalls and subterranean rivers, the park is known for its spectacular natural beauty. Its rich biodiversity draws a million visitors from all over the globe each year.",
+    "imageCredits": "David C Tomlinson / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_16.jpg?versionId=L.1_H5yOTPVmS8dr3ebdPVSQSpsyVyil",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_16.jpg?versionId=DUrWoa1ARg8xuNCy_RD7e383.vO21O0m",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_16.mp3?versionId=udAxUzbeD5WdID8L5jHh1Y8Ob4wLg8lH",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2321428,
+    "cultureContent": {
+    "imageLocation": "Dubrovnik, Croatia",
+    "imageDescription": "Sloping above the walled city of Dubrovnik, Mount Srđ has been the site of many conflicts. Once densely forested with pine and oak, the fires that accompanied the Croatian War of Independence left their scars. Even still, the mountain is a popular tourist attraction, accessible by cable car, offering unrivaled views of the city, the sea, and the islands. ",
+    "imageCredits": "Alan Cookson - Liverpool / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_17.jpg?versionId=JjZ.NWH4m1Kfq0y0OGOGgxmizyq3Vw62",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_17.jpg?versionId=3F.CxuL2aF5EDpytRcGApzm1XkjaHh2E",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_17.mp3?versionId=81dILjgtU0meR59Rsh3ZkUYAUCHVLleR",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2321431,
+    "cultureContent": {
+    "imageLocation": "Varaždin, Croatia",
+    "imageDescription": "Known for its Baroque palaces and impressive medieval fortress, the city of Varaždin in Northern Croatia is also a center of the country's textile industry. The cultural offerings and quaint old-world charm of the city draws many summer tourists each year. Several annual festivals are held in Varaždin, including Špancirfest, a very popular 10-day street festival held since 1999.",
+    "imageCredits": "RomanBabakin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_18.jpg?versionId=upwQbQoGuhe7UAvOMqm8I88RdYBNhhBT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_18.jpg?versionId=Zze6PEUkjqm8jGOsgcsYWWcjmTtz9F7k",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_18.mp3?versionId=8Cd74ADV2_qCzpFmAnWI27_Nrc1gISWb",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2321434,
+    "cultureContent": {
+    "imageLocation": "Pula, Istria, Croatia",
+    "imageDescription": "The Croatian city of Pula, located on the Istrian peninsula, is famous for its astoundingly well-preserved Roman buildings, including the Pula Arena, an enormous amphitheater which once hosted audiences of up to 23,000 to watch massive beasts and gladiators fight. The arena is still used as a concert hall to this day. ",
+    "imageCredits": "Thethomsn / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_19.jpg?versionId=aTutFq6CCgjeaKscc3gajQTDeN8qFD_r",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_19.jpg?versionId=rBTVUb7XwBXLGM.MXfn1ej7Ig98VGEoT",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_19.mp3?versionId=1qZqkgzMTis6qA1Nf1HRBMAkrH1pBJhA",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2321437,
+    "cultureContent": {
+    "imageLocation": "Hvar, Croatia",
+    "imageDescription": "Unlike the rocky limestone islands typical of the Dalmatian coast, the Croatian island of Hvar has a large fertile coastal plain, perfect for agriculture. Lavender, fruit, olives and wine grapes have been cultivated here since the time of the ancient Greeks, and the island's winemaking region is the one of Croatia's most prolific producers.",
+    "imageCredits": "Borievky / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_20.jpg?versionId=RkMs.rikXhJEJKmQh9JVKYEpaSm_gBOH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_20.jpg?versionId=zZevuK.3ivfX9Uhv7yBMMseklY1Q6W7M",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_20.mp3?versionId=sr83mtXXmDhoDSpFUuLk3uSqmnIJJCsR",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2321440,
+    "cultureContent": {
+    "imageLocation": "Sveta Nedilja, Hvar, Croatia",
+    "imageDescription": "Sveta Nedilja on the island of Hvar is famous for its vineyards which cling to the south slopes above the village. Known for its full flavor, the Plavac Mali grape grows well here, the primary winemaking grape grown on the Dalmatian coast. The village also features an Augustinian monastery, built into a large cave in the cliffside. ",
+    "imageCredits": "Andrew Lloyd / Loop Images / Universal Images Group via Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_21.jpg?versionId=JhubaGfR5YQfaubjWEql.vNfK0M2.HqI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_21.jpg?versionId=Zn7U026jWXIkNE47nL9Pdq0WqLRlM_Dq",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_21.mp3?versionId=m800RGoetwmMYRwQIQdT.1jsVT9Jkd3c",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2321443,
+    "cultureContent": {
+    "imageLocation": "Rijeka, Croatia",
+    "imageDescription": "The Rijeka Carnival, held annually before Lent, has a long history influenced by the many cultures that have inhabited the region. Croatian, Austrian, Hungarian, Russian, German and Venetian fashion and folk traditions can all be seen and experienced at the carnival, as well as ancient Slavic traditions like the Halubajski zvončari.",
+    "imageCredits": "Happy window / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_22.jpg?versionId=ItGPlw8ukNVxlnA1wdwGraPWJ7omufBe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_22.jpg?versionId=8SLxOg8EkKbVbIKtmVdA9ikzOJ40DVVl",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_22.mp3?versionId=OG2rnEq2AOTjPpt1xoSQSFcBZammjyn8",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2321445,
+    "cultureContent": {
+    "imageLocation": "Dubrovnik, Dalmatia, Croatia",
+    "imageDescription": "The 300-meter main street of Dubrovnik is known as Stradun or Placa and is paved with local limestone. It runs through the city from east to west, connecting the Vrata od Pila, or \"Pile Gate,\" to the Vrata od Ploča, or \"Ploče Gate.\" The Dubrovnik Bell Tower and the Franciscan monastery bell tower can be seen above the Stradun, and shops line either side of the street. ",
+    "imageCredits": "Jorg Greuel / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_23.jpg?versionId=0an2MTZwrbLIrCYWyZLj6EQRNyLpH.jt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_23.jpg?versionId=HdXiQr5YhNi2y0zP9RgK2DA.Z_hV5bqi",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_23.mp3?versionId=FcY5vgY2VKRqjGERcycsZuYkJFHP5hGT",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2321446,
+    "cultureContent": {
+    "imageLocation": "Rijeka, Croatia",
+    "imageDescription": "While the Sljeme peak on Mount Medvednica above Zagreb is Croatia's most well-known skiing destination, the mountains above Rijeka allow skiers a view of the sea while tackling Radeševo's 1,363m peak. Croatia boasts several Olympic skiers including Janica Kostelić, a four-time gold medalist, and silver medalist Ivica Kostelič.",
+    "imageCredits": "Bingokid / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_24.jpg?versionId=18_eMt7b5u90pHKbWVorC2my0iCcdiRe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_24.jpg?versionId=7_I8V74kxb8GkDvH.U0Ax782.IrNzNV0",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_24.mp3?versionId=EHj94m1EBgytQUKC3uUw3auyM_0s8ULn",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2321448,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "Christmas is an especially wonderful time in the Croatian capital city of Zagreb. More than 25 Christmas Markets can be found throughout the city, each with its own theme. Vendors sell traditional handicrafts at market stalls, hot mulled wine is served along with regional food, and the city is decked out in sparkling lights and colorful garlands.",
+    "imageCredits": "Majaiva / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_25.jpg?versionId=xYkgOEIJU8qOp2iCbxLyP_SU5xeRE8Pp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_25.jpg?versionId=fSMsUiYmnbs9vM6K5LNC72JzNbWYBkkK",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_25.mp3?versionId=ZKqDhp7DS2PXPCeRtSc1jZW1FKqMZBfw",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2321453,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "The Church of St. Mark in old Zagreb, is one of the city's oldest monuments. The roof features colorful tiles laid out to recreate Zagreb's coat of arms, along with the coat of arms of the Triune Kingdom of Croatia, Slavonia, and Dalmatia. During Christmas St. Mark's Square is illuminated with glowing lights and a tall, decorated tree. ",
+    "imageCredits": "Viktoriya Kraynyuk / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_26.jpg?versionId=JDZ4tUechq23XXaEi.piN1Hzj2schXyb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_26.jpg?versionId=w3Qabms6loAoh4vC2kZ7Kd_5A6IO8tgi",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_26.mp3?versionId=q7l7Eri8SsCTgxs_EAJYtq2x7JrzMoyF",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2321461,
+    "cultureContent": {
+    "imageLocation": "Croatian Culture",
+    "imageDescription": "With over 5,830km of coastline along the Adriatic Sea, Croatia is a perfect destination for snorkeling and scuba diving. Karst rock makes up the majority of the Croatian coast which lends itself to forming underwater tunnels and caves. This, along with the famous clarity of the Adriatic water makes Croatia one of the best water exploration sites in the world. ",
+    "imageCredits": "Grafxart8888 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_27.jpg?versionId=vvu.razFtTuWhKf71H1u_r32dm1nSCK0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_27.jpg?versionId=ndmFX099uC9Z2RgLQnJZVJ5IVJQCeKWO",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_27.mp3?versionId=yzIH7f8hTP__bknYbhZkFl_oKrv4cco8",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2321466,
+    "cultureContent": {
+    "imageLocation": "Dubrovnik, Dalmatia, Croatia",
+    "imageDescription": "Built in 1438 to supply water to the city of Dubrovnik, the two Onofrio Fountains are positioned at opposite ends of the city's main street known as Stradun. The larger of the two features ornate sculptures of faces from which pour drinking water into a pool below. Although it was severely damaged in the devastating earthquake of 1667, some of the sculptures were salvaged, and the fountain remains one of Dubrovnik's most iconic symbols. ",
+    "imageCredits": "Leighcol / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_28.jpg?versionId=1WcOcanqiQ2xeVIxTFa15W_7WXmkVRQa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_28.jpg?versionId=quRjA.OWUaeIswpjFUg0yvC3IKeiAgda",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_28.mp3?versionId=i9dq6HYJOwllLpSCScTb0n9TRTr88Ouc",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2321472,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "Originally constructed in 1892, Zagreb's Glavni kolodvor, or \"main station\" is the capitol city's main rail station and Croatia's largest. A lovely example of neoclassical architecture, the station is unfortunately no stranger to tragedy as it was the site of a terrible train derailment in 1974 which killed 153 people. The station has been reconstructed several times, once in 1986 and again in 2006. ",
+    "imageCredits": "jimfeng / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_29.jpg?versionId=B4GPHXR81I5bdD_cWWA4cDuzesDy_qKA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_29.jpg?versionId=1sV.cxVsdGxsanop8BqTL4DO6vb3WJ3C",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_29.mp3?versionId=apbBDCdj6qRTgpIXVZ8o3m_g73nt2mno",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2321478,
+    "cultureContent": {
+    "imageLocation": "Sarajevo, Bosnia and Herzegovina",
+    "imageDescription": "Once a part of the Kingdom of Yugoslavia along with Croatia, the much-contested city of Sarajevo is now the capital and largest city of Bosnia and Herzegovina. After being devastated by the Bosnian War during the 1990s, the city has gone through much rebirth and reconstruction. The Stari Grad, or \"Old City,\" was founded by an Ottoman general in the 15th century, and is the heart of the city's historical significance. ",
+    "imageCredits": "WALTER ZERLA / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/full/Croatian_1_9781797142746_M_30.jpg?versionId=cGN8.abtReGstM8iy5vGwrwbUvLFLfiH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/lesson_photo/thumb/Croatian_1_9781797142746_M_30.jpg?versionId=PF.hmJMaYIRAWmTr739WfcnU0ahoWn1L",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/main_audio/9781442318021_Unit_30.mp3?versionId=mt4pRNVYuG85IDEMPgAcQmi6gBwVBgKQ",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2321482,
+    "cultureContent": {
+    "imageLocation": "Zagreb, Croatia",
+    "imageDescription": "Dedicated to the Assumption of Mary, the Zagreb Cathedral is Croatia's second tallest building with a pair of spires reaching a height of 354ft. The original cathedral was finished in 1217, but was destroyed by invading Mongols in 1242. After being reconstructed, 15th century fortification walls were built to protect the cathedral against the Ottoman Empire. Earthquakes have also taken a toll on the building, leading to the removal of the northern spire in 2020. ",
+    "imageCredits": "Beata Zawrzel / NurPhoto / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian Level 1 orig/asset/RL/Croatian_1_9781797142746_Alpha.pdf?versionId=DuzosNnRWrd7KLfG6f1H9TLO77K0s3R7",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian Level 1 orig/asset/RL/Croatian_1_9781797142746_Intro.pdf?versionId=7oh_Pa6HE.Y6z5myw2vxNSyvvAK0Lfpn",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading11.mp3?versionId=aCT5uNUQsSDaTv0iDsWFLbdav9MX.bJd",
+    "mediaItemId": 2339013
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading12.mp3?versionId=HluxbY1zFMbQfdkaqBW_MRFwKLVYw_D_",
+    "mediaItemId": 2339014
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading13.mp3?versionId=.aAVCYWJMFJZUUVTzeIUo1iXuAHAVvEp",
+    "mediaItemId": 2339015
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading14.mp3?versionId=TuOQGX7wMdVykdbrvnWt3gOxJPr6Nz92",
+    "mediaItemId": 2339016
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading15.mp3?versionId=bnrQkgXKhTXYg_eNP6NhvpD1MmJHpcOC",
+    "mediaItemId": 2339017
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading16.mp3?versionId=HKhrFxGTydjfIvtcsBAj3gEbXxovZGTb",
+    "mediaItemId": 2339018
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading17.mp3?versionId=28PW50LoX3wbMYvMwCm9jBQ7rvYOlsW8",
+    "mediaItemId": 2339019
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading18.mp3?versionId=3reNzQizaT5SMvtLn3Z2E45CZXtfoP9_",
+    "mediaItemId": 2339020
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading19.mp3?versionId=nP6yZsRGM9EmRa877YsTYppgcBJkx6HO",
+    "mediaItemId": 2339021
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading20.mp3?versionId=tcYXCVmpBXg6rjJ8Pz48NWM5Wwc.k9L4",
+    "mediaItemId": 2339022
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading21.mp3?versionId=PLFOWFF3jFVkw.K21HJjbxSrhYVcyU83",
+    "mediaItemId": 2339023
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading22.mp3?versionId=bQBjmT1eMe9mOt5iWxHbE5Tp1J30_Tbo",
+    "mediaItemId": 2339024
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading23.mp3?versionId=lmmCweuo0GzuwCYerU5d0n2bA1a11TD0",
+    "mediaItemId": 2339025
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading24.mp3?versionId=5rLZN7qRPJ5fZyzQaEAM5rqoamN6SYuL",
+    "mediaItemId": 2339026
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading25.mp3?versionId=IP5NQwe.aZhmG2GcSTJmOL9Ro09jO51a",
+    "mediaItemId": 2339027
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading26.mp3?versionId=3blPB4biW17E7ErImkvDU9yOHq2dAyqL",
+    "mediaItemId": 2339028
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading27.mp3?versionId=WZvEM6MDGRYVAj6O1frg8gY1kCIV9NNg",
+    "mediaItemId": 2339029
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading28.mp3?versionId=oxUFAH7Pm8BQYYut2RaJ.jPHJu2ATKHd",
+    "mediaItemId": 2339030
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading29.mp3?versionId=aDqEBBAe7mgyRs4yVGGRui79qbpPyKUs",
+    "mediaItemId": 2339031
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Croatian/Croatian%20Level%201%20orig/asset/RL/Croatian_1_9781442318021_Reading30.mp3?versionId=t4WiSrKKwtT8v5bP9gDVh2fvXGY1AiZq",
+    "mediaItemId": 2339032
+    }
+    ]
+    },
+    "languageCode": "hr-HR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797142746",
+    "level": 1,
+    "courseName": "Croatian Level 1 Premium",
+    "simpleCourseName": "Croatian Level 1",
+    "puArabic": false
+    }
+    ]

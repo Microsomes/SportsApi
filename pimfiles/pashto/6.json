@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 3042,
+    "languageName": "Arabic Eastern",
+    "languageId": 120,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_01.jpg?versionId=QFPaZATFP_ucZtW5KxbywOtUFy4C_._q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_01.jpg?versionId=9SXMf9OdG3ilN9i4.Ui22vuLKHe5eDwz",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_01.mp3?versionId=Vl8bOL95NVIXJRmSTtJ7aMvf3q8X9WdH",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2225842,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "A hijab is a head scarf worn by Muslim women. Covering the hair and neck, it is meant to adhere to the Muslim guidelines of covering while in public. A hijab can also refer to any item of clothing worn to abide by sharia rules of modesty.",
+    "imageCredits": "SrdjanPav / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_02.jpg?versionId=Wbdt0Yqi62toqvTixkicB4p6JYcnVjz6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_02.jpg?versionId=MHsvY4x7UuV.peKcMEcRm3xVa8nvz29O",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_02.mp3?versionId=voe1S.Y4C.yKRrFygNVFJsvn.UddayJi",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2226028,
+    "cultureContent": {
+    "imageLocation": "Jericho, West Bank, Palestine",
+    "imageDescription": "Eid al-Fitr is a Muslim holiday celebrated around the world, marking the end of the daily fasting of Ramadan. The festivities include family gatherings and acts of generosity and hospitality.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_03.jpg?versionId=8CqjWXC5psY5CM6c8lr27e6u9aAPvoyJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_03.jpg?versionId=tMdWUV6ACSZMIgQ4ynLQxEtgGxeQItdj",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_03.mp3?versionId=0q3ZIHe.CyyAACPj8nBxYs_JkZLbppia",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2226246,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "Evening street markets in Marrakesh attract large crowds in search of delicious food, spices, and a bustling local gathering place. Stalls sell fresh meats, vegetables and sweets under the lights, while snake charmers entertain crowds with their intimate handling of the reptiles of all sizes.",
+    "imageCredits": "Pavliha / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_04.jpg?versionId=J2.RSbpc3gXcJP3Gx.k6ai0P_8fG9H.K",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_04.jpg?versionId=SEhCNEByFbqvnFhsvliPkbiBBzhQ6h2z",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_04.mp3?versionId=arnTa12lEBc0d9nL33eV.CBGweU1GLHP",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2226533,
+    "cultureContent": {
+    "imageLocation": "Manama, Bahrain",
+    "imageDescription": "Manama is the capital of the small island kingdom of Bahrain. Fifteen percent of Bahrain's population lives in Manama, making it the largest city on the main island. Bahrain has a growing tourism industry, and many people visiting the Arab world come to see the expanding city of Manama.",
+    "imageCredits": "typhoonski / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_05.jpg?versionId=wCZvNzWdGgOM4oR79kH7PTvEatGE_0mB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_05.jpg?versionId=auhWJ5D1M2lQGNtD9D2wAcVIl2tmqjV5",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_05.mp3?versionId=YYRRzuRwGJmoxuvDedx_GPWm_7BqTHVc",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2226862,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "Masdar City is a futuristic city being planned and built by British architect Norman Foster. The city is in the Abu Dhabi desert and is meant to be a completely sustainable community. Masdar is planned to be home to around 50,000 people by 2025, and is an experiment to determine what cities may look like in the future.",
+    "imageCredits": "Hufton+Crow / View Picture s/ Universal Pictures Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_06.jpg?versionId=wp0DvTvCaT6PnHNntgQVodQO8Zpl3wrw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_06.jpg?versionId=tWsW0JCt25IASDBurvDnwpebLIE3Law7",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_06.mp3?versionId=_CC8YE0Q5nRQFP7zpmuk7CP.XGrUZRi5",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2227120,
+    "cultureContent": {
+    "imageLocation": "Casablanca, Morocco",
+    "imageDescription": "The Hassan II Mosque in Casablanca, Morocco is the largest mosque in Africa. It was built in the 1980s as a mausoleum to honor the late King Mohammed V. The mosque is built over the Atlantic Ocean and the main prayer hall features magnificent water views.",
+    "imageCredits": "RuslanKaln / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_07.jpg?versionId=iCv0MwZTYiWW0f3MNcAMVID8yqjpcYeO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_07.jpg?versionId=7L.ynuw2CHi87UoUwId6Q7gRpYu5DRt8",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_07.mp3?versionId=laTvbc49fCLBHlm7AsfGn5XWWPiwcKDR",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2227403,
+    "cultureContent": {
+    "imageLocation": "Chott el Djerid, Tunisia",
+    "imageDescription": "The Chott el Djerid is an expansive sediment basin in the Sahara Desert containing a salt lake. Extremely high temperatures cause the water to evaporate in summer, leaving behind salt sediment, and passing travelers have begun to construct salt sculptures along the expansive depression.",
+    "imageCredits": "JudyDillon / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_08.jpg?versionId=B8WK.p1AVNT4YrxM__ztuuFMAtRVpY0V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_08.jpg?versionId=Es0fyG7iQoLe8h4gEVHC7M5t6sIC2x5G",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_08.mp3?versionId=53OjaInR7hMdPtOOKSg8PhIZnl_e4YXU",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2227670,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The five times of daily prayer are one of the most important aspects of the religion of Islam. Before praying, Muslims must be clean in body and mind.  A ritual washing of hands, feet and face is performed before facing Mecca to begin prayer.",
+    "imageCredits": "ozgurdonmaz / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_09.jpg?versionId=VhKIH9IrGVacVxQXpqhdcaYGv1ma0LD.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_09.jpg?versionId=Q2oOJYZxM8.gM3D0Le6BqhDHDnAp0haM",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_09.mp3?versionId=n_rRYBTF8PgS82b00LtawH7dm7uIt0aX",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2227978,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "Oman's National Arabian Horse Championship is a three day event featuring the best of purebred Arabian horses. The Arabian is a prestigious breed with its distinctive head shape and high tail, and dates back 4,500 years. The breed's bloodlines are found in almost every riding horse today.",
+    "imageCredits": "MOHAMMED MAHJOUB / AFP /  Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_10.jpg?versionId=E1QaHUQd6NKREL_M5B4xE8V03bi4HjsZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_10.jpg?versionId=0WoI8nhpH.0b6MekrT4vc0VpdhGtYlbr",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_10.mp3?versionId=T6vdmuuAAAJ5s2LAccvsyoK9ZL3tdWeF",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2228549,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "The Said bin Taimur Mosque is one of the most  breathtaking architectural landmarks in Oman.  Built in the 1990s with private funding to memorialize the father of Sultan Qaboos, this mosque is in the style of Ottoman mosques found in Turkey.",
+    "imageCredits": "Gopal Sutar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_11.jpg?versionId=pVli5lVj4fVkpvEOa5qNbl0R5cQ0yxWO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_11.jpg?versionId=9ZfbtluTUXCEvLlNCPnwP4opbHcvrBwb",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_11.mp3?versionId=0K7PpH2lsVP8VTnhHsYoK5doE7SZDoIE",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2228874,
+    "cultureContent": {
+    "imageLocation": "Madaba, Jordan",
+    "imageDescription": "The Madaba Mosaic Map is an ancient mosaic dating to the 6th century. Discovered in 1884, the floor mosaic is one of the only surviving maps of the Holy Land in ancient times. Located in the Church of Saint George in Madaba, the map is not oriented northwards, rather facing east towards the altar in the church.",
+    "imageCredits": "Paul Biris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_12.jpg?versionId=IpRDawCtqXRaCMJVJ01T63oKFd_rtgan",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_12.jpg?versionId=gNeGtPoVhCFOlPuKrx7LCbrdIyM8OCgy",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_12.mp3?versionId=53gUyJnES6R3pTHmJxmzxwioeAxe0SBz",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2229232,
+    "cultureContent": {
+    "imageLocation": "Sharm El Sheikh, Egypt",
+    "imageDescription": "Sharm El Sheikh is a resort town in Egypt along the Red Sea. The beach resort was developed 1970s by the Israelis during their occupation of Egypt. There are plenty of luxurious shops and restaurants in the coastal town, and crystal clear blue waters make it a prime location for snorkeling and scuba diving.",
+    "imageCredits": "lilithlita / iStock / Moment"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_13.jpg?versionId=kxBfSk1L6WIvkxYC3GCTZ5gUqqj0JtSC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_13.jpg?versionId=VGaGLfTxj7kr6RJY2sDle36G3bwecbob",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_13.mp3?versionId=Q5JwTkEw1M1MkIINWg.mUNW0AQg9gZi0",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2229605,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Art Dubai is a talent incubator art fair showcasing work from artists in and around the Middle East. The show takes place for a week in March and is a launch pad for artists beginning their careers or making a name for themselves on the global map.",
+    "imageCredits": "Rubina A. Khan / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_14.jpg?versionId=14KRXsx4A0U69BIhFSddseVjdTkSRax6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_14.jpg?versionId=QG7grBDJGYCNQRDI5XJmkdKztfoCozlY",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_14.mp3?versionId=Z0UmmBy1cmiTTM2PPLAASRQCWqSTCbse",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2230023,
+    "cultureContent": {
+    "imageLocation": "Damascus, Syria",
+    "imageDescription": "The Sayyidah Zaynab Mosque was built with intricate mosaic patterns juxtaposed against white walls. The mosque has a distinct golden dome on top of the structure, and inside the dome are ornamental patterns. The mosque can hold 1,300 people at once and more in the surrounding courtyards.",
+    "imageCredits": "mustafanazif / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_15.jpg?versionId=lW5qjZm1sKRrVCjnUKoadVQIYHCfmte3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_15.jpg?versionId=ZJXTzJZxZkVb06ZFocJJQAcpJUR8NoSh",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_15.mp3?versionId=nJKHwR9nYt0UiotmkpymvH5M0sl.Aaus",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2230399,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Acclaimed Lebanese chef Alan Geaam received a coveted Michelin Guide star at his restaurant in Paris.  Lebanese cuisine consists of staple ingredients including chickpeas, parsley, garlic, olive oil and lemon juice. A common savory side dish is baba ghanoush, which is mashed eggplants mixed in tahini, olive oil, lemon and garlic.",
+    "imageCredits": "STEPHANE DE SAKUTIN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_16.jpg?versionId=nJM8M_TpbteWijBCM692plJP6unvaYwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_16.jpg?versionId=Ezz71cCO6iKiB62BC4A_85xoCLlXZNGD",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_16.mp3?versionId=vQGtWO12PfKySmxHorjGuXbCiE04EWPS",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2230867,
+    "cultureContent": {
+    "imageLocation": "Jerash, Jordan",
+    "imageDescription": "Jerash, Jordan has one of the most elaborate historic reenactments of chariot racing and gladiator fights. The ancient Roman city was resurrected in 1806 after centuries of ruin after an earthquake in 749. The \"Roman Army Chariot Experience\" puts on a daily show inside the ancient hippodrome, reenacting the historic sporting events that once took place there.",
+    "imageCredits": "Richard Ross / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_17.jpg?versionId=Z3cRbPUV2Gr_7ubJdc621mmEyVtIPlph",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_17.jpg?versionId=WGECNH87McQgKOre91WnxRkxxNhLPllf",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_17.mp3?versionId=.UKg_Sa0Erf6NMp9LHs9lL4Say7NEqXm",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2231336,
+    "cultureContent": {
+    "imageLocation": "Hurghada, Egypt",
+    "imageDescription": "Bread making in Egypt goes back to ancient times, when bread and beer were staples of the Egyptians' diets, economy, and religious rituals. Several different kinds of loaves were crafted using a variety of grains, and the different shapes of bread represented some of the hieroglyphics in the world's oldest writings.",
+    "imageCredits": "Aleksej Sarifulin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_18.jpg?versionId=gonlWQo6I0k2m0_39f8HgJL4OWhbYaFo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_18.jpg?versionId=CuubfKIrAlXkIC42F7RLRujn1ZjyVMoY",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_18.mp3?versionId=wIm55BS6ePwz9RliPexgdk3W6YcAsixS",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2231781,
+    "cultureContent": {
+    "imageLocation": "Chefchaouen, Morocco",
+    "imageDescription": "Chefchaouen, Morocco is nicknamed the blue pearl of Morocco because of its blue-washed buildings and streets throughout the old city. There are several theories as to why the city is mostly blue, including an idea that it repels mosquitos.  But some say it was painted blue sometime in the 1970s simply to encourage tourism.",
+    "imageCredits": "Elena-studio / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_19.jpg?versionId=ex9U4VvOxRozugev7laoDMzfATn8zFED",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_19.jpg?versionId=FlBMT0_gm8yt01Dg.RcTQ7lk6CTn3UTj",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_19.mp3?versionId=Gy4Dk5q2NMuI7WqbT9CnCSelv_L7vc1F",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2232099,
+    "cultureContent": {
+    "imageLocation": "Damascus, Syria",
+    "imageDescription": "The gold-leafed dome of the Sayyidah Zaynab Mosque is an example of Shia-Persian architecture. According to Twelver Muslim tradition the mosque holds the grave of Muhammad's granddaughter Zaynab. There is a big market in front of the mosque where religious items are bought and sold.",
+    "imageCredits": "mustafanazif / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_20.jpg?versionId=i0HPYTuyyMOg04FPmWz1asUOzK3hAnaT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_20.jpg?versionId=VtWWOYcz2.PHDC9PJAya9g_M_QGUhQKY",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_20.mp3?versionId=faPmZrO1_y_X7hfqUBYP8a1vCzTB933E",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2232520,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "Fish markets are very popular in Kuwait, which is located on the Persian Gulf. There are a variety of fresh fish and sea creatures for sale at the markets including sharks, grouper, and blue crabs, and often a buffet where one can select a fish to be prepared on the spot.",
+    "imageCredits": "Westend 61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_21.jpg?versionId=jH8TvTSi.e.gAaANA2Eva_iWzSLlqnnD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_21.jpg?versionId=twOdbI0cP6aejpj19iR8V4gYom6ScK62",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_21.mp3?versionId=3MXilaia7UoHJQM1OekzCEsY_mOVMIxd",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2233085,
+    "cultureContent": {
+    "imageLocation": "Algiers, Algeria",
+    "imageDescription": "France ruled Algeria from 1830 to 1962, and much of the architecture of the city of Algiers is decidedly French influenced. The architect Le Corbusier was highly critical of the urban development of the city and set about redesigning it. Algiers fought for independence after World War II and won in 1962 after a bloody battle for freedom.",
+    "imageCredits": "mtcurado / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_22.jpg?versionId=5hNNUWsV9wiQVdpVmGV8Q5oOSSF6Ls0h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_22.jpg?versionId=KmTQj8CNomVrpY8RlbY0aWKOHOXg3yh2",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_22.mp3?versionId=XyjtPhAklqlAu84ic9oRuaLFpOxOt2G.",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2233496,
+    "cultureContent": {
+    "imageLocation": "Tamanrasset, Algeria",
+    "imageDescription": "About one third of Earth's land is desert, and the Middle East is about 85% desert. Due to climate change and the average global temperature rising, the size of deserts is expanding yearly. Tamanrasset is an oasis town and tourist destination in the middle of the Sahara Desert where once only the nomadic Tuareg people lived.",
+    "imageCredits": "Zakaria Guedjali / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_23.jpg?versionId=OSZdIsoKPoF1wkmmFtZscZqt2yWWur7e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_23.jpg?versionId=_hCc_BuPLjjtYOgllOieGV1.uHyl0Z26",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_23.mp3?versionId=IHfgqo7r5L2FZNj8HoadPuPz7poLOWZ0",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2233927,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "The Kuwaiti government commissioned a Swedish company to design and build a new water supply system in 1965. Sweco built a group of thirty-one water towers in the shape of large mushrooms with blue stripes. The towers are landmarks in their districts.",
+    "imageCredits": "Frans Sellies / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_24.jpg?versionId=AFkkbaLM5auun5ow0M2I9KxiAoRLGTdB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_24.jpg?versionId=gUTS2IIHDTPpZFUFPVWQOh0ukG_kXCFK",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_24.mp3?versionId=DaGaYRgG7J37LuzBqLesB9qcaRCBsTJr",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2234322,
+    "cultureContent": {
+    "imageLocation": "Amman, Jordan",
+    "imageDescription": "In the ancient city of Amman, Jordan lies the Temple of Hercules. The structure was built between 162-166 CE and was larger than any structure in Rome. During excavation of the ruins a large marble model of three fingers and a bit of elbow suggested that there was once a massive statue of Hercules near the temple.",
+    "imageCredits": "Dmitry_Chulov / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_25.jpg?versionId=KCa_7bKo33NgJjX56uIlyEwzcvzkscak",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_25.jpg?versionId=9roBJSVptlY8X5Ni4ZAI84kgHRVf2HAG",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_25.mp3?versionId=GSj26KmkZ2AgsyU7gw6GHfnIx020wCtr",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2234718,
+    "cultureContent": {
+    "imageLocation": "Aleppo, Syria",
+    "imageDescription": "Ramadan is celebrated during the ninth month of the Islamic lunar calendar. The entire month is a holy time of fasting from sunrise to sunset each day and then having an evening meal called Iftar.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_26.jpg?versionId=sM6_BPdo9G1.7FJqvQgL7dRgjxuQHW.d",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_26.jpg?versionId=pl4IAgO2IKjhym3zwvxwmilBhutnAki.",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_26.mp3?versionId=E2xitpzNBuDX4qa8kTyVAZ._wJ.9Y7DU",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2235141,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Tajine is a traditional North African casserole dish slow-cooked in a clay pot. The pot's lid is a tall dome with an opening at the top to allow steam to escape, and the heating of the pot on coals provides an even and gentle cooking of the food inside. Some tajine recipes include lamb, prunes, and apricots in the casserole.",
+    "imageCredits": "Samere Fahim Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_27.jpg?versionId=gz1BunxRlAlkHAuBDRU7Apt.N7grOegs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_27.jpg?versionId=ESJTiJ1bpKkZAKsookNmvkBY53y.IyV3",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_27.mp3?versionId=InoUxGHDACBzLjUd3tedwc.IHk4YRDpd",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2235617,
+    "cultureContent": {
+    "imageLocation": "Socotra, Yemen",
+    "imageDescription": "The dragon blood tree is a uniquely shaped tree native to the Socotra archipelago of Yemen, in the Arabian Sea. The tree produces small berries that turn orange when ripe, and are eaten and dispersed by birds. The tree is used for medicinal purposes and is known for its red sap, hence dragon's blood, which was cherished in ancient times.",
+    "imageCredits": "John M Lund Photography Inc / DigitalVision /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_28.jpg?versionId=OCvC0BHZOKOdo1Sr.VCB7uuF8rKbd1Mz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_28.jpg?versionId=fzGST3DJoyfCRJiSe07eN_N8tTzVJu3x",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_28.mp3?versionId=6v6Hgp1SMXA60wO.5986HtltFO4is9dd",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2236018,
+    "cultureContent": {
+    "imageLocation": "Kuwait City, Kuwait",
+    "imageDescription": "The slender Kuwait Towers are unique among the Kuwait Water Towers. They were briefly closed for maintenance in 2016 and there was a festival to celebrate their reopening. The Danish architect who built the towers says the rocket and globe shapes represent ideals of technology and humanity.",
+    "imageCredits": "Walter Bibikow / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_29.jpg?versionId=3UvFX4wORykrAmC4euijGGKs57EX_k4t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_29.jpg?versionId=XUFHWY0mlYi47BONWNbnjS.DTx3mMhLb",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_29.mp3?versionId=cBiVGkEG5CKPcLi25D.CtyR04u.LGRLV",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2236387,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "The Sheikh Zayed Bridge connects the island of Abu Dhabi with the mainland. The bridge is illuminated in changing colors and the arches are undulating, evoking the shape of sand dunes. The bridge's architect, British-Iraqi Zaha Hadid, was the first woman to win the Pritzker Architecture Prize.",
+    "imageCredits": "spreephoto.de / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/full/EA_3_M_30.jpg?versionId=_Bs.FBr43M4rlOfll_7oKMpRm_iWHciM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/lesson_photo/thumb/EA_3_M_30.jpg?versionId=t1ckifeZOOL77rGaV6q.72Ea0FxB_TrG",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/main_audio/9781797115122_Arabic_Eastern_3_Lesson_30.mp3?versionId=uPb50cUL5GZsHgiqPgAhI5fQ_OH32bTn",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2236872,
+    "cultureContent": {
+    "imageLocation": "Casablanca, Morocco",
+    "imageDescription": "Mosque is an Arabic word that may derive from a word meaning  \"site of prostration\" and is a place of worship for Muslims. Mosques have an ornamental niche for prayer that faces Mecca in Saudi Arabia.",
+    "imageCredits": "Philipe Marion / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Eastern)/Arabic (Eastern) Level 3 orig/asset/RL/9781797115122_Arabic_Eastern_3_Alpha.pdf?versionId=mkbthySfa9Jh04Sx6PLyFFPCioMpV11O",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Eastern)/Arabic (Eastern) Level 3 orig/asset/RL/9781797115122_Arabic_Eastern_3_Intro.pdf?versionId=G.nQPL.bAO1BLKao5yBnqewnvurnqdEO",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_01.mp3?versionId=x82Mvzux5v2mrc5HwwUrNpbQzu2eGAHY",
+    "mediaItemId": 2223692
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_02.mp3?versionId=FRZr_.FrzYhqqIz7PgFqLTqTU_TWM8Yo",
+    "mediaItemId": 2223812
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_03.mp3?versionId=O7PQbNMnhODQkWzQ3wmIHzWawZcIfpSm",
+    "mediaItemId": 2223955
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_04.mp3?versionId=UNn5wecBqzt2uUfDGzRsUcuQVghrZdat",
+    "mediaItemId": 2224152
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_05.mp3?versionId=gthDcrFFSm4qVEZ9D6Tq2vY5NO79dT_a",
+    "mediaItemId": 2224348
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_06.mp3?versionId=yA4v9jycHbA3x_EByNAz5woZoF84bref",
+    "mediaItemId": 2224487
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_07.mp3?versionId=q_GHIwNjrp3Vl_4ixd6c_.CplFRuJ.yV",
+    "mediaItemId": 2224680
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_08.mp3?versionId=zSfmou1Oe1Q_0DdmZZh.oj5ypfWekDhW",
+    "mediaItemId": 2224773
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_09.mp3?versionId=0X5db72RBg.7Qi88Sdqdq9Ue6.VNGXLj",
+    "mediaItemId": 2225809
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_10.mp3?versionId=6S7T7vwW0liY3kRr3N7OhX9xmxhk0xrA",
+    "mediaItemId": 2227983
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_11.mp3?versionId=HoCHYCwo82GO3UBD.kwDvCGKB5IPkX2Z",
+    "mediaItemId": 2231335
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_12.mp3?versionId=uUUHgcpVUynU5fxLwMbH4.HK5w6U7A2N",
+    "mediaItemId": 2234777
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_13.mp3?versionId=oEBzu77VYcknL1t5vuBXKJg2QXwumwL.",
+    "mediaItemId": 2238300
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_14.mp3?versionId=mgsP3Xezkfme7PHpSON7DtCfh8pMwmv.",
+    "mediaItemId": 2241439
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_15.mp3?versionId=sme3PXVV6eJm0X8hGks1ywICEKB_SPPB",
+    "mediaItemId": 2244253
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_16.mp3?versionId=KPPbeGx1PD5RFsQT7Ml1juetcojjtylS",
+    "mediaItemId": 2247304
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_17.mp3?versionId=m49BucNQHulH1ThWYCq7l_Sz9.2MGsau",
+    "mediaItemId": 2250372
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_18.mp3?versionId=dNi6Wsx9OCfMRxbERxKBZEbF8N0AHGJP",
+    "mediaItemId": 2253351
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_19.mp3?versionId=fTIEWRVJwz5hivHohtEhh9AtHgm8g5yY",
+    "mediaItemId": 2256174
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%203%20orig/asset/RL/9781797115122_Arabic_Eastern_3_Reading_Lesson_20.mp3?versionId=_qhoW4Ny4AtUabFtq50bDD.rykWFgBBi",
+    "mediaItemId": 2258992
+    }
+    ]
+    },
+    "languageCode": "ar-LB",
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797115122",
+    "level": 3,
+    "courseName": "Arabic (Eastern) Level 3 Premium",
+    "simpleCourseName": "Arabic (Eastern) Level 3",
+    "puArabic": true
+    }
+    ]

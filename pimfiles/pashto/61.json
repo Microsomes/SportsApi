@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6476,
+    "languageName": "Italian",
+    "languageId": 155,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_01.jpg?versionId=NPrYyc4HsrbTNqGPjT_M1g41eqAUweiH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_01.jpg?versionId=M4cJwn04E4oDvu78bpTr5W0URj6aqTWe",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U01_Lesson.mp3?versionId=tHdutQhxqk9SQ6fxomMMDANFjfxj4aNR",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2321655,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Partially influenced by the French flag, the flag of Italy is divided into three sections; green, white and red. These sections are thought to represent hope, faith, and charity, although some believe the green to represent to Italian landscape, the white to represent the Alps, and the red to represent the blood that was shed in the fight for Italian independence.",
+    "imageCredits": "franckreporter / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_02.jpg?versionId=1PXXOy0qRb59Oz.hUflJwY89T7K1HFtK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_02.jpg?versionId=7SHyh1Sx4Cs5rl9ucSnCkWoc1SsI0i1h",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U02_Lesson.mp3?versionId=U2RH3_dDmOqx.dt_QZ9EpOV776JEp6PZ",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2321666,
+    "cultureContent": {
+    "imageLocation": "Sicily, Italy",
+    "imageDescription": "A symbol of the folklore and the festivities of Sicily, the ornate Sicilian cart design reached the height of its popularity in the 1920s.The colorful scenes depicted on the sides of the carts were used to convey historical information about the island to the illiterate population.",
+    "imageCredits": "Leeuwtje / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_03.jpg?versionId=Y_LSM7icg881yp3MSicj5btPQuxsWDpB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_03.jpg?versionId=PWztcWS_eo9D5FtvTanuckBloU34I9n8",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U03_Lesson.mp3?versionId=dxkPtPj4VXtvchAfRPc8g8CTgpGOLPRl",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2321679,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany, Italy",
+    "imageDescription": "Santa Maria del Fiore, which translates to Our Lady of the Flower, took almost 140 years to build, with construction beginning in 1296 and concluding in 1436. The cathedral is known for its iconic dome which houses a unique clock crafted by Paolo Uccello. The clock's face displays paintings of four saints and although it accurately tells time, the clock's hands move backwards.",
+    "imageCredits": "Giulia Fiori Photography / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_04.jpg?versionId=I.DI9D8RwXnuIe0VkUbCimdzYWrtyY2S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_04.jpg?versionId=33hdWkvR_oYEWkhw9CScMHym1ta.CtU0",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U04_Lesson.mp3?versionId=M97i1Qgv1on4ZU1O6OD8rrBKTmVqn6k8",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2321699,
+    "cultureContent": {
+    "imageLocation": "Alghero, Sardinia, Italy",
+    "imageDescription": "The iconic and colorful tiles on the dome of the Church of St. Paul Apostle were designed by Antonio Simon Mossa. Mossa was more than an architect; he was an active member of the Sardinian Action Party, a party was founded to fight for environmental protection and preservation of the island's culture.",
+    "imageCredits": "De Agostini / G. Carfagna / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_05.jpg?versionId=JvVyyxTVxufg7v3fyOTfbfgdB8bBRfpy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_05.jpg?versionId=NfhODhSfTWm_cGPCN19B1gZd8tWyFR2p",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U05_Lesson.mp3?versionId=LDAALvDWeP9NC.uYBQJmJyzs9tcHZip_",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2321715,
+    "cultureContent": {
+    "imageLocation": "Emilia Romagna, Italy",
+    "imageDescription": "Santiago Calatrava is a Spanish architect known for his neofuturistic style and structural engineering. Along with many bridges and railway stations, Calatrava is also credited with designing the World Trade Transportation Hub at the rebuilt World Trade Center in New York City as well as the Athens Olympic Park in Greece.",
+    "imageCredits": "Vincenzo Lombardo / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_06.jpg?versionId=3rOD5kFXmQOe3Vn_qcJ.4rDYsmP5seNc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_06.jpg?versionId=6v6tGgs8P8GrBJLVGbt37o.EM4fDq6PR",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U06_Lesson.mp3?versionId=oaTkf3Gg856ZMNsVF3K0.HqUxM10dphE",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2321739,
+    "cultureContent": {
+    "imageLocation": "Val d'Orcia, Tuscany, Italy",
+    "imageDescription": "In 2004, Val d'Orcia was named a World Heritage Site in the cultural category. The region, which includes the river Orcia, rolling hills, and extensive vineyards, was included based on its importance to Renaissance artists and its historical representativeness of good governance.",
+    "imageCredits": "Laurie Noble / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_07.jpg?versionId=rjO1Fs7EOBUtCEb2FafOD.tJfvA73EuY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_07.jpg?versionId=Q.6_P3eOmVyrLJAN6KUSYXN1FyJ0aou0",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U07_Lesson.mp3?versionId=urNf8zbM4wZQFbrwROx.DXxTf7hmGWiF",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2321757,
+    "cultureContent": {
+    "imageLocation": "Alghero, Sardinia",
+    "imageDescription": "With roots dating back to the Middle Ages, part of Alghero's population descends from Catalan ancestry Because of its mixed past, the official language of the island has changed from being an Alghanese dialect of Catalan, to Spanish, to finally Italian. A significant portion of the population also has some understanding of Sardinian.",
+    "imageCredits": "Craig Easton / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_08.jpg?versionId=Oz_69nDdpllJkkTcEAHGykXplvlFoCQZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_08.jpg?versionId=NI0sbrR.fr3B4oVDyr1eLCuHZWJpIVq1",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U08_Lesson.mp3?versionId=RKAh1R3SN3M8PZeS7XAaBpKeEfQLb09C",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2321778,
+    "cultureContent": {
+    "imageLocation": "South Tyrol, Italy",
+    "imageDescription": "Twice a year, Italy holds a world renowned cycling event known as \"Sellaronda Bike Day\". During this special event which loops through the Italian Dolomites mountain range, roads are roped off to secure the 33-mile route that attracts over 20,000 participants each year. The route which reaches a height of almost 6,000 feet offers guided tours, paragliding, and rest stops in mountain villages.",
+    "imageCredits": "Norbert Eisele-Hein / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_09.jpg?versionId=GbyC6GaGQgegRagvs2BSXtxrfOoQEsIU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_09.jpg?versionId=fZavB8lW8b_7OoU9xBp7fJ43ETdG7oWf",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U09_Lesson.mp3?versionId=1u6z9M3xV5a853iYnb9h6NMaA9O8t.5B",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2321805,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Cremona, Italy is home to the international school of violin-making. Students come from overseas to learn the ancient art that was created by Andrea Amani who is considered the inventor of the modern violin, from master craftsmen. The methods have been passed on since the sixteenth century and use no machines.",
+    "imageCredits": "Kathrin Ziegler / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_10.jpg?versionId=Y3OuAamKX6F36Ya0NYatfRZmmbSxCENC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_10.jpg?versionId=IKy7UW0yIS2Cn2UVRJMfz1CB72HS94.t",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U10_Lesson.mp3?versionId=q8739ge_sGH3wMQFj54JJcKGBlxJ6BMu",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2321829,
+    "cultureContent": {
+    "imageLocation": "Orvieto, Italy",
+    "imageDescription": "Italy is known for its expansive automobile industry and world famous car companies including Lamborghini, Fiat, Maserati, and Lancia. There is even an entire theme park located in Abu Dhabi that is dedicated to the prestigious Ferrari. Ferrari World offers visitors the opportunity to drive a Ferrari, tour the historic Ferrari factory, and ride the world's fastest roller coaster Formula Rossa, which reaches a top speed of 149 miles per hour.",
+    "imageCredits": "Alexander Spatari / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_11.jpg?versionId=q_kBJeetWS2mrwM4pe611Wg3hSf826XH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_11.jpg?versionId=EvdTG1iqv3tfapLzfVnKbLGbk0cgKhVo",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U11_Lesson.mp3?versionId=JOvbtNwIH.ybrPcL4SRUd9JDOI_aIMvv",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2321852,
+    "cultureContent": {
+    "imageLocation": "Piazza San Marco, Venice, Italy",
+    "imageDescription": "In 1805, the Piazza San Marco was intended to be the branch of the royal palace used to house administration under the reign of Napoleon. However, it was decided the buildings did not have the large spaces needed in order to host grand balls and parties and thus, Napoleon ordered the construction of the nearby Ala Napoleonica, which included a grand staircase and a throne room.",
+    "imageCredits": "PaoloBis / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_12.jpg?versionId=zeok_yNBrsEwP02fPBceV5w2gnXQKp7h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_12.jpg?versionId=.dVEFPWD_zU7SZo7BZ2JSbYpLhoaaDMw",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U12_Lesson.mp3?versionId=GJzke1TVWWaVjH3IrISFK0d9Oy7lQqTG",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2321878,
+    "cultureContent": {
+    "imageLocation": "Rome, Italy",
+    "imageDescription": "Home to the Chamber of Deputies, one of the two houses in the Italian Parliament, the Palazzo Montecitorio was designed by Bernini and completed by Fontana. The building contains a main bell which used to be rung every Saturday to indicate the announcement of winning lottery numbers to an eager crowd, although nowadays, the bell is run only to signify the election of the President.",
+    "imageCredits": "Vincenzo Lombardo / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_13.jpg?versionId=UbdE.U1sqm8ETV60kNbzi6ZDVARKDqeO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_13.jpg?versionId=tCfetpUKWnPNXgI1bDpzUOBbbINUgEhX",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U13_Lesson.mp3?versionId=SWy4AZCVqf4XYMzVyD4GHCQ6tDtKeuio",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2321906,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Demonstrators gathered to take part in anti-mafia rally in response to the lavish funeral of Vittorio Casamonia, an alleged Italian crime lord. Protestors demanded answers from the police and the Church after the known member of a clan responsible for drug trafficking and prostitution was sent off as a hero. Rome has been one of the most common sites for rallies throughout its centuries of history.",
+    "imageCredits": "Pacific Press / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_14.jpg?versionId=XdI_g53gzksRlQJRpYdXVJ8pzeacmr9J",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_14.jpg?versionId=gDOhAM7.xOFoN5WMwLyZ1.r7ruDm5KYK",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U14_Lesson.mp3?versionId=lw5fMwOGhi_q0__b06rntNluIQOmUYR3",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2321939,
+    "cultureContent": {
+    "imageLocation": "Sorrento, Campania, Italy",
+    "imageDescription": "Ceramic making in Vietri has been popular since the 1600s, when the creations of local artisans became desired by wealthy families in the surrounding areas. Craftsmen were recruited to paint murals of saints and religious scenes on churches which are still visible today. As the demand for ceramics increased, international artists began flocking to the town and factories were created to keep up with the expanding market.",
+    "imageCredits": "Anne Maenurm / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_15.jpg?versionId=4Amlmvre_P70bZ3Nj8rkv2uxiyGtqu.T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_15.jpg?versionId=reEG87AKIRA3s5cF_n12CXpfb.Z2BEES",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U15_Lesson.mp3?versionId=3YXYU1t7KeIGQlHunaRjI6zqVkUsrI_r",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2321965,
+    "cultureContent": {
+    "imageLocation": "Luagno, Switzerland",
+    "imageDescription": "The University of Luagno was established in 1966 in Switzerland in response to the desire of the Italian-speaking population to achieve a higher level of education. Taught in English and Italian, the university offers business education programs that attract students of over 100 nationalities each year.",
+    "imageCredits": "Iván Muñoz Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_16.jpg?versionId=j6cjaPMCr9kgE2.MrWDO0JbGsMRo5ZhS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_16.jpg?versionId=sDy9Yv4ZEZ73zRFGszOdxNq5uJ7jpTB_",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U16_Lesson.mp3?versionId=xaaQJLe5CVPLamtNMFR5uTBTO7_V1NPA",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2321994,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Wingsuit flying is a sport in which participants move through the air wearing special suits that expand between the legs and arms to increase surface area and allow gliding to occur. Italy has many popular \"drop spots\" where aircrafts fly to allow wingsuit fliers to jump out explore, making it an ideal location for daredevils all over the world.",
+    "imageCredits": "Ascent Xmedia / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_17.jpg?versionId=TFWmUJw_2OuxQfaWjpIy3hJsZgI_bOXl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_17.jpg?versionId=OafVwBIYsRCzYXBKRXPi8om21QMi3dRX",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U17_Lesson.mp3?versionId=xZw_Jj0K_Sfcm_0YeVGI3ADVAC0Lw9aH",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2322033,
+    "cultureContent": {
+    "imageLocation": "Naples, Italy",
+    "imageDescription": "There are many archeologic museums in Italy but the Naples National Archaeological Museum is considered one of the greatest. Home to a large gallery of artifacts, mosaics from Pompeii, mummies from Egypt, and marbles by Greek sculptors illustrate an important narrative about the ancient world. The most famous piece in the museum is part of the Farnese Collection and entitled \"Treasure of the Magnificent\".",
+    "imageCredits": "Luis Davilla / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_18.jpg?versionId=x_iQqGwQzAWrxERZhMIHyYHNz9_zGq9Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_18.jpg?versionId=hvpP6YUJwq.8gATCIOfQQsupo4dMRFvq",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U18_Lesson.mp3?versionId=qD5kpY.DyrnoO_ipbUum2sLz4vrz76tA",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2322060,
+    "cultureContent": {
+    "imageLocation": "Bologna, Italy",
+    "imageDescription": "The history of the University of Bologna, the world's oldest university, dates back to 1088. Foreign students had formed nationally grouped societies to protect themselves from the city's laws against foreigners. The students then hired local scholars to teach them and from this network, a university grew.",
+    "imageCredits": "Roberto Serra / Iguana Press / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_19.jpg?versionId=UhrSQKHdv0XpznUjlo.YWB1LlRXMwLOt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_19.jpg?versionId=bAWt0oWjeR8JB2KJ6RjMcfgV9YyYMRoH",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U19_Lesson.mp3?versionId=q4esj2sdHv4NUH5_TfvVhm80rck9CI.5",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2322100,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Italy is the center of all olive production due to its historical roots in the industry and ideal environmental conditions. Although it takes approximately eleven pounds of olives to make just one liter of olive oil, many prefer the time consuming method of picking their olives by hand, as opposed to using scissor like instruments or machines, because it avoids bruising which has a direct impact on the taste.",
+    "imageCredits": "Peter Adams / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_20.jpg?versionId=KJNpGXfEgV140E4y2imaexK14AV1Cmsw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_20.jpg?versionId=d03FmYO6lajELQkWm2RRlpKBCVJ_6qFT",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U20_Lesson.mp3?versionId=mJH9i8xngxRLCnJ357gJOzQx8dfP4o5F",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2322129,
+    "cultureContent": {
+    "imageLocation": "Venice, Italy",
+    "imageDescription": "The island of Poveglia has been said to be the most haunted place on earth. Formally a quarantine station for incoming ships, the island was converted into a mental asylum where a doctor allegedly experimented with harsh lobotomies and later committed suicide, after claiming he was being haunted by the ghosts of former patients.",
+    "imageCredits": "Marco Secchi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_21.jpg?versionId=GI_W84z94tCViYfoUuLIwQIa3qdFbL6Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_21.jpg?versionId=U_EN_6g5b4p1r8Od24cGMj3r4i6Do_TR",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U21_Lesson.mp3?versionId=aGCh0PTDhTK8kdzWEqqC9OSyDTFStBNe",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2322158,
+    "cultureContent": {
+    "imageLocation": "Lamedusa Island, the largest of the Italian Pelagie Islands in the Mediterranean is part of the Sicilian province of Agrigento.",
+    "imageDescription": "The remote area of Spiaggia dei Conigli at Lamedusa Island in known more commonly as Rabbit Island. When first discovered, the inlet, which was connected to the coast by a small strip of land, was called Rabit Island, in reference to the Arabic word rabit, meaning \"link\". The name was then incorrectly translated in English to mean \"rabbit\" and it stuck.",
+    "imageCredits": "Stefano Scata / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_22.jpg?versionId=aZdFXzoj8wvF3quMCJZnfrzQUG83xt4I",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_22.jpg?versionId=nIOSp5RrFJB1Xy66XQI4hZ3GmAmPwfGo",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U22_Lesson.mp3?versionId=5U2lboqQ03_0ybKOUXpj9XDe.vKYnUUu",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2322189,
+    "cultureContent": {
+    "imageLocation": "Milan, Italy",
+    "imageDescription": "Regarded by experts as one of the most important fashion districts in the world, Quadrilatero Della Monda is home to some of the most high end boutiques, including Gucci, Versace, and Louis Vuitton. Milan has been a center of luxury since the Middle Ages and in the 16th century, even gave its name to the English word ”milaner”, meaning ”fine cloth”, ”hats”, or ”jewelry”.",
+    "imageCredits": "Jean-Pierre Lescourret / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_23.jpg?versionId=YYeoIdcvZIcPZ9U47ZxRkZ5pdBSJHgLC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_23.jpg?versionId=bWQJHVeHFEmTwhGeGv24snkw_yuPimas",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U23_Lesson.mp3?versionId=SEGVfTBiwc9L2V70ElX9Y1kLA2P.RsWt",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2322214,
+    "cultureContent": {
+    "imageLocation": "Milan, Italy",
+    "imageDescription": "The Bosco Verticale, or Vertical Forest, was created as a rehabilitation project to reduce the city's smog ad produce more oxygen. The plants even help with noise pollution. The two towers, containing 400 condominium units, are home to over 900 trees and received the International High-rise Award in 2014 for excellence in reconstructed buildings.",
+    "imageCredits": "Pawel Toczynski / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_24.jpg?versionId=l2zvi7i5ZvVq.MBgyfSU.quIXszhvd7q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_24.jpg?versionId=eCjeTrZpJ2L76obiC5xWbDp12jRMuO5u",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U24_Lesson.mp3?versionId=ewcTMvDu5igFC3j4QbmU6tfaGy.4qajF",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2322252,
+    "cultureContent": {
+    "imageLocation": "Trieste, Italy",
+    "imageDescription": "The Barcolana Regatta is the biggest in the Mediterranean. It attracts 2,000 boats every year and over 100,000 spectators. While the race is open to amateurs and professional racing teams alike, participants are warned of the location's infamous wind, which has been known to reach speeds up to 170 km per hour.",
+    "imageCredits": "Andrea Pavan / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_25.jpg?versionId=_KPrf2ivtLkE7yv_X9g.eOEOCNFTRl.P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_25.jpg?versionId=OQeEa9Jku6Lo6cx1ekOQgcrLvCNcBdf0",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U25_Lesson.mp3?versionId=QiR4pefaWIH5WnVL_YsOAMdJ273NdiTr",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2322280,
+    "cultureContent": {
+    "imageLocation": "Sabaudia, Lazio, Italy",
+    "imageDescription": "Saubaudia is home to some of the most striking examples of fascist architecture. This style of building became popular in the 1920s and consisted of simple, undecorated structures. Leaders Benito Mussolini and Adolf Hitler used this new style to symbolize to their nations the beginning of a new period of extreme nationalism.",
+    "imageCredits": "De Agostini / S. Vannini / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_26.jpg?versionId=CHQPhFYuyiX7mTJJ3zZ6ejTX_AOE8GeO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_26.jpg?versionId=gm4ari3n31hfU1Q9JCiWo6U1gh.WILjP",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U26_Lesson.mp3?versionId=006Qxemdgul0d3rbVgYmRj5YAEeYTFxS",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2322307,
+    "cultureContent": {
+    "imageLocation": "Orvieto, Umbria, Italy",
+    "imageDescription": "Built by architect Antonio da Sangallo the Younger of Florence, the Pozzo di San Patrizio was constructed to ensure a water supply was accessible to the city after the sack of Rome in 1537 by Holy Roman Emperor Charles V. The well's name was inspired by the St. Patrick's Well in Ireland which is thought to be so deep, it reaches Purgatory.",
+    "imageCredits": "Andrea Pucci / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_27.jpg?versionId=k9.OYR_OWx0QZNUf674r.QfYjkKPujzB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_27.jpg?versionId=lSlg5tPsEOw03sCMtLWSzrJpL4_ivp5t",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U27_Lesson.mp3?versionId=045bRlyaakR7KXU3L5uN4OehDztWnCMN",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2322335,
+    "cultureContent": {
+    "imageLocation": "Rome, Italy",
+    "imageDescription": "The Fontana del Pantheon used to be one the eleven main drinking water sources in Rome and is located in front of the Roman Pantheon. Originally constructed in 31 B.C., the design of the Pantheon is so that a perfect sphere could sit inside of it, symbolizing the vault of heaven.",
+    "imageCredits": "Entrechat / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_28.jpg?versionId=wOLgWNH64JLDuJv1SSI9rwnCXs0KlDYa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_28.jpg?versionId=lka4olkDINaH2W52QrUxIXwcIixWTQBM",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U28_Lesson.mp3?versionId=dK5Ml1QRML9T_eE6n.a8QH9VIcEdUnrb",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2322366,
+    "cultureContent": {
+    "imageLocation": "South Tyrol, Italy",
+    "imageDescription": "Created by Italian climber Reinhold Messer, the Messner Mountain Museum (MMM) has five locations throughout northern Italy, each aiming to educate people about man's interactions with the mountains. The content varies depending on the place and includes the science of glaciers, the history of mountain-dwellers, and mountains in mythology.",
+    "imageCredits": "Pablo Charlón / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_29.jpg?versionId=p1SSFzVmETp9l5wXsbFIowq4VtWlgKeN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_29.jpg?versionId=Ihy_dibYi3VAymThnK3C.5Lb9ukXa8Fd",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U29_Lesson.mp3?versionId=H76g1rx6l4.S0k4Wsbo0QE7efAD8dXaQ",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2322389,
+    "cultureContent": {
+    "imageLocation": "Sorano, Tuscany, Italy",
+    "imageDescription": "Sorano is known not only for its picturesque 14th century castle but for its popular Ham Festival. The celebration, which is popular in many regions of Italy, takes place every year in August. Locals prepare their best meat dishes, many being sausage based as this meat is one of the staples of the Sorono economy, as well as preparing a large array of wines and cheeses for the feast.",
+    "imageCredits": "Gary Yeowell / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/full/IT_5_M_30.jpg?versionId=84Tg5vng5vFDtQE7lNuf9HDmtlN0mYXY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/lesson_photo/thumb/IT_5_M_30.jpg?versionId=ENp3GqFDxghRJrLgOrTz9iSg4j04wVzr",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/main_audio/9781508230922_Italian5_U30_Lesson.mp3?versionId=BYQBMCoyJO5TvClV7nhDMNZImbFpD8HU",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2322408,
+    "cultureContent": {
+    "imageLocation": "Cefalu, Sicily, Italy",
+    "imageDescription": "With its distinctive Arab-Norman-Byzantine architecture, sandy Mediterranean beaches and dramatic mountain backdrops, the postcard-pretty Sicilian town of Cefalù is the setting for much of Giuseppe Tornatore's beloved film Cinema Paradiso.",
+    "imageCredits": "S Lubenow / LOOK-foto / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian Level 5 orig/asset/RL/9781508230922_Italian_5_Intro.pdf?versionId=6Kw3aQSf2V5i1XBLGUtp6D.egCt_gEzD",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit01_Reading.mp3?versionId=sTLmcvOkgqktVR96JMz0CNK53y9hClLI",
+    "mediaItemId": 2223865
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit02_Reading.mp3?versionId=H_2Q_NRtwxII3kCkUzMWktErkS38rSXa",
+    "mediaItemId": 2224071
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit03_Reading.mp3?versionId=a8O3O4G5OniJPdJwh2rGRC3GQmm4dSqK",
+    "mediaItemId": 2224200
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit04_Reading.mp3?versionId=cwwnDHRkyS7E7oMEdDFLeIIloUBaen7b",
+    "mediaItemId": 2224409
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit05_Reading.mp3?versionId=IXW3eW5ngk1wBQUY.HoVtNEuUfJKxgBw",
+    "mediaItemId": 2224538
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit06_Reading.mp3?versionId=XWhWVSEwEFOvAlGkNFCRcvff5zGQAQMT",
+    "mediaItemId": 2224717
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit07_Reading.mp3?versionId=YqTxJzLhtQGwhPIHTxJ_5AZinPvKV5ZZ",
+    "mediaItemId": 2224985
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit08_Reading.mp3?versionId=OKXaoGGdHgBZEJLpOr.496Q1Bg.GiGPF",
+    "mediaItemId": 2226378
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit09_Reading.mp3?versionId=vGYTMKEaK5H8G7MvOmB_LQMytK1Tzxz8",
+    "mediaItemId": 2229089
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit10_Reading.mp3?versionId=LHwsyqtlzrNQbPAu_CuCMVsCFU664MV3",
+    "mediaItemId": 2232391
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit11_Reading.mp3?versionId=aIrsQaJ0Ec_tzdNVSwTbgOAylTLaWVA2",
+    "mediaItemId": 2236032
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit12_Reading.mp3?versionId=hdws4F2__kUgfWn8k6lPJl5TeuZPxQsU",
+    "mediaItemId": 2239351
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit13_Reading.mp3?versionId=n8YJnnya1GlvXK_mx28w8WXXvRsgDO_.",
+    "mediaItemId": 2242376
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit14_Reading.mp3?versionId=OQv2GrzzDMDiBK_1VfjvVKXR2apuSdZp",
+    "mediaItemId": 2245635
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit15_Reading.mp3?versionId=QUTloNXglKCxzoM0GW8OW9uSjfE1tute",
+    "mediaItemId": 2248670
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit16_Reading.mp3?versionId=e6A237MDsqrsTf4jmN.rHWLV_NJDMucV",
+    "mediaItemId": 2251644
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit17_Reading.mp3?versionId=y56r6MJ7bRh75k39v4L2NqbRWqSyHO74",
+    "mediaItemId": 2254508
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit18_Reading.mp3?versionId=6j_0mIpms83f6vHbT29qIoUAnupB0LUv",
+    "mediaItemId": 2257371
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit19_Reading.mp3?versionId=.._axRSvRd.6imgjUZaVZi0zep21aIFS",
+    "mediaItemId": 2260235
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%205%20orig/asset/RL/9781508230922_Italian5_Unit20_Reading.mp3?versionId=kYxevSyB2H2hNk44__oiSWxOAXEuweB9",
+    "mediaItemId": 2262832
+    }
+    ]
+    },
+    "languageCode": "it-IT",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508230922",
+    "level": 5,
+    "courseName": "Italian Level 5 Premium",
+    "simpleCourseName": "Italian Level 5",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 4580,
+    "languageName": "Hungarian",
+    "languageId": 152,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_01.jpg?versionId=k3CclhuRZe5ZVHPrG4cioJmU.ro_QIr_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_01.jpg?versionId=fwxTZll_Yrvj1N4tTPgHWC_xD3VsYEIO",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_01.mp3?versionId=wttdWqCN2owQly5AYVIZ.KImStvGU7m6",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322891,
+    "cultureContent": {
+    "imageLocation": "Hungarian Culture",
+    "imageDescription": "Hungary’s hospitable and lively culture has made it an increasingly popular destination for tourists and international students alike. Those who come to study are often pursuing careers in science and medicine, since Hungarian universities are widely considered to have some of the most state-of-the-art science programs in Europe. The cost of living is also relatively low, making Hungary an appealing destination for students of all backgrounds.",
+    "imageCredits": "Eva-Katalin / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_02.jpg?versionId=REuqLfCpTLolqzJkp5fDNWOn6_4taJhU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_02.jpg?versionId=2RzutH7RupIjqvM2O2xOgYgiD4NylCWA",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_02.mp3?versionId=U5RTQ1eUO.CTtcZjURVyZ9D9DVGhh7wz",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322903,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "The large dome and ornate details of the Hungarian Parliament Building make it one of the world's grandest and most recognized edifices. Completed in 1904, the building encompasses the Gothic Revival style that was popular in the late 19th century. Over 100,000 people were involved in the Parliament Building’s construction, which incorporated over half a million precious stones and nearly 100 pounds of pure gold!",
+    "imageCredits": "AndreyKrav / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_03.jpg?versionId=CWzLTRRIrzqz3KjF1788TZpTjCuwwFQc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_03.jpg?versionId=j9AN.ZlkEjQ6QPhsFVNi1o1qEixG.Rw1",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_03.mp3?versionId=4qGyE5vjHl4Vd7t8jUk9OwFsW_jvKUAq",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322915,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Tourists won’t want to miss taking a ride on Budapest's funicular railway, which consists of a series of cable cars that take passengers up a steep hill towards the Royal Palace. The cable cars were originally created in 1870 and restored after their destruction in World War II, serving as a reminder of the city’s history. The cars are fully operational, giving visitors the option to travel to popular destinations in a unique way.",
+    "imageCredits": "amoklv / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_04.jpg?versionId=OpxGSHKQLltxFKZ2KyU3i2GYSbO0fnTF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_04.jpg?versionId=LcKE03QSNoC34.JITjBIAMyxCzwHVunK",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_04.mp3?versionId=i8m7NkU4XuCva7HXdxOashUgjX8Fb5Xb",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322926,
+    "cultureContent": {
+    "imageLocation": "Tokaj",
+    "imageDescription": "What appear to be odd, sunken houses serve as wine cellars! These peculiar structures are in Hungary’s Tokaj-Hegyalja wine region, which is home to some of the country’s most notable vintners. The underground cellars range from 30 feet to 120 feet in depth, creating a complex aging system that caters to a wide range of tastes.",
+    "imageCredits": "phbcz / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_05.jpg?versionId=zg_fYmWJf.AZEpSPut_X8piqUNqB.2Kw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_05.jpg?versionId=yfcfXM7MvSq392lNMXcWEn.uvtUvPtPr",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_05.mp3?versionId=wBwkoG.JsnUTU5AxThJkxn0XziPFskB4",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322939,
+    "cultureContent": {
+    "imageLocation": "Egerszalok",
+    "imageDescription": "Occurring due to natural springs that rise from deep in the earth, the limestone hill of Egerszalok has become a recognizable and popular attraction. Hot water that rises from the springs is rich in minerals, creating intricate formations from years of seepage. A spa has been built around the springs, as the water is said to have medicinal qualities!",
+    "imageCredits": "Laszlo Szirtesi / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_06.jpg?versionId=a6wrR_Boq7iW14gFeLLLvQEi38fP76S2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_06.jpg?versionId=BHpJmoR2eJzz8CZvXjFywns7NROyczc4",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_06.mp3?versionId=Pl63lszbFODSofDXRkcZO2vgQE1Jujba",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322951,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Budapest's Zugliget Chairlift offers grand views of the city from the highest points of the Buda Hills to the west. While the lift usually operates during the day, an initiative has been made to operate it in the evening hours, allowing guests a view of the illuminated cityscape from above.",
+    "imageCredits": "AzmanJaka / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_07.jpg?versionId=j3lMbNBn3Qx_4wtRgiIqjcTzrb5hUGYK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_07.jpg?versionId=dLjzG0DZqHyT.xcHCA5xYUQpbJ1P8Mrs",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_07.mp3?versionId=GdufgiuIZcZjGKkiJVqNFxjs7auqQS4Y",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322961,
+    "cultureContent": {
+    "imageLocation": "Hungarian Celebrity",
+    "imageDescription": "Hungarian pianist-wunderkind Bence Peter has made a name for himself internationally with his creativity and unorthodox technique with the keys and pedals. He became a Guinness World Record holder for the most piano keys pressed in one minute, setting the record at 765 in 2016. The record was beaten in 2017 by a Portuguese-American musician, who tapped the B7 key an incredible 834 times in sixty seconds.",
+    "imageCredits": "South China Morning Post / South China Morning Post / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_08.jpg?versionId=vrGkPbipThGcIFudSr6jQaxkk5oHoAOb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_08.jpg?versionId=BDwWteZJ388QlhGNQxCxogn9jimVcrPo",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_08.mp3?versionId=rLeonQzVNaJywuL3.7XAW4MWjP1DxvUg",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322975,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "The Gellert Baths are one of the most popular bath and spa destinations in Europe, likely in no small part due to the impressive size of the main swimming pool. Attached to the Gellert Hotel, holidaymakers can have a fascinating experience floating in the geothermal waters while surrounded by the atmospheric, Art-Nouveau architecture, including mosaics, arches, and painted windows.",
+    "imageCredits": "FERENC ISZA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_09.jpg?versionId=Tn0Dse2jX10WhJx2Av8QcSEsbglUqx4S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_09.jpg?versionId=Z6kP4L5cAmJkJu82PRRLvtM9X9Qnf2aA",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_09.mp3?versionId=h4wac.4Oj1pYI3SWGEDtcOUwn3UP8YxD",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322987,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "World-famous escape artist and illusionist, Hungarian-born Harry Houdini is immortalized in Budapest’s House of Houdini museum. The museum is the only location in Europe where genuine artifacts associated with the illustrious magician are stored, serving as a meeting place for tourists and magicians alike. The House of Houdini features a performance venue, where local magicians can perform for audiences in the authentic Houdini style.",
+    "imageCredits": "ATTILA KISBENEDEK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_10.jpg?versionId=BnuKgQVws1uYe6bO4o75t6AOLs2cKc_G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_10.jpg?versionId=i4Efx9ya_AKm9eg0IuVa8.ZVJ5QoucZd",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_10.mp3?versionId=a8kGFAroqzO0KVEUILZAmI_0Pd03J_7l",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322997,
+    "cultureContent": {
+    "imageLocation": "Hungarian Culture",
+    "imageDescription": "The national men’s water polo team is one of Hungary’s highest-achieving sports teams, with sixteen Olympic wins and eleven world championship titles. The team competed in the Tokyo 2020 Olympic Games, earning the bronze medal for their strategic and powerful plays.",
+    "imageCredits": "DeFodi Images / DeFodi Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_11.jpg?versionId=XPj5E4szfMNKDOLTf4J3Kn_NKQvHNPE0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_11.jpg?versionId=1czmQQrSD22el.ViD3UfcqUmVWRVHh3m",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_11.mp3?versionId=tvX2f6VoGH69hj0BqcHh7HEs9FuPE4Fs",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323009,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "An installment simply titled “Shoes on the Danube Promenade” offers a haunting reminder of Budapest’s past. The monument features sixty pairs of sculpted iron shoes, commemorating the loss of over 80,000 Jewish lives during Hungary's Arrow Cross reign of terror during World War II. The people were forced to step out of their shoes before being executed, their bodies falling into the river.",
+    "imageCredits": "Vladislav Zolotov / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_12.jpg?versionId=UsGOJQ6fCxe0JNkZIce603_7WPsJVhIR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_12.jpg?versionId=GtbjggVab4aBgk2jG6JDSBxI6lxtZrkJ",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_12.mp3?versionId=xaPUqaxep8Y9f56ovW9NtMh_zUaUFQId",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323018,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "With fifteen indoor baths and three large outdoor pools, the Széchenyi Baths in the center of the city stand out as the biggest curative thermal bath in Europe. The baths date back to the late 19th century when architects built a spa over one of the city’s hot springs. While the baths were originally far smaller, their popularity in the 1880s prompted management to expand, creating the sprawling and impressive complex we see today.",
+    "imageCredits": "alvarobueno / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_13.jpg?versionId=gaiVAocMbGD8D1yaKJGBw8.sQ0e4_zgj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_13.jpg?versionId=6XWmtcs0_zqAvTAgqKoc0gR.NjfX0AYJ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_13.mp3?versionId=xJwSfrtkx44Jlhi936KMSoW5TiEMnB2R",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323024,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Connecting the neighborhoods of Széchenyihegy and Hűvösvölgy in the Buda Hills is the Children’s Railway, a narrow-gauge rail line which is operated by children aged ten to fourteen. The railway spans seven miles and travels at a slow speed of eleven miles an hour, allowing passengers to enjoy the experience and the scenery as they ride. Built in 1948, the Children’s Railway was originally known as the Pioneer Railway, in reference to the communist party youth organization of the time.",
+    "imageCredits": "Thomas Faull / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_14.jpg?versionId=6ovlQ0Q3S2OZEbdtabuHumLX8jXJxLtU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_14.jpg?versionId=vpBBpL_Pd2d36ITqDLBErUE9THTP363Q",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_14.mp3?versionId=AT.OYDe.Gxs3kJ8QGS45WTaTN0uXrTf.",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323031,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Tasked with monitoring the outside of Hungary’s Royal Palace, hussars of the Guard of Honor stand watch on their equine mounts. Adorned in ornate military uniforms, these light cavalrymen themselves have become a tourist attraction and a recognizable symbol of the Hungarian royal family.",
+    "imageCredits": "Konoplytska / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_15.jpg?versionId=2VV7myoK4GM0EdkYlqNxc4IZOfv.Ck6S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_15.jpg?versionId=AIODpm3QKniJZ1UP2La9gZRbEyqfairy",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_15.mp3?versionId=nAKJp1CbdqM9Mlev5caoy6f595C1._MF",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323037,
+    "cultureContent": {
+    "imageLocation": "Mohács",
+    "imageDescription": "The annual Busójárás festival of Mohacs welcomes the spring and scares off winter. One of the most recognizable figures from this celebration is the busó, who dons a wooden mask with horns, a white, shaggy coat, and trousers stuffed with hay. There is a parade, copious amounts of mulled wine, and residents set off cannons and light bonfires to celebrate the changing of the seasons.",
+    "imageCredits": "titoslack / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_16.jpg?versionId=iIcHdW8muR9zDmFQECLPyalnYf25Cuw0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_16.jpg?versionId=bk.tzbJvy2TZruawh32FZc6REXuHI6dw",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_16.mp3?versionId=w3lncX7B7RGB60mPAAetDQv9eyCcb8i8",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323043,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Surveying the Budapest metropolis as the sun rises is the Liberty Statue, which depicts a woman holding a palm leaf high overhead. Crowning the city's Citadella fortress, the monument was initially erected to commemorate the liberation of Hungary from Nazi German control by the Soviet Union in 1947, but has in recent years become a symbol of Hungary’s transition from communism to democracy. The monument rises 120 feet above the ground, making it a prominent feature of Budapest’s skyline.",
+    "imageCredits": "Rick Neves / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_17.jpg?versionId=eGIR1oLYNoEtv0VcJ30BX9SiraKObma6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_17.jpg?versionId=RIeKYZh_35L6QcGRnmoepIK0JYIc79Ss",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_17.mp3?versionId=m6GZcoqGhesOYXUUFR41GwhTae57KAI5",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323049,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Initially bred to be hunters, the Hungarian vizsla dog has now become a beloved pet in households all over the world. Their lean build, unwavering loyalty, and trainability make the breed a good option for prospective owners of an athletic companion. The vizsla’s merit as a companion can be traced back for hundreds of years, with some claiming that they were present during the Turkish occupation of Hungary in the 16th century.",
+    "imageCredits": "Tomas Maracek / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_18.jpg?versionId=iccJA0.XOFmFqI.41xGDg5.fl2f7jKJ6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_18.jpg?versionId=9DW6OtPvQCpKn2YYbVjhG.b1IKeym.8h",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_18.mp3?versionId=s3v.iTQv4jzsX53C1pBH2Rftk2ajXPYK",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323052,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Tall bronze statues and an imposing monument to the military might interrupt unassuming residential buildings in the form of Heroes’ Square, a plaza that has hosted numerous historical events. The plaza’s most recognizable feature is the monolith topped by the Archangel Gabriel, who towers over colonnades containing statues of bygone Hungarian leaders. Visitors may also want to stop by the Museum of Fine Arts, located directly adjacent to the square.",
+    "imageCredits": "ZoltanGabor / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_19.jpg?versionId=K_WQnJtFJwTX9u2eLys8Qmd9Zp6E1pZe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_19.jpg?versionId=04iSsihrDcrnlKzBXbEkVIVcQkXOwGOA",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_19.mp3?versionId=zjq12lYFek2EkH5Yc085acwopaC_RBnS",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323058,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "St. Stephen’s Basilica serves as a worship space for Roman Catholics, but is also one of Hungary's favored classical music concert venues. To be an organist here is to have one of the most prestigious organ posts in the world. Originally built as a theater in the 1700s, the building was only later reimagined by its own visitors as a place of worship. The dome of the basilica is replete with repeating patterns and ornate paintings that exemplify Neoclassical architecture.",
+    "imageCredits": "StockByM / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_20.jpg?versionId=tzJFd7TgquU3kR_W76GwHbftD5zNVpOc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_20.jpg?versionId=cwYOMuKoIRju71W_ctM8isqqnG.iN_4G",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_20.mp3?versionId=hLVLkwpD6Y4QOUJjU0KLLkWy6q6ar5KK",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323065,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Food stands overflowing with fresh fruits and vegetables make up Budapest’s Great Market Hall, where shoppers can get the most out of their experience. The market is fully indoors, allowing regular sales regardless of the weather. It also offers guided tours for visitors, who may be lucky enough to get some free samples of food and drink!",
+    "imageCredits": "Fabiomichelecapelli / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_21.jpg?versionId=DRyzTUEjpnUiVntz3BCZrEy.CQSrFTiP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_21.jpg?versionId=y85jWbpx6ADrvbhdiSqa0L7dLwxDSh9a",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_21.mp3?versionId=C7DVdSP4SwO6tF4WA4PVLl5Vu0XEHG5s",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323071,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Arching architecture and swirling paint jobs aren’t uncommon finds in Budapest’s metro system, which serves over one million passengers per day. The metro first opened to the public in 1896, making it the second-oldest underground transit system in the world.",
+    "imageCredits": "csh3d / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_22.jpg?versionId=taewhMkr8tJxNci7wdT0MA1lWdSyqtlT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_22.jpg?versionId=D_jcyBX5_QmJ_iHldRPmU5Tzn7xtnVHk",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_22.mp3?versionId=58XJCgNj93fvyzQLmPQvHw30FsXEt0uA",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323079,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "Rumored to be founded by Saint Stephen in 1015, Matthias Church stands as a historical landmark of central Budapest. While the original building was destroyed by the Mongols, it was reconstructed in the late 12th century, standing strong for several hundred years before its major restoration in the 1800s. Matthias Church continues to be an active place of worship for Roman Catholics, with services being held daily, as well as a popular tourist attraction and concert venue.",
+    "imageCredits": "TomasSereda / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_23.jpg?versionId=7ikjGnH93lutjiXzqFNeR2HGutVeacM2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_23.jpg?versionId=8xAeH32kBY.2PmqhR4d1VaLxokG_qQit",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_23.mp3?versionId=WFf9LqjW6mufglBLwY0VU21Flft1WO9k",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323082,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "The Danube River flows through central Budapest, making for breathtaking views from river cruise boats of the city’s most notable landmarks. Connecting the western and eastern halves of the city is the Szechenyi Chain Bridge, which aimed to replicate the English Marlow Bridge. The Szechenyi Chain Bridge is a larger-scale version of the Marlow, the latter of which was used to traverse the Thames River. The Hungarian bridge was built in England and transported in pieces to Budapest for its final assembly.",
+    "imageCredits": "ZoltanGabor / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_24.jpg?versionId=qRRHXa1ZReN8IJXgaqmbotdgG9makXxt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_24.jpg?versionId=a8z5Swj5rWkQP7LFWb6lJ2CZy4nY5mQm",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_24.mp3?versionId=cQbE9bsEm69wJxoeZVrRaAZJC62p3iUY",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323084,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Humble fishing houses and wooden docks line the lakefronts of rural Hungary, creating picturesque reflections in the tranquil water. Despite Hungary’s situation as a landlocked country, fishing is popular among the locals, with approximately 400,000 anglers registered. Some of the most popular catches include carp, bream, pike, and zander.",
+    "imageCredits": "rusm / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_25.jpg?versionId=O2cGAZ74ecSpGjZzQhjHCvBp40yFRMQh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_25.jpg?versionId=rCBiiuIiAD0Wk.KRynll7jCHDowQvay0",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_25.mp3?versionId=v0uEeFvhaXfSt57DqAgvjc7RkkadRj24",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323087,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Wine connoisseurs will want to take a trip to the Hungarian countryside, where green hills and vast rows of grape vines make for some scenic vistas. Certain grapes grown in Hungary produce impressive wines, with Tokaji being one of the most recognizable. This sweet blend was even hailed by Louis XIV as “the wine of kings and the king of wines”!",
+    "imageCredits": "gehringj / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_26.jpg?versionId=6hCyf5NDh8uWrQr_AxzpgjZ9XRvjqHNk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_26.jpg?versionId=Eky3G7P7CavbiYrQU4jch_K2CYlkdwED",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_26.mp3?versionId=snjwumlcdI5w7w98gnYLOd.86l0GFpRX",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323089,
+    "cultureContent": {
+    "imageLocation": "Koroshegy",
+    "imageDescription": "The lavender fields of Hungary are internationally recognized for their high yield and touristic appeal. Found along the shores of Lake Balaton, lavender farms at Koroshegy and Tihany offer admirers both the French type and the English type of this purple, fragrant, flowering plant. Historic Tihany also offers the Benedictine Tihany Abbey to explore.",
+    "imageCredits": "Laszlo Szirtesi / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_27.jpg?versionId=nDMcchcxuZhDhj35awYAW18QYN62VGS9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_27.jpg?versionId=4HRO51mIdHxQtQhWL1WyRPgiblJ_pDWp",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_27.mp3?versionId=6nBHBHtdm9c._OelSo9ovY5AfVLy6Kwg",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323093,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "The vibrant Budapest National Theatre hosts volumes of theatrical productions, ranging from little-known plays to grandiose Shakespearean productions. Dramas performed at the National Theatre serve as a unique way to explore social and political dialogues, providing audiences with new perspectives on present-day issues. The theater is relatively new, having been built only in 2002.",
+    "imageCredits": "achiartistul / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_28.jpg?versionId=3y8.jX2UH1CDqmE1OjhB3ue8tGL_EQ6P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_28.jpg?versionId=HE4AMWAKRDX3F2tSt1B07oSLZmHB4HbU",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_28.mp3?versionId=ngW9GGmezcWZpHfgsEmjpgYW9kNdpQKX",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323095,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Hungarian national football team has experienced numerous highs and lows since its foundation in the early 1900s. The team experienced retrogression for decades before a resurgence began in the 2010s. The Hungarian team held their own during a UEFA Euro “group of death” tournament in 2021, ending their match against the French world champions in a draw.",
+    "imageCredits": "Richard Heathcote / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_29.jpg?versionId=MPBuH9dNvvpR7xgTnb8cOOYPilANp28.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_29.jpg?versionId=0vWAX4dZ2ngRkmMGXRmoq5OjMoEuJ3R6",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_29.mp3?versionId=2Jnl6yoFNwhCZVclI4zBos0mOQfnNDk2",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323097,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Rubik’s Cube, a beloved puzzle among kids and adults alike, gets its name from its inventor, the Hungarian architect Erno Rubik. He created the iconic cube in 1974 before licensing it to Ideal Toy Company in 1980, with over 450 million cubes sold since. Though no longer as popular as it was during the craze of the 1980s, Rubik’s Cube maintains a cult following, with “speedcubers” entering competitions to solve the puzzle as quickly as possible.",
+    "imageCredits": "picture alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/full/Hungarian_1_9781797144429_M_30.jpg?versionId=tyUasZHIJik0ytaTJfxFkxj_Y4e150En",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/lesson_photo/thumb/Hungarian_1_9781797144429_M_30.jpg?versionId=u4rl9nUap9IEjcYFDZmpcmP1Ze4e.Zaj",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/main_audio/9781442320840_Unit_30.mp3?versionId=8KqkhsbSGzb0Y6U33hJkYWZxu7xJ_CDD",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323099,
+    "cultureContent": {
+    "imageLocation": "Budapest",
+    "imageDescription": "With roots in the 1980s, the Budapest Spring Festival has quickly become one of Europe's premier culture events. Artists and arts fans from near and far fill up hotels and hostels in Budapest to take in the festivities, which are held from mid-March to early April. Classical music and jazz are a big part of the festival, as are dance and theater, with famous Hungarian musicians and performers often featured.",
+    "imageCredits": "_ultraforma_ / iStock Unreleased / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian Level 1 orig/asset/RL/Hungarian_1_9781797144429_Alpha.pdf?versionId=Ktxo29fRgc4aRPF5PPprwoTowEzJVP80",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian Level 1 orig/asset/RL/Hungarian_1_9781797144429_Intro.pdf?versionId=FpwZ3QTqgvWhk7SikUKnUU0tuMqjQNIl",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading11.mp3?versionId=O3MfTFTKEREIhLb6JvjVboHxNe7kFpuV",
+    "mediaItemId": 2356129
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading12.mp3?versionId=6ibWtXHSMPa4.Mfft4WJy0Y5QWB.OeL3",
+    "mediaItemId": 2356131
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading13.mp3?versionId=OuKiKRC2pw7jM0geYGeH7HRsIqqpU2zE",
+    "mediaItemId": 2356130
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading14.mp3?versionId=r6f29Upi8nzUrhDUqtcL.pJQ5bY8ekDs",
+    "mediaItemId": 2356132
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading15.mp3?versionId=JlPMMNva_eME5E1GoK0weYK2JciLUJDN",
+    "mediaItemId": 2356133
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading16.mp3?versionId=tnKMWK9WanLRI1.QXFDYt1JINKVO036z",
+    "mediaItemId": 2356134
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading17.mp3?versionId=Kk3gv4b7x8.S2.eFiPG2F.UbVCotrzB7",
+    "mediaItemId": 2356135
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading18.mp3?versionId=iSD7MSsD6ef2nVAM.H97POXGEQI0t6pY",
+    "mediaItemId": 2356136
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading19.mp3?versionId=o78c55EqZDgi37sO1sBgYuFsYlaVFBGO",
+    "mediaItemId": 2356137
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading20.mp3?versionId=Ywq_OI8lOWQ7H_4MsQvI3UCMwbGKslE4",
+    "mediaItemId": 2356138
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading21.mp3?versionId=yhw83NHsMFy6FJ1NXn75LGhk2PX8wdn7",
+    "mediaItemId": 2356139
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading22.mp3?versionId=A5B.jqylAaJhD8Wg2Cqnnu87HbbLaSEH",
+    "mediaItemId": 2356140
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading23.mp3?versionId=.41YHZQg6eY6g16HIHeVFbUlQKdXcyAP",
+    "mediaItemId": 2356141
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading24.mp3?versionId=rLRvFgugr5BhLhMJjHdX0ClIbNtZx4qz",
+    "mediaItemId": 2356142
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading25.mp3?versionId=DQbSXj_0EfGWvc5WOqjft_x7uiExZuo0",
+    "mediaItemId": 2356143
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading26.mp3?versionId=nikKIOAn2aHuLmopl5TFdwJpleBYBSG1",
+    "mediaItemId": 2356144
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading27.mp3?versionId=pFUJGd6Q3tMCq_lt_yAWsl1ZxbFMHsMW",
+    "mediaItemId": 2356145
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading28.mp3?versionId=oYy2unmUzHhKp4Mu_Idwh7snlv9_umv.",
+    "mediaItemId": 2356146
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading29.mp3?versionId=SzWussBV1YzXlkUkNK2A1xnI8GZUVJNK",
+    "mediaItemId": 2356147
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hungarian/Hungarian%20Level%201%20orig/asset/RL/Hungarian_1_9781442320840_Reading30.mp3?versionId=Y2Tyx6K0HJc7Fv_7D75_B_nfuZToA4w8",
+    "mediaItemId": 2356148
+    }
+    ]
+    },
+    "languageCode": "hu-HU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797144429",
+    "level": 1,
+    "courseName": "Hungarian Level 1 Premium",
+    "simpleCourseName": "Hungarian Level 1",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 30191,
+    "languageName": "Korean",
+    "languageId": 157,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_01.jpg?versionId=6bZpd8cjcDMD3eZlmOGhd5VvbenLjFQh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_01.jpg?versionId=yk0oig1kw866GUeiPfGRpA2SF15oYBQZ",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_01.mp3?versionId=Mbx8_uTcaueGOtsRXbTHj9QRtNajP4l7",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2227180,
+    "cultureContent": {
+    "imageLocation": "Korean Culture",
+    "imageDescription": "The Korean people are descended from ancient Manchurians who migrated to the Korean peninsula during the Bronze Age. There are over 83 million Koreans living throughout the world.",
+    "imageCredits": "Ajr_images / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_02.jpg?versionId=ppu4d4_lFlkbIoGC.bpQFSr.7EGIfHfG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_02.jpg?versionId=CpnKQtqBY1oJV2v7jqBEkdZJN4PWMXGe",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_02.mp3?versionId=SbW31PWanryajfZGR7r5mrKbBhiujcTS",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2227445,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Gyeongbokgung Palace was built in 1395. It was the main home for the Josean dynasty, and served as such until it burned and was abandoned for two decades. It has since been restored and stands as the National Palace Museum of Korea.",
+    "imageCredits": "Twilight Show / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_03.jpg?versionId=H72RJfRClwHUweqH2nrlWV4n541Xhv7_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_03.jpg?versionId=0y6nSHK_NnYxreFnT7EDDC4B52uAnLVK",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_03.mp3?versionId=eGzyqt3MP9Onf.ya8Iopngxu0py8.pUN",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2227689,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "The Seoul Street Art Festival showcases street art from all over Asia. Here’s a pungmul performer with a janggu drum.",
+    "imageCredits": "Jodi Cobb / National Geographic Image Collection Magazines / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_04.jpg?versionId=K5_WZZ6wbxRfpeZG3QQ4L2sqJUhkCiZn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_04.jpg?versionId=fpiw9vqGtjBD8eRl6mocvI5oYNvq0HFt",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_04.mp3?versionId=.U8bC9Bg7P38TGMTk1P0MdC0e.lfqLZ2",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2228026,
+    "cultureContent": {
+    "imageLocation": "Korean Culture",
+    "imageDescription": "Buddhism was introduced to Korea in the year 372, and though Christianity has become popular in South Korea, around 15% of the population are practicing Buddhists. Spinning a prayer wheel is equal to speaking the prayers.",
+    "imageCredits": "KONGKOON / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_05.jpg?versionId=1Le.vVF_02UhdMeSYZ0D8alEnR6gehe_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_05.jpg?versionId=A4EYCmUT9ubEeJ9NRxcdTkVyzD9YTcsO",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_05.mp3?versionId=bWXzgruPLVnPk.dDnvIvJI7Ah4gVVBfl",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2228483,
+    "cultureContent": {
+    "imageLocation": "Holiday",
+    "imageDescription": "Independence Movement Day is a holiday that commemorates South Korea’s 1919 uprising against Japanese rule, which eventually ended in 1945. This national holiday is celebrated on March 1st.",
+    "imageCredits": "Chung Sung-Jun / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_06.jpg?versionId=UKy9JEvukYY6R718weIjiRiDJZClPqJ3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_06.jpg?versionId=7LaFMhUnrbKGuXuIYwwaKyw9ZUf0Y4B1",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_06.mp3?versionId=G71MCAImCtwUFZhQzbdg.yULjXa4Hqra",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2228841,
+    "cultureContent": {
+    "imageLocation": "Korean Culture",
+    "imageDescription": "Taekwondo was developed by martial artists in Korea in the 1940s and 50s. But martial arts were developed over centuries in the place that would become Korea. These martial arts fell into three categories: tribal martial arts, Buddhist martial arts, and royal court martial arts.",
+    "imageCredits": "Amilcar Orfali / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_07.jpg?versionId=HCZe9eiOfAwy34lIz.YaxK42JpMLMwuH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_07.jpg?versionId=jHjrSQJwzydNtGaBawAvtHGPkDz03eCe",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_07.mp3?versionId=O_XFlEVDFmVABCzDpN6eznAghDvSasv_",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2229222,
+    "cultureContent": {
+    "imageLocation": "Samsung Headquarters, Seoul",
+    "imageDescription": "Samsung was founded in the late 1930’s as a grocery store. After the Korean War, the company expanded to become the biggest woolen mill in Korea. Samsung transitioned into an electronics company in 1969 and today the company produces nearly a fifth of Korea’s total exports.",
+    "imageCredits": "Chung Sung-Jun / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_08.jpg?versionId=njrYbamNEa7zVkb262h8vX8gjEdQbdLV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_08.jpg?versionId=sSBl7K4IDUys49CqY87e9G0SvXsHoQU2",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_08.mp3?versionId=nJLEgNwEOzVP4TYIbGcKoxNIuveQklbo",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2229582,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Do-ho Suh is a Korean sculptor and installation artist whose work is exhibited in major museums worldwide. He is known for his large installations about time and space, which recall his personal history of moving around since leaving Korea.",
+    "imageCredits": "Jung Yeon-Je / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_09.jpg?versionId=r_Lod3i0aE8Pb2upphjvNFo5G7rpZNjH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_09.jpg?versionId=lkXUHTFhc3O7Vk9zzgPp4MXVk65ao8lo",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_09.mp3?versionId=hquEGOjmkvCk3vwg2b0t6TAernpVlR_p",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2229958,
+    "cultureContent": {
+    "imageLocation": "Holiday",
+    "imageDescription": "On the eighth day of the fourth month in the lunar calendar is the Festival of Lanterns. This is a celebration of Buddha’s birthday, and to celebrate people write wishes on small tags, hang them on colored lanterns and then release the lanterns to float away into the night sky.",
+    "imageCredits": "Roy Cruz Photo / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_10.jpg?versionId=O8j7JrtholJkfnYypw.1OMw7KjWmICxa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_10.jpg?versionId=qHOcGigczSfuhlMKvle6nch1ht3rlHGe",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_10.mp3?versionId=4eaWEFKkEaqutlvhAtK4rrwTGgt8I6RN",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2230517,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Koreans celebrate the new year on both January 1st and the start of the year in the lunar calendar. Lunar New Year is a three-day event and at the beginning of the festivities, people pay respects to their ancestors and remember those who have died. Koreans age on the lunar new year rather than on their birthdays, and they celebrate this by eating thinly sliced rice cakes, playing games, and going to family gatherings.",
+    "imageCredits": "Ed Jones / AFP /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_11.jpg?versionId=IdkEuiAN9ZwQGJyvsy28xrJfj2WyhgNz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_11.jpg?versionId=_5.qpmnvqh9Ni8S_PCuN0uOTsX.h3gbn",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_11.mp3?versionId=j8lNHmtMDaIN_J0kGZDT2IE3gZwVmSg7",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2230939,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Korea is famous for its street food. In Seoul, street food varies from savory to sweet and is often served on a stick so it can be eaten standing up. Hweori gamja (tornado potato) is a spiral-cut, deep fried potato seasoned with salt, onion, cheese or honey.",
+    "imageCredits": "Chirawan / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_12.jpg?versionId=.3WMvTAZr8Whx_atIM1K_ZXmz9RYeV6S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_12.jpg?versionId=1jOtFeeyjydUu3Rxg_sZYzm6xuccJymB",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_12.mp3?versionId=mb7JfcxIZc2MSLQYXmGgGr3OV3wiXzdu",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2231414,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "League of Legends is one of the most popular video games in the world, played by over 27 million people daily. It was the number one title at Korean internet cafes from 2012 to 2016, and remains the second most played title today.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_13.jpg?versionId=q6cIn0PumT4AhmpMnKIwxDXdTToCOsaK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_13.jpg?versionId=RWk4u5JdkP8lNJQZ7KasSvMVNHtjUW3A",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_13.mp3?versionId=UQ_2bwVwO9O7jslv3JqOKYHFSkMIstR9",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2231997,
+    "cultureContent": {
+    "imageLocation": "Gangneung",
+    "imageDescription": "Kimchi is a staple in Korean cuisine. It is made from salted, fermented cabbage and served with nearly every meal. Traditionally kimchi was stored underground in glass jars for preservation, but with the rise of technology refrigeration is a more popular storing method.",
+    "imageCredits": "Sungjin Kim / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_14.jpg?versionId=RnbZO6PjZC8_7dT34dFPVPLehN0mdxZN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_14.jpg?versionId=fz4lL4Arcy9XQ8XyvGilc72M.8Qt1D6F",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_14.mp3?versionId=jhm3N6RGsX0U2d9dVlSCpwPE2SEtnNBs",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2232413,
+    "cultureContent": {
+    "imageLocation": "Naganeupseong Folk Village, Suncheon",
+    "imageDescription": "The Kingdom of Great Joseon ruled Korea for five centuries. This reign saw the height of Korean culture, science, literature, and technology. The kingdom was replaced by the Korean Empire in 1897, and today very few fortresses remain from the Joseon Dynasty.",
+    "imageCredits": "Insing Jeon / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_15.jpg?versionId=igM7HJbBUEzzdqX7X4NrFp6hr_nzffxM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_15.jpg?versionId=lnWjmjH.geJO3zZe.8NCl3lSxz2oWr12",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_15.mp3?versionId=XQTZS1MN.POhflQuonf0pKbQBLZAB_9q",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2232779,
+    "cultureContent": {
+    "imageLocation": "Oedo Island, Geoje",
+    "imageDescription": "Oedo Island is located off the southern coast of Korea. Beginning in the 1970s it was made into a botanical attraction, featuring several gardens and pristine white statues. Since its opening in the 90s Oedo has hosted 18 million visitors.",
+    "imageCredits": "Travel and Still Life Photography / iStock / Getty images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_16.jpg?versionId=KdfHegAyMyJf.2WfhRhnjGXL9ovb4d8c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_16.jpg?versionId=kjW.AuRFduF5DMkxSQ2TESi6wmBk.fnB",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_16.mp3?versionId=GWEo4YIvVc_gwXDqIJzxf0IJgRhnUVPA",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2233237,
+    "cultureContent": {
+    "imageLocation": "Jinhae",
+    "imageDescription": "Blossoming cherry trees are bountiful in Korea and a huge tourist attraction every March and April. The Korean cherry blossom tree is called the king cherry. It only blooms for a few days and boasts huge pink flowers. In Jinhae there is the Gunhangje Cherry Blossom Festival which is the biggest of all the cherry blossom festivals in Korea.",
+    "imageCredits": "tawatchaiprakobkit / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_17.jpg?versionId=KhJMS1yq6Max2XD5IhXtqMZtCTFI_8JC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_17.jpg?versionId=tUqG67GcNZv2mNho8877GsIykbXgbT.L",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_17.mp3?versionId=p1v8OkVQSFfny0WAqj56lMTJHY3M5sg_",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2233681,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Lee Bul is a contemporary sculptor whose work often comments on the marginalization of women. Her sculptures are abstract and sometimes interactive. Bul has been known to have brought a rotting fish to an exhibition to evoke the smell of decay over time. Bul’s work is heavily influenced by the historical avant-garde.",
+    "imageCredits": "Chesnot / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_18.jpg?versionId=p5Z4dyOF7LLVcHzBeGtGZD3M2kqIoPir",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_18.jpg?versionId=TaDSVC86bqtsBo1nogQnoONbyVDbmZTf",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_18.mp3?versionId=lGBmXEfduiWTchBBw40zLoKg3YH3SLQl",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2234154,
+    "cultureContent": {
+    "imageLocation": "Gamcheon Culture Village, Busan",
+    "imageDescription": "Gamcheon Culture Village is a picturesque village in Busan. The village is known for its brightly painted houses, narrow alleys, and twisting streets. Gamcheon was originally a shanty town built by refugees of the Korean War. It was carved into the side of a mountain where the surrounding land was inhospitable after the war. What began as a refugee town is now a tourist attraction.",
+    "imageCredits": "pinglabel / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_19.jpg?versionId=qymj8b3RJsydOiXGtguhfjodUdB6xWHV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_19.jpg?versionId=bNJLzFjd.6Lfen.DOIwBkahoWXSnay9z",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_19.mp3?versionId=qbotCB91lfURe7HUT0OcFAgR0OoxpjYS",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2234493,
+    "cultureContent": {
+    "imageLocation": "Dongdaemun Design Plaza, Seoul",
+    "imageDescription": "Dongdaemun Design Plaza is an architectural landscape and culture hub in the historic district in Seoul. Designed in the neo-futuristic style, this landmark known as the DDP hosts twenty-four hour shopping centers. With dreams of becoming the fashion hub of East Asia, the DDP aims to be a one-stop shop for fashionistas.",
+    "imageCredits": "Ignacio Palacio / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_20.jpg?versionId=c2_81LZr5Dt8jf_szMDqSxlsbSvC2Bak",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_20.jpg?versionId=IZeK9De9c1WKXdplNRBPBzKsV1rdkhDi",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_20.mp3?versionId=8g.sQTjwfmqzyxOLHjbWEeZh1V0UCWBs",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2234878,
+    "cultureContent": {
+    "imageLocation": "Demilitarized Zone",
+    "imageDescription": "The Korean Demilitarized Zone (DMZ) cuts across the Korean Peninsula and acts as the border between North and South Korea. The Han River estuary extends the neutral zone, and it is not accessible to anyone besides military vessels. Chinese fishermen sometimes take advantage of the neutral zone by illegally fishing in the unpatrolled Han, as Koreans do not go into the river for fear of a naval battle breaking out.",
+    "imageCredits": "Gregor Sawatzki / fStop / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_21.jpg?versionId=Yi20033ZLqTrSmCgVc9qVO5BP9P1WqxU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_21.jpg?versionId=k4TsE0yds7QUHHCrcTIuBF36aaQLlYCO",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_21.mp3?versionId=mLGbchLFUbkMEQsf9XlhTUB9Ng.rn0ER",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2235534,
+    "cultureContent": {
+    "imageLocation": "Seodaemun, Seoul",
+    "imageDescription": "Founded in 1886, the Ewha Womans University in South Korea is the largest women-only educational institute in the world, with over 20,000 students attending the school. After Korea’s liberation in 1945, the college gained government permission to be recognized as a university and became the first officially organized university in the country. The peculiar name, “womans,” without apostrophe and not using “women,” is intentional.",
+    "imageCredits": "Andrew Haig / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_22.jpg?versionId=M4At0RD79xWI0jgwo8pPOiMgq_Zt0oV9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_22.jpg?versionId=qvRsJOau0MNlyP4HKzuB1kQWq7uSqHrt",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_22.mp3?versionId=D2Ctl1NX3G.tmrtxyl4rehImy9dRFlq9",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2235975,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Korean totem poles are tall wooden structures with faces of people and animals on them. Traditionally these poles were placed on the outskirts of a village to ward off intruders and scare away demons.",
+    "imageCredits": "Excitator / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_23.jpg?versionId=ZVu3b1xX8h6ox40PYnV9Pnlv8kb3TUVy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_23.jpg?versionId=fsNbNrz4BpWz_LXrJXvTtArnwV2UBh5Z",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_23.mp3?versionId=OqNpHYDKy_4hYZ9cJn6czqZRXvM5Jsyl",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2236393,
+    "cultureContent": {
+    "imageLocation": "Gangnam, Seoul",
+    "imageDescription": "Gangnam is the largest district of Seoul, making up roughly 15% of the city’s population. The district is known for its expensive real estate, boasting prices that are twice as high as other districts. Gangnam is considered the nation’s capital for education.",
+    "imageCredits": "Gw. Nam / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_24.jpg?versionId=BIBuwEsXd8WlnUmHPXuN7TJ3Qm.j9VD0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_24.jpg?versionId=nk.wgMj2OZwssshGDquSzpZG9GTKsBVZ",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_24.mp3?versionId=2hLx4jv7VAKeTOqbPaLspsBwjx5eFY56",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2236747,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Seoul Lantern Festival is a new tradition, started in 2009 and held annually in November. The two-week festival lights up the city with sparkling lights and lanterns at the beginning of winter and attracts visitors from all over the world.",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_25.jpg?versionId=n6V0hphzNf72DMPguA1iUviTp_7TDsPV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_25.jpg?versionId=aPM9Ojn_Cro3W.o5.mjiMKnatb83o4QQ",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_25.mp3?versionId=rdduCM_FCWEb.uGo7nADioLOqF7dmlfV",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2237145,
+    "cultureContent": {
+    "imageLocation": "Hyundai Pavilion, Pyeongchang",
+    "imageDescription": "The Vantablack Hyundai Pavilion is an architecturally striking structure that was built for the 2018 Pyeongchang Winter Olympics. It is painted with Vantablack, which is the darkest man-made pigment, so black that it makes the structure’s curved walls look flat.",
+    "imageCredits": "Handout / Getty Images Publicity / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_26.jpg?versionId=2NULAaC1FU8uBZatEiPoFP6tfCp5e946",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_26.jpg?versionId=_HP3kgFpR.vLcmWBPemT9bU.vAV.IOad",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_26.mp3?versionId=1fhWM9TQKqsJRSUayGSpBmmReqvqGnTO",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2237544,
+    "cultureContent": {
+    "imageLocation": "Songwon Art Center, Seoul",
+    "imageDescription": "The Songwon Art Center is located in Bukchon, a village with traditional Hanok houses. Because of regulations, the architects had to design the building between two crossroads, making the building look as if it might spill onto the street. The Art Center has multiple floors including a restaurant, an event center, and art exhibits.",
+    "imageCredits": "View Pictures / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_27.jpg?versionId=gmcaLI5GEdPsnFn71PJJnTh9qS3OFFn_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_27.jpg?versionId=cdfJhYWDllbgwm0.NAaZu0oPe3ka20VK",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_27.mp3?versionId=I8ncEH7FWLW3NaSowi3AcEdB3YVss_Lt",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2237966,
+    "cultureContent": {
+    "imageLocation": "Boryeong",
+    "imageDescription": "Conceived as a marketing strategy for Boryeong cosmetics, the Boryeong Mud Festival occurs during the second week in July. The mud is rich in minerals which are good for the skin, and people slather themselves in mud for the festivities. Some attractions include mud slides, mud prisons, and wellness services.",
+    "imageCredits": "Anadolu Agency / Anodolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_28.jpg?versionId=UP6pGHW_R.QIHDXPWahRAZZF__QLYCM0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_28.jpg?versionId=9vAEEZHLzT2tbGEeNWgpDQfmCBNLnYJR",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_28.mp3?versionId=hu.xDvH1.dwWokDPxoBcB5ndiSbh5u1F",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2238353,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Korean mask dance is a dramatic performance done by actors in costume. The actors wear masks with distorted features to look comical and out of proportion. The performances are short scenes with songs and dances.",
+    "imageCredits": "Derek Winchester / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_29.jpg?versionId=y3hOYJlnc7hNYFsA7RJAmCiG1wctOPts",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_29.jpg?versionId=Ox2H3a3YIEmJAOu4lPcfmfVkrdLwaPmk",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_29.mp3?versionId=HklhGVVw7f4v2bWxjyhkgSMU9P6tzlHS",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2238848,
+    "cultureContent": {
+    "imageLocation": "History",
+    "imageDescription": "When Choi Seung-guk defected from North Korea, he decided to write about his experiences in a comic strip, rather than the typical memoir. Now living in Seoul, he writes about the cultural and linguistic differences between the North and the South by depicting the lives of defectors.",
+    "imageCredits": "Jung Yeon-Je / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/full/KO_1_M_30.jpg?versionId=rJpRWj2GZcmiCUEIy8j34yyZag89xZYk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/lesson_photo/thumb/KO_1_M_30.jpg?versionId=QKP1ejaLbdmoXCvuUDsQOTmX1Sb9HQ4m",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/main_audio/9781508298205_Korean_1_Lesson_30.mp3?versionId=fWqunMtp71fcE1XJ_7Nz3dvxMDwgtxBs",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2239268,
+    "cultureContent": {
+    "imageLocation": "Deoksugung Palace, Seoul",
+    "imageDescription": "Deoksugung is known as one of the “Five Grand Palaces” in Seoul. The Korean royal family inhabited the palace compound until colonial times. Deoksugung is enclosed by an artfully designed stone wall, and the Daehanmum gate has intricately painted details.",
+    "imageCredits": "Christian Kober / John Warburton-Lee Photography Ltd. / AWL Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean Level 1 orig/asset/RL/9781508298205_Korean_1_Alpha.pdf?versionId=.w6tIStYxkv0cnHGEH6tVLV_h6Cl6ggp",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean Level 1 orig/asset/RL/9781508298205_Korean_1_Intro.pdf?versionId=Gg_ho76Roo0jBx6fQ.GL1Ijh6JYIsM0s",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_01.mp3?versionId=Bg4rnq74MoB2tQDwRP.is4.gRmRgcSF7",
+    "mediaItemId": 2223885
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_02.mp3?versionId=XXxhdFWfNqJNvrvOwNZwTkJR7tb37wlY",
+    "mediaItemId": 2224094
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_03.mp3?versionId=hi9W6m.ZgQvKd0jnfurYxeFt91Fvmis7",
+    "mediaItemId": 2224235
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_04.mp3?versionId=FFdzsRfYYKOjHokHDCBaC_8kR.20jVbs",
+    "mediaItemId": 2224434
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_05.mp3?versionId=HQOheBMtjMBhdabf21ZM848v7q5eOjDn",
+    "mediaItemId": 2224594
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_06.mp3?versionId=6ApN_.SveXtZR8ge3pG5pGCOILzDGpFW",
+    "mediaItemId": 2224739
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_07.mp3?versionId=ZMs0roSv3Lemhgt2sOLN5pmwkTMRz07i",
+    "mediaItemId": 2225140
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_08.mp3?versionId=YsxSYsADEZt14419J5ze.HNR40i1GiX3",
+    "mediaItemId": 2226773
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_09.mp3?versionId=zdmQBca3BRn_NmlMCIoBRUpCxb2dwKTA",
+    "mediaItemId": 2229638
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_10.mp3?versionId=MuZA_eyWYhY9wQCFa.iZTH6p4lHD_pkW",
+    "mediaItemId": 2233040
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_11.mp3?versionId=jS7bM2wrGaFd56ubCKKujQIzlhxbLRxl",
+    "mediaItemId": 2236641
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_12.mp3?versionId=I4fYnZDCjzZQypigA0La0yEAejMNmgh4",
+    "mediaItemId": 2239855
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_13.mp3?versionId=sN4D88br9_DN0tV7zMAtHCW8H140n1Yu",
+    "mediaItemId": 2242821
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_14.mp3?versionId=foWE6mAGtdK_T.gFPbr0mPEkoYXvwXsM",
+    "mediaItemId": 2246092
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_15.mp3?versionId=aw_vSAaaJiNsPF1namJqNMzsIer90va5",
+    "mediaItemId": 2248955
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_16.mp3?versionId=cW5DrPcSv6Izxvmn3frLP3LN6YNOJY2k",
+    "mediaItemId": 2251872
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_17.mp3?versionId=8GthlRsgVjO_zXQ.w0xsH5I1NvudnAC9",
+    "mediaItemId": 2254714
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_18.mp3?versionId=52.2GHEQXO5IAK2PuFESCveJbBLggrwW",
+    "mediaItemId": 2257636
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_19.mp3?versionId=jyX5sjk1FIKEZiX5EJIeWGS6VyakeAwo",
+    "mediaItemId": 2260410
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%201%20orig/asset/RL/9781508298205_Korean_1_Reading_Lesson_20.mp3?versionId=7WlO6Cz1c4j39XivQswsQxp_yGID9xtV",
+    "mediaItemId": 2262969
+    }
+    ]
+    },
+    "languageCode": "ko-KR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508298205",
+    "level": 1,
+    "courseName": "Korean Level 1 Premium",
+    "simpleCourseName": "Korean Level 1",
+    "puArabic": false
+    }
+    ]

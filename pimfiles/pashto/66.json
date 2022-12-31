@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 4968,
+    "languageName": "Norwegian",
+    "languageId": 159,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_01.jpg?versionId=ROSq1FTlGSRys_vZbO6DVnu9L6LaF4x.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_01.jpg?versionId=WimnsqkMhrCP1pJtGzUpVDkVoBSTWod1",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_01.mp3?versionId=Etyodmoj_pG3h3z01mm6X_ZLGquId5Fn",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2291655,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "Since 1814 Norway has made every citizen’s income, taxes paid, and net worth part of the public record. In 2001 the country’s public database was digitized, making the information easily available to all.",
+    "imageCredits": "Ajr_images / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_02.jpg?versionId=5UImVFdnG_.tWxSHV_h05qTCKvkI7YS9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_02.jpg?versionId=yplwzX.qXTM4kJVMKFi_y5pxpvZlRWxt",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_02.mp3?versionId=tXjdZNp_VWLh.GJ3n3BmiSPKhJJn9vRt",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2292009,
+    "cultureContent": {
+    "imageLocation": "Bergen, Hordaland, Norway",
+    "imageDescription": "The Bryggen (Dock) dates back to at least the 12th century, but was most recently rebuilt after a fire in 1702. The area boasts year-round events celebrating film, music, food, sports, and the arts. One popular event in December is the Pepperkakebyen, thought to be the world’s largest gingerbread village.",
+    "imageCredits": "Brian Bumby / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_03.jpg?versionId=GXJ4aLmxIggLEPfR8GwWfbdgaGz1gTKN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_03.jpg?versionId=pdaxFyo6H_F.MzIOthqmdmULe0DfWuuG",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_03.mp3?versionId=hmiIBDrVCwrKQKOApDivz9pzqUqi7SuF",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2292277,
+    "cultureContent": {
+    "imageLocation": "Lofoten, Norway",
+    "imageDescription": "In northern Norway during Polar Night (between November and January), the sun hardly rises. This is prime time to see the famed Northern Lights or Nordlys.",
+    "imageCredits": "Ansonmiao / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_04.jpg?versionId=Q_mzM0fdCMe4cBGeoHKrfTT9lW5rI8td",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_04.jpg?versionId=SAb.wqvAStLMn0DZPlspg.KHIvItZ.ZA",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_04.mp3?versionId=cwohewtzNd8GTcG5ZH5sgjVWv7pqEpUf",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2292536,
+    "cultureContent": {
+    "imageLocation": "Storvagen, Austvagsoya, Norway",
+    "imageDescription": "The waters around the Lofoten archipelago are popular spawning grounds for Northern Atlantic cod. This species can live up to 40 years, grow up to 6 feet and weigh more than 130 pounds. After the fish is caught and processed, it is cured and dried for three months outside, then moved in to special sheds for another 4 to 12 months.",
+    "imageCredits": "Douglas Pearson / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_05.jpg?versionId=jy6JRGUdRrhCpTYsW8sGo_RJQrDxGFI0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_05.jpg?versionId=uOLt4TZA6lkLC2bsjci37yuR1kqikFa_",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_05.mp3?versionId=sMuNlC9.YsCqBMU3KXr6BiVCTPhAgurY",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2292796,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "The wearing of Norwegian traditional folk attire is called wearing bunad, and it is common to see bunad worn at weddings and holidays, particularly the National Day celebrations in mid-May.",
+    "imageCredits": "Susan_Jackman / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_06.jpg?versionId=N65uGs5IH_tatczhtMj9nIi79gOgBXaP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_06.jpg?versionId=wePsThyts3FQTMaF4tqjBusnetNqGoYK",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_06.mp3?versionId=gcCQT1fOPlt8VVlfgQojH7Cm6yKkHFne",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2293076,
+    "cultureContent": {
+    "imageLocation": "Haugesund, Norway",
+    "imageDescription": "The Viking’s shipbuilding skill let them expand their reach to Europe, the Middle East, and even to North America. This longship replica, Draken Harald Hårfagre toured the East coast of North America from its homeport in Haugesund.",
+    "imageCredits": "Bo Zaunders / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_07.jpg?versionId=C2uiD2W9DY0P1007n6TWVlTT1UVRlu_W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_07.jpg?versionId=yotabQKEJnWlcGaa66D9gGNMgNan4LHo",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_07.mp3?versionId=IWHUFFjmTPVXpcEvoY1OkfiNoFJqH_Xw",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2293333,
+    "cultureContent": {
+    "imageLocation": "London, England",
+    "imageDescription": "Norwegian painter Edvard Munch was born in Løten, Norway in 1863. His most famous painting, commonly known as The Scream, was set in a fjord overlooking Oslo, where the artist died in 1944.",
+    "imageCredits": "Oli Scarff / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_08.jpg?versionId=nA92ei8slI9_hITBz0ktw.oRZKfBrBdN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_08.jpg?versionId=JsLS.GuOlhPHKOUCKEIwGMnJdbAQD.vv",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_08.mp3?versionId=nFhYlEwBzgY0LI5tBs7v4Tkhhw_Ym0t7",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2293567,
+    "cultureContent": {
+    "imageLocation": "Munich, Germany",
+    "imageDescription": "Known for their 1985 hit “Take on Me,” Norwegian band A-Ha are still beloved by fans both at home and abroad. Lead singer Morten Harket holds the Guinness World Record for the longest continuously held note in a live performance at 20.2 seconds.",
+    "imageCredits": "Stefan M. Prager / Redferns / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_09.jpg?versionId=B6nVBLp6ZKtNJJjaK_2rq9fBXOKGdPNU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_09.jpg?versionId=NdA3.HXrynLi5yNNKQJvxV6jyGqvp9ZY",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_09.mp3?versionId=pCnQGl7trkUjeLbZp5howjrHtoqd7CDh",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2293784,
+    "cultureContent": {
+    "imageLocation": "Svolvaer, Lofoten Islands, Norway",
+    "imageDescription": "The Lofoten Archipelago in the far northwestern corner of Norway has been inhabited by humans for over 5,000 years. Sitting above the Artic Circle, it is home to the world’s largest Viking chieftain’s house, and the Badeenglene or bathing angels, a group of women who alternate sauna sessions with a 10-minute swim in the frigid Norwegian Sea every week year-round.",
+    "imageCredits": "Roberto Moiola / Sysaworld / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_10.jpg?versionId=pwrAjbcVrK17jjwv_3.WqfoUqo3RJHh6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_10.jpg?versionId=.BxJzlx8BV8OIeEFhHtAi5mcB1jnku8s",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_10.mp3?versionId=5KragP9xGeYFaF0qQCkKfBtpwucX_8GF",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2294108,
+    "cultureContent": {
+    "imageLocation": "Nordkapp, Finnmark, Norway",
+    "imageDescription": "This northernmost point in continental Europe gets up to 200,000 visitors per year. In 1553, English explorer Richard Chancellor landed here during his quest to find a Northeast passage.",
+    "imageCredits": "Travel Ink / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_11.jpg?versionId=IPRJ3CyL0XenDNgvDMs2.AWFjKkks67A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_11.jpg?versionId=mYH00ljAF_tZeU.BZnHEOIJrnfIkr18b",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_11.mp3?versionId=LzkSbNHL9Wd7XqswUhEll541iyktbSvu",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2294354,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "Mischievous and often wicked, trolls feature heavily in Norse mythology and Scandinavian folklore. Due to the belief that trolls turn to stone when exposed to sunlight, many rock formations and landmarks are named after trolls throughout Scandinavia.",
+    "imageCredits": "George Pachantouris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_12.jpg?versionId=5Bc.ZzEB2a4tvKrrY0R6D_aAIonKqbgl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_12.jpg?versionId=KYThV57MYJigNskzm4zYUH.jkYLPiUG8",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_12.mp3?versionId=gC4cim8ci7xot2Yp786vKnV5GrSIyZuA",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2294594,
+    "cultureContent": {
+    "imageLocation": "Western Norway",
+    "imageDescription": "Formed by the movement of ancient glaciers, fjords are some of the most beautiful geological formations on Earth. Norway is home to over 1,200 fjords including the Sognefjord, which is one of the largest and deepest in the world.",
+    "imageCredits": "Cookelma / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_13.jpg?versionId=YEqTHdq49odgfAfHufIINr1I3jW9h4Bp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_13.jpg?versionId=qSphw8VKW1cgEX3wEkD_128jGr09WHp9",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_13.mp3?versionId=ki9CQY8Gty8RDbnRjEMSIzrZanq8NdK3",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2294829,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "Norway is classified as a unitary constitutional monarchy, with a royal family, a prime minister and a parliament. King Harald V and Queen Sonja have been the reigning monarchs since 1991.",
+    "imageCredits": "Handout / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_14.jpg?versionId=vAH_D_MPKcgBZqe.N.GIXfQtyejELCAy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_14.jpg?versionId=sEwQ2GSFUdRgTIceKp8kLYwj1HdNPBdi",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_14.mp3?versionId=wBvgmmy7K2c8vsyLHAkbrR0NpiU43m1x",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2295084,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "In Norway, and many other Scandinavian countries, parents often park their infants outside for naps, even in subzero temperatures. They believe that it promotes better sleep, and helps protect children from sickness.",
+    "imageCredits": "ricochet64 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_15.jpg?versionId=mnZ3NnqpEo9dGSQlW_esEy0as0Lx67Vl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_15.jpg?versionId=f0Qj2QJkW6E.olj8nUmRIN4_3hQrRZg_",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_15.mp3?versionId=_yz3NcG12YkYZxhiVkVFExU_4js71aVc",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2295339,
+    "cultureContent": {
+    "imageLocation": "Norwegian Culture",
+    "imageDescription": "Brunost, or “brown cheese,” is made from caramelizing dairy whey. It’s often consumed at breakfast, served on a type of crispy flat bread called knäkebröd. In 2013, a truck carrying 27 tons of brunost caught fire in Norway, and burned for four days.",
+    "imageCredits": "Geshas / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_16.jpg?versionId=exngLUdl4GvCj4j.i_AjkIV71pyq6WB8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_16.jpg?versionId=guPisiqW02PWIbSEsCQiy6SQI1_HiCwX",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_16.mp3?versionId=6Mzz030mSgZqAYalxzzbDKPWaitvlOlJ",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2295587,
+    "cultureContent": {
+    "imageLocation": "Finse, Ulvik, Norway",
+    "imageDescription": "Terje Isungset is playing an instrument created entirely of ice as part of the Ice Music Culture Festival in Finse. The town is the highest point reachable by Norway’s railroad, and is inaccessible by road vehicles. It was the filming location of the ice planet Hoth in the 1979 film, The Empire Strikes Back.",
+    "imageCredits": "Jonathan Nackstrand / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_17.jpg?versionId=oV9KarvxYFq9rT93HST30COcpEk3e5rO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_17.jpg?versionId=TfM4ZG3n6rQwfsn7H66sVGE_nn16klBn",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_17.mp3?versionId=o._IOzsk3pOliETA3hv4rBSB3CcnG5ri",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2295867,
+    "cultureContent": {
+    "imageLocation": "Tromsø, Norway",
+    "imageDescription": "The city of Tromsø was established in 1838, but the area has been inhabited for almost 10,000 years by Norse and Sámi people. Each year, the region experiences 48 days of continuous polar night from November to January.",
+    "imageCredits": "AmArtPhotography / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_18.jpg?versionId=qaYu.__9XNy1qZZ0mK2R.oFTkYc_A6sl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_18.jpg?versionId=L6gx10IxJw3tJJr0EAEXHX1D_CQAVGAy",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_18.mp3?versionId=zIf5pSfdICUzkke7WTFJzMt6omZ4cl3l",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2296152,
+    "cultureContent": {
+    "imageLocation": "Lillehammer, Norway",
+    "imageDescription": "Cross country skiing is by far the most popular winter sport in the nation, and Norwegian athletes often score highly in the Winter Olympic Games. This artist is performing at the opening ceremony of the Lillehammer 2016 Winter Youth Olympic Games.",
+    "imageCredits": "Jed Leicester /IOC / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_19.jpg?versionId=8z1Z.LVKbgqEvaqzPVgPdll9NoZtaSQ8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_19.jpg?versionId=8cZhqi2o6WVbL7wc6IWok4ny4WaKoy2r",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_19.mp3?versionId=F7HyYU2AochQ7B18rhBx6XscpdVwSrD.",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2296374,
+    "cultureContent": {
+    "imageLocation": "Bergen, Hordaland, Norway",
+    "imageDescription": "May 17th, Grunnlovsdagen, or “the Constitution Day,” commemorates the signing of the Norwegian Constitution in 1814. Children’s parades accompanied by marching bands are held throughout the country.",
+    "imageCredits": "Morten Falch Sortland / Moment Mobile /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_20.jpg?versionId=ECqKntm2wgTfVwIFrQ_.DDOLaAaZ37Jb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_20.jpg?versionId=kAqJiUub_W1pHdThPZp.L0CfxGGs.wTJ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_20.mp3?versionId=KecO.W561kCeaxAu0uJW5gdRaWQoURKS",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2296619,
+    "cultureContent": {
+    "imageLocation": "Tromsø, Norway",
+    "imageDescription": "The design of the Polaria Aquarium was intended to represent the stacking of ice floes as they come to land. It is the most northerly aquarium in the world.",
+    "imageCredits": "DEA / M. Santini / De Agostini / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_21.jpg?versionId=JoBuSNhd8hs_R8BzKrXtoD80XtKjbrL3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_21.jpg?versionId=7wsuhh3X7xl9VL1voZ4QW0pzDYqCguI7",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_21.mp3?versionId=RT2bfOg62iSfnj_Y0Wa3gBJNKnz4.3oe",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2296836,
+    "cultureContent": {
+    "imageLocation": "Svalbard, Norway",
+    "imageDescription": "The Global Seed Vault located on the island of Spitsbergen in the Arctic Ocean was created to store seeds from samples held in gene banks throughout the world, and ensure that regardless of regional or global crises, important food crop seeds will not be lost.",
+    "imageCredits": "VW Pics / Universal Images Group /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_22.jpg?versionId=2pE3dDoDUupWl0ZFf76urv2iGk.3ID27",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_22.jpg?versionId=9NjbokhAucQNVJjOyH2HJXGHRddDgMAp",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_22.mp3?versionId=g1p.cW6wSQ6DJ_wLk10mwDy46EcdYklh",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2297240,
+    "cultureContent": {
+    "imageLocation": "Canada",
+    "imageDescription": "Though known for their speed and durability at sea, many Viking ships presently in museums were found on land in burial mounds; the final resting place of beloved leaders and fierce warriors.",
+    "imageCredits": "grbender / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_23.jpg?versionId=54vp9lh_AK75vtvudlVSzwGWwtI1THTN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_23.jpg?versionId=TaQW2fXCFkuW98C.ZrRJ7LwrUIMYmKSe",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_23.mp3?versionId=9HDriyTzzyFKs9ay3txJXFla7JPbpSm3",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2297476,
+    "cultureContent": {
+    "imageLocation": "Stryn, Norway",
+    "imageDescription": "Part of the largest glacier on the European mainland, the Briksdal glacier resembles a river frozen in time, coursing down between two peaks.",
+    "imageCredits": "Jan Greune / LOOK-foto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_24.jpg?versionId=x5FyNOBa2.ZD_YKVFPEvT9bJD.ST3njT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_24.jpg?versionId=yz7UMgKdMC4.iPjt1_uF87wiKKIRIRF6",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_24.mp3?versionId=5jVFOagoBFLGOVCQnjymN79RANRPxyFY",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2297771,
+    "cultureContent": {
+    "imageLocation": "Longyearbyen, Svalbard, Norway",
+    "imageDescription": "Frigid, isolated, and shadowed by the long polar night for much of the year, Longyearbyen is the northernmost town in the world.",
+    "imageCredits": "Christian Aslund / Lonely Planet / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_25.jpg?versionId=lUPXmw0lHt2Jd2Rt75rMIy2nqNiCSL.P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_25.jpg?versionId=7lN_CBjseG.8p1kT5e7quGuyQNVKzeO4",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_25.mp3?versionId=BGiE5FrVppuoAz3XwMs2pqKAHNa3KP_m",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2298040,
+    "cultureContent": {
+    "imageLocation": "Frogner Park, Oslo, Norway",
+    "imageDescription": "Designed by Norwegian sculptor Gustav Vigeland, The Vigeland installation in Oslo’s Frogner Park houses 212 bronze and granite sculptures, including a giant monolith towering at 14.12 meters high. It took a team of masons 14 years to complete, and features 121 human figures swirling in a maelstrom toward the sky.",
+    "imageCredits": "Ken Gillham / Publisher Mix / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_26.jpg?versionId=ZlA3kmQ_UX.kJEyk9fk.FWUsg0sE0.hr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_26.jpg?versionId=LBdANAfKlAChtyJXEGCbnkjntdeygUfe",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_26.mp3?versionId=FSmbhjar0nke2tkM9d8vx5droeDwlx2k",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2298298,
+    "cultureContent": {
+    "imageLocation": "Trondheim, Norway",
+    "imageDescription": "The Nidaros Cathedral was built over the burial site of King Olav II, leader of Norway from 1015-1028, who was canonized as a saint in 1164 by Pope Alexander III.",
+    "imageCredits": "hwo / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_27.jpg?versionId=rb4fJkxxCj8znQAiIrM2VNmrgfLh5lF1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_27.jpg?versionId=RXkw5OSiitz_DzOPwg2_1taU9_dqxNMt",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_27.mp3?versionId=fDYp7NH60xeAMH95JRzdkCI4iLgyH7c1",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2298566,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "Known in Norwegian as the sorting, or “great thing,” the Norwegian Parliament was established in 1814 along with the Constitution of Norway.",
+    "imageCredits": "Sakkawokkie / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_28.jpg?versionId=5v6OfXQMUN2mbc.Q0rd5dZfQiQWj.BR9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_28.jpg?versionId=.XpGDrlNDKp4X.TiJUY0cRxhUL15xI3q",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_28.mp3?versionId=8Luz40FKeEKF1HDWbBi20JsSX.sXBhgm",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2298794,
+    "cultureContent": {
+    "imageLocation": "Austnesfjord, Lofoten Islands, Norway",
+    "imageDescription": "Raids in Christian territories brought the Vikings in touch with Christianity in 1000 AD, but Christianity didn’t become well established in Norway until the end of the 11th century.",
+    "imageCredits": "kokodrill / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_29.jpg?versionId=6duOfn2yo8guWxWi7srULuXatJEnC1lU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_29.jpg?versionId=lxdF.IbNLA8wEAOv70HYqzY39vVixV4k",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_29.mp3?versionId=jVrWiivwFgFjmjRDd9WzH7.rWY62NHuB",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2299030,
+    "cultureContent": {
+    "imageLocation": "Oslo, Norway",
+    "imageDescription": "The governmental and economic center of Norway, Oslo is one of the fastest growing major cities in Europe.",
+    "imageCredits": "Jorg Greuel / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/full/NO_1_M_30.jpg?versionId=JzGIiNhWE9IKogz99NEVrly.o9nEPfqW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/lesson_photo/thumb/NO_1_M_30.jpg?versionId=1h_PDbMRsiVXqL75S65gqfK56TugMCFl",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/main_audio/9781508296782_Norwegian_1_Lesson_30.mp3?versionId=x.AW68Mqx3olJ.lslKNHM6z9Nq2C_yE5",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2299330,
+    "cultureContent": {
+    "imageLocation": "Lillehammer, Norway",
+    "imageDescription": "The sport of ski jumping was first recorded in Norway in 1808, and eventually spread throughout the world. It was added to the Winter Olympic Games in 1924.",
+    "imageCredits": "Cornelius Poppe / AFP / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian Level 1 orig/asset/RL/9781508296782_Norwegian_1_Intro.pdf?versionId=1sMxRzYE5RmyIuNElKcZfPdvRDjMB6tf",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_11.mp3?versionId=DAcglqA2Ll3TuoJfdV4mgGRRDgXHYvMl",
+    "mediaItemId": 2223793
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_12.mp3?versionId=nD_GBnm1EX2WTAO7vGDIqzmMjb.WxZku",
+    "mediaItemId": 2223926
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_13.mp3?versionId=.txBV0r9As5CjUuClzYKW.3iOIo6wNpz",
+    "mediaItemId": 2224128
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_14.mp3?versionId=4FWJnnlX1vOislxr9JR2wai6TDxoB371",
+    "mediaItemId": 2224276
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_15.mp3?versionId=5J_VmzY6jsFJWEkQguzWl8M0kUrhrmGs",
+    "mediaItemId": 2224458
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_16.mp3?versionId=P4rpFU58trKMBM.T8H5vjKjKzUI0jMQJ",
+    "mediaItemId": 2224641
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_17.mp3?versionId=ROvYRmcNi57AFS8cL1zPdGrkh3L7vZmM",
+    "mediaItemId": 2224756
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_18.mp3?versionId=Yz.jGOviwTEi.OikPsZg3DaUoEgXwyfY",
+    "mediaItemId": 2225472
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_19.mp3?versionId=x1wUMPpzHL0GjfHj8DdH4J_qkbrNzwCA",
+    "mediaItemId": 2227428
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_20.mp3?versionId=p6A8reYbhGWGJc1pKmnwavrKq7Kvw8yl",
+    "mediaItemId": 2230319
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_21.mp3?versionId=Ary6d1zGmPczdRba_S.CcZ.W7leV9bBN",
+    "mediaItemId": 2234036
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_22.mp3?versionId=DmJL_MOd9Jncfzk0P7fDuR4to3rmViqO",
+    "mediaItemId": 2237468
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_23.mp3?versionId=qLWs6EUxzjWBxsKSD5OwrMoSmeHdWgSC",
+    "mediaItemId": 2240999
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_24.mp3?versionId=Ab8EppgJRhk3MlN4TdhhDEVYAHK3Rbq.",
+    "mediaItemId": 2243849
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_25.mp3?versionId=AzBakwfRNBpF9Lb7MdHhaIAFJEzAx_je",
+    "mediaItemId": 2246972
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_26.mp3?versionId=57LZew__WZJEHnxHG99WK1OnR0F2klOY",
+    "mediaItemId": 2249966
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_27.mp3?versionId=PPQyAq4lfsZBQpcJ6E.Idkf8E4Koy5O2",
+    "mediaItemId": 2252964
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_28.mp3?versionId=7qeRfPc448JtRJEtJZ1CU_Jid1E5QBvU",
+    "mediaItemId": 2255705
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_29.mp3?versionId=zC5GugFcdRZbn5hyDrd7xKemgEzCObCJ",
+    "mediaItemId": 2258518
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Norwegian/Norwegian%20Level%201%20orig/asset/RL/9781508296782_Norwegian_1_Reading_Lesson_30.mp3?versionId=BFz1jnjYlk3mFcozRrbJX4J47U6z8aIq",
+    "mediaItemId": 2261236
+    }
+    ]
+    },
+    "languageCode": "no-NO",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508296782",
+    "level": 1,
+    "courseName": "Norwegian Level 1 Premium",
+    "simpleCourseName": "Norwegian Level 1",
+    "puArabic": false
+    }
+    ]

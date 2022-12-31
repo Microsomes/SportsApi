@@ -1,0 +1,629 @@
+[
+    {
+    "courseId": 5153,
+    "languageName": "Portuguese Brazilian",
+    "languageId": 163,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_01.jpg?versionId=rQ5gVe7hB3URvLc8eWcs.6r_a1uO7Drm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_01.jpg?versionId=ZsNf0w.gmUiyMZXB5xOL62BT27MK.Jsi",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U01_Lesson.mp3?versionId=CgDVqWNkQJ19dk.fT1TVpI521UrkrvXK",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2310791,
+    "cultureContent": {
+    "imageLocation": "Brazil",
+    "imageDescription": "Between the mid-16th and the late 19th centuries, Brazil was the destination for about 40% (approximately four million) of all slaves brought from Africa to the Americas. Today, African influence can be seen in every aspect of Brazilian culture, from religion to food to the language itself.",
+    "imageCredits": "Yuri Alexandre / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_02.jpg?versionId=HJyfdWwINuboeiu2rch3I3yPSz2fnH1D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_02.jpg?versionId=ypm67Xe6tcHA6zrRI.ElJFQ4mQgbTfH7",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U02_Lesson.mp3?versionId=p0fzPesj24JSSAXY_t51lvEOI8LUnQko",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2310965,
+    "cultureContent": {
+    "imageLocation": "Santarem, Pará, Brazil",
+    "imageDescription": "Despite its fierce reputation, the red-bellied piranha, one of twenty species of piranha living in the Amazon River, is actually an omnivore, sustaining itself by foraging and scavenging.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_03.jpg?versionId=eD.18KjP0uguR_voCx83zHD9xTkM5_82",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_03.jpg?versionId=D0gjfzgyQmqHYYJO6DT4.oavfJFn_3xH",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U03_Lesson.mp3?versionId=QgJUgNSXVzctBYnbgkYb7CtvdFZqKFLL",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2311162,
+    "cultureContent": {
+    "imageLocation": "Mato Grasso, Brazil",
+    "imageDescription": "With over 240 species of fish swimming in its waters, the Teles Pires River is reputed to be one of the world’s best rivers for fishing.  Several indigenous groups (about 12,000 people in all) live along the river and depend upon it for their livelihood.",
+    "imageCredits": "LeoFFreitas / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_04.jpg?versionId=99kTnP.2kTISLah3b8GDKmzsmJXgQHqW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_04.jpg?versionId=GMy3Ufo78Po7F4j5p0LMWbhPGJ3vk.nA",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U04_Lesson.mp3?versionId=dSmgYEHyqSqSohqLWCCcl.SuPRY9J9XI",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2311305,
+    "cultureContent": {
+    "imageLocation": "Bahia, Brazil",
+    "imageDescription": "Moqueca, a traditional Brazilian fish stew, is prepared by slow cooking local fish, onions, garlic, tomatoes, and cilantro in a clay pan.  There are two varieties:  moqueca baiana is similar to a curry in consistency, combining coconut milk and palm oil with the other ingredients, while moqueca capixaba does not use milk and replaces the palm oil with olive oil.",
+    "imageCredits": "Eduardo Queiroga-Lumiar / SambaPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_05.jpg?versionId=3rvXT.vi4CmElXFabZVxcIQM1_Lms6Lq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_05.jpg?versionId=fI56qfiWFulYREm2KN_lApSbnUZ_NO6F",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U05_Lesson.mp3?versionId=M9f2C_xMeId5AUiCNcjnS0SNhWXzIKTX",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2311497,
+    "cultureContent": {
+    "imageLocation": "Western Pará State, Brazil",
+    "imageDescription": "The Tapajos Arapiuns Reserve is one of several federally protected inhabited areas in the Amazon Rainforest. The government created the reserves to both conserve the environment and preserve the livelihood of the native inhabitants, protecting them from conflicts between large-scale rubber tappers, logging companies, and cattle ranchers.",
+    "imageCredits": "Luciano Candisani / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_06.jpg?versionId=Xp3d3dVRs6W8_JTjdpzj3R_uWcwo8hl9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_06.jpg?versionId=mrzFNh7OZindMuAijHgk7ZViQ9wyY6Dj",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U06_Lesson.mp3?versionId=ZO0Ac9po_vGdXAnXNdadZ6uSBrxnmCw2",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2311662,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Samba schools are social clubs or associations representing a particular neighborhood of Rio and each has its own flag, colors, and devoted, often life-long members, who spend the year preparing to compete in the annual Samba Parade.",
+    "imageCredits": "Buda Mendes / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_07.jpg?versionId=xmQnFBNggQDnTKtCbhp4r69VQntpcKCv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_07.jpg?versionId=hw8tcGPmBjdqboEWWrPC.WZJVpg3tOef",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U07_Lesson.mp3?versionId=XOKX4ZUEfZC47Zoo6xdU6cqlYuN_3gIL",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2311854,
+    "cultureContent": {
+    "imageLocation": "Florianópolis, Brazil",
+    "imageDescription": "The Hercílio Luz Bridge is the longest suspension bridge in Brazil, and one of the 100 longest in the world.",
+    "imageCredits": "DircinhaSW / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_08.jpg?versionId=_GZAaIpxpbYowwCVmvbHL0p4c986KmE1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_08.jpg?versionId=Cei21rmjkIvLtA6Za0NSYZUTyFSFof2Q",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U08_Lesson.mp3?versionId=PDIzNV2hjrjaWdOCP0jmyE_xD4rwgOKN",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2312067,
+    "cultureContent": {
+    "imageLocation": "Paraty, Brazil",
+    "imageDescription": "During the early 18th century, the small town of Paraty was part of the “Gold Trail,” a 1200-mile road connecting the town and its port to the gold mines in Minas Gerais.  Motor vehicles are not allowed in this district, and people travel around on foot, via bicycle, or in horse-drawn carriages.",
+    "imageCredits": "Maremagnum / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_09.jpg?versionId=1EfDSJ1UkPJrIHtLsntegNvLzzKNGqQR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_09.jpg?versionId=3ZnU7PpLfbYN07Acks4HzBwX2QMUSsoB",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U09_Lesson.mp3?versionId=3d6tDTgb4.5zS9afbRzGz97banrSshd5",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2312264,
+    "cultureContent": {
+    "imageLocation": "Brasília, Brazil",
+    "imageDescription": "The Sede da Procuradoria Geral da República Brasiliera (Attorney General’s Office) is home to the Ministério Público, an autonomous agency in charge of criminal prosecution, defense of minorities’ interests, the environment, and civil offenses committed against society.",
+    "imageCredits": "Francisco Aragão / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_10.jpg?versionId=NvTIu88Icm6dJ2ldnW9Kq1eQxGiCGaLI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_10.jpg?versionId=0RTzo4P60UBfM0FlP_7ZvnLtA3m8dfUa",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U10_Lesson.mp3?versionId=vu032kfkqXkTvynR.RdI.ET2pG5CkNx2",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2312437,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Rio das Ostras (Oyster River) has sunshine an average of 300 days every year, and visitors can often be found sunbathing along its seventeen miles of coastline.  Beaches are lined with kiosks and small bars with live music, and are popular places to swim, relax, fish, or play volleyball.",
+    "imageCredits": "luiz ab / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_11.jpg?versionId=dS9baTwwd9IJnWDTxz0xLlYkuRjx_Cea",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_11.jpg?versionId=FFCVtL41UAzI7eOi4VRLY5Am9Ie4.KjH",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U11_Lesson.mp3?versionId=5sAKfQy03tGMC_2s20AxAUsVDDasb0Qg",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2312645,
+    "cultureContent": {
+    "imageLocation": "Recife, Pernambuco, Brazil",
+    "imageDescription": "Located in the Northern District of Recife, the Parque Dois Irmãos (Two Brothers Park) was founded in 1916.  In 1939 work began to transform part of the 956 acre Atlantic Forest reserve into a zoo and botanical garden.  About 35 acres are devoted to a Natural Science Museum and the zoo, which is home to over 850 animals representing more than 120 species.",
+    "imageCredits": "Francesco Torres Fotographia / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_12.jpg?versionId=rfAJzivCCECrldjb_VgR4hXFQ0lLayAb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_12.jpg?versionId=r7VGwy2CAfD8h2fabb5LZXU_oHDblNGq",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U12_Lesson.mp3?versionId=GrsabZki7_oS80ZzWeyYsVUgZomIFprW",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2312960,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Though today this 2.5 mile-long beach is one of the most famous in the world, until the late 19th century, Copacabana was a small fishing village.",
+    "imageCredits": "John W Banagan / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_13.jpg?versionId=mi1MoU0_NLokgweD.JWddKx8Lu2cm6yI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_13.jpg?versionId=Oplx.4b6zul2fJG4YZZNCNDmGHlD.0MQ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U13_Lesson.mp3?versionId=npRQYTa3NAh6KT27E8hd7CBYFY6QZVOm",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2313131,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Feijoada, also known as the National Dish of Brazil, is a traditional stew prepared with beans, beef, and pork usually served with rice, sautéed collard greens, orange wedges, and farofa (toasted manioc flour), which is sprinkled over the feijoada.",
+    "imageCredits": "James And James / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_14.jpg?versionId=XyMbL2yrEemGBjXre2gy2RNGHMLTLtop",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_14.jpg?versionId=MN8bh_ZjCPRwncjhtdMbFftjeJD5Eb4O",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U14_Lesson.mp3?versionId=Dt6Is85tNDKKSt0xsBaqQdFk5KRPSkZJ",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2313308,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "The mixture of jazz and samba known as bossa nova (new style) first surged to popularity in the 1950s and 1960s. Its roots lie in traditional Afro-Brazilian sounds, but its distinct modern sound is created by using the guitar both as a harmonic and a percussive instrument. Composer, guitarist, and singer João Gilberto, along with his wife, won a Grammy in 1964 for his bossa nova song, “Garota de Ipanema” (“The Girl from Ipanema”).",
+    "imageCredits": "AFP / AFP/Getty Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_15.jpg?versionId=uRu1koYJCy4V1XWtcbvC2vBhNB4ExlLv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_15.jpg?versionId=8DGU47NzOtuD6F8eCGQ40G6sZoHHxC68",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U15_Lesson.mp3?versionId=3jnu4Iyz8yo_T5er1lMvXhHUbPr77qke",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2313523,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Pastels are fried dumplings filled with ground meat, shrimp, cheese, or vegetables. These delicious treats are sold on the streets at a barraca de pastel, or in fast food shops known as pastelarias.",
+    "imageCredits": "Luis Pacheco / SambaPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_16.jpg?versionId=S__HinzCOAFHKHjz_cB5yGz9Ggbs7b9u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_16.jpg?versionId=MnBaPewATI2.3L6h5995KOXWxInidryF",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U16_Lesson.mp3?versionId=PneZy6NPSQR8BWFh_MmOz4adQlWenMoq",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2313685,
+    "cultureContent": {
+    "imageLocation": "Brazil",
+    "imageDescription": "The Yanomami, numbering about 32,000 members, are the largest isolated tribe of Native Americans in South America.  They live in the rainforest in the mountains of North Brazil in large circular communal houses called yanos or shabonos, some of which can house up to 400 people.",
+    "imageCredits": "Andujar Claudia / Science Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_17.jpg?versionId=BBfJ1UAd34IVsXEmmwUcp.zG3ueHyIk_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_17.jpg?versionId=FoMsEBDvXtjQkCvyv0PYrRAyz4_YXPqQ",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U17_Lesson.mp3?versionId=shZ2rBtbvUzMfofJfASQayQohoyppwLc",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2313886,
+    "cultureContent": {
+    "imageLocation": "Brazil",
+    "imageDescription": "“Stand up and paddle surfing” (SUP – pronounced “Soupie” by Brazilians), originated in Waikiki in the 1950s and soon caught on all over Brazil. Enthusiasts say that within an hour a beginner can master the basics. Surfing this waterfall in the rain forest might take a bit more practice.",
+    "imageCredits": "Rick Neves / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_18.jpg?versionId=BbO18O3rhKMx5Vpv6_TO8zr2nOZczZXJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_18.jpg?versionId=nANQLux7npBlYUVIaHAEuGSEr44b9gKd",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U18_Lesson.mp3?versionId=qzQLlvHIsd7fXFy4w_LIFWwNzAsXm7Mw",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2314077,
+    "cultureContent": {
+    "imageLocation": "Manaus, Brazil",
+    "imageDescription": "The Teatro Amazonas (Amazon Theater) is an opera house located in Manaus, Brazil, deep within the heart of the Amazon rain forest.  It was built between 1885 and 1896, at the height of the “rubber boom,” when European colonists in Brazil were quickly amassing large fortunes.",
+    "imageCredits": "Gabriel Sperandio / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_19.jpg?versionId=4Jr8zQGDwx53347ZD9ZrMKBFbCQMLF5r",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_19.jpg?versionId=urDhWo88zIcUlSvDPGGsqELksdub6UlG",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U19_Lesson.mp3?versionId=GfRHDavyF61Dnb_3zSHljrk1MsNrpcx9",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2314260,
+    "cultureContent": {
+    "imageLocation": "Salvador, Bahia, Brazil",
+    "imageDescription": "Salvador de Bahia was the original capital of Brazil, maintaining that position until 1763.  It consists of an upper city, filled with historic homes and buildings, and the lower city, which centers on the port. Pelourinho, at the heart of the upper city was declared a UNESCO World Heritage Site in 1985.",
+    "imageCredits": "Keren Su / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_20.jpg?versionId=5hiNl6wA6.UNK_8gCX2uTAcxeQ7vGCcp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_20.jpg?versionId=iqjLUhfk7cUr9.EKEzFQxdNeg5HFTn1G",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U20_Lesson.mp3?versionId=VqOnV0C.J8spG99NPyp0Sr.4WfHhmBIb",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2314444,
+    "cultureContent": {
+    "imageLocation": "Minas Gerais, Brazil",
+    "imageDescription": "Tiradentes is a small colonial town located in the province of Minas Gerais. Founded in 1718 during the Brazilian Gold Rush, the town was originally called São José del Rey.  It was renamed in honor of Joaquim José da Silva Xavier, a hero of the Brazilian revolutionary movement whose nickname was “Tiradentes.”  His struggles helped pave the way for the developing country, which was officially declared a Republic in 1889.  April 21st, the day of his death, is an official Brazilian holiday.",
+    "imageCredits": "Ian Trower / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_21.jpg?versionId=MQ7jygsTqPaTAoNRhtYOAZ2SlXY2mIIw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_21.jpg?versionId=z.tZe_BzvaeE_BXM2ZzjA9gsu8gY3R.a",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U21_Lesson.mp3?versionId=Vg.8EhD9XA893B7mqI02womt5VGJ3vUX",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2314643,
+    "cultureContent": {
+    "imageLocation": "Natal, Rio Grande do Norte, Brazil",
+    "imageDescription": "Genipabu Beach, located north of Natal, is famous for the vast and constantly changing sand dunes, gorgeous views, and the crystal clear blue waters of the Atlantic Ocean.  The beach is also famous for dromedary camel rides over the brilliant white sands.  Dromedary camels were imported to Brazil from Africa about 15 years ago.",
+    "imageCredits": "Adam Hester / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_22.jpg?versionId=5VQayGWoHx_uHe8qIFXsJo2qkyMut_yo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_22.jpg?versionId=6ef5bt1ZQFzfv8IQagUFHiaZ1o.8rWww",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U22_Lesson.mp3?versionId=tYFP8Y3ybBCIvS1sg9FFQ88PnmYRLBdr",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2314847,
+    "cultureContent": {
+    "imageLocation": "Beberibe, Ceará, Brazil",
+    "imageDescription": "Situated within the boundaries of the Parque Nacional das Falesias, Praia de Morro Branco beach is surrounded by large colorful cliffs. Visitors to the area can hire tour guides for wild buggy rides on the dunes or to explore the many caves and caverns.",
+    "imageCredits": "Eduardo A. Neri / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_23.jpg?versionId=5eKsBV4.m9sRUOs1sajOEGU9.4kxtaBk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_23.jpg?versionId=r4l5qN.lYPJFbsYMrWausRcJIIFNy8LG",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U23_Lesson.mp3?versionId=bZsAVrJEx4sOEGUNCHMHbtBibGV4fDFL",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2315116,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "The Centro de Lazer Fábrica de Pompéia (Pompéia Factory Leisure Center) was built to offer citizens a respite from the urban landscape of São Paulo, providing a space for relaxation and community togetherness. The main structure was built from an abandoned brick factory, and is now home to exhibition spaces, a small theater, a library, and a restaurant.  A  series of aerial concrete walkways connect the exhibition space to another section containing sports facilities, a swimming pool, and a solarium.",
+    "imageCredits": "Marcelo Arruda / SambaPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_24.jpg?versionId=OHREFopudAAgWF4nTdYwWGFeG4BWWRMe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_24.jpg?versionId=dEH6xmT24AbTQJBJxjQeXZ75RX7QCqcs",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U24_Lesson.mp3?versionId=_zj3i4F1cEJAN.y4EkXP_jQ_6kyUKL3A",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2315309,
+    "cultureContent": {
+    "imageLocation": "Mucugê, Bahia, Brazil",
+    "imageDescription": "Known as Brazil’s “Lost World,” Chapada Diamantina National Park is home to unusual rock formations, a system of quartzite caves, crystal clear lakes, red rock mesas, subterranean rivers, and giant waterfalls. Visitors can explore, hike, or swim. The region is home to one of the highest waterfalls in Brazil, the Cachoeira da Fumaça (Smoke Falls).  At over 1,200 feet, it’s so high that the water is often disbursed before it hits the ground due to the force of the wind.",
+    "imageCredits": "Alexandre Cappi / LatinContent / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_25.jpg?versionId=q.H39Oqo8kN_IXD7rT8o2AWTqLdWKpBr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_25.jpg?versionId=mMuIHdMdoZZ9MvEhNbzqO0W1wRH7n.dP",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U25_Lesson.mp3?versionId=JF_ZLv1zoWY6c4UKsO_Je_xoy.it8GRh",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2315584,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Morro do Leme is a 700 foot tall mountain anchoring one end of Copacabana Beach.  A cobblestone road takes visitors up to a 10-acre rain forest park that boasts 11,000 different types of plants and 90 animal species including Sagui monkeys.",
+    "imageCredits": "Richard l’Anson / Lonely Planet Images / Getty Images Richard"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_26.jpg?versionId=3XW6sD.4.nM45pRdvSw3YWnCYDLAhllY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_26.jpg?versionId=BwUK8EGAaULixUqk5sP6bal8X2GsPiRf",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U26_Lesson.mp3?versionId=YPgQjSD3u8She0J24rrcjBSvrAH0oB8b",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2315759,
+    "cultureContent": {
+    "imageLocation": "Brazil",
+    "imageDescription": "The Atlantic Rainforest covers a 1500 square-mile region, running along the coast of Brazil and extending inland as far as Paraguay and Argentina.  Among the many species that call the rainforest home are the Bromeliaceae, a family of flowering plants that contains over 3,000 species, including pineapples and Spanish moss.",
+    "imageCredits": "Luciano Candisani / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_27.jpg?versionId=J4z.0gzrrptqsC72ZbMJIU5VVVLjKSH6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_27.jpg?versionId=6fMppheF.ddv920LnRV7MERnna920Upn",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U27_Lesson.mp3?versionId=WOkhxgZpJ3k9zktqJAMm23ln3NH66fKl",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2315966,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "Forty-one Grande Prêmio do Brasil (Brazilian Formula One Grand Prix) events have been held since 1973, boasting four Brazilian winners who won twice, and a fifth who won once.",
+    "imageCredits": "Paul Gilham / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_28.jpg?versionId=MQuNYD7xSYfIz1JfVLqHFcyUtUX7gKCI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_28.jpg?versionId=GhfZEcwiqTsWd7K.Mb.xjDrg1tbd.L0L",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U28_Lesson.mp3?versionId=RfzbK_qBtGlNRw65KEIJnldAW1KsULgM",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2316124,
+    "cultureContent": {
+    "imageLocation": "Tamandare, Pernambuco, Brazil",
+    "imageDescription": "The 116 mile long coastline of Pernambuco is home to dozens of beaches of all types, and many known only to locals.  One village, Praia de Carneiros, is a hidden paradise, virtually deserted throughout most of the year.  There are few cars and no paved roads; the only way to get around the small town is via sand or beach footpaths.  The mouth of the river is located between large banks of sand dunes and reefs, forming calm seawater pools that are perfect for swimming and relaxation.",
+    "imageCredits": "Celia Hueck / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_29.jpg?versionId=rb9nEpeQ0NT5_UgJHqPWFxXcXla49K4A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_29.jpg?versionId=yCVNLsseFSzlrO1PCNPeExnAh3QmMFiA",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U29_Lesson.mp3?versionId=4uH4wRlLKlw_GnbZGzurbSbCbu65O87g",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2316309,
+    "cultureContent": {
+    "imageLocation": "Niterói, Brazil",
+    "imageDescription": "Theme parks were introduced to Brazil only a decade ago, but today its 27 parks boast an estimated 12 million visitors per year.  They are thought to be a key instrument for development.  An estimated 11 jobs are created in support industries (food, transportation, lodging, etc.) for each theme park employee hired.",
+    "imageCredits": "Silvestre Machado / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/full/BP_3_M_30.jpg?versionId=H01xMu09HxrnPhI6kZS3MPbKlI3F0v6W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/lesson_photo/thumb/BP_3_M_30.jpg?versionId=9281VUjY1LP0.Ky23oBT.seVouQvNbD7",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/main_audio/9781442375000_Brazilian_Portuguese3_U30_Lesson.mp3?versionId=TWmFbfsEYIppZDeRjtP4Yyvf2686_EAd",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2316489,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Music popularized in the favelas (slums), including samba and funk carioca, has spread throughout the world.  Over the past twenty years, the government has worked to try to secure, restructure, and rehabilitate favelas, promoting urban development and providing education programs and computers. Pacifying police units now patrol and manage many of the favelas, driving out the gangs and drug traffickers who once ran the neighborhoods.",
+    "imageCredits": "José Eduardo Nucci / Moment Open / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese (Brazilian)/Portuguese (Brazilian) Level 3 orig/asset/RL/9781442375000_Brazilian_Portuguese_3_Intro.pdf?versionId=0weaFVKV8_CbG65LEgFUK5fQrZUFQspy",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit01_Reading.mp3?versionId=8x24VqXZKZ4yojdOrH2XaN4N1q5C.rL2",
+    "mediaItemId": 2223804
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit02_Reading.mp3?versionId=9u1ULxwfLWn1.0lsjjOUzHFbZvao3UsX",
+    "mediaItemId": 2223958
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit03_Reading.mp3?versionId=UgTWAPLwwHxIU_3vE2r.krQJXKPQn4W8",
+    "mediaItemId": 2224148
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit04_Reading.mp3?versionId=F5y15qo4miMNGVe7dazgE37Zgevn1U8H",
+    "mediaItemId": 2224339
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit05_Reading.mp3?versionId=1_DdQ7L1Hk51JpVoQVI55tMBd7ut00fk",
+    "mediaItemId": 2224482
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit06_Reading.mp3?versionId=oRL_JZEFJFTlCfr9uwaWCdwp9Ui5TS6y",
+    "mediaItemId": 2224677
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit07_Reading.mp3?versionId=fekpOhGj5kCVwRQ7cnmCjVx2qUFspzH1",
+    "mediaItemId": 2224780
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit08_Reading.mp3?versionId=fmbShEa4WSeigxDwjvxRPavgeAgJ9J5h",
+    "mediaItemId": 2225837
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit09_Reading.mp3?versionId=prd.F0Fu3xCZlQnKhF2XLdxMj_ZXDY.o",
+    "mediaItemId": 2228145
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit10_Reading.mp3?versionId=2bHcOjs.zCA0FpGX.KVCNJlxaqpLbSkG",
+    "mediaItemId": 2231484
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit11_Reading.mp3?versionId=HFrpkwKyFQXn8AVSpmIix.DKTSO7J0YB",
+    "mediaItemId": 2234888
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit12_Reading.mp3?versionId=SZV5kn0U99gX7yW_Ma8HfCPRV6NNZXzu",
+    "mediaItemId": 2238188
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit13_Reading.mp3?versionId=4pjDD8kdcNg7aWtKvV6u4i.wQ7suwrTI",
+    "mediaItemId": 2241338
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit14_Reading.mp3?versionId=NEbpMqbxqwYjXxRuI4a65PQo4a8gDzce",
+    "mediaItemId": 2244147
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit15_Reading.mp3?versionId=CsSRBTU.HjfnOT37_Wm2cBrHtTfpnKWC",
+    "mediaItemId": 2247254
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit16_Reading.mp3?versionId=UYVx0dGVAtUq6q4PPuPqqMIqJfOY9YEA",
+    "mediaItemId": 2250277
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit17_Reading.mp3?versionId=Nw8B0D6ehhJEQXgfuGIJQrMUR1CCXYNE",
+    "mediaItemId": 2253302
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit18_Reading.mp3?versionId=xWS7uxNtTYQbewWW59J8WM0zePwdQIru",
+    "mediaItemId": 2256101
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%203%20orig/asset/RL/9781442375000_Brazilian_Portuguese3_Unit19_Reading.mp3?versionId=b1KIShpgpkVyc3AFQo3.pxjDvP.FWx1q",
+    "mediaItemId": 2258905
+    }
+    ]
+    },
+    "languageCode": "pt-BR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442375000",
+    "level": 3,
+    "courseName": "Portuguese (Brazilian) Level 3 Premium",
+    "simpleCourseName": "Portuguese (Brazilian) Level 3",
+    "puArabic": false
+    }
+    ]

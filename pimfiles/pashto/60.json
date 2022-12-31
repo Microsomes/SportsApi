@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6040,
+    "languageName": "Italian",
+    "languageId": 155,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_01.jpg?versionId=7szEPr4rB7El.kRC6Nv9NwcbZsXxYhSy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_01.jpg?versionId=D3AasuQW6lv7F460uE7DX95opBqVhaWU",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U01_Lesson.mp3?versionId=gNOsHEAn_qXdkAl8BvUzOi63VOZJ1fPW",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2310385,
+    "cultureContent": {
+    "imageLocation": "Fossombrone, Marche",
+    "imageDescription": "Italy is home to forty-nine UNESCO World Heritage sites, more than any other country in the world. There are also an estimated 3,600 museums, 480 archeological sites, 10,000 churches, 1,500 monasteries, and 40,000 castles, towers and fortresses.",
+    "imageCredits": "DOF-PHOTO by Fulvio / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_02.jpg?versionId=UK3Ba7l5VHLZN_NcV5sB2Xlyx0cVe_Jn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_02.jpg?versionId=Nj9mO65HKu9sg1zUFk39u_MirR1EDHaW",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U02_Lesson.mp3?versionId=02LwZrT6B6QV61xk82fZCgegjzGwqqan",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2310526,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "Il Palazzo della Civiltà Italiana is one of the best-known examples of Fascist architecture – large, symmetrical buildings with sharp edges – designed to awe and intimidate.",
+    "imageCredits": "Marco Cristofori / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_03.jpg?versionId=lSLvVaIqGQbsNRvq.HuW1_yRWsp3VDqV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_03.jpg?versionId=rMHTLbCUcy_lmwYrz2Dn_dzS8R49eT53",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U03_Lesson.mp3?versionId=QwQOWcDz6YsTJ2s1g1bDfiJog_YlVphS",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2310648,
+    "cultureContent": {
+    "imageLocation": "Perugia, Umbria",
+    "imageDescription": "There are about seven hundred different kinds of olives in the world.  Modern milling equipment makes it possible to produce extra virgin olive oils that are fresh, complex, and every bit as varied as wine varietals.",
+    "imageCredits": "Foodcollection RF / Foodcollection RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_04.jpg?versionId=IosB8Jera2QjPnEnKcdFLxhZypeRQzma",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_04.jpg?versionId=KZ7fqoy8Sx4XU5rjIl.0Eooss_qSAsuw",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U04_Lesson.mp3?versionId=x0u5INBKPX0Lz10hIWNCYqvjYxsELGd7",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2310800,
+    "cultureContent": {
+    "imageLocation": "Sanremo, Liguria",
+    "imageDescription": "Gambling in Italy dates back at least to the days of the Roman Empire.  Italy’s first government-sanctioned gambling house operated between 1638 and 1774 when Venice’s city leaders used a wing of the San Moisè Palace as Il Ridotto (The Private Room).",
+    "imageCredits": "Steve Allen / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_05.jpg?versionId=Z5936TFExWX0ZpKDOfCTDMVQ_fyJ8kUV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_05.jpg?versionId=aNbO99FzTSrHiUefXRfiaGwwJyv3wAPE",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U05_Lesson.mp3?versionId=eB8lYRYGgA6WSidgJa9BqZ5oVVjrK5tL",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2311073,
+    "cultureContent": {
+    "imageLocation": "Lipari, Sicily",
+    "imageDescription": "Lipari, the largest of the Aeolian Islands, is located about 19 miles from Sicily, and has a surface area of about 14 square miles.  It was believed to have been created by a succession of four volcanic movements, the last of which occurred in the fifth century CE.",
+    "imageCredits": "Nicholas DeVore / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_06.jpg?versionId=yPfx.CzoAT7DOgcf2IThWifP1Qyl8Xwe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_06.jpg?versionId=X1ECGrV1YBdXjevJuckHMU8IIYJCRFzx",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U06_Lesson.mp3?versionId=xaa0vN_gbjepaaqZJmfvnSp8qosQMzOZ",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2311231,
+    "cultureContent": {
+    "imageLocation": "Sardinia",
+    "imageDescription": "Every February as part of the Carnival celebration in Ivrea, thousands of townspeople reenact a 12th century revolt by throwing oranges at each other.  An estimated 580,000 pounds of oranges are brought in for the battle from the south, where they’re grown.",
+    "imageCredits": "David Sutherland / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_07.jpg?versionId=IpB1Vt3rnpM4r3_ZsfxkbQ2PAglx63IJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_07.jpg?versionId=t2UhOJzMN8D95ql1fZZEeQouhX2a4g0H",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U07_Lesson.mp3?versionId=V1WQOWBR9mD8H.UntB67GEi_wlMOgB5c",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2311379,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "The Regata Storica is held along the Grand Canal in Venice every year to commemorate the Queen of Cyprus’ 1489 abdication of her throne in favor of Venice.",
+    "imageCredits": "Carlo Morucchio / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_08.jpg?versionId=.C1myUKps5Wdn9MtMSg_3CyxLD4eNe85",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_08.jpg?versionId=vpRYCwZy6qB8jMMp37hQO0N8dZqt7nYN",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U08_Lesson.mp3?versionId=rXYjzmGB1tPOfGesLizgjKY_MYaPHYj_",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2311567,
+    "cultureContent": {
+    "imageLocation": "Ravello, Campania",
+    "imageDescription": "D.H. Lawrence wrote Lady Chatterley’s Lover in Ravello, a resort three miles straight up from the Almalfi coast.",
+    "imageCredits": "Buena Vista Images / Photonica / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_09.jpg?versionId=0Zl0OVcxBgK9E8zb4rHXbs1YACP1Ge1f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_09.jpg?versionId=dPC17DeGAs85j8FJuDHgA4IKWls0bWg8",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U09_Lesson.mp3?versionId=uc2hXMfN4w4mWXAZM15GQz7Fg3k22i8s",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2311719,
+    "cultureContent": {
+    "imageLocation": "Aosta Valley",
+    "imageDescription": "For most of the year, the female Alpine ibex prefers the steep rocky habitat at elevations of up to 11,000 feet, while males gravitate to lowland meadows. They come together only to breed between December and March.",
+    "imageCredits": "Konrad Wothe / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_10.jpg?versionId=Mf5ogLeoB5AJ0O.Ui5ovZM4LCJke6YV6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_10.jpg?versionId=O1BA.HLc5ZEWVgFgaJx7QHOHzHqTTIjh",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U10_Lesson.mp3?versionId=aqsPqlQ9WbnpRBUtBYZhPkuhTr8JTWI2",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2311911,
+    "cultureContent": {
+    "imageLocation": "Capri, Campania",
+    "imageDescription": "Most of Capri is closed to car traffic and there are few roads on the island, so most people get around by bus, train, taxi, or on foot.  Water taxis and boat tours are also popular when the seas are calm.",
+    "imageCredits": "MOIRENC Camille / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_11.jpg?versionId=n2AvFknUOEjuvygw5UOLoAHGDnbE5MVV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_11.jpg?versionId=TBTfo8dR0CsqeWijDPCjGOAexCizoMCt",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U11_Lesson.mp3?versionId=1HqbSxJWrcso9HVbWCNj9Ax16WhAobCS",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2312205,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "The United States Army North, or Fifth Army, was one of the principal formations in the Mediterranean during World War II.  Nearly forty-five hundred soldiers from this formation are buried at the Florence American Cemetery.",
+    "imageCredits": "Chris Cheadle / All Canada Photos / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_12.jpg?versionId=DEBHon7eowgEwMFKc2Hbid5cBwdnVEc6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_12.jpg?versionId=OQi85ZcWNwNWdiCbJyNU3J7VH7Wq6A6D",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U12_Lesson.mp3?versionId=iNfdAvyKQ00zUxRkhfi6Mzg3LNWk5Om0",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2312476,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "Street performance dates back to ancient times. Emperor Augustus, who ruled the Roman Empire from 27 BC until 14 AD, would often invite street performers to entertain at his dinner parties, feasts and celebrations.",
+    "imageCredits": "Richard I’Anson / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_13.jpg?versionId=DYb0JelBG2S4TSF1wnDdOX9vPeSQmKMN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_13.jpg?versionId=XQfVqyIjVDxZH_f2NqZQO_kW1ZuLtNXJ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U13_Lesson.mp3?versionId=iAwIa8rAVncIRf2kRnvaGlW8SW1qWQd9",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2312626,
+    "cultureContent": {
+    "imageLocation": "Cortona, Tuscany",
+    "imageDescription": "The Monastery of Camaldoli, founded in 1012, originally included a laboratory where monks studied medicinal herbs.  Today, it supports itself with a traditional olive mill, and monks produce and sell herbal elixirs and beauty products.",
+    "imageCredits": "Damien Simonis / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_14.jpg?versionId=7aIaSq8KfMjfHW0.Mq7lCoImFih7ZoBR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_14.jpg?versionId=xIzzpUhRtivKsKaO0QzhOp9hrewSRKr5",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U14_Lesson.mp3?versionId=0HEoSJ7zqje0K3RWuWsMmlJBznU.DWVH",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2312795,
+    "cultureContent": {
+    "imageLocation": "Verona, Veneto",
+    "imageDescription": "According to popular belief, those who leave vows of love on the walls of the Giulietta House will stay together forever.  The Verona City Council has recently installed removable panels for visitors to leave notes without defacing the ancient wall.",
+    "imageCredits": "Maremagnum / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_15.jpg?versionId=CQpL3VNQxDjRHy007QmJX3XhRK.x89sa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_15.jpg?versionId=P_jdeFoXAx64BHRm5iXgHkMWngQpzGdE",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U15_Lesson.mp3?versionId=pJODrg5IHn0ChR1Tf4X5DQtbPj.YIgZD",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2312945,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Chiesa di Dio Padre Misericordioso, or Jubilee Church, was designed with heavy concrete walls containing titanium dioxide which producers claim has the ability to destroy air pollution, particularly that caused by cars.",
+    "imageCredits": "Paolo Gaetano Rocco / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_16.jpg?versionId=OADtap.8sOqTPrBdjkJSf4qoR4uxkLpj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_16.jpg?versionId=UtIH6pkrTw38M8SbQ94v.jaqxh4q6Ohm",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U16_Lesson.mp3?versionId=r6YvBA6tZ.oVxNEkdbuw5iA3cLBUljNV",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2313130,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "According to Burano legend, a fisherman resisted a siren’s song out of loyalty to his sweetheart.  As a reward, the queen of the sirens created a wedding veil for her out of sea foam, creating the first lace.",
+    "imageCredits": "Bethune Carmichael / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_17.jpg?versionId=3JLi1gKLaXJY0ZOWwMSNHf2alcjwrDW.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_17.jpg?versionId=iE9ZqmmOMQZIIcmPaykMUv1QXlNgm3aX",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U17_Lesson.mp3?versionId=klQ8ZsHxOWPwt_TwwkoiWEsGkemnEHaV",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2313326,
+    "cultureContent": {
+    "imageLocation": "Siena, Tuscany",
+    "imageDescription": "The Fonte Gaia (Fountain of Joy) was built in 1419 on the site of an even earlier fountain, and included two nude statues of ancient Roman goddesses by Jacopo della Quercia. These statues were replaced in 1866 because they were deemed to be too pagan.",
+    "imageCredits": "Alvaro Leiva / age fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_18.jpg?versionId=sANPBG1tUHrzIbYqHy8q7dUqWyE0aZ12",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_18.jpg?versionId=IH5dJ6WNbgvdBi5kfx9Ede15JRZUdJXy",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U18_Lesson.mp3?versionId=SvspcXhEzjrp2Hclkotq0Eh18OKxHhlu",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2313529,
+    "cultureContent": {
+    "imageLocation": "Lucca, Tuscany",
+    "imageDescription": "San Michele in Foro basilica was built over the ancient Roman forum in 795, but the façade is from the 13th century.  According to legend, the statue of Saint Michael on the roof has a large diamond on his finger.",
+    "imageCredits": "Massimo Pizzotti / Photographers Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_19.jpg?versionId=q8URqAcvnItVCcwZ9Y8wIvPs11KyXO2h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_19.jpg?versionId=Z57QyuckiJttj0j8_HSbmnjiTz4N9Pj6",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U19_Lesson.mp3?versionId=mwYh6Kqt.sQLrF1rKDOVhv4jSouHjedN",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2313691,
+    "cultureContent": {
+    "imageLocation": "Peschiera, Veneto",
+    "imageDescription": "A Nativity scene is recreated every year under the water of the lake during the week before Christmas.  Forty-two carved statues are assembled on metal platforms 2-3 meters below the surface of the water.",
+    "imageCredits": "Flavio Vallenari / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_20.jpg?versionId=Ugj5gJWpZklTUTLumnxsYmlS.jmo4zAF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_20.jpg?versionId=qblWfUtncp1dc5.TBeuxmfA3tavumG55",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U20_Lesson.mp3?versionId=B.cxdITFM.tsotb3wsZEqr0NVW.aaTS8",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2313878,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "Until late 2009, Italian police used luxury cars seized from criminals, but this practice was eventually discontinued, as it was too expensive to maintain and operate the cars.",
+    "imageCredits": "Greg Blomberg / Hemera / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_21.jpg?versionId=6G6yj0oGAyGr5qZoGwtzlrrKKzPxbOMX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_21.jpg?versionId=1WIvRV9aUVDK_kWbZJ4z.j0aEBFJCLVR",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U21_Lesson.mp3?versionId=WXDFs.TGzs.ojPttUSX0ao_8KxL2dK04",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2314039,
+    "cultureContent": {
+    "imageLocation": "Livorno, Tuscany",
+    "imageDescription": "Terazza Mascagni was originally built in the 20s as a bridge to span the Fosso Reale (Royal Canal) in  Livorno.  Livorno’s port is a common cruise destination, as a gateway to the Tuscan cities of Florence and Pisa.",
+    "imageCredits": "Peter Zelei / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_22.jpg?versionId=1u3qlgFKHSjPyWKSyCwZSqwtzSxk1mN1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_22.jpg?versionId=jQfMdLjX99H0FjyieO__FxEWTl1t.SZ5",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U22_Lesson.mp3?versionId=.smuk8nn3dSJ3Tfgqy.hNQLdUdAK3.7r",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2314279,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The MAXXI museum, designed by Zaha Hadid, was inspired by the layers of history out of which Rome is built.  Powerful horizontal lines overlap and intersect, connecting spaces, and enticing visitors to explore around the next bend.",
+    "imageCredits": "Vincenzo Lombardo / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_23.jpg?versionId=U9.pK6vYIWtFVkil1lR6gj9NnSF0v_2k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_23.jpg?versionId=4LDha.j3hNIqOJk.795G4f7RHliWX8eZ",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U23_Lesson.mp3?versionId=jfhJbzXd81philOa2YElvYIb3rhYbNbl",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2314523,
+    "cultureContent": {
+    "imageLocation": "Milan, Lombardy",
+    "imageDescription": "The golden Little Madonna who sits atop the tallest of the 135 spires on the Milan Cathedral, is considered so important that, by law, no other building can surpass its 357-foot height.",
+    "imageCredits": "BORGESE Maurizio / hemis.fr / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_24.jpg?versionId=5GMHRo3mkgD1R6.uYL2.UXJmZscMbHqe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_24.jpg?versionId=n.Ve9NcVd_6c2YgDrX3u9zDkF1MSPCP8",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U24_Lesson.mp3?versionId=6.A1QVKBOLyyhPbH4isAF_SgspUv3nUA",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2314693,
+    "cultureContent": {
+    "imageLocation": "Matera, Basilicata",
+    "imageDescription": "The Sassi of Matera (Stones of Matera), a village of ancient cave dwellings, is thought to be one of the first human settlements in Italy.  Many of the houses are unlivable caves; however, over the last 30 years the area has seen resurgence, and today, there are several thriving businesses, pubs and hotels.",
+    "imageCredits": "David Henderson / Caiaimage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_25.jpg?versionId=b0I2e5HbBiFodvKdU28RVVrpW9Rjls3e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_25.jpg?versionId=Rm0KkzxmEk2PajdRV1wOfMBtDvcxFKIc",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U25_Lesson.mp3?versionId=EKiFXsJlgRoesmkhZPP3C1tX50Q.uDG5",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2314858,
+    "cultureContent": {
+    "imageLocation": "Marsala, Sicily",
+    "imageDescription": "Although many of the flats on the Trapani coast are still used for harvesting salt, several of the areas’ historic windmills have been converted to museums, and the flats designated nature preserves, home to wild cranes, herons, flamingoes, and storks.",
+    "imageCredits": "Tommaso di Girolamo / age fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_26.jpg?versionId=Os0fRV8DU6BwJAX59fXHwV0UZVyxc0W9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_26.jpg?versionId=2kfuW8vCG7Yexhl6AV38i4nIX.vkNDg3",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U26_Lesson.mp3?versionId=ghhgVDtUk9EpLvxE9Aycu4i2tzTDZGeb",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2315184,
+    "cultureContent": {
+    "imageLocation": "Trentino-Alto Adige/Südtirol",
+    "imageDescription": "Seasonally moving livestock from the valleys to mountains dates back to prehistory, and until recently, has changed little since the Middle Ages.  Entire families summer in rudimentary stone cabins built in the high mountain pastures, watching over herds of cows and sheep.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_27.jpg?versionId=6nhhwg0KZU2p7N1._vb6FklE9B.iICYu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_27.jpg?versionId=clqso5bUFsxWENhzNQkMLXPNDv.QRXSK",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U27_Lesson.mp3?versionId=v7jnbwLJeKQ6ElagjpWbxWQp9z.IJNEC",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2315399,
+    "cultureContent": {
+    "imageLocation": "Naples, Campania",
+    "imageDescription": "Buffalo mozzarella cheese is an iconic symbol of Italian food.  One theory states that the water buffalo was brought by the Goths in early medieval times; another claims the Arabs brought the creatures into Sicily, where they were then transported to mainland Italy by the Normans.",
+    "imageCredits": "Giovanni Guarino / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_28.jpg?versionId=1iXuuUNOBprL92BzgpwRdfydpLtNnBpP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_28.jpg?versionId=fdDjPgl2swqD4EnEE5t9r3UpA76alM.w",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U28_Lesson.mp3?versionId=hm2X6Q7rhi1Lbt82c9imvarxxVL86xZZ",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2315570,
+    "cultureContent": {
+    "imageLocation": "Campo Tures, Trentino-Alto Adige/Südtirol",
+    "imageDescription": "Throughout northern Italy in early December the Krampus appears, a mythical creature from alpine folklore who acts as an anti-Santa Claus designed to frighten those who have been bad.",
+    "imageCredits": "Carlo Morucchio / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_29.jpg?versionId=YIIHVXe_ICEWiRdHdlrNeUBf6wIUMTsU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_29.jpg?versionId=_je7HQO1EXQcyikCC.YX91v08UCBfrCG",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U29_Lesson.mp3?versionId=fG_350S4cMDCurWynu9TMcDG5Hzb2ax8",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2315740,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "Igor Mitoraj’s “Tyndareus Cracked” is the only modern sculpture in the Boboli Gardens. Most of the rest are Roman antiquities and sculptures from the 16th and 17th centuries.",
+    "imageCredits": "Juliet Coombe / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/full/IT_4_M_30.jpg?versionId=RltfBkkj6pqeSiGfZnMut4mC4VqdC3N4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/lesson_photo/thumb/IT_4_M_30.jpg?versionId=wH4DMmByoctMXCmAd.wZF3q1sRVupMbz",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/main_audio/9781442370579_Italian4_U30_Lesson.mp3?versionId=mfXj6JKJL0I9_shmGYIyrXiwfUSS21eR",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2315910,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Traditionally, Venetians were allowed to wear masks between December 26th, St. Stephen’s Day, and the start of the Venetian carnival, during the fortnight of the Ascension, and between October 5th and Christmas, which allowed them to spend much of the year disguised under a mask.",
+    "imageCredits": "Ken Scicluna / AWL Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian Level 4 orig/asset/RL/9781442370579_Italian_4_Intro.pdf?versionId=AoThnf6Gzmfqpob5m2Z5xoDdn3jbgO9k",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit01_Reading.mp3?versionId=o7yQ0TPwB6edGn5fneLvHoXPEx2x_x5d",
+    "mediaItemId": 2223843
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit02_Reading.mp3?versionId=ibAdtPh9CFrCrOz21GjFIv9LhODASZ.N",
+    "mediaItemId": 2224029
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit03_Reading.mp3?versionId=Vt09RawGQawPU6.s0uScPnJFFDGMGhWW",
+    "mediaItemId": 2224180
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit04_Reading.mp3?versionId=HEKWsJVYHjNzEXjvu6VTWY4B_kngNyI_",
+    "mediaItemId": 2224391
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit05_Reading.mp3?versionId=BaPlzs40vV0CciA9Crl5hcQu_xdTfIn8",
+    "mediaItemId": 2224521
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit06_Reading.mp3?versionId=Tj.aGV6QYVXQFiqJ0RwM9o7.hFwP8IMg",
+    "mediaItemId": 2224708
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit07_Reading.mp3?versionId=Hgq_5.rc.NB5YV07uHiT7CZ_MU7tnNqD",
+    "mediaItemId": 2224929
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit08_Reading.mp3?versionId=Lmt6JaDm8kZqQB6tQpGAfSOKC4NGPM6y",
+    "mediaItemId": 2226286
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit09_Reading.mp3?versionId=sjScWfoK6AhN5mZ2emqRV24kbLvVPDOc",
+    "mediaItemId": 2228617
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit10_Reading.mp3?versionId=T030RMyg6BvVU4gmqTHn0ZlQMYhLhb38",
+    "mediaItemId": 2231939
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit11_Reading.mp3?versionId=NUGgV4i.s5PMieR_sVOq3TojVVKYVkHf",
+    "mediaItemId": 2235449
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit12_Reading.mp3?versionId=pQcyfp3yp44YrYzXZR.jsfOngxoCrLYO",
+    "mediaItemId": 2238814
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit13_Reading.mp3?versionId=IsAClXv5RYTSZOeGV8MZF0s9gLl.5rYi",
+    "mediaItemId": 2241877
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit14_Reading.mp3?versionId=zHtKo8I2O1MlbOco5SiFxACQ7feKekzs",
+    "mediaItemId": 2245102
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit15_Reading.mp3?versionId=6R.DAOIKB2pwkewybU94HFQxxIwNqGxK",
+    "mediaItemId": 2247920
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit16_Reading.mp3?versionId=W6AtbR2.SXldZrHk.6xe1OG4aG2J5yzf",
+    "mediaItemId": 2250948
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit17_Reading.mp3?versionId=4ZufqraTlDaYQydI6c7.E3TmWMLZAXb.",
+    "mediaItemId": 2253694
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit18_Reading.mp3?versionId=GEtV7WrMg_3sCHgZXh9VITdMS2GI9wFi",
+    "mediaItemId": 2256524
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit19_Reading.mp3?versionId=rTxDUBaeQRwwoQO3a9fg7loGFBSGglr6",
+    "mediaItemId": 2259420
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%204%20orig/asset/RL/9781442370579_Italian4_Unit20_Reading.mp3?versionId=JWiGOh69bHWS_e2WPL9b_L6ARrQNXHfw",
+    "mediaItemId": 2261908
+    }
+    ]
+    },
+    "languageCode": "it-IT",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442370579",
+    "level": 4,
+    "courseName": "Italian Level 4 Premium",
+    "simpleCourseName": "Italian Level 4",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,615 @@
+[
+    {
+    "courseId": 5241,
+    "languageName": "Russian",
+    "languageId": 165,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_01.jpg?versionId=bJBItplFZdYQfLzuuFxVWO8iHsmpfIf_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_01.jpg?versionId=cRhSxQ.vCRylv0renCp5SmocmEHmqJyf",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U01_Lesson.mp3?versionId=2GT1x.45J2iC_TUUFTnS1W59K.3YEWXC",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2309986,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russia is the largest country in the world by size, extending halfway around the northern hemisphere and covering 1/7th of the total land on Earth. It also shares borders with more countries than any other country in the world.",
+    "imageCredits": "Stepan Obruchkov / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_02.jpg?versionId=SezclavNnPhCwyerpXg5nAFOz4XMYNgu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_02.jpg?versionId=r_MQcCvzLKdyitOb_WF8_pvnzqaZPJGS",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U02_Lesson.mp3?versionId=no.TPwzORlAEyj3gPAaPaJgyPKHtYI.n",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2310124,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The intricate designs and colors on the exterior and domes of St. Basil’s Cathedral were not part of the cathedral’s original design, but were added in the 1700s, 200 years after its construction.",
+    "imageCredits": "Federica Gentile / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_03.jpg?versionId=0yMe_psY8ot0YeUtohNFpRmp4W7NtUeD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_03.jpg?versionId=w22oz_duCj9CUJ8x2SNHnKxDNG9O..Hw",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U03_Lesson.mp3?versionId=6.RgQidImmC7fK4JRzcxBdXk2oFQiEtZ",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2310284,
+    "cultureContent": {
+    "imageLocation": "Buryatia, Russia",
+    "imageDescription": "The written form of the Buryat language was banned in Russia in 1933, so to get around the ban the language was changed from the Latin alphabet to the Cyrillic alphabet in 1939.",
+    "imageCredits": "Larry Dale Gordon / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_04.jpg?versionId=O12SlEaM2rkjBNGgzAF3cOzIBbdgkNlV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_04.jpg?versionId=.NoaLyn8ukDjyZV7obSSQwNRowxnf7_2",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U04_Lesson.mp3?versionId=FufLbZ9bbI6jvddFMIFMfoUzs0Jd387Y",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2310422,
+    "cultureContent": {
+    "imageLocation": "Brest, Belarus",
+    "imageDescription": "The imposing entrance to the Hero-Fortress complex with Brest Fortress at its center is on the border between Belarus and Poland.  It commemorates Soviet resistance against the German invasion in 1941.",
+    "imageCredits": "Jonathan Smith / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_05.jpg?versionId=DuJ1MIcg_isEmc82R7Kp0YqNge5.RfJu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_05.jpg?versionId=i50eiLV_V72zk9sFQ0goSmv515nJvc6g",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U05_Lesson.mp3?versionId=pyI1qDPCjzf2ZycIoPPby_DIrPBI314d",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2310554,
+    "cultureContent": {
+    "imageLocation": "Baikalskoe, Buryatia Republic, Russia",
+    "imageDescription": "Lake Baikal is thought to be the deepest lake in the world at 5,350 feet, and contains more water than that of all the Great Lakes combined. It is also the world’s oldest lake formed an estimated 25 million years ago.",
+    "imageCredits": "Simon Richmond / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_06.jpg?versionId=51Betv5MDMZsXLQ3lsZOpsR8u13vt5im",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_06.jpg?versionId=o0ZvMYSCySSMcMDVl77Rf8QeLEyCn4Ls",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U06_Lesson.mp3?versionId=mCqxCk.gdROwS3Jhkx9CrE1eoqaA4cvK",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2310718,
+    "cultureContent": {
+    "imageLocation": "Lake Baikal, Siberia",
+    "imageDescription": "Many local residents have reported seeing glowing orbs on the surface of Lake Baikal. According to local folklore, spirits inhabit the area, and so it is avoided. However, scientists say that they are likely methane emissions, which can spontaneously ignite when exposed to air.",
+    "imageCredits": "Robert Jean / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_07.jpg?versionId=rnEUuOq40Mku4a0bFYhb6GTCP0_a_57g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_07.jpg?versionId=6AGezOVsVR03Fwcz0BGjopA8IYKq5XKQ",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U07_Lesson.mp3?versionId=T9Y90xmo2pR3JlpL.cB73w8SMy6zGtej",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2310854,
+    "cultureContent": {
+    "imageLocation": "Geographic North Pole, Arctic Ocean",
+    "imageDescription": "For half of each year the North Pole is in complete darkness, and during the other half, the sun never completely sets.",
+    "imageCredits": "Marketa Jirouskova / Oxford Scientific / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_08.jpg?versionId=0iY6lnIReSuJ4Qvt9EfxBOURkT0vXsDm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_08.jpg?versionId=NSiadAryonD2Mt80K9qgJEEkhqRLJkTl",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U08_Lesson.mp3?versionId=kq_OYroI.Fb0kYPXOH9gsn1uf4tfMkqR",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2311006,
+    "cultureContent": {
+    "imageLocation": "Nizhny-Novgorod, Russia",
+    "imageDescription": "The city of Nizhny-Novgorod is home to more than 600 historic, religious, architectural and cultural monuments, including include eight theatres, five concert halls, 97 libraries, and 17 movie theaters.",
+    "imageCredits": "Martin Moos / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_09.jpg?versionId=qCGt_M5WIAz.lOfxIWz6by4MDY8y6kWU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_09.jpg?versionId=eEMLiuLsqRK5buBfELmXpQaeJ6pgCb4L",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U09_Lesson.mp3?versionId=UIr5Y0yhTKp3Sju37d36lmof9Wggo4Y6",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2311286,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The Russian synchronized swimming team won gold at the 2012 London Summer Olympics, making it their fourth in a row for the event. The Russian team has won every gold medal in the event since 2000.",
+    "imageCredits": "Clive Rose / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_10.jpg?versionId=sCh1QyIS1t8CZU93HDOwR8DYE4yNz9r_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_10.jpg?versionId=P6pGd6egutG5rMblEGgBxc_KIAi.s.yl",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U10_Lesson.mp3?versionId=8.5RetJ_LtmLck68LseBJ6RWjaozA7cF",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2311490,
+    "cultureContent": {
+    "imageLocation": "Astana, Kazakhstan",
+    "imageDescription": "The Central Concert Hall in Astana was designed and built to work with the local climate. The building’s slanted walls are covered with glass panels, which offer some protection from harsh winds and salt air.",
+    "imageCredits": "Jane Sweeney / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_11.jpg?versionId=hebbScV1o15sh_mqSN6CnBeV1WvDWhjI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_11.jpg?versionId=Y.uOC39MOPRRvmV8yew.92hIMLzDadtW",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U11_Lesson.mp3?versionId=Fd5XIgRe28A_R7rAaIuITCyEbrH6jrFE",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2311678,
+    "cultureContent": {
+    "imageLocation": "Turkestan, Kazakhstan",
+    "imageDescription": "The Yasawi Mausoleum, built in the 14th century, contains the largest dome in Central Asia. The mausoleum itself marked the beginning of a new era of architecture.",
+    "imageCredits": "Tim Makins / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_12.jpg?versionId=OtFKse4ZF1sriaUGSbUMRu.KV4J_lVKE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_12.jpg?versionId=t.AiWPUDhDag2YTqUfNnxhODayzDugRB",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U12_Lesson.mp3?versionId=oYiV0XxNeEXPzLxx9BgsYbgMht.4s9VM",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2311955,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russian soups can be divided into seven categories: Cold, hot, noodle soups, cabbage-based, meat-based, fish-based, and grain or vegetable soups.",
+    "imageCredits": "Arx0nt / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_13.jpg?versionId=2eYO1JomW6T7Sp.YvYGoi4_3pur0y3C1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_13.jpg?versionId=.vyYVqT5RUVgMJfsQhs2yCKzCLHXFXAa",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U13_Lesson.mp3?versionId=VEvWCct0sBj.BSeMo3.T_iMAYIkOKWbe",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2312126,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Bandy, a 200-year old combination of soccer and ice hockey, is one of the most popular spectator sports in Russia but is almost unknown in the United States. It was a demonstration sport at the 2014 Winter Olympics.",
+    "imageCredits": "Heikki Saukkomaa / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_14.jpg?versionId=..M.vW2atcGYU48A7jCEoSk8xXGECCgQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_14.jpg?versionId=SiVzvdQBv_BpNmJJGvrYqlv.90PDFoj4",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U14_Lesson.mp3?versionId=Dgp1Ctg6S.9FwmzXmK_DkZ7fkM0wx3xW",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2312324,
+    "cultureContent": {
+    "imageLocation": "Richov, Belarus",
+    "imageDescription": "Russian pancakes or blinis, are an integral part of Maslenitsa, the traditional springtime celebration. Blinis are traditionally served with caviar, mushrooms, jam, sour cream, or butter.",
+    "imageCredits": "Viktor Drachev / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_15.jpg?versionId=tFIdpIIG6xVjgoCi.3nwTmSp4ksz_j7c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_15.jpg?versionId=CmQRP9WsmjVMKNhtYHpPHZSqnsltm6Tw",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U15_Lesson.mp3?versionId=fTgv4VrdgvpsnxFHOiMsgWUX3illGiy6",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2312489,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The town of Pushkin, located inside the city of St. Petersburg, was originally an imperial summer residence. During the Soviet era, the town was declared a museum and national property.",
+    "imageCredits": "Lou Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_16.jpg?versionId=YGixvKcSsfEE7EPki1904L7_4vYDmTgz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_16.jpg?versionId=P.0FlKcX8_IFp2S9p2ISVfK8Bg.Rxxcg",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U16_Lesson.mp3?versionId=12GSHCyMVJHz8IiQH06dGUu35QVX5Xoo",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2312649,
+    "cultureContent": {
+    "imageLocation": "Baikalskoe, Buryatia Republic, Russia",
+    "imageDescription": "Many Russians living on the western side of Lake Baikal practice Shamanism and claim to have done so since the religion’s beginning in the 12th century. Those living on the eastern side of the lake were influenced by the Mongols, and so largely practice Buddhism.",
+    "imageCredits": "Bruno Morandi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_17.jpg?versionId=VRXD8le.5NbrGWfpq4vMqlNS6M_jgjvr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_17.jpg?versionId=mKnV8zuNJcNtD52O34ghOq_qFUlxkqIF",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U17_Lesson.mp3?versionId=TCy7KpjTXacKhDcMR_4o2qQw92BMikxV",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2312844,
+    "cultureContent": {
+    "imageLocation": "Osh, Kyrgyzstan",
+    "imageDescription": "The city of Osh is approximately 3,000 years old, the most ancient city in Kyrgyzstan. It’s home to the Great Silk Road Bazaar the largest outdoor marketplace in Central Asia.",
+    "imageCredits": "Martin Moos / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_18.jpg?versionId=VePX7i7ZiUHb8m.AQg1fnepZjI2cukRu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_18.jpg?versionId=efXRtZXV3nEHswNSfrHHzfVzURPBHcAv",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U18_Lesson.mp3?versionId=kykW6Gapx.gyb82pjkt2cHbfDj142xUc",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2313038,
+    "cultureContent": {
+    "imageLocation": "Podporozhsky, Russia",
+    "imageDescription": "The Upper Mandrogi crafts village is a restored mill town and fishing settlement that was destroyed during World War II.  Today it is home to a complex of museums that each explores an aspect of Russian folk life. These include a vodka museum, a crafts workshop with demonstrations of weaving and woodcarving, a petting zoo, and a quail farm.",
+    "imageCredits": "Ken Scicluna / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_19.jpg?versionId=G8rVACmwS1W8DbA54qP8oze3htFqCIe0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_19.jpg?versionId=mlAlvYC4sIghUMQyWMWuXO7J.jRYAxV_",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U19_Lesson.mp3?versionId=a6US9TJ2eMCHzIf2lG1Uov7u_o6MLE9l",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2313226,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "Many of St. Petersburg’s most striking structures were built in the Art Nouveau style. One of the best known is Singer House, a six-story building topped with a glass tower with spectacular views of the surrounding area.",
+    "imageCredits": "LatitudeStock – Stewart Cox / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_20.jpg?versionId=uWSOGK8qC7fmsOFv01HK7eJ7MpQqa7jc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_20.jpg?versionId=90PbRtyN6IwGILpb67uZ86CvSJ8J_JeV",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U20_Lesson.mp3?versionId=D0Z8p5im0Y_jhcN22wlrrkpC2VlUKUW.",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2313386,
+    "cultureContent": {
+    "imageLocation": "Astana, Kazakhstan",
+    "imageDescription": "The Pyramid of Peace in Astana was built out of blue and gold glass to symbolize the Kazakhstan flag. The building houses a 1,500 seat opera house, a museum of culture, a library, a research center, and accommodations for many different faiths, including Judaism, Islam, Christianity, Buddhism, and Daoism.",
+    "imageCredits": "Jane Sweeney / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_21.jpg?versionId=bUT3tijEPivRkb7qXJBYLILtjAKCxCmJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_21.jpg?versionId=HzfM7b_yZ5L9lEKY7FUb3Gm.p0XXNQ0g",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U21_Lesson.mp3?versionId=HYNZupc0g_aalBqdCyUU_GUvrW0IXBWv",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2313618,
+    "cultureContent": {
+    "imageLocation": "Murmansk, Russia",
+    "imageDescription": "The Alyosha Monument is the second tallest statue in Russia. Nearby is an eternal flame and a pyramid sculpture that represents a flag at half-mast as a symbol of mourning for the Russian soldiers lost in World War II.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_22.jpg?versionId=.9ftTUhPp_4L5AcunPH3IazCA90NKlRa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_22.jpg?versionId=V.mYXckHgAHiY8_09Qt6XD0Ut5cWJ.Ce",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U22_Lesson.mp3?versionId=T89u9o_pQvH45hNGo5PKdIpIxN6ezIRf",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2313803,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The Russian Police have considered using reindeer to fight crime in its northern Arctic regions. Currently the police use snowmobiles, which tend to break down.",
+    "imageCredits": "Gordon Esier / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_23.jpg?versionId=HPzRe8Hwkntdul4sJNQI.GMLxBj2WD8P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_23.jpg?versionId=s9tgvsgUA1I6hT.XicysrqA6LVCEHbzk",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U23_Lesson.mp3?versionId=psEak7QNGTxobFiMnUKNmvSYdvpivk9Z",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2314015,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Alexey Leonov was part of the Soviet Union’s first cosmonaut group, organized in 1960. In March 1965 upon returning from a space walk, he found that his spacesuit had over inflated and he couldn’t fit through the hatch. He was able to deflate the suit just enough to squeeze inside before running out of air.",
+    "imageCredits": "Cultura RM/Philip Lee Harvey / Collection Mix: Subjects / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_24.jpg?versionId=1jJp9FkSLA5jYidGjoF.QmKCAvPHTSWc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_24.jpg?versionId=Tw9TVV3w9BMfsSQUlapkX7DBsmof60Gy",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U24_Lesson.mp3?versionId=k1sphZWLhCv8n3MYtyFS1qXf6UNBIODc",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2314183,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Church of Our Savior on Spilled Blood contains more mosaics than any other church in the world. The interior is covered in over 7,500 square meters of mosaic, including the floors, walls, arches, ceiling, and altar.",
+    "imageCredits": "LatitudeStock – Stuart Cox / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_25.jpg?versionId=QXDqNFTvFPL4Ub.Bv9sbM3VAMf7Ujo4f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_25.jpg?versionId=1YWHymub4T3usxZ9AxUYQOMBQGpINDqr",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U25_Lesson.mp3?versionId=f_OqaGD5Y8SaKGg4PAbhfRuRDu.Uw8pP",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2314377,
+    "cultureContent": {
+    "imageLocation": "Bishkek, Kyrgyzstan",
+    "imageDescription": "Kyrgyzstan’s capital, Bishkek, is thought to be named after a Kyrgyz word for a churn used to make fermented mare’s milk, which is the national drink of Kyrgyzstan.",
+    "imageCredits": "ESCUDERO Patrick / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_26.jpg?versionId=cMBIAqb4UhtWtIKfvaFUfwdD9f2Y91Lx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_26.jpg?versionId=pd_vyGM59BbgQ7D6Td8.kKCzPinNsSMx",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U26_Lesson.mp3?versionId=equ3Z59DBsXENzpzl03ZHitfgW5LBCP8",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2314567,
+    "cultureContent": {
+    "imageLocation": "Sochi, Russia",
+    "imageDescription": "In preparation for the 2014 Winter Olympics in Sochi, hundreds of snowmaking machines were used to create and preserve 16 million cubic feet of snow.  It was stored under insulated blankets on the ski slopes on the Caucasus Mountains.",
+    "imageCredits": "Jakob Helbig / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_27.jpg?versionId=dsRHdtpPGyu1pHd6b.6aXxWTLuIxRWIs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_27.jpg?versionId=l2mNSps6bhWkeKZbj9ki_Mqo.fTErOPL",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U27_Lesson.mp3?versionId=F2RJu8e41pIa5wHJ68RPut2sm.qtFXdj",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2314866,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Cosmonautics Day, or Day of Space Exploration, is celebrated every April 12th, commemorating both Yuri Gagarin’s orbit of Earth in 1961 as the first man in space and the launch of the first space shuttle in 1981. In 2013, it was celebrated at over 350 events in over 57 countries.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_28.jpg?versionId=S7FQ.Jh_gLaE4YOM9zn4bKpmzQf77Hhm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_28.jpg?versionId=VeV1xu8MZob1Wyn868tn385O1OgpJFO8",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U28_Lesson.mp3?versionId=PHGiyZX1l974AWyudyrX2Zpax.CbulL.",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2315049,
+    "cultureContent": {
+    "imageLocation": "Karelia, Russia",
+    "imageDescription": "Kizhi Pogost, built in the 17th and 18th century, has two churches, one with 22 domes and one with 9 domes made entirely of wood.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_29.jpg?versionId=4ekrcFQbA8YXQyaN4Vq.VSUwB36FuIHt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_29.jpg?versionId=7smrw3QP502rZhE8kGAvKLpClZbj_KCr",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U29_Lesson.mp3?versionId=x7bhpFEOp.xdEcytgN2BbXOVSVQMMKvP",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2315239,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "What is now St. Isaac’s Cathedral was the fourth consecutive church to be built on this site. Under Soviet rule, all religious iconography was removed, and the church became the Museum of the History of Religion and Atheism. During World War II, its dome was painted grey to avoid attracting enemy attention. After the fall of the Soviet Union, worship activity was resumed.",
+    "imageCredits": "LatitudeStock – Stuart Cox / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/full/RU_1_M_30.jpg?versionId=X_5ONhD3HLhRgTmxXb2E2dCAcV.gMALG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/lesson_photo/thumb/RU_1_M_30.jpg?versionId=sxnZj7xMgUZaQgf2f7V1zL_D1mt242Et",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/main_audio/9781442382848_Russian1_U30_Lesson.mp3?versionId=lnW0cL6peDQZXMpxj6W6V1c9Ot6fsnWU",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2315454,
+    "cultureContent": {
+    "imageLocation": "Bishkek, Kyrgyzstan",
+    "imageDescription": "Lenin statues, a common sight in the Soviet era, were removed after the Soviet Union’s collapse. The statue in Bishkek was one of the last to be dismantled, in 2003.",
+    "imageCredits": "Bradley Mayhew / Lonely Planet Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 1 orig/asset/RL/9781508231486_Russian_1_Alpha.pdf?versionId=q2d5DOIyV3yrms9tDk98rs4iDKEgNOF2",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 1 orig/asset/RL/9781508231486_Russian_1_Intro.pdf?versionId=uf3K85vbPUCV5OlAzEbCZaACt5BZGFd.",
+    "audios": [
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit01_Reading.mp3?versionId=zNVkZj1utXW4p_SMyBomdUSURJOudOke",
+    "mediaItemId": 2223806
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit02_Reading.mp3?versionId=9BQLbWcZuMu4VOCXTJzvzQ0RDDcosiAE",
+    "mediaItemId": 2223953
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit03_Reading.mp3?versionId=O0aVVEe0Z0w89Ozz3PRc.y_goVuODJqc",
+    "mediaItemId": 2224143
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit04_Reading.mp3?versionId=CYYmbjYWAgqKIxCe4XmeFRH5bL_hG48T",
+    "mediaItemId": 2224342
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit05_Reading.mp3?versionId=MsOZO1sF3LL4fqzoc_IIGEVGr04zP32X",
+    "mediaItemId": 2224485
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit06_Reading.mp3?versionId=OKO0TTFTCxvMr7W1kOyUDR00IQ8A00aM",
+    "mediaItemId": 2224685
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit07_Reading.mp3?versionId=A.O8HfIMp5J16GpUHVkkSULcJ_28HZDP",
+    "mediaItemId": 2224790
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit08_Reading.mp3?versionId=APYbeIYOnWcb4ztLRYmSnovsEmFIBFCb",
+    "mediaItemId": 2225905
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit09_Reading.mp3?versionId=7QJa4IZ2fc_k30N_5qjIdjRDM_fyh4nH",
+    "mediaItemId": 2228170
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit10_Reading.mp3?versionId=I7_O03etnl1CIzhV4ZIdrG1nU7HQdMwD",
+    "mediaItemId": 2231614
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit11_Reading.mp3?versionId=x2FXOyjMP1cBfTGzJXVeWKeKUEw2kmxA",
+    "mediaItemId": 2234961
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit12_Reading.mp3?versionId=XA9dWege.k67euaEFnSfNcatxE69ekYZ",
+    "mediaItemId": 2238373
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit13_Reading.mp3?versionId=MMgi839GIdSQb894JDVqx2AzqpiI_YRU",
+    "mediaItemId": 2241524
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit14_Reading.mp3?versionId=cDVm.SPFR9UPolkljomZukkk54fS.4oX",
+    "mediaItemId": 2244612
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit15_Reading.mp3?versionId=40eXGE7jPFovrHji.tsDPO5FMoOOEdh0",
+    "mediaItemId": 2247551
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%201%20orig/asset/RL/9781442382848_Russian1_Unit16_Reading.mp3?versionId=ezb3rsCR8cHyJdzRq4pArYHozxP6pWMy",
+    "mediaItemId": 2250656
+    }
+    ]
+    },
+    "languageCode": "ru-RU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508231486",
+    "level": 1,
+    "courseName": "Russian Level 1 Premium",
+    "simpleCourseName": "Russian Level 1",
+    "puArabic": false
+    }
+    ]

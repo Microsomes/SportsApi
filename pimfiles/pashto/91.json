@@ -1,0 +1,152 @@
+[
+    {
+    "courseId": 5480,
+    "languageName": "Swiss German",
+    "languageId": 169,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_01.mp3?versionId=2r_Z2zbYUeC1unxTkTMC163RywGRpwTq",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323108,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_02.mp3?versionId=g_iRdLNQfRReHU_qHAY1003K9fA9OA57",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323111,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_03.mp3?versionId=BI2E8lIK2mU.K3NawjEcZ5h2wspGHyU4",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323115,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_04.mp3?versionId=9Dn0Mziwy2Z8rUsVRq6yXgycZEz3IIb4",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323118,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_05.mp3?versionId=Jzk7dJR8_HEhd5s2VOSZF.2JHp6RlKwl",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323120,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_06.mp3?versionId=s1ZmYmtuHllcLXcG9nNlsaD_rYH9rU.a",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323122,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_07.mp3?versionId=gasPQNt5HxfDNwRySUUHRvhM.48SCBHW",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323124,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_08.mp3?versionId=XE7Jh4ojE.1zGB_3.3HdQtmwBldoDnxL",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323126,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_09.mp3?versionId=_rcbX0vMIF6Ab6nF9gl_5HpmLxpd7Z3d",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323127,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/language_image.jpg?versionId=cNlZRycFpa2beEDTS4Efk5AFE2t29pXi",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/main_audio/9781442330276_Unit_10.mp3?versionId=GfREK.LeXfKBuy.ddjdaxTvaPIl0gthG",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323129,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Swiss%20German/Swiss%20German%20Level%201%20orig/asset/standard_reading/9781442330276_Swiss_German_1_Bklt.pdf?versionId=HnK4UDVGMW49zESc4.aH1B7nPHGAYo_z"
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442330276",
+    "level": 1,
+    "courseName": "Swiss German Level 1",
+    "simpleCourseName": "Swiss German Level 1",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6580,
+    "languageName": "German",
+    "languageId": 147,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_01.jpg?versionId=O1r2tOmgv1IPlm_RCMuFotjxVXfarpjx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_01.jpg?versionId=oLdY4XC3ee47PXq5xM4BXsWfjbif7HX0",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U01_Lesson.mp3?versionId=MtYdp60Hqnc26yUuHZlsnoEsnBKEhDwB",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2321622,
+    "cultureContent": {
+    "imageLocation": "German Culture",
+    "imageDescription": "In Germany, the government has a legal say over what people can name their kids. For example, it is against German law to use a name that does not indicate the gender of the person in question.",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_02.jpg?versionId=Ltb.hs5eTQYB3RhyatVZ1TZAeVDI.LqS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_02.jpg?versionId=S5bDSUGzW1ux9NeFNAbUsG_8Bfk4yRO4",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U02_Lesson.mp3?versionId=4GWR50Cd3xgo3FtcBx50u2V7lEQIj6xa",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2321629,
+    "cultureContent": {
+    "imageLocation": "Canton of Appenzell, Switzerland",
+    "imageDescription": "Mountain restaurant Aescher overlooking lake Seealpsee and Altmann mountain, Alpstein, Canton of Appenzell Inner Rhodes, Switzerland, Europe",
+    "imageCredits": "Daniel Bärtschi / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_03.jpg?versionId=ZhmOW.IspJgmLLZcBOjz1_I4l5M513xG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_03.jpg?versionId=6gDcSncvlU3Xog_Z4K46HNeax0YKDPDq",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U03_Lesson.mp3?versionId=uU8UJHAkD0PCuKWOUhOqzZDSy48NRZpx",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2321638,
+    "cultureContent": {
+    "imageLocation": "Würzburg, Franconia, Bavaria, Germany",
+    "imageDescription": "People at Hoffest celebration at Weingut am Stein winery at dusk",
+    "imageCredits": "Holger Leue / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_04.jpg?versionId=7R5OK1pyuaFovkyg7toe2m7NP_eOGrJ8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_04.jpg?versionId=qNMbv0iMe_2N.m_bkR_9qOe4tToH0ayz",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U04_Lesson.mp3?versionId=IQBFCAo7lxlw0xZkzfF2Osow4d2Q20Vi",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2321646,
+    "cultureContent": {
+    "imageLocation": "Germany, Upper Bavaria",
+    "imageDescription": "The Perchtenlauf Parade features many different traditions, one of them being the Krampus. The Krampus is a mythical figure who punishes the children Saint Nicholas does not visit. At the parade, young men dress up as the half-goat half-demon for the festivities.",
+    "imageCredits": "Hans Mitterer / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_05.jpg?versionId=p2VkWAmoifhfwaAMq1i3aOqvBUfz5efW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_05.jpg?versionId=pvuWxlG8hEKlxAkCfOzPLUhS0I5z8o7H",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U05_Lesson.mp3?versionId=Pfg_1AZS2jl1h3qWc6Qd5c_wV_OZXCM8",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2321658,
+    "cultureContent": {
+    "imageLocation": "Antdorf, Upper Bavaria, Germany",
+    "imageDescription": "Originally used as a way to settle disputes, finger wrestling is now regarded as a national sport in Germany and Austria. Some participants even go as far as to establish training programs which include doing pushups with their fingers and crushing tennis balls with their hands, to master their art.",
+    "imageCredits": "Peter von Felbert / LOOK-foto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_06.jpg?versionId=J4jZ.NjTp3022Hz9jiJiV7VHeDCHZMBB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_06.jpg?versionId=ujMG8nHjoSyQsth3ygLSslgfFJZfQsbm",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U06_Lesson.mp3?versionId=gEE8v_RNktZxed1qRsKF_h7wFuFus6zl",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2321670,
+    "cultureContent": {
+    "imageLocation": "Vienna, Austria",
+    "imageDescription": "Statue in new Hofburg at night.",
+    "imageCredits": "Jean-Pierre Lescourret / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_07.jpg?versionId=EHfbKJ.qEapUmiDaUXJTf2mPl9iCfBln",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_07.jpg?versionId=SRM_5h7A79Uabu4fctm27zhUwd9Kn1QQ",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U07_Lesson.mp3?versionId=9wq798i8aABav8chuVRMWU3xUTUGtRVh",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2321689,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Weighing in at 16 tons and 10 meters tall, the World Time Clock in Alexanderplatz, a public square and large transportation center, features a rotating cylinder that displays of all 24 time zones.",
+    "imageCredits": "Busà Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_08.jpg?versionId=qz2ofZaECmXc0_6DrTxblbZbtJYkZkx5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_08.jpg?versionId=gwdGy9FfVM4HsWd0rVOFe3ozW6pD0ZpI",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U08_Lesson.mp3?versionId=p7MaIXapSUqGDzKSnSDhLwFfNFx9CE5M",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2321705,
+    "cultureContent": {
+    "imageLocation": "Carinthia, Austria",
+    "imageDescription": "Saint Oswald, Nockberge, Carinthia, Austria",
+    "imageCredits": "Katja Kreder / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_09.jpg?versionId=NTGGH2EBijFxunUWleFgEKgaoVz3.fGL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_09.jpg?versionId=_UH4TdAkcykENHZuuge7iqp37jT6Ua0t",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U09_Lesson.mp3?versionId=_YKJe5mCwvlYQY18_mwc4XhLYxZjl7wh",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2321728,
+    "cultureContent": {
+    "imageLocation": "Munich",
+    "imageDescription": "Completed right before the 1972 Summer Olympics and declared a historic building in 1999, the BMW headquarters were designed to look like the four cylinders of car engine.",
+    "imageCredits": "Christoph Wagner / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_10.jpg?versionId=eQqHYqCjVBcN_KlUOaSk46ZXApuzeUQc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_10.jpg?versionId=zA57Tcx6uDHY4eeTvUZQ0W9iWEPjLJwh",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U10_Lesson.mp3?versionId=US66iawlcz5eqzBFDPdpTnGM2R14akss",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2321747,
+    "cultureContent": {
+    "imageLocation": "Hamburg Harbor, Germany",
+    "imageDescription": "The Elbphilharmonie building is a concert hall that began its construction in 2007. When completed, it will be the tallest inhabited building in the city at 360 feet.",
+    "imageCredits": "Florian Trojer / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_11.jpg?versionId=NaZWwbJwIwO2ydywmqzWr_R.8j3S.r63",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_11.jpg?versionId=R9BGKLKC2ornLkA7baA.1NQvbAlkHIM8",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U11_Lesson.mp3?versionId=w1u1TTKBm0J3N9wMuriJHxRX1pYani0e",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2321767,
+    "cultureContent": {
+    "imageLocation": "Swiss Alps, Switzerland",
+    "imageDescription": "Standing at over 2500 meters, Säntis is the highest mountain in northeast Switzerland. Every August on Swiss National Day, the world's largest Swiss flag could be seen on Säntis until it ripped due to strong winds.",
+    "imageCredits": "Patrick Frischknecht / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_12.jpg?versionId=zGBrqKQfetdVoZ_H5Wp0zPkPVYKN2Rm.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_12.jpg?versionId=Ykfnbj5ZPcyk3F3KR2krd7lPyXfxxoZB",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U12_Lesson.mp3?versionId=5VHHlhTEpnTzV7C3U_oC.3BjKIeFwlZS",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2321790,
+    "cultureContent": {
+    "imageLocation": "German Culture",
+    "imageDescription": "Snow covered roofs of half timbered houses",
+    "imageCredits": "Daniel_Keuck / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_13.jpg?versionId=lqdRtCyRoxft2VPBVfL7Mx8zxzbCn62T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_13.jpg?versionId=.AlOPoMgt1coQ_3b_sxByqS2sQTJ7qBi",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U13_Lesson.mp3?versionId=YGER8Q7Hyj_UEHj58L4d5zKaTKYLXrqP",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2321813,
+    "cultureContent": {
+    "imageLocation": "Bavarian Alps, Germany",
+    "imageDescription": "The venus grotto with opera pictures inside the Linderhof Palace",
+    "imageCredits": "Richard T. Nowitz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_14.jpg?versionId=GbivA_tMZAlXTk.Rj0f_.CLbprye9r2b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_14.jpg?versionId=6A1elev06DxsIqLuluNWtrNk9ghS91kM",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U14_Lesson.mp3?versionId=3nhiidHevQEclQ8w2ADb7uy8r_4iKRkH",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2321853,
+    "cultureContent": {
+    "imageLocation": "Munich",
+    "imageDescription": "Oktoberfest is the world's largest festival, spanning 16-18 days and attracting over 6 million people every year. It is especially well known for its beer; in 2013, over 7.7 million liters were served.",
+    "imageCredits": "kathrin's world / Kathrin Schlott / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_15.jpg?versionId=Bfgo_PR2r9NzerdzHFw3M7215dXmUk8Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_15.jpg?versionId=lKTJ5TUE78NCAd6IkqYAThw93uCKQfN9",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U15_Lesson.mp3?versionId=rwKnFXJhLOhqoFEF3WK4LTWrnrU9hJ0K",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2321892,
+    "cultureContent": {
+    "imageLocation": "Mittenwald, Bavaria, Germany",
+    "imageDescription": "One of Germany's most well-known carnivals is the Cologne Carnival. As tradition dictates, the festivities commence at 11 minutes past 11 on the 11th day of the 11th month (November).",
+    "imageCredits": "Martin Siepmann / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_16.jpg?versionId=zps_0OfV.TP0tuA_bYisbF0SqnruOOAe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_16.jpg?versionId=H8IKNtgvKJMC3s8AZDEuDxg_mXgFMc32",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U16_Lesson.mp3?versionId=xqvKJkO2Tch.oTbZsCaHsx8iFU9ZRIy1",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2321918,
+    "cultureContent": {
+    "imageLocation": "Lucerne, Switzerland",
+    "imageDescription": "The Chapel Bridge spans across the Reuss River and is famous because of the interior paintings dating back to the 17th century. It also serves as the symbol of the city.",
+    "imageCredits": "Glenn Driver / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_17.jpg?versionId=Dmv8xeZRb7bKM497rmtDFWokv3hUli8E",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_17.jpg?versionId=NepFY3qhTz4GszK91p67avflXxRVgjhP",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U17_Lesson.mp3?versionId=jarxwijz2VMdz4sw2XDtQwS8LKYHmJbD",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2321946,
+    "cultureContent": {
+    "imageLocation": "Montafon, Austria",
+    "imageDescription": "Schruns was for a period of years in the early 1920s the favorite ski resort of Ernest Hemingway. He wintered there with his first wife, Hadley, and oldest son, who was then just an infant, where he revised the manuscript of The Sun Also Rises.[2] In Hemingway's classic story \"The Snows of Kilimanjaro\" the third scene in the first flashback sequence recounts memories of Shruns. These images of snow and glacier skiing stand in contrast to the description of the Serengeti Plain in the main story and anticipate the coming journey to the snows of Kilimanjaro.",
+    "imageCredits": "Stephiii / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_18.jpg?versionId=oKzptOnIw31fOugEzO1qiVzNXDeAhrS2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_18.jpg?versionId=usLFNEJbAgxDQY0zYN3zmr8V0xH_Xbhh",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U18_Lesson.mp3?versionId=FM8Q4CelGlMqad02YflnygMDKsqmaQJR",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2321975,
+    "cultureContent": {
+    "imageLocation": "Bavaria",
+    "imageDescription": "With a history dating back to the Holy Roman Empire, Bavaria is known for its art, its beer, and its scenery. It is the largest state in Germany with 12.5 million people.",
+    "imageCredits": "Thor767 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_19.jpg?versionId=wikAwlEcu1_I2_fQfdKsviIew7tbox8G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_19.jpg?versionId=76tkvXxMFfx7pjuji5fGcmIbpUjo_VfB",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U19_Lesson.mp3?versionId=8CaZII9ThYN9yB1SNpmHVeUaAFCslUKO",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2322004,
+    "cultureContent": {
+    "imageLocation": "Baden-Wuerttemberg, Germany",
+    "imageDescription": "Located in Baden- Württemberg, Hirsau Abbey is one of the most significant Benedictine abbeys. It was founded in 830 but was eventually destroyed during the Nine Years' War in 1692.",
+    "imageCredits": "Beate MÅnter / F1online / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_20.jpg?versionId=0Z3wtNCz.IwuWl.I8ttExTN8cOBDCtPR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_20.jpg?versionId=eYIZSIlCByYYPIqWVGzybMSbcKXftQ2I",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U20_Lesson.mp3?versionId=qG6jTlXuGWx2ZQMQHGn9xDRrpPXPsxst",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2322032,
+    "cultureContent": {
+    "imageLocation": "Berlin",
+    "imageDescription": "Opened in 2000 as part of a six musuem series, the Museum of Film and Television follows the progression of German filmmaking throughout history with posters, costumes, props, and skteches.",
+    "imageCredits": "David Peevers / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_21.jpg?versionId=D2Vvy4DkLw.1e2TbzMOK9403B5wmr3qX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_21.jpg?versionId=4ZlLMsSIDg87TXBWA9asDHXhGw8nCWGR",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U21_Lesson.mp3?versionId=pvw_LfF50q3TMVsWnYPqq8tVnZzfP28F",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2322057,
+    "cultureContent": {
+    "imageLocation": "Bavaria",
+    "imageDescription": "The Linderhof Palace is actually the smallest of the three castles KIng Ludwig II of Bavaria commissioned during his lifetime. Though it pales in comparison, the Linderhof Palace was clearly inspired by the famous Versailles, the palace of the French king Louis XIV.",
+    "imageCredits": "Richard T. Nowitz / Corbis / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_22.jpg?versionId=NJHkjkfO2Qfu8.I70dMb4FvGzmgtAek_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_22.jpg?versionId=i3zxufwz5vM92HEQuou69AGtPWAiakqv",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U22_Lesson.mp3?versionId=vuSHg_6fEgUAnxig3NnoZgklgMSnsrVR",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2322088,
+    "cultureContent": {
+    "imageLocation": "Berlin",
+    "imageDescription": "The Reichstag building housed the German government from the 1890s to until the 1930s, when it was subject to an arson attack carried out by a Dutch communist. The fire later used by the Nazi regime as evidence that communists were plotting against Germany and the incident is seen as key in the establishment of Nazi Germany.",
+    "imageCredits": "Deejpilot / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_23.jpg?versionId=7iCErzvn9zc3RDeHHV2TPGJRE49ECRfd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_23.jpg?versionId=cUJjRY7F2lGhZ5elst9pHlcBtBdBYI0q",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U23_Lesson.mp3?versionId=T5iKpD698gHBkbRLOyyyrj7oUzefPQMj",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2322114,
+    "cultureContent": {
+    "imageLocation": "Theaterplatz, Dresden, Saxony, Germany",
+    "imageDescription": "Augustus II the Strong was the Elector of Saxony in the seventeenth century. His nickname came from his incredible physical strength and he was said to have been able to break horseshoes with his bare hands.",
+    "imageCredits": "Blaine Harrington III / Corbis Documentary"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_24.jpg?versionId=7XM7q83FJ.KA9OeSC1Aqk7Ohmmfc8a9O",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_24.jpg?versionId=veMoP0bsv8qjGJzFIt36LdrVGTra0lUA",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U24_Lesson.mp3?versionId=y38iF4Hsnceowgz9jyUSJdkXnnHbHN6u",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2322141,
+    "cultureContent": {
+    "imageLocation": "Wiesbaden",
+    "imageDescription": "St. Elizabeth's Church in Wiesbaden, Germany is the only Russian Orthodox church in the city. It was commissioned in 1847 by a German Duke in honor of his wife, a Russian princess named Elizabeth.",
+    "imageCredits": "MissPassionPhotography / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_25.jpg?versionId=YPPXh_H5spgAS8NcLcGFeyGVHyapc7t2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_25.jpg?versionId=Ei6TjjSDu9X1sdpaxmptVzC5gbaFj1Pl",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U25_Lesson.mp3?versionId=zrUhtPA_uqsIJ8JO444sPtfdJLRH7Ce9",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2322175,
+    "cultureContent": {
+    "imageLocation": "Weißbierbrauerei Kuchlbauer, Abensberg, Lower Bavaria",
+    "imageDescription": "Standing 105 meters high, the Kuchlbauer Tower houses a gold-plated observation ball a and museum on the history of brewing beer. It was designed by Friedensreich Hundertwasser and opened to the public recently, in 2010.",
+    "imageCredits": "Bildverlag Bahnmüller / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_26.jpg?versionId=CpDQZxLnCpGYakx7Mq88jRYjkeujYy58",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_26.jpg?versionId=1Eh9G2gqGiK6M4DKgm50oHBg.45rkYIj",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U26_Lesson.mp3?versionId=h0EZTl_8A.cj1BNrpCiJorV_uCGmhJrk",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2322206,
+    "cultureContent": {
+    "imageLocation": "Ravensburg, Upper Swabia, Baden-Württemberg, Germany",
+    "imageDescription": "The Swabian-Alemmanic Fastnacht is a folk carnival of Germanic tribes that takes places annually in Germany and Switzerland. Traditions of the festivities include costumes, jesters, and fasting.",
+    "imageCredits": "Hans Lippert / imageBROKER / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_27.jpg?versionId=7jsxxs3BtR1QwkTa8M07y.K1B6wEUqIg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_27.jpg?versionId=Jfuc9fy7EPZyAQRA.njNDevT1Czd8LMz",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U27_Lesson.mp3?versionId=gIb35EeLNeGu5Kv.R2xZxO6enuLyb71t",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2322236,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Free University of Berlin is one of the most prominent research universities in German. It was established by students and professors during the Cold-War period and is renowned worldwide for its social science and humanities programs.",
+    "imageCredits": "Beate MÅnter / F1online / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_28.jpg?versionId=OCfOUihgyFvTJxDMF_qGliG7KMLL6HiN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_28.jpg?versionId=rIoBhUGaLEiqDFG5IJEvI9c1HUn.s_Bj",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U28_Lesson.mp3?versionId=.A0n2S7aP4yIBZwC2m9z4dGBjbRlR_XS",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2322268,
+    "cultureContent": {
+    "imageLocation": "Wolfsburg, Germany",
+    "imageDescription": "Created by Danish artist Olafur Eliasson, the Scent Tunnel is recontructed every year. The rotating tube is covered in flowering plants and is one of the most popular contemporary works of art in Germany today.",
+    "imageCredits": "Mark Daffey / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_29.jpg?versionId=bpIOHtaNIR8hK8LdtXMYNxbi1WLmMhzM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_29.jpg?versionId=WasAvDtNJx9P25p9obsqOq6Eq9mtXysV",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U29_Lesson.mp3?versionId=CvkWdd9H7SnF96.A7Y6WbrV7FqdfhmSg",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2322293,
+    "cultureContent": {
+    "imageLocation": "Hessen, Germany",
+    "imageDescription": "Regarded as one of the most prestigious examples of Romanesque architecture, the Cathedral of Limburg is perched atop a rock that makes it visible from far away. It was built in the 13th century but was originally the location of a castle that dates back to the 8th century.",
+    "imageCredits": "fhm / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/full/GR_5_M_30.jpg?versionId=FPXYJAS4nHtRjLMr68qH2ENl2PVxP7Yf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/lesson_photo/thumb/GR_5_M_30.jpg?versionId=Bms9fEkQfA3ZhwdCkH9lonsd6KsfBD9P",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/main_audio/9781508230892_German5_U30_Lesson.mp3?versionId=CcaHQmBeo_txCRXjG.G2pXM6LWxjaMy_",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2322322,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Originating in 1989, the Love Parade was an electric dance music festival located in West Berlin that attracted over a million followers in its prime. However, as a result of an accident which resulted in the death of 21 people, the parade was cancelled permanently in 2010.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/German/German Level 5 orig/asset/RL/9781508230892_German_5_Intro.pdf?versionId=CxTIqOFmX53MjMW56_wntN3ii32SRcFh",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit01_Reading.mp3?versionId=ROwCPiBZ0hWHKwYD1pimo91VI2kmppNi",
+    "mediaItemId": 2223868
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit02_Reading.mp3?versionId=oSKx.hnQe1LCfBJKEFr_CcRCHFYCc0vm",
+    "mediaItemId": 2224082
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit03_Reading.mp3?versionId=5l9O3_IWAQey9x3ENV.fDS_lnuqPqPtm",
+    "mediaItemId": 2224220
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit04_Reading.mp3?versionId=ObbZ1IrsvwzxT9OLmszuhtICWedSN.7L",
+    "mediaItemId": 2224419
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit05_Reading.mp3?versionId=_0PmRTbX02KAF9vdoZJ8QVJbmn6mSysH",
+    "mediaItemId": 2224553
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit06_Reading.mp3?versionId=1zcyGlSaj3ktfJ6_Puz49LcobKQpAsp.",
+    "mediaItemId": 2224727
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit07_Reading.mp3?versionId=xcQeZH8UYQu9sWOupFeLRE9PjTjHQF1c",
+    "mediaItemId": 2225043
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit08_Reading.mp3?versionId=WOrdQVmr2XJerP5lq2r24DVEM5sJbK3u",
+    "mediaItemId": 2226616
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit09_Reading.mp3?versionId=LU6QgqUCFrwJbKOXJ14GevjOva83T8.A",
+    "mediaItemId": 2229373
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit10_Reading.mp3?versionId=h1Jb69m9GLUhO7Xoh7meiqLf7eIrSBCT",
+    "mediaItemId": 2232577
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit11_Reading.mp3?versionId=i5blmHDcBgCCaIJ_9ISi6JYNakIKzJru",
+    "mediaItemId": 2236379
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit12_Reading.mp3?versionId=EvF9o4f2sMnli54pPC11g4aXvbIJpDBw",
+    "mediaItemId": 2239526
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit13_Reading.mp3?versionId=uhMZ79D.c88CbQQ_qa2SFRS05hNvLSVk",
+    "mediaItemId": 2242488
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit14_Reading.mp3?versionId=91Kg7wzLPzZwbvmrEFjhaOts11BUcREK",
+    "mediaItemId": 2245613
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit15_Reading.mp3?versionId=oUVXY_m5WTKU6flsttEQaCU7MBdrcMQf",
+    "mediaItemId": 2248540
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit16_Reading.mp3?versionId=Guhw7T81flYf7RS2onLxEgtFfLIfvOci",
+    "mediaItemId": 2251478
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit17_Reading.mp3?versionId=BS3TrWiPxHgSRBAx7YPa1yugMXQVZ4lv",
+    "mediaItemId": 2254259
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit18_Reading.mp3?versionId=uH0LpGj6VJ98krzjXs2mi2S0RW8gSSZy",
+    "mediaItemId": 2257035
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit19_Reading.mp3?versionId=JMbKjQb9c88DE2RjLp28RRl5Wslgtx7w",
+    "mediaItemId": 2259908
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%205%20orig/asset/RL/9781508230892_German5_Unit20_Reading.mp3?versionId=9LjZRy6oEb2LyK__g9uMZuGoXeOrH9PT",
+    "mediaItemId": 2262331
+    }
+    ]
+    },
+    "languageCode": "de-DE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508230892",
+    "level": 5,
+    "courseName": "German Level 5 Premium",
+    "simpleCourseName": "German Level 5",
+    "puArabic": false
+    }
+    ]

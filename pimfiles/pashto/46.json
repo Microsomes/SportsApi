@@ -1,0 +1,684 @@
+[
+    {
+    "courseId": 4380,
+    "languageName": "Greek",
+    "languageId": 148,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_01.jpg?versionId=LvJdin2FJ6MVHTY8QNCuPJXERU61gInc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_01.jpg?versionId=HA3AwVdymosOvfdOeQ303axDZLmF6ZPy",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_01.mp3?versionId=H2BUdgTDRC08Vv3H1eNa7DzMMQ0Mg_2N",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2291748,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "While Greece isn't quite world-famous for surfing, its modest waves are proving increasingly popular. Although windsurfing and kiteboarding are more common water sports in Greece, plenty of surfing clubs and surf schools have sprung up in coastal areas in recent years.",
+    "imageCredits": "pixelfit / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_02.jpg?versionId=JLgwbjUdl1Cd5a7PQ7028h8KqE14lTYx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_02.jpg?versionId=OEvzqUTXV4EHmA5QlFUz6Ae5GpA.TKjA",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_02.mp3?versionId=wM5T4WalmHPhBleRyQfzou3y5vuLihE_",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2292027,
+    "cultureContent": {
+    "imageLocation": "Santorini",
+    "imageDescription": "The whitewashed buildings perched on the seaside cliffs in Santorini offer an incredible view of the Aegean seascape. The cheery edifices make for a peaceful-looking place, however, the island of Santorini sits on top of an active volcano. The last eruption took place in 1950, and the seismic activity is closely monitored today.",
+    "imageCredits": "iamjiere / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_03.jpg?versionId=lQUx2xbKUIeAHN6QUxQFDye17T1ZF8Uf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_03.jpg?versionId=6AzwK9n3YF64osr27_iuMJ5LMi72QA63",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_03.mp3?versionId=4pUX4tKf5I1ebA44LLwntA6Ra7gQBrQz",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2292305,
+    "cultureContent": {
+    "imageLocation": "Crete",
+    "imageDescription": "The town of Bali on the north coast of Crete has gone from a quiet fishing village to one of the most loved beach resorts in Crete.  Limani, or Harbor Beach is in the harbor and next to a variety of restaurants and shops.  The water at Bali's beaches can be surprisingly chilly because of the fresh water springs that feed into the sea.",
+    "imageCredits": "chasdesign / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_04.jpg?versionId=r.JwWABAbmWIdQA1wa3BB99qu9oMZTqu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_04.jpg?versionId=8zHumOuaeDoW_iXs0FIx6ioxiIM8LODi",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_04.mp3?versionId=tpWw3SmblHDQO4mRLcVKMgRiWhu5KG9.",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2292618,
+    "cultureContent": {
+    "imageLocation": "Mount Athos",
+    "imageDescription": "Mount Athos, a self-governing territory in northeast Greece, is an important Eastern Orthodox monastic community.  There has been continuous Christian occupation going back 1,800 years, and the twenty monasteries date to the Byzantine era. Today there are some two thousand monks on this mountainous peninsula.  Outside access is highly restricted, and only men can enter.",
+    "imageCredits": "PHOTO BY DMITRIOS TILIS / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_05.jpg?versionId=7eKn1hRMfIuIouxBq4eP4hAocHoMCoi8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_05.jpg?versionId=Ri.c_N3jDf06OeNxyy_15Vmn5zvsAGRh",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_05.mp3?versionId=3h6LUmw2FGXZztlW4Jk98tw0YRfBIAS.",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2293019,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "In 2004 Greece famously won the UEFA European Soccer Championship.  Underdog Greece's progress in the three-week-long, 16-club, 31-game tournament was improbable, and after winning the whole enchilada, elated fans took to the streets in the Greek capital.",
+    "imageCredits": "Milos Bicanski / Stringer / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_06.jpg?versionId=egnB1rYtfs2r6IQ7MCnMcsnIVAvOhsJY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_06.jpg?versionId=Tv986Q_tSGMXc_ECd1UCX9KZlq3xHpRk",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_06.mp3?versionId=ve4ygiB.iX3igWnlq7AVjetFHfjPB.3v",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2293246,
+    "cultureContent": {
+    "imageLocation": "Rhodes",
+    "imageDescription": "The Gate of Saint Paul on the island of Rhodes is part of a substantial medieval fortification surrounding the old town.  There are eleven such gates in the old wall, each one unique, having been built at a different time.  This particular gate was first built in the fifteenth century but was almost completely destroyed in WWII.  It was rebuilt in 1951.",
+    "imageCredits": "joe daniel price / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_07.jpg?versionId=BgmnpcqKa3.bPUhkeaptJZ4IJlLeh852",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_07.jpg?versionId=blm2ojIvpQxL6x8RSZEyTm2SWK4H_Fba",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_07.mp3?versionId=2kvfrg3Dph_knUHoOFDP.1Ompfquem1B",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2293554,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "This is an aerial view of a fish farm.  Aquaculture in the Mediterranean can be traced back to the ancient Egyptians.  In Greece today the predominant aquaculture product is marine fin fish such as sea bass and bream. Greece is the largest producer of farmed fish in the Mediterranean region.",
+    "imageCredits": "SHansche / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_08.jpg?versionId=qcUC3YfgqVD9efrcQ8CmkuRUOgAYYtmQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_08.jpg?versionId=RR8dm4f_jcY83E5uOyF6lrhtdM3e8FEz",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_08.mp3?versionId=RTXb10Y_On6pAunqunjVN2AZ7GQRjV.u",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2293787,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Greece's beautiful beaches are a popular destination for summer vacationers. The island of Mykonos is the spot for partying and gathering by the sea, while the island of Ikaria is a quieter, wilder destination. Sailing and water sports are big in Greece, as is island hopping to discover as much of the beautiful Greek landscape as possible.",
+    "imageCredits": "yulkapopkova / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_09.jpg?versionId=KyqK1Y_5kEVB1plpwBEv4PP7jzLqkX1W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_09.jpg?versionId=5KIB8u4oqGGiIk6w2N9uCQ8FHkqbXd5y",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_09.mp3?versionId=ruEhN1Pc6euSmH.TCcO4Uh1J1shNKaYg",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2294016,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Lying in the Mediterranean and with thousands of islands, Greece has a long tradition of water sports.  While sailing, diving and waterskiing may top the list, when a group of friends gathers on the beach, there's always an opportunity to invent a new game.  And with basketball being huge in Greece, why not?",
+    "imageCredits": "George Zoumas / EyeEm / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_10.jpg?versionId=QoZLRFLdOIYG_IHBvBE5CI0KWTZ_yqVy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_10.jpg?versionId=YuLEIHmuY65X9fjmi6hsCpnN39MH8WHN",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_10.mp3?versionId=7LXsCTnPoVyWVqU_emmU2mnjInsDQykf",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2294305,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Commemorated in the street art of Athens is Loukanikos, one of the so-called riot dogs that became famous during Greece's period of unrest in the aftermath of the 2008 financial collapse. The stray dog joined protestors during the 2011 anti-austerity demonstrations in Athens and only barked at police.  Loukanikos' career spanned a few years as he stood with working-class citizens against tear gas, water cannons, and police beatings. The dog was adopted in 2012 and lived peacefully until his death two years later.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_11.jpg?versionId=3_w50NRIdrwEwMAnoL3ndNnmbKNwkt8_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_11.jpg?versionId=RRYv1k58ez7bSZVQZXHrbmFLlZW7Gh0k",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_11.mp3?versionId=lON545S7vFswiAyhBkImILkzNIiDtlBC",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2294540,
+    "cultureContent": {
+    "imageLocation": "Chios",
+    "imageDescription": "In the town of Vrontados on the island of Chios, every Easter congregants from \"rival\" churches fire rockets at the other churches' bell towers, in the so-called rocket wars festival called Rouketopolemos.  It dates back at least 125 years, and its origins are a mystery.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_12.jpg?versionId=i9XrrFoRar2vIiC3tWVodqqm8Lh_Vn9c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_12.jpg?versionId=y9fkPCQDH3qEFGDQYCNDiXpX4FE_MkCj",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_12.mp3?versionId=TrR.uqz3kgLPALQ0DhFPvqWc9uDgk_0_",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2294793,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Tommy Lee, most famously known as the drummer from Mötley Crüe, attends the 2017 Streamy Awards.  Lee was born in Athens, Greece in 1962.  In 2019 he married his fourth wife, internet influencer Brittany Furlan. ",
+    "imageCredits": "Matt Winkelmeyer / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_13.jpg?versionId=BeKDunhm1ZPInroD9nQoJBAxPkoJbGQS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_13.jpg?versionId=AnFWZqUARpOgz1qYKiMFOKQeN5IE6Flt",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_13.mp3?versionId=SNGxZOPYFUBznEVwhcreIfuSrLxiFzBG",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2295003,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Pride Week in Athens generally takes place during the first week of June. Because of the narrow cultural and religious traditions of Greece, Pride Week has taken some time to become the celebration of LGBTQA+ communities that it is today. Same-sex civil unions were legalized only in 2015, making Greece one of the last places in the European Union to legalize same-sex partnerships.",
+    "imageCredits": "verve231 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_14.jpg?versionId=J2mje0B1qEvmjDX81v4lZsrY_HBhI0Fq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_14.jpg?versionId=Pljbm3qg2ZMvGBEWoCNCSVjANtwgVS6F",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_14.mp3?versionId=okGz0XmNjYt.7Wx9VUeh3MwxJq4PSGxD",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2295272,
+    "cultureContent": {
+    "imageLocation": "Crete",
+    "imageDescription": "Chania's farmers market is full of fresh produce from the local farms.  Vendors sell olives, cheeses, and herbs. If there is red dirt on the produce, you can be sure that it has come fresh from Crete's red clay ground. Seafood delicacies such as snails are also available from the fish mongers.",
+    "imageCredits": "pierouge / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_15.jpg?versionId=VU_kIKfgbeaRleq3nb9lZ1oPfuC7K8Fc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_15.jpg?versionId=dIP54FfxlNOLQZVhppBHdNZvk4s0wjI3",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_15.mp3?versionId=6r6_UgZkK6Mxg2FURBi0EjhmeHsv9MkN",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2295561,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Sofia Vari is a well-known Greek visual artist. Born in 1940 in Vari, Greece, she began her career as a figurative sculptor. Her work evolved to have more cubist and expressionist elements as she created abstractions from the human body. Vari has worked across all media, including collage, sculpture, watercolor, and oils.",
+    "imageCredits": "Chip HIRES / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_16.jpg?versionId=MzCeviU7.ByICJV0NuYLzh05NP3YjLd3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_16.jpg?versionId=sjJ7c7TcWLtYGI00RMajlPb4Yd2h8WBr",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_16.mp3?versionId=Eoy1oiZwGQHSJFbQyghR9961ui4w3tgm",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2295832,
+    "cultureContent": {
+    "imageLocation": "Chios",
+    "imageDescription": "In the medieval village of Pyrgi on the island of Chios, the buildings are intricately detailed with painted black and white patterns, giving the village the nickname \"the painted village.\" The houses of each neighborhood are situated tightly together, forming a protective wall around the churches and courtyards within.",
+    "imageCredits": "silkfactory / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_17.jpg?versionId=t0iik306pdPlZ5Y6Yi42Z0gVcjdBRgr_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_17.jpg?versionId=uZ0ioFizPoz1kvJDYYlSzMipctzoUqnL",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_17.mp3?versionId=SA1luGiLDvWE3NkR0qmYIjWBscoSDk23",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2296089,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Prince Philip, Duke of Edinburgh, is actually Greek royalty.  Born on the Greek island of Corfu to the Greek and Danish royal families, Philip and his family were exiled from the country soon after his birth.  He eventually renounced the Greek and Danish thrones and became a naturalized British citizen.  He doesn't consider himself Greek and doesn't speak the language.",
+    "imageCredits": "WPA Pool / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_18.jpg?versionId=EN7SxUesF7_qPuImaAEa9qO0L1_PaKEb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_18.jpg?versionId=P7qm83wUqZ2djCi85F8c4EXuNsTgtTOU",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_18.mp3?versionId=oW45BABMci0LD4r8XV3eMtk7KY6Cd3EO",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2296329,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "The Tomb of the Unknown Soldier in Athens represents all fallen soldiers throughout the history of Greece. Located in Syntagma Square by the Hellenic Parliament building, the tomb is recognized every day with a ceremony. The Presidential Guard, known as the Evzone, guards the tomb.  They are a ceremonial infantry unit wearing traditional uniforms,",
+    "imageCredits": "Uladzimir Zuyeu / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_19.jpg?versionId=KuU1jwYkBrL4Oenaoz2CfG4574mppG8W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_19.jpg?versionId=jWBBlsVzMkGxm_.GWoVtVsI0JHPHRAiF",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_19.mp3?versionId=Q9nxgPrQZJkBFlvytTGGWzhZ2YAUAXec",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2296569,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Native to the New World, cacti were introduced in Europe after Columbus.  They are now well established in the Greek islands' arid climate. The prickly pear cactus in particular bears a fruit that is high in nutrients and is a staple in Greek cuisine.",
+    "imageCredits": "Paul Biris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_20.jpg?versionId=Pwd66mu.rYMGzRQSJGVuuFSsyYE3ytB3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_20.jpg?versionId=F0VT8ZtIbMYjDyaCJfEFXLhGWQMiZHuR",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_20.mp3?versionId=IUnNCehsGuNNyv1qB6ffkGNs3gXDzDLu",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2296823,
+    "cultureContent": {
+    "imageLocation": "Patras",
+    "imageDescription": "The famous Carnival celebrations in Patras are one of the biggest Carnivals in the world. Patras' several weeks of festivities include dancing, parades and masquerades, and a grand treasure hunt across the city. The King Carnival is different each year.  In 2013 the King symbolized Greece's debt crisis and corruption in the government. The final ceremony is the torching of the Carnival King at the harbor.",
+    "imageCredits": "picture alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_21.jpg?versionId=SRwmptk0EoWJ401rwxgO8w59TLYYItsA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_21.jpg?versionId=SJOC0EUhg60NKfLzKouf4dyVpNSOaoqX",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_21.mp3?versionId=x.tpXelBrfxm12GDtIU6Ts4dghREU6T8",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2297043,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Octopus has been a special part of Greek cuisine since ancient times. The sea creatures are daily caught off island shores and are as fresh as can be. Since octopus consists mostly of water, the seafood must be hung in the sun to dry out the flesh before grilling. ",
+    "imageCredits": "peeterv / iStock /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_22.jpg?versionId=AwUWOskXURNNF3fLsE1Xx9q5nGrEH6ii",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_22.jpg?versionId=kyvMlMsCPw7nXY0EqsyYIR7Vh6KddcMi",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_22.mp3?versionId=4b8dul1Tg2VWm4R4C5uOTK41cN0Q3gd_",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2297305,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Open-air movies are extremely popular in Greece.  Every summer you will find them, called therinos, in almost every Athenian neighborhood. There are more than 60 of the venues, from public to private, tucked into parks or set up by the seaside. ",
+    "imageCredits": "George Pachantouris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_23.jpg?versionId=klPDC75sdnOkk74PduD4YE2VVT5dsaeO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_23.jpg?versionId=GcOSwdB1H7DX2..wihHpEWgZlqX3stFt",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_23.mp3?versionId=4I5QxF_BPBxDRcoULW3.NdnCLSUxeSLD",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2297539,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "In response to the 2018 Greek Ministry of Education’s proposed reforms, students protested against the conservative government. The disapproval among students stemmed from the ministry’s plan to change university entry requirements. The demonstration blocked off traffic and outraged students threw stones at police officers. ",
+    "imageCredits": "ANGELOS TZORTZINIS / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_24.jpg?versionId=gtO4yBhRBTlzv1zwbD4ZOtfTDB017bGw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_24.jpg?versionId=4Xok0O_zfc.s9q8KurtL7d9L0fj5yH1S",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_24.mp3?versionId=OUlNuJ4w6KUmTTkNP..rUnJstnl_naSg",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2297855,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Dancing is a huge part of Greek culture and hundreds of traditional dances are performed throughout the country. The folk dance costumes will differ by region.  Mainland styles for women are generally a cotton chemise, open wool vest and a head scarf, while men wear kilts and white leggings. ",
+    "imageCredits": "tella_db / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_25.jpg?versionId=EPc6Zgr7iERCL57DE0q7q3n4_JgxWpeK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_25.jpg?versionId=zN_sa0C9QDZTSYZBxDXSrJqlW4QBey38",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_25.mp3?versionId=KYWWgiXh8Sm_9jE38qJjPInMgp4ceZtx",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2298147,
+    "cultureContent": {
+    "imageLocation": "Mount Athos",
+    "imageDescription": "Mount Athos is one of the holiest places in the Eastern Orthodox Church. This monastic community is a self-governing territory in northeast Greece containing twenty Byzantine-era monasteries.  Access is highly restricted, and only men can enter.  This sign reads Panagia, referring to an icon of the Virgin Mary here that has been said to perform miracles.",
+    "imageCredits": "Christophe Boisvieux / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_26.jpg?versionId=tVbd3q7zpwv7z9YuhfCTwcPTTONdkR0.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_26.jpg?versionId=QhXq.GbUWJtDFgYwx.ZSGw2gPx3Xstcc",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_26.mp3?versionId=H6EBdU4VgwDwBHpIR0yEHcLGyl7Ohk.2",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2298377,
+    "cultureContent": {
+    "imageLocation": "Crete",
+    "imageDescription": "Crete is known for having hundreds of caves, one of the most famous being the Diktaean Cave, also known as the Psychro. According to the legend, the Greek god Zeus was born in this cave and hidden here to protect him from his father. The cave was used by worshippers in ancient times and now many visitors come to explore the depths of the Diktaean. ",
+    "imageCredits": "ABBPhoto / iStock  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_27.jpg?versionId=b9HBVM17AhkyQb2xYhhtZzquOcUxzSAL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_27.jpg?versionId=g495XeAfdM8_yX6pd5oroFsi_iHc5MJC",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_27.mp3?versionId=_oVzi7H3kxwiveRgL5BEEB9WLOO7a6cZ",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2298780,
+    "cultureContent": {
+    "imageLocation": "Kalymnos",
+    "imageDescription": "The mountains of the island Kalymnos have many sport routes for rock climbers. The limestone rock can be jagged and sharp, and remains unpolished in some places. Kalymnos is one of the most popular spots for rock climbing in Europe. ",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_28.jpg?versionId=WGQF0O1Gt7_IrzMacWm3a.YgeKF_kRwD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_28.jpg?versionId=yJWcjFPY8czf9FvC2tChItaPQ70isFYN",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_28.mp3?versionId=WKn0GASmRhzPkNaLYDkj8ZNF3v.ufqyF",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2299001,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The mati, or all-seeing eye, has been lately trending in Greece.  This design of concentric blue and white circles is considered to be a talisman to ward off the evil eye, a common superstition in Southern Europe and the Middle East.  You're likely to see the charm on jewelry, t-shirts and as a decoration on walls.",
+    "imageCredits": "Ramann / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_29.jpg?versionId=9A8rpUbg1jP5yIpwv_S_605a7jy7SubM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_29.jpg?versionId=lvYKzrd8TtrCxLNBRy5.ezpzW3p.ZHP8",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_29.mp3?versionId=0sR3Wsoaj1TlRNF6a5Z5mSEVr3_0YfGf",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2299227,
+    "cultureContent": {
+    "imageLocation": "Mykonos",
+    "imageDescription": "The windmills of Mykonos were constructed by the Venetians during the 16th century. The original industry in Mykonos was mainly grain production and the windmills were used for milling wheat. Today Mykonos' primary industry is tourism and the windmills serve a decorative purpose. ",
+    "imageCredits": "Alexander Spatari / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/full/GK_2_M_30.jpg?versionId=w1CcdMwmdNOHKXkGpEFV9buCoeCqIEA3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/lesson_photo/thumb/GK_2_M_30.jpg?versionId=iOXgLZKA0IwXQ.r7gShEeIFTnirJgQGt",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/main_audio/9781442320246_Greek_2_Lesson_30.mp3?versionId=egaWJaldqQioMOYrDhfUkcEqVjC0C2jb",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2299527,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Discobolus, or Discus Thrower sculpture, is one of the most recognized sculptures of the ancient world. Created by the ancient Greek sculptor Myron, it is of an athletic man throwing a discus as was done in the ancient Olympics. The work represents the balancing of opposing forces, and this version, called the Trownley Discobolus, can be viewed at the British Museum. ",
+    "imageCredits": "tolgabayraktar / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek Level 2 orig/asset/RL/9781797115382_Greek_2_Alpha.pdf?versionId=Lbjhl60iV7lZd.UUkJQA6KtZiqK6dXoG",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek Level 2 orig/asset/RL/9781797115382_Greek_2_Intro.pdf?versionId=DAIU2dhJXVr.IGgYsLfJeSqaaKcTKW9D",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_01.mp3?versionId=0D8W.4ajWd7SfJ3vF_J886w7TUf9yrul",
+    "mediaItemId": 2223767
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_02.mp3?versionId=4ywohoJGvOl2LLxIHRlnACaTvT5aFx_Q",
+    "mediaItemId": 2223882
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_03.mp3?versionId=LZL2mebUU20ccSebgVPobQV.E7KZLy50",
+    "mediaItemId": 2224091
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_04.mp3?versionId=6eF6LzCYyEb6NXgk6ZImjCfgbOts8BxA",
+    "mediaItemId": 2224230
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_05.mp3?versionId=5Z9Fw44vWNNE1MYG7Ce8q2RdgCh42sTx",
+    "mediaItemId": 2224424
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_06.mp3?versionId=olRk3NbdWIoxakMQUon5xOAHIr8E5Mqn",
+    "mediaItemId": 2224560
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_07.mp3?versionId=fbkDge5BKSVP3R9iPZWRP6din2Ze.4XR",
+    "mediaItemId": 2224730
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_08.mp3?versionId=Qv0Jnz7IozPjeKtO.SRlRnO0WsrkU6LR",
+    "mediaItemId": 2225081
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_09.mp3?versionId=u0UvoW4FotliI8oGld5zwZHJ0k5VK_H6",
+    "mediaItemId": 2226662
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_10.mp3?versionId=_2tKB9jhHhNLPP9wuh013aAMzbFJhVBH",
+    "mediaItemId": 2229474
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_11.mp3?versionId=qqWsqpVdEAYZDhjumaQLKsTLj6ArUgmS",
+    "mediaItemId": 2232934
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_12.mp3?versionId=9zVJ4irma1B0da_sHoU1GkYnN.ePjHoh",
+    "mediaItemId": 2236562
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_13.mp3?versionId=JYG_vJwxuFEn7ZPTGq5XORmpkQuFLjEy",
+    "mediaItemId": 2239920
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_14.mp3?versionId=cZSKBNI6tUiQS.GTUrV8XoGbVEFizCE5",
+    "mediaItemId": 2243036
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_15.mp3?versionId=PIHN60Q3c9dUmKr4irfIYSABXP99MbgJ",
+    "mediaItemId": 2246129
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_16.mp3?versionId=8K3aUbQcrBBfzZk6ddjT3lJapysfPnVu",
+    "mediaItemId": 2248968
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_17.mp3?versionId=ziCZ4G00uIalPJA2cJxeuRz4mozdelwu",
+    "mediaItemId": 2251956
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_18.mp3?versionId=xcp369TNUhlnbvnX.3vHPty2VvH4zQwi",
+    "mediaItemId": 2254750
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_19.mp3?versionId=FiOPQcX4Nd.60GCIxlylOgmaJ5J9efX_",
+    "mediaItemId": 2257464
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_20.mp3?versionId=_SbKFcjw0Bf.mFLZeM9qkng7aRO8mW4o",
+    "mediaItemId": 2260323
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_21.mp3?versionId=qu5ro5UoT7DQ02lZX1TpQP6wB.SmABvU",
+    "mediaItemId": 2262866
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_22.mp3?versionId=VAGezXuO9cKTxVFfKSj9UPEPb2ArE0m0",
+    "mediaItemId": 2264678
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_23.mp3?versionId=228oIX_Sthc0gLOKwiceoWhnCppW6byM",
+    "mediaItemId": 2265967
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_24.mp3?versionId=f3kFU4Iz5w6q90CM8lsGFKL2ZtOzZkFd",
+    "mediaItemId": 2266504
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_25.mp3?versionId=3kf6un3.unwU_J4x1lPvjs.bpU71mhSR",
+    "mediaItemId": 2267029
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_26.mp3?versionId=EHwqTrhtYrrOXAGbY5SQnv5vC_jIvJfb",
+    "mediaItemId": 2267312
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_27.mp3?versionId=iRZXotUdjcmwTxJihXVEXEGf.cVYog1F",
+    "mediaItemId": 2267721
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_28.mp3?versionId=amHoxTrx6o80eOT_djta4zMZ_FXunjla",
+    "mediaItemId": 2268133
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_29.mp3?versionId=DjVKUl.p1UnPtdDQkDEvOiPEcBICqxIl",
+    "mediaItemId": 2268561
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%202%20orig/asset/RL/9781442320246_Greek_2_Reading_Lesson_30.mp3?versionId=NPzH7HGCTSF4RXn.tfV7Nyaq4kpYw9Rf",
+    "mediaItemId": 2268894
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797115382",
+    "level": 2,
+    "courseName": "Greek (Modern) Level 2 Premium",
+    "simpleCourseName": "Greek (Modern) Level 2",
+    "puArabic": false
+    }
+    ]

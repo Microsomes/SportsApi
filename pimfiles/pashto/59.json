@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 4717,
+    "languageName": "Italian",
+    "languageId": 155,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_01.jpg?versionId=d6PBRHVQMftojkNI6PNUqqKQnXz29Frr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_01.jpg?versionId=GxjXDRZRkqYax9kmopHNaVFW84Iv.4vk",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U01_Lesson.mp3?versionId=jsEgrXfX1JHV890WppLekw6wN0xCVaEH",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2292826,
+    "cultureContent": {
+    "imageLocation": "Palermo, Sicily",
+    "imageDescription": "About 60 million people in Italy, plus 2 million in other European countries and an estimated 6 million in North and South America speak Italian.",
+    "imageCredits": "Adrian Weinbrecht / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_02.jpg?versionId=07WHx.MdCVxnR3HcDdNoIhtrydt54CQh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_02.jpg?versionId=gfmKE6xhltFHoRRkX1CZz5yMOKosD8zl",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U02_Lesson.mp3?versionId=u_TvvxPalc.0HDOfjOsOZHfS1viKm3vM",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2293221,
+    "cultureContent": {
+    "imageLocation": "Riomaggiore, Liguria",
+    "imageDescription": "Arrival to the Cinque Terre National Park is difficult by road, so most visitors arrive by boat or on foot. The most famous pathway is the Via dell'amore, linking Riomaggiore and Manarola. Fences which line the path are covered in padlocks, graffiti, and love knots left by lovers who want to seal their love.",
+    "imageCredits": "Maremagnum / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_03.jpg?versionId=eUyn6RuX3ExkALorbkkgL_Xw_uKUChGP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_03.jpg?versionId=9.V6EiOVZ61p7ZT65lDRIV2u9RKK9VwX",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U03_Lesson.mp3?versionId=lHEGqpAYRnS9phHTewBG9HAFFFV5RS52",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2293511,
+    "cultureContent": {
+    "imageLocation": "Sicily",
+    "imageDescription": "According to Greek mythology, Zeus imprisoned Typhon, the father of all monsters, beneath Mt. Etna. The volcano makes the surrounding area very fertile, supporting vineyards and orchards, but its proximity to local population has elevated it to being designated a Decade Volcano (one of the 16 most active near large populations).",
+    "imageCredits": "Art Wolfe / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_04.jpg?versionId=Yh4qA.anUhgcTpJncZkMtTtu_v9aQfPe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_04.jpg?versionId=O_cr9O4ZJ0_9qEnW53.j9eY0Etbh31hd",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U04_Lesson.mp3?versionId=Ic0BpmOGCEsiJqufNGYYC9eyVt6RsDZ3",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2293755,
+    "cultureContent": {
+    "imageLocation": "Modena, Emilia-Romagna",
+    "imageDescription": "Architect Aldo Rossi's sanctuary for the cemetery of San Cataldo in Modena remains largely unfinished, but this stark orange building was designed as a communal burial place. The building has no roof and various openings for light, air, and people to pass through.",
+    "imageCredits": "nico piotto / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_05.jpg?versionId=KaH2jgT7UbDLP6nx1_xAmcTLnORwleVT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_05.jpg?versionId=tQCTxbz4uMyseJUFcCbIQHuOD44Cnu7b",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U05_Lesson.mp3?versionId=j9dPRfFTbwv1EqVePqF6Q8MwM_RmwU1r",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2293985,
+    "cultureContent": {
+    "imageLocation": "Verona, Veneto",
+    "imageDescription": "La Stella di Natale arches over the Piazza Bra in Verona from the roof of a nearly 2,000 year-old Roman amphitheater, host to musical performances throughout the year.  The arrival of the star in the piazza each year heralds the coming Christmas festivities.",
+    "imageCredits": "Slow Images / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_06.jpg?versionId=MBqNnbaKeGE.V7D02aOAvhjuW07B4AfC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_06.jpg?versionId=cPGEDcKXmf1ByHmg1gxnR6ABFCT461Pw",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U06_Lesson.mp3?versionId=RrOdLUP6dl2JzRR62Xi_IZLXNpGFPO63",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2294215,
+    "cultureContent": {
+    "imageLocation": "Val d'Orcia, Tuscany",
+    "imageDescription": "Cypress-lined roads and fields dotted with the tall trees is common in Tuscany.  Tuscan cypresses reportedly can live to be over a thousand years old.",
+    "imageCredits": "Flying Colours / OJO Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_07.jpg?versionId=g9nX_yZODxhv557DbQngU0gn1GYK9ooF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_07.jpg?versionId=D4SEROaLCzFGCr7QlInhp56M7kVh6LIl",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U07_Lesson.mp3?versionId=Wy5yN3RzXc0AqMw3FiizYqtLpz_LEhmX",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2294554,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Carnival, ten days of extravagant celebration, begins in Venice's Piazza San Marco and ends winding its way along the Grand Canal. The colorful masks were once worn to hide the identities of revelers, but are now a fanciful ornamentation.",
+    "imageCredits": "Scott E Barbour / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_08.jpg?versionId=ijoKKLOPzFA6px8b8Dmbwn7gUVsIAMaX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_08.jpg?versionId=FuHmKQr40OzKB4LgxfSMHhSu.iWCHIOm",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U08_Lesson.mp3?versionId=0su.98jgsqygjlvZiXdBSH5bkgAvrmhe",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2294807,
+    "cultureContent": {
+    "imageLocation": "Sienna, Tuscany",
+    "imageDescription": "Colle Val d'Elsa, a town of about 20,000 people, is internationally renowned for the production of crystal glassware and art. Today, around 15% of the world's crystal is made here, giving the town the nickname “Crystal Town.”",
+    "imageCredits": "Mats Silvan / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_09.jpg?versionId=3FuNY_YxWt4CbJ7EGZw_JhLUQenIN4t_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_09.jpg?versionId=PNXvqp6tPi9amhfWP2GWiYvVs.EVQvUe",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U09_Lesson.mp3?versionId=Bv0pIGjyqYdkcLipKM7hgA3RTIOK9Vcl",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2295023,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Fountain of the Four Rivers, one of three on Rome's Piazza Navona, has four statues representing the gods of the Nile, Gange, Danube, and Rio de la Plata rivers. The fountain was designed and built by Gian Lorenzo Bernini.",
+    "imageCredits": "Eurasia / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_10.jpg?versionId=JuobksI.tRlnwH4Mz1eHH6nLmt9XdX4t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_10.jpg?versionId=W8bZ.h3lqFBX2TMQrOtuiB4_cLi0mjlO",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U10_Lesson.mp3?versionId=w4_x3mXFgrW8fgCcqY4Es3HTFrvy68sA",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2295370,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "Venice's Grand Canal at dusk, with the Basilica di Santa Maria della Salute in the background. The basilica was built in the 1600s in an attempt to deliver the city from a devastating outbreak of the Plague. ",
+    "imageCredits": "Fraser Hall / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_11.jpg?versionId=mvSS6rlo.0Qzz6nZdS9b4pUGTnrhtpeg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_11.jpg?versionId=P5iwR6P.mCK5.JfOwkkVXzHsex16N9Qo",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U11_Lesson.mp3?versionId=KkkGU.11fflzHc0ogvpATrYIyntaMxNg",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2295663,
+    "cultureContent": {
+    "imageLocation": "Tuscany",
+    "imageDescription": "Tuscany is known for its vineyards, which produce a variety of delicious wines.  The region is also well known for wheat, sunflowers and scenic olive groves. ",
+    "imageCredits": "Martin Ruegner / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_12.jpg?versionId=Y4pM8NHAhCpdc8oTDkHpaQDbaKigDx9s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_12.jpg?versionId=4P4qGyyDK1IkSCG6vC7s9LeaxU5iE4Vy",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U12_Lesson.mp3?versionId=_BiPfylhjBAZIT70HYox_6mob.SXu.39",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2295957,
+    "cultureContent": {
+    "imageLocation": "Florence, Tuscany",
+    "imageDescription": "At the Piazza della Signoria in Florence, Neptune's face was modeled after Cosimo de Medici, the first Grand Duke of Tuscany.  The statue was commissioned to celebrate his son's wedding.",
+    "imageCredits": "James Hardy / PhotoAlto Agency RF Collections / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_13.jpg?versionId=zzobE9_MPLDINQXrlyxM1C1xatE62SfH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_13.jpg?versionId=Z9zKIUVCqlP2PC6sZB3thGUA0oiRZQ31",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U13_Lesson.mp3?versionId=7TGNbyq_BWk_nXvieMVAMiPTtAtjJruI",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2296204,
+    "cultureContent": {
+    "imageLocation": "Palermo, Sicily",
+    "imageDescription": "Traditional Sicilian marionettes adorn this motorbike, hand painted by Franco Bertolino, the last of five generations of artists who are known for their work painting carriages, carts, and vehicles used in the city.",
+    "imageCredits": "Boisvieux Christophe / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_14.jpg?versionId=8aYyeMH.SFOqwGaWQ_2iiUFIXKpMzusd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_14.jpg?versionId=OB1vxUBPIxQmsSN63yuKyL5RGaInCskM",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U14_Lesson.mp3?versionId=k.zBNYWUj6OVZ7o76RHlwmq2NJO5UyK1",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2296473,
+    "cultureContent": {
+    "imageLocation": "Nuoro, Sardinia",
+    "imageDescription": "During the Carnival in Mamoiada, in the province of Nuoro, men don a traditional costume of black sheepskin and honeycomb of cow bells.",
+    "imageCredits": "Slow Images / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_15.jpg?versionId=GW.S.rrK.v3y_gYQ2TFOfiFszybTN0ha",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_15.jpg?versionId=4VCjqSZKcjA9wZDQL5XrIYQlmuNM.qw_",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U15_Lesson.mp3?versionId=U.mH_TlJbdEoAFgSM_K8ZBwXZOU3zEIP",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2296712,
+    "cultureContent": {
+    "imageLocation": "Pavia, Lombardy",
+    "imageDescription": "The Ponte Coperto in Pavia Italy spans the Ticino River, and has a chapel at its center with bells that ring on the hour.  Originally built during Roman times, the bridge was  rebuilt in the 1300s, and again in the late 1940s after World War II.",
+    "imageCredits": "Witold Skrypczak / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_16.jpg?versionId=wkVQkyrslnsUHKFIXZKkp9N.ycyQ5sYQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_16.jpg?versionId=ezxG6D5EAHdYK5l4AUqjL8fUX7x1uRxT",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U16_Lesson.mp3?versionId=rE3oKPrVEqktO0lOIMr28BIf5sVAH5Qc",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2296934,
+    "cultureContent": {
+    "imageLocation": "Italian Culture",
+    "imageDescription": "Every October the residents of Poggibonsi gleefully turn out for the annual grape stomping contest, Il Pigio. The town's seven neighborhoods come together to dance, parade in traditional clothing, and compete to see who can stomp the most grapes.",
+    "imageCredits": "Vincenzo Lombardo / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_17.jpg?versionId=Wh_xowyUdWXljFDrULykmjXLpsli_WmW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_17.jpg?versionId=Iah2szu9xXXCFNl5gykEySbgzt1tuaLw",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U17_Lesson.mp3?versionId=m_WLWKOS0XZ69Kf193kgTWRTa1lt1HKN",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2297194,
+    "cultureContent": {
+    "imageLocation": "Milan, Lombardy",
+    "imageDescription": "The streets of Milan light up every year during LED Milan, an international light festival.  Artists use the city as their canvas and paint the town with lights. ",
+    "imageCredits": "Vincenzo Lombardo / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_18.jpg?versionId=GMjMb2UF9JFQ7_tUg7O5OrSGn4B.ni4k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_18.jpg?versionId=yq37tfoGHyWcHPerC3SOuitNVPC97U4f",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U18_Lesson.mp3?versionId=_ZtJK.OJvkguwTHZukjqTK9qKlUPKclA",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2297451,
+    "cultureContent": {
+    "imageLocation": "Trapani, Sicily",
+    "imageDescription": "At the Riserva naturale integrale Saline di Trapani e Paceco on the west coast of Sicily, traditional windmills are used to mine and refinine salt. The surrounding marshes are a protected stopover for thousands of birds during their migration.",
+    "imageCredits": "Paul Oomen / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_19.jpg?versionId=iOvbc8sOpYXNcg7Xxff0xLgPNZxHNzkB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_19.jpg?versionId=YkWrzcPAXO6GRGcaXcpaxAuhzaug9dkp",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U19_Lesson.mp3?versionId=4Nd11c6DvrhPXAoo6R.e0p4718xY8bd3",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2297705,
+    "cultureContent": {
+    "imageLocation": "Val d'Orcia, Tuscany",
+    "imageDescription": "In Italy, the art of making cheese from sheep milk dates back into antiquity.  Pecorino cheese is still made under strict guidelines in Tuscany, where it is known as Cacio Marzolino.",
+    "imageCredits": "Gianluca Colla / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_20.jpg?versionId=1mbuyda4Z3xvxkAmtQvkcK1doxiXTcNC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_20.jpg?versionId=ZqbSEWzcBVDyfsbCOFL9nGAIm6qruUAe",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U20_Lesson.mp3?versionId=_qu7zNJ5ANPBxhHljyhM52H49a2jMw.Y",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2297994,
+    "cultureContent": {
+    "imageLocation": "Naples, Campania",
+    "imageDescription": "Giancarlo Neri's floating statue of a red rocking horse, known as Cavallone, was installed at Castel dell'Ovo (Castle of the Egg) just off the coast of Naples during the summer of 1997. The castle gets its name from the legend that the medieval poet Virgil installed a magical egg in its foundation. ",
+    "imageCredits": "Lucy Davies / Axiom Photographic Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_21.jpg?versionId=Uc_HXa3ZZSSHfDjv7IjcXRJxv.HBYSMR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_21.jpg?versionId=gi8B_nZz8pZEVoyCGwgxx8IU_frU9gLr",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U21_Lesson.mp3?versionId=xC8XAwt1HN3ybHjR.IpphMpNySgsObiY",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2298247,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The dome of St. Peter's Basilica is the tallest dome in the world. Originally designed by Donato Bramante, the basilica has been redesigned many times over the years by artists including Michelangelo and Raphel. ",
+    "imageCredits": "Nikada / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_22.jpg?versionId=oFi4VOwmymON6rf3uVZ6vrZDHfKo2Pgp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_22.jpg?versionId=VXsckRnzxgxWQrpomWLshQlewSaXplcL",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U22_Lesson.mp3?versionId=TUo8MY04vYVxTYh1jNdY9OMFrK7qXgsL",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2298506,
+    "cultureContent": {
+    "imageLocation": "Trapani, Sicily",
+    "imageDescription": "Near near Trapani, Sicily, the ancient fishing technique, tonnara, consists of using nets to form a maze to trap migrating tuna. ",
+    "imageCredits": "Andrea Pistolesi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_23.jpg?versionId=T7r4m2HYooHDcazYYnMjSpju2vybLvyJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_23.jpg?versionId=4qboGcb.1bMv0Pu5lz2ZSFCEIVQrbdZb",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U23_Lesson.mp3?versionId=VJOPqo68HZWafcOD0gJHdoB.UQcvzfjI",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2298708,
+    "cultureContent": {
+    "imageLocation": "Tonnara, Sicily ",
+    "imageDescription": "The combination of the natural and the manmade make the cove below Scopello Village a treasured local destination.  The movie Ocean's Twelve was shot in an abandoned tuna fishery nearby.",
+    "imageCredits": "Livio Sinibaldi / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_24.jpg?versionId=ml02J8oNU84VkJLWPyvoJO_Qh4AU_uUC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_24.jpg?versionId=zderNwfC2pnQEX_hxzhnP6Z.gtwxb9_L",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U24_Lesson.mp3?versionId=zuxZlLaKgrzyHeKMIKOgtUjabwqEamSe",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2298928,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The sweeping, bending, and intersecting lines of Rome's National Museum of the 21st Century Arts are meant to evoke urban transportation.  Dame Zaha Mohammad Hadid's design won the Stirling Prize for excellence in architecture.",
+    "imageCredits": "Vincenzo Lombardo / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_25.jpg?versionId=B9SeHMmwojAfjNmXL3pRzsQgJQTd8YpP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_25.jpg?versionId=ADu6A5jNkKEQP5hgB3NeoEVKDHvlrYdm",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U25_Lesson.mp3?versionId=GUNiJpkaazrBUE..3TG1VypwDSmZ1Dfo",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2299175,
+    "cultureContent": {
+    "imageLocation": "Bassano del Grapa, Veneto",
+    "imageDescription": "The Ponte degli Alpini, a pontoon bridge spanning the Brenta River, dates to the 1100s. The bridge is home to the Nardini tavern and distillery, where grappa is made.",
+    "imageCredits": "Peter Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_26.jpg?versionId=3tpuumMWolMnV8RDKGQVt2TrF4l3yGT8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_26.jpg?versionId=w0bSQdXEgMY4ReAYJO.H5Wy3wQRB7EXI",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U26_Lesson.mp3?versionId=fYSKiNEZAMP2A_syxyuX0TlxKqI6jGy7",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2299517,
+    "cultureContent": {
+    "imageLocation": "Villnoss, Trentino-Alto Adige/Südtirol Province South Tyrol",
+    "imageDescription": "St. Johann's Church, in the Val di Funes is named for a saint of the Czech Republic who reportedly refused to give up secrets told to him during confession.  Frescoes inside date from the 1700s and tell the story of the saint's life.",
+    "imageCredits": "Gavin Hellier / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_27.jpg?versionId=k2mLujxNP1xSFenGdeagW1Lc2_cm4nLa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_27.jpg?versionId=H4sasAjbZxd01wI4PNu67lMQETo_GAYK",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U27_Lesson.mp3?versionId=cB.sTiQ0RhMGDcAHH1zlctIWTYKlS4I5",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2299749,
+    "cultureContent": {
+    "imageLocation": "Portofino,  Liguria",
+    "imageDescription": "High above the boutiques and restaurants of Portofino, Liguria is the Castello Brown, a fortress built to originally to defend the area against the Turks. ",
+    "imageCredits": "Mats Silvan / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_28.jpg?versionId=4GHFad4DGjExexoOafbMdXdWFIRHvznD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_28.jpg?versionId=S9mwPF_eECkKKwU8jVB7d0fESrXjjnVV",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U28_Lesson.mp3?versionId=g.bEDNLicxKZ_KHaEjF2iwkPoA5bOj_G",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2299997,
+    "cultureContent": {
+    "imageLocation": "Umbria",
+    "imageDescription": "Some of the finest black truffles in the world come from Norcia, a medieval mountain town. The Black Truffle Festival, or Nero Norcia, is held in February, and attracts local and national food producers. ",
+    "imageCredits": "Stefano Scata / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_29.jpg?versionId=XEX4doQQbhK3pmtue4896T0E_cVjSWeq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_29.jpg?versionId=XMf1EfY.OdO.5TokAUkneln3xWaqo60U",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U29_Lesson.mp3?versionId=SFZ9fNKzBJypywCsyd5JVLWOpgakXSNl",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2300276,
+    "cultureContent": {
+    "imageLocation": "Rome, Lazio",
+    "imageDescription": "The Trevi Fountain is considered by many to be the most beautiful fountain in Rome.  Based on a design by Bernini this baroque fountain was completed in 1762. Tossing a coin into this fountain will ensure a return trip to Rome.",
+    "imageCredits": "Stefan Reiß / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/full/IT_3_M_30.jpg?versionId=R7u6TFfiH2ANyDQw3V8ln1hi5IE0uW_s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/lesson_photo/thumb/IT_3_M_30.jpg?versionId=jP1ZwwoCim3PEShsBShxwyOcoq9T.MyB",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/main_audio/9781442350373_Italian3_U30_Lesson.mp3?versionId=_6E06A0hKgCExZ5FlhrhhOCGYyl4psIr",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2300482,
+    "cultureContent": {
+    "imageLocation": "Venice, Veneto",
+    "imageDescription": "The Carnival of Venice, well known for fanciful masks and period costumes, starts forty days before Easter and ends on Fat Tuesday, the day before Ash Wednesday. ",
+    "imageCredits": "Buena Vista Images / Riser / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian Level 3 orig/asset/RL/9781442350373_Italian_3_Intro.pdf?versionId=OJtKYz9nGoTPEErT.ZOljqJxmpVh_2LD",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit01_Reading.mp3?versionId=GfdWcuqHmTEezE8A.8beViFf_M.NkHMa",
+    "mediaItemId": 2223779
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit02_Reading.mp3?versionId=1TzQvBUEsyI1rkvaXN_8RYP3OGuen5lA",
+    "mediaItemId": 2223896
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit03_Reading.mp3?versionId=cCZkdgSq0X6whhaDFu04.59uWjllmHCC",
+    "mediaItemId": 2224109
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit04_Reading.mp3?versionId=S1nZSzsj9A7oXDEvn82fs32EpvoaXIkZ",
+    "mediaItemId": 2224249
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit05_Reading.mp3?versionId=lfqhPbXuvdTm9FmeZNorhq_MaSq8r1Z7",
+    "mediaItemId": 2224443
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit06_Reading.mp3?versionId=0ZyZZwNZKkzTgyG45Wxy.UlGKXlF3DqV",
+    "mediaItemId": 2224612
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit07_Reading.mp3?versionId=P3XA0zqu8JocD_1oxa5cIBSfkoBYYpjc",
+    "mediaItemId": 2224744
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit08_Reading.mp3?versionId=iWrCYsjLlp.hdBNgJIMQFzzGeY0Zz0lS",
+    "mediaItemId": 2225257
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit09_Reading.mp3?versionId=ZoCacWPOLWmkeDSvgyRWybjqArv2E.Pm",
+    "mediaItemId": 2227010
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit10_Reading.mp3?versionId=4Q5kpXFlxqlCePueV2vZfpXmqdJPEZ84",
+    "mediaItemId": 2229788
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit11_Reading.mp3?versionId=SU2BOqA0ZX.BXcCOsDjqEiAPmspLe0fo",
+    "mediaItemId": 2233249
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit12_Reading.mp3?versionId=94G4jvkoLJ9YrVhPmyV6OYHqqIDwP14d",
+    "mediaItemId": 2236764
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit13_Reading.mp3?versionId=26sga3nsx5d57HupgB6Qcz.ZbfC6HslP",
+    "mediaItemId": 2240237
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit14_Reading.mp3?versionId=ZTXWIZk4PDJ.NOzJ.9gqS4IHH7WrZUHy",
+    "mediaItemId": 2243133
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit15_Reading.mp3?versionId=e.YR7JgAUE9J9y7HD2WRclI4JL8lx5Jm",
+    "mediaItemId": 2246228
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit16_Reading.mp3?versionId=1eDABYvFBzOBtk8gi7sexVtRuS4OyVEp",
+    "mediaItemId": 2249191
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit17_Reading.mp3?versionId=nCa6kupWAnI3qdw.orRRsNDLBGffkUBq",
+    "mediaItemId": 2252157
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit18_Reading.mp3?versionId=3S13MBxcMnXtFmbM.aNvqBSdZBhxB8JZ",
+    "mediaItemId": 2254937
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit19_Reading.mp3?versionId=sWxS8Rnn09CXIQEV69YVR5N0V2EWl9Gp",
+    "mediaItemId": 2257775
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Italian/Italian%20Level%203%20orig/asset/RL/9781442350373_Italian3_Unit20_Reading.mp3?versionId=6y49X9iDjFYz.vRZLIhuIi7oUypgnQez",
+    "mediaItemId": 2260507
+    }
+    ]
+    },
+    "languageCode": "it-IT",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442350373",
+    "level": 3,
+    "courseName": "Italian Level 3 Premium",
+    "simpleCourseName": "Italian Level 3",
+    "puArabic": false
+    }
+    ]
