@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"net/http"
 	"os"
 )
@@ -29,29 +30,54 @@ type Lesson struct {
 
 type Languages []*Language
 
-func PerformDownload(dst *os.File, link string) {
+func PerformDownload(dst *os.File, link string, guard chan struct{}) {
 	defer dst.Close()
-	dst.Write([]byte("audio file"))
+
+	resp, err := http.Get(link)
+
+	if err != nil {
+		fmt.Println("cannot download")
+	}
+
+	defer resp.Body.Close()
+
+	lt, err := io.Copy(dst, resp.Body)
+
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("downloaded:", lt)
+
+	fmt.Println(dst.Name())
+
+	<-guard
+
 }
 
-func DownloadLanguage(units []*Unit) {
+func DownloadLanguage(units []*Unit, concurrentLevel int) {
+
+	guard := make(chan struct{}, concurrentLevel)
 
 	for _, u := range units {
 		err := os.Mkdir(u.Name, 0777)
 		if err != nil {
-			fmt.Println("folder does not exist")
 		}
 
 		for _, l := range u.Lessons {
 
 			fname := u.Name + "/" + l.Name
-			fmt.Println(fname)
-			dst, err := os.Create(fname)
+			dst, err := os.Create(fname + ".mp3")
 			if err != nil {
 				panic(err)
 			}
+			fmt.Println(u.Name)
+			fmt.Println("performing download:", l.Name)
 
-			go PerformDownload(dst, l.AduioLink)
+			guard <- struct{}{}
+			fmt.Println("perform download")
+
+			go PerformDownload(dst, l.AduioLink, guard)
 
 		}
 
@@ -106,12 +132,15 @@ func getAllUnits() []*Unit {
 func main() {
 	units := getAllUnits()
 
-	DownloadLanguage(units)
+	DownloadLanguage(units, 10)
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		b, _ := json.Marshal(units)
 		w.Write(b)
 	})
 
-	http.ListenAndServe(":5003", nil)
+	err := http.ListenAndServe(":5004", nil)
+	if err != nil {
+		panic(err)
+	}
 }
