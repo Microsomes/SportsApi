@@ -36,6 +36,8 @@ func main() {
 	sm.HandleFunc("/", handlers.AllDocs().ServeHTTP)
 	sm.HandleFunc("/leagues", handlers.AllLeagues().ServeHTTP)
 
+	sm.HandleFunc("/languages", handlers.AllLanguages)
+
 	s := NewServer(sm)
 
 	s.ListenAndServe()

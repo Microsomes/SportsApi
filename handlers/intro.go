@@ -21,6 +21,11 @@ func AllDocs() *Docs {
 		Description: "returns a list of supported leagues",
 	})
 
+	docs = append(docs, &HttpDoc{
+		Path:        "/languages",
+		Description: "returns a list of supported languages for talkfs.com",
+	})
+
 	return &docs
 }
 

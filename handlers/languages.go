@@ -1,4 +1,4 @@
-package main
+package handlers
 
 import (
 	"encoding/json"
@@ -78,7 +78,7 @@ func DownloadLanguage(units []*Unit, concurrentLevel int) {
 
 }
 
-func getAllUnits() []*Unit {
+func GetAllUnits() []*Unit {
 	// allUnits := Units{}
 	alllangs := []*Unit{}
 	var i = 1
@@ -88,7 +88,7 @@ func getAllUnits() []*Unit {
 			break
 		}
 
-		b, err := os.Open(fmt.Sprintf("../../pimfiles/pashto/%d.json", i))
+		b, err := os.Open(fmt.Sprintf("./handlers/pimfiles/pashto/%d.json", i))
 		if err != nil {
 			break
 		}
@@ -138,7 +138,7 @@ func getAllUnits() []*Unit {
 // 	Units []Unit
 // }
 
-func sortLanguagesToUnits(units []*Unit) map[string][]Unit {
+func SortLanguagesToUnits(units []*Unit) map[string][]Unit {
 
 	var langmap = make(map[string][]Unit)
 
@@ -156,20 +156,67 @@ func sortLanguagesToUnits(units []*Unit) map[string][]Unit {
 	return langmap
 }
 
-func main() {
-	units := getAllUnits()
+type Section struct {
+	Name     string `json:"name"`
+	Feedid   string `json:"feedid"`
+	FeedName string `json:"feedName"`
+}
+type LanguageSect struct {
+	Name     string    `json:"name"`
+	Sections []Section `json:"sections"`
+}
 
-	var units2 = sortLanguagesToUnits(units)
+func SortLikeTalkFS(all map[string][]Unit) []LanguageSect {
 
-	DownloadLanguage(units, 10)
+	sects := []LanguageSect{}
 
-	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		b, _ := json.Marshal(units2)
-		w.Write(b)
-	})
+	for k, v := range all {
 
-	err := http.ListenAndServe(":5004", nil)
-	if err != nil {
-		panic(err)
+		var sects2 = []Section{}
+
+		for _, u := range v {
+			sects2 = append(sects2, Section{
+				Name:     u.Name,
+				Feedid:   u.Name,
+				FeedName: u.Name,
+			})
+		}
+
+		sects = append(sects, LanguageSect{
+			Name:     k,
+			Sections: sects2,
+		})
+
 	}
+	return sects
+}
+
+func DedublicateUnits(units []*Unit) []*Unit {
+
+	var newUnits = []*Unit{}
+
+	UnitsSeen := make(map[string]bool)
+
+	for _, x := range units {
+		if UnitsSeen[x.Name] == false {
+			newUnits = append(newUnits, x)
+			UnitsSeen[x.Name] = true
+		}
+	}
+
+	return newUnits
+
+}
+
+func AllLanguages(w http.ResponseWriter, r *http.Request) {
+
+	units := GetAllUnits()
+
+	units = DedublicateUnits(units)
+
+	var units2 = SortLanguagesToUnits(units)
+
+	b, _ := json.Marshal(units2)
+	w.Write(b)
+
 }
