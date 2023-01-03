@@ -1,0 +1,639 @@
+[
+    {
+    "courseId": 4218,
+    "languageName": "German",
+    "languageId": 147,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_01.jpg?versionId=u9yjKwik6ez6Ks_atKY9gbhvu00YTCPJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_01.jpg?versionId=25dRIGt3n.6XqKGPXjEulqGRLsQA9nBT",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U01_Lesson.mp3?versionId=98lVPSF31Xy.MJLVN10YoA.pUJl8go6.",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2290374,
+    "cultureContent": {
+    "imageLocation": "Hamburg, Germany",
+    "imageDescription": "German is spoken by 100 million people worldwide.  Germany has the largest economy in the European Union and is a world leader in many industries such as publishing, automotive, biotech, computing, and alternative energy to name a few.  The German internet domain .de is the second largest domain after .com.",
+    "imageCredits": "Westend61 / Westend 61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_02.jpg?versionId=mr4xmNNhjeKzVh3pBWGcE6ndhP_7yly0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_02.jpg?versionId=KxlrS2WkVHXxY5h5pkToWPFQbDTuKxuk",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U02_Lesson.mp3?versionId=Uws_etdAqe8rvSrgz88dDcWgo6FMcagg",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2290627,
+    "cultureContent": {
+    "imageLocation": "Cologne, Germany",
+    "imageDescription": "The Kölner Dom, a twin-spired cathedral on the Rhine in Cologne, was constructed between 1248 and 1880.  At approximately 515 feet tall, it was the tallest structure in the world until 1884 (superseded by the Washington Monument) and the tallest building until 1890.",
+    "imageCredits": "Tobias Helbig / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_03.jpg?versionId=Z18XBXM3zAVXuz.H5mWqaIfhfIfsT3Tk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_03.jpg?versionId=3RGGQV9rXwX2hn6MJvgwuSu5HaiBxTWS",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U03_Lesson.mp3?versionId=Jbarr7wZWfLK07bnpGGrmkY5UTwk.jUb",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2290966,
+    "cultureContent": {
+    "imageLocation": "Upper Bavaria, Germany",
+    "imageDescription": "The Karwendel Alps are located in Bavaria, Germany and Tyrol, Austria.  They include 125 peaks over 2,000 meters.  The 2,950 feet high Laliderer Wall, the most famous climbing wall in Tyrol is located in this range.  In 1979, the largest rescue operation in the Karwendel took place on this popular hiking wall when two climbers were trapped for 3 days.  The rescue involved over 200 volunteers.",
+    "imageCredits": "Raimund Linke / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_04.jpg?versionId=jlePMXR1RpRODAw2KgX3vc7daA5kImGb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_04.jpg?versionId=fMs8mUc_GZQ0TDUFIu20MHZ8mrc5YLRz",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U04_Lesson.mp3?versionId=iCs.1yWT.9FzLrP8T0.0l3Fo5DE8cIzM",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2291276,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "Neuschwanstein Castle, located in Bavaria, was built and personally financed by King Ludwig II when he decided to withdraw from public life.  Seven weeks after his death in 1873, it was opened to the paying public. The castle was used as a model for the Sleeping Beauty Castle in Disneyland.  Today it is visited by 1.3 million people a year.",
+    "imageCredits": "P.E. Read / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_05.jpg?versionId=eS4sjad4KluVZ7H9YdqaHcsPNY.UGufS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_05.jpg?versionId=DAdQgjk104ACzAQd9uLuJY0d7PjvWlvL",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U05_Lesson.mp3?versionId=hZk_tkgXxwUv6RV0KuHtr03V8xPzUdhV",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2291521,
+    "cultureContent": {
+    "imageLocation": "Germany",
+    "imageDescription": "Bratwurst dates back to the 14th century.  Today in Germany there are over 50 varieties and it is considered a 'side' or 'fast food,' typically served on a Brötchen (roll) with Senf (mustard).",
+    "imageCredits": "Elisabeth Schmitt / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_06.jpg?versionId=rLLf7PtX1YhCMI5k7SHmqGc5cr4pGddS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_06.jpg?versionId=mXs4pJQuTU2yJJO6xNgrZ_b_MzHYq6k4",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U06_Lesson.mp3?versionId=iOmLngpw0qIwheXGSNrI9DvMdHu4k.na",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2291887,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Berlin Wall was constructed in 1961.  The western side of the wall became an open canvas for graffiti artists, and was completely covered; the eastern side of the wall was kept blank. Since the reunification of Germany most of the wall has been removed. However, small portions still remain in places such as Potsdamer Platz, Mühlenstrasse, and Bernauer Strasse.",
+    "imageCredits": "Image Source / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_07.jpg?versionId=X9tboko.Ay_xBbt4v25cz9_0O0ChPR_N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_07.jpg?versionId=h6JVFDKKzVCnIZ93hEhusGEjBYNGKB4E",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U07_Lesson.mp3?versionId=t_9eeR_M.OIFko_2HCgANWvhfO2Ro0yg",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2292169,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Trabant was first manufactured in East Germany in 1957 and was the most commonly driven car in that country.  It often took years to get a Trabant, but once received, its average lifespan was 28 years.  It remained in production, mostly unchanged, for 30 years with over 3 million cars produced and was the most popular car model in East Germany.  In 2009, an electric Trabant was showcased at the Frankfurt Motor Show.  ",
+    "imageCredits": "Car Culture / Car Culture Collection / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_08.jpg?versionId=_lRVNbMpnvv47SPml2lNK_IyxTBURxY7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_08.jpg?versionId=zO4g5ajJEz0KoVUDofsatgIR3aYOAIlC",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U08_Lesson.mp3?versionId=.tQI1YZ1KyWerblXVpYZsQPv7hbq4S5k",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2292377,
+    "cultureContent": {
+    "imageLocation": "Germany",
+    "imageDescription": "Lederhosen are short or knee-length breeches made of leather.  They were originally worn by farmers and peasants as work clothes in parts of Germany and Austria; eventually they were adopted by the aristocracy for hunting and outdoor activities. Today they still may be seen, mostly for special occasions, in Austria, the Alps, and Bavaria, as shown in this Oktoberfest photo.",
+    "imageCredits": "Karel Eissner Photography / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_09.jpg?versionId=L9v78H9fs2YlhmUjnvTZlk6xynQcwsoJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_09.jpg?versionId=BQGHf9G9gcLHED3d4oeGDa8l0tXPkpaJ",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U09_Lesson.mp3?versionId=HUGMjQ5lFsirxDSvNGSowI1nHvz_4K.K",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2292662,
+    "cultureContent": {
+    "imageLocation": "Lubeck, Schleswig-Holstein, Germany",
+    "imageDescription": "Lübeck, a port on the Baltic Sea in the northern German state of Schleswig-Holstein, was settled in 700 AD.  In 1967 UNESCO declared the existing Lübeck cityscape to be a World Cultural Heritage Site.  Lübeck is world-famous for its marzipan, traditionally served with 'Rotspon,' a Bordeaux wine.  ",
+    "imageCredits": "Peter Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_10.jpg?versionId=g92_Km.OgHc6oCQUWMxaQeAClSC.JEav",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_10.jpg?versionId=lmb_viBV5FLhi1RBQsKdZEL_xwJj5Y.M",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U10_Lesson.mp3?versionId=VE_3xZMLDiQLkwfZmMzid7DqzRoV04Qo",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2292974,
+    "cultureContent": {
+    "imageLocation": "Baden-Württemberg, Germany",
+    "imageDescription": "Burg Hohenzollern castle (south of Stuttgart) has been through three incarnations. After having been besieged and destroyed in the 15th century, it fell into ruins after it was abandoned in the 18th century.  After it was rebuilt, it was severely damaged in 1978 by an earthquake and stayed under repair for almost 20 years.",
+    "imageCredits": "Otto Stadler / Workbook Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_11.jpg?versionId=RVoqsFlQ08POf3odr.iIFHk6LS1_nfqP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_11.jpg?versionId=eW1t.yJcm3S.2q52YTHveqF7r3XbLZzS",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U11_Lesson.mp3?versionId=.bV4ISuy6NgQr3zW65ZjLLe1yBnAmaAh",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2293184,
+    "cultureContent": {
+    "imageLocation": "Franconia, Bavaria, Germany",
+    "imageDescription": "The Siebers Tower in Rothenburg ob der Tauber dates to 1385.  The town which means 'Red fortress above the Tauber' was a free imperial city of the Holy Roman Empire, ruled only by the emperor.   Today it is famous for its medieval city center.",
+    "imageCredits": "Gavin Heller / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_12.jpg?versionId=ozm1pGXOyDIn8mv4xaEvkjyniF6PU9Q_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_12.jpg?versionId=ql2Aa9ybcugUS9cWlrN2b3p3H2OPEpui",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U12_Lesson.mp3?versionId=bKAlWQ93OJjkS5vkU8JnhHGCVrxHWCxv",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2293425,
+    "cultureContent": {
+    "imageLocation": "Bruges, West Flanders, Belgium",
+    "imageDescription": "According to the Belgian Constitution:  'Belgium comprises three Communities:  the Flemish Community, the French Community, and the German-speaking Community.'  Bruges is one of the most striking medieval cities in Belgium and was beautifully portrayed in the movie 'In Bruges' with Colin Farrell and Brendan Gleeson.",
+    "imageCredits": "Jorg Greuel / The Image Bank /                               Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_13.jpg?versionId=2o6YXR3yxGyomEytgJEIoGPIODLPrN.x",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_13.jpg?versionId=97j0cXGfHjJP97qYlYiFpxH6VaaTSKyk",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U13_Lesson.mp3?versionId=N280T.gHE7N__jjNAx4uD1sZhS5nq_dt",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2293682,
+    "cultureContent": {
+    "imageLocation": "Liège, Belgium",
+    "imageDescription": "Liège Guillemins train station was designed by Santiago Calatrava Valls (who also designed The Milwaukee Art Museum) and completed in 2009.  It is the main station of the city of Liège, in eastern Belgium, one of the most important rail hubs in the country. This new station is on the high-speed train network and serves 36,000 people every day.",
+    "imageCredits": "Ruy Barbosa Pinto / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_14.jpg?versionId=OazCLEcAW0EIggtf2BJ9ytJX594jIewV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_14.jpg?versionId=JBVT5GLnWxjTmXe.xvqvZj3r9WRssWHc",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U14_Lesson.mp3?versionId=MmmESrbhOzC8zNmAtbB920Vmv6tU3lGm",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2293926,
+    "cultureContent": {
+    "imageLocation": "Saxony, Germany",
+    "imageDescription": "These rock formations are found in the Elbe Sandstone Mountains national park and continue into the Czech Republic.  The park encompasses 1,100 peaks and approximately 14,000 climbing routes. ",
+    "imageCredits": "H. & D. Zielske / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_15.jpg?versionId=zv5ZjkQeBOQk5X7aoNgfy_YX5Ar9EXoS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_15.jpg?versionId=sSpZx.T3VNQ9FZY3CSAfJ65cB8Ex9GhU",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U15_Lesson.mp3?versionId=6TkXWEjlkRr3ndvJuy4T8TGPrzIsxmf7",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2294121,
+    "cultureContent": {
+    "imageLocation": "Lower Saxony, Germany",
+    "imageDescription": "Lake Steinhude's Wilhelmstein Island is the largest lake in northwest Germany, although it is very shallow with an average depth of 4.4 feet.  The island was built by Duke Wilhelm of Schaumburg-Lippe in the late 18th century and consists mainly of stones transported by local fisherman.",
+    "imageCredits": "Karl Johaentges / LOOK / Getty Images                   "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_16.jpg?versionId=xi.WI5kEZKy0ns7jj0kR_Ix959Q5_TdQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_16.jpg?versionId=cGTt8y1xn1EE611WA1GBtbqO82PhO9Io",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U16_Lesson.mp3?versionId=JzkQYbwMcio9dFOM4rqNMWbmcC3YbI2k",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2294352,
+    "cultureContent": {
+    "imageLocation": "Munich, Germany",
+    "imageDescription": "Munich has played host to many prominent composers including Mozart, Carl Maria von Weber, Richard Wagner, Gustav Mahler, Richard Strauss, Max Reger and Carl Orff.  Since 1988, Munich has hosted the Münchener Biennale, an opera festival including theater-related contemporary music.",
+    "imageCredits": "Greg Dale / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_17.jpg?versionId=VnHo3DJGBKe6Tls3GZBWNoPJ53SDt8BH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_17.jpg?versionId=YGo_6KPrOTzx1u34sfp2VSZCq5Xq1JhH",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U17_Lesson.mp3?versionId=439YIQBpG4Gg_CvONRHCGW3HvSV1kf5J",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2294561,
+    "cultureContent": {
+    "imageLocation": "Graz, Styria, Austria",
+    "imageDescription": "Kunsthaus Graz Art Museum is an architectural landmark in the city of Graz, Austria.  Its architecture exemplifies the 'blobitecture' movement promoting buildings with an organic form.  The museum exhibits art from the last four decades.",
+    "imageCredits": "Harald Eisenberger / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_18.jpg?versionId=E_Rhm76lFMsZQknwNYF0P6u2uMVykMvQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_18.jpg?versionId=W7n.g3muMM37YTbD9FZiEU2senoaDiX4",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U18_Lesson.mp3?versionId=SU3jwHeSeU2itJq5CThZH2MMepU6_iRy",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2294813,
+    "cultureContent": {
+    "imageLocation": "Würzburg, Franconia, Bavaria, Germany",
+    "imageDescription": "Between 1626 and 1631, Würzburg was the location of one of the largest witch trials in history, with over 200 executions.  During WWII, 90% of the city was destroyed in 17 minutes of bombing. ",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_19.jpg?versionId=67YiynzaNIIAyGRDfHw326qwbuhTu6Vg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_19.jpg?versionId=2ZY.qqadtwSbE2.ncyqGbLMQsorvzJDc",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U19_Lesson.mp3?versionId=idJWO0PRGSSQJ2pKTfasgCQleFrW0C1V",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2295004,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "Pretzels were emblematic of bakers in southern Germany as far back as the 12th century.  Their shape has a practical origin as it is easy to hang or stack them on sticks to dry.  In Southern Germany, pretzels are  dipped in a sodium hydroxide and water solution before baking.",
+    "imageCredits": "Elan Fleisher / LOOK / Getty Images                             "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_20.jpg?versionId=Xz.T4.hzT4JjF9RGuS8Gm7M5ehmMbHes",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_20.jpg?versionId=AE8yMex3BVokEBtt1XJbveh4IT5sv79d",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U20_Lesson.mp3?versionId=TwD5mPL3_D9qQ3UitBDcfsVm2lFg43YD",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2295324,
+    "cultureContent": {
+    "imageLocation": "Duisburg, Germany",
+    "imageDescription": "Soccer is the most popular sport in Germany and the Deutscher Fußball-Bund (German Football Association) is the largest sports association in the world.  Because Germany does not have a national soccer stadium, soccer games are rotated among stadiums throughout Germany.  The German team is one of the most accomplished on the world stage having won the World Cup and the European Championships, three times.",
+    "imageCredits": "Stuart Franklin / Bongarts / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_21.jpg?versionId=3VhIyjTXNpbSfjGtKqeovvZz1qFprPq9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_21.jpg?versionId=dXvY.7L9XhYPSN3hRZatK8n7gHbaJOS9",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U21_Lesson.mp3?versionId=HITSSpBLmrzXoLpcYsOfpM7Bo64alujR",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2295580,
+    "cultureContent": {
+    "imageLocation": "Wolfratshausen, Upper Bavaria, Germany",
+    "imageDescription": "The Isar River is a major tributary of the Danube, and water from a substantial part of the Alps and Karwendal Mountains drain into it.  There are several areas along the river Isar that have been designated as nudist resorts including some areas in Munich.",
+    "imageCredits": "Martin Ruegner / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_22.jpg?versionId=pMFN2IIbjHKiFbDmIuZfkJU08lo0v3Px",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_22.jpg?versionId=FC6SVgh9_BAXb5WgjbcqPndEktXcbDhf",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U22_Lesson.mp3?versionId=gWq9uFWUVc7Dun0NQPfA00p.hTbK5Ks_",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2295870,
+    "cultureContent": {
+    "imageLocation": "Berlin-Kreuzberg, Germany",
+    "imageDescription": "Berlin's U-Bahn (subway) system is well known for its high level of performance and its emphasis on environmental responsibility.  Its trains run a total of 250,000 miles every day, which is like going around the earth nine times daily.",
+    "imageCredits": "H. & D. Zielske / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_23.jpg?versionId=MgJhUKRi5c86vdF0koGFNaIZnM4iRb72",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_23.jpg?versionId=UqxbA6W2BlQ3CBmAP04OCWOZDM0FDh1o",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U23_Lesson.mp3?versionId=gB__ATGab6iRz8sfwV0fdNuURuAZx8jq",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2296151,
+    "cultureContent": {
+    "imageLocation": "Salzburger Land, Austria",
+    "imageDescription": "Lakeside town of Hallstatt, located in the Salzkammergut region of Austria. Salzkammergut, which means  'Estate of the Salt Chamber,' is a resort area of Austria stretching from Salzburg to the Dachstein mountain range.  Historally this area is significant for its salt production dating back to the 2nd century BC.  Hallstatt-Dachstein  was listed as a World Heritage site in 1997.",
+    "imageCredits": "Manchan / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_24.jpg?versionId=w.t2LSlL8rkccr.KPUGHP.b.7iPSLWJJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_24.jpg?versionId=b4A.lcH9nrftuLP55t7X_PDSX.f0Rbri",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U24_Lesson.mp3?versionId=.cDKLQuCOc85R2t5b4Vmo6woAsaiZcdC",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2296393,
+    "cultureContent": {
+    "imageLocation": " Bad Gastein, Austria",
+    "imageDescription": "Near the Stubnerkogel lift is also one of the highest hanging bridges (at 2,300 meters) open to foot traffic year round. Bad Gastein is a resort town famous for its hot springs. Marie Curie helped to discover radon in the thermal waters, which resulted in radon inhalation therapy still offered in spas in the area.",
+    "imageCredits": "Thomas E. Gunnarsson / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_25.jpg?versionId=4r3Ls3Yp_kh6s.FFWWcHcMBXzfE4HLg3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_25.jpg?versionId=5iOmkFWVSVG5fAJJ1Ibde2ppwIZciIMd",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U25_Lesson.mp3?versionId=q3KvinCUuagb82BC3nFYKrlEwOZVPJkZ",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2296629,
+    "cultureContent": {
+    "imageLocation": "Tirol, Austria",
+    "imageDescription": "Tirol is a state in northwest Austria famous for its ski resorts.  The capitol of Tirol is Innsbruck and famous ski resorts include Kitzbühel, Ischgl and St. Anton. The Streif downhill race in Kitzbühel is considered the steepest and most spectacular racing event in the world.  A competition takes place every January. ",
+    "imageCredits": "Ingmar Wesermann / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_26.jpg?versionId=LPd8pbPUoM6l_GLn7AuEtS2PxH1n35MO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_26.jpg?versionId=25lOW1VRZWCkf7q2sIjiaU88FQQ95F7t",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U26_Lesson.mp3?versionId=fZUW_0ihwlEwSbRLiE3wxDanE6LfhN7Y",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2296845,
+    "cultureContent": {
+    "imageLocation": "Lindau, Germany",
+    "imageDescription": "Lake Constance (known as the Bodensee) is a lake on the Rhine at the foot of the Alps.  Germany, Austria and Switzerland border Lake Constance.  The lighthouse  completed in 1856 includes a clock on its facade.",
+    "imageCredits": "Andreas Strauss / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_27.jpg?versionId=BRxcRXFwEWdVuSs5qGAQ7YAtaUUm5shm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_27.jpg?versionId=Cn7lp4LmGJSu1dMaI7tebxoWPZ_kzpqV",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U27_Lesson.mp3?versionId=bnqgxgpdNj9w73WWqIZqc2QVKCenJhKF",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2297136,
+    "cultureContent": {
+    "imageLocation": "Nordfriesland, Schleswig-Holstein, Germany",
+    "imageDescription": "Germany is one of the leading countries in using and developing green technologies.  In Schleswig-Hollstein (photo), a northern state situated between the North Sea and the Baltic Sea, much of its energy needs is supplied by renewable sources, mostly through wind energy and on-farm biogas. ",
+    "imageCredits": "Frank Krahmer / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_28.jpg?versionId=8lXen3_4BJzCpsCCJueeoiRINA3dVmhs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_28.jpg?versionId=QHa6JwPTp8nZr6vybwjOgdd5VVXgWNgr",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U28_Lesson.mp3?versionId=dmBC.zPGS3Sk.qzjvIiA1p_f4HCcOMia",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2297537,
+    "cultureContent": {
+    "imageLocation": "Germany",
+    "imageDescription": "Germany has one of the most active electronic music scenes in the world.  Kraftwerk was a pioneering band from Düsseldorf that helped define electronic music in the early seventies.  Berlin in particular is often considered the center of electronic or techno music.  Germany is also the birthplace of the successful and progressive musical genre called 'Krautrock.'",
+    "imageCredits": "Twins / fStop / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_29.jpg?versionId=vTHK7Q3twH06EFNYg9AzlJim4.Z35aF8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_29.jpg?versionId=2JUrnZ5zrWvCv9HFyV7QAMzihOXvfH1s",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U29_Lesson.mp3?versionId=WD5WEEfIQTYIUXW__0AcN5xEF1AsVstR",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2297804,
+    "cultureContent": {
+    "imageLocation": "Black Forest, Baden-Württemberg, Germany",
+    "imageDescription": "Vitra Design Museum, located in Weil am Rhein, was designed by the architect Frank Gehry.  The museum focuses on interior design and furniture and has one of the largest collections of modern furniture designs.",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/full/GR_1_M_30.jpg?versionId=.SA2qy03c6e31qRZOJqnEO.jOLanJGFe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/lesson_photo/thumb/GR_1_M_30.jpg?versionId=mchUzPt3Dmvwihp9GCLGTEFD6ocV_.uZ",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/main_audio/9781442348653_German1_U30_Lesson.mp3?versionId=bAanVGqELHu8_0VUMRr69lRbp5JRfcKy",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2298190,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "The production of beer in Germany is regulated by Provisional German Beer Law.  It is reported that there are over 5,000 brands of beer and approximately 1,300 breweries in Germany.",
+    "imageCredits": "Grant Faint / Photographer's Choice / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/German/German Level 1 orig/asset/RL/9781508231387_German_1_Intro.pdf?versionId=xR3eiMuDIjTHnoip3JnKhvUap5uSRDV4",
+    "audios": [
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U10_Reading.mp3?versionId=9rWJA9g7Y0CP_Qn2k6eP2HeWXFFeVlaS",
+    "mediaItemId": 2223731
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U11_Reading.mp3?versionId=0iET4Z7cMUoOhK8Clo_4ujcmWBaAWU4C",
+    "mediaItemId": 2223840
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U12_Reading.mp3?versionId=BHcBAvVEbbmoHT7X1NCQN98lt1Du7DZk",
+    "mediaItemId": 2224026
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U13_Reading.mp3?versionId=MkotdzRlWhcUQBJDn31iejb8vO8KR2ds",
+    "mediaItemId": 2224178
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U14_Reading.mp3?versionId=um78ANHGHyU1rvOKtcpRKfUe_.1509d9",
+    "mediaItemId": 2224386
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U15_Reading.mp3?versionId=Sz5NcpMoQhOxF84DXl_cHFIw.3yoXiaU",
+    "mediaItemId": 2224511
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U16_Reading.mp3?versionId=nZC73QOZlEsdr8ul6.lLDId5mz1W3MF3",
+    "mediaItemId": 2224702
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U17_Reading.mp3?versionId=bZqMABiKbhV5GzAbxhgpIdG4T9ij64R3",
+    "mediaItemId": 2224918
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U18_Reading.mp3?versionId=UAdh9u9_OH5EUg3I_hpY6ZuxDpyGvpny",
+    "mediaItemId": 2226250
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U19_Reading.mp3?versionId=zB93bWftlJL_hAdY.Jb1vgym.ySaVoxU",
+    "mediaItemId": 2228662
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U20_Reading.mp3?versionId=sLZv5JDJ3qwBuvDh0_y7aYnpVg45mfgu",
+    "mediaItemId": 2231958
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U21_Reading.mp3?versionId=rYDonb8Pbv4X_2_QrSZEke79jillOntO",
+    "mediaItemId": 2235619
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U22_Reading.mp3?versionId=U8lPWMUinDAbRMexhjJAXZbjWT2G2fAK",
+    "mediaItemId": 2239002
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U23_Reading.mp3?versionId=65YNWRoJjYWdBxNby7TZr746mVSqGpmm",
+    "mediaItemId": 2241968
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U24_Reading.mp3?versionId=RfFTT7yF6m.dYdRBl0mOS4QZ4eKRlgIv",
+    "mediaItemId": 2245157
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U25_Reading.mp3?versionId=o22SvzGhpz9mvWV2IQR5nLIf0Z5_XDaV",
+    "mediaItemId": 2248041
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U26_Reading.mp3?versionId=ERbPo3dlSXr0oO7CdfFytjSYVw8zCdBT",
+    "mediaItemId": 2250992
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U27_Reading.mp3?versionId=cmKcK99sBUmtj652b10Kp5XN4_NRVZiR",
+    "mediaItemId": 2253858
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U28_Reading.mp3?versionId=VfXL_oh5WfteIUdlZG3e_fHuTNknu72G",
+    "mediaItemId": 2256658
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U29_Reading.mp3?versionId=UQGVfwUmzMn87s7JzyM3kenni_RaF2SL",
+    "mediaItemId": 2259538
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%201%20orig/asset/RL/9781442348653_German1_U30_Reading.mp3?versionId=ipKDqPkWjNkI2rvRjyt6RVOnhl82T3gS",
+    "mediaItemId": 2261985
+    }
+    ]
+    },
+    "languageCode": "de-DE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508231387",
+    "level": 1,
+    "courseName": "German Level 1 Premium",
+    "simpleCourseName": "German Level 1",
+    "puArabic": false
+    }
+    ]

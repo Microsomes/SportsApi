@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 51230,
+    "languageName": "Russian",
+    "languageId": 165,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_01.jpg?versionId=OXhB7WYbQnVpX5IHZPDq.JSNdOHeUpYS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_01.jpg?versionId=F6ZtEGhE32NfdbpM8GAfZFZw7MTKzXQF",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_01.mp3?versionId=cg2Z0gs175LTnRzP_wEPZZX72GaK.xAQ",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2310863,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russia is currently the ninth largest country by population, but is one of the few with a declining birthrate. The population was 146 million in 2015 but currently stands at just 144 million, and is projected to drop to 111 million by 2050.",
+    "imageCredits": "Artur Debat / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_02.jpg?versionId=abJhst8YrtZVlSgirpBdDT.CU3KeYGf1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_02.jpg?versionId=SiY5WcKa8QfhAj5n4zd4ibCICmOTE8aY",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_02.mp3?versionId=GG0Xg_LHDkEQUZI6G4CVlCQHxlTcfdPQ",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2311036,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "\"Herring Under a Fur Coat\" is traditionally served on New Year's Eve. Pickled herring is layered with mayonnaise, potatoes, more mayonnaise, carrots, boiled egg, and even more mayonnaise, and finally topped with grated beets. Typically, it's made a day ahead to allow the flavors to meld.",
+    "imageCredits": "istetiana / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_03.jpg?versionId=l9S30zuYrt_wrOyeJSkvmDNX.Tqf33qA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_03.jpg?versionId=OG4FPv386MsQJf4CVmhmOf697uAbjIri",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_03.mp3?versionId=55nnW5xmA4PfdOSDhBeXG8JEHUFhBEVu",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2311216,
+    "cultureContent": {
+    "imageLocation": "Mount Elbrus, Russia",
+    "imageDescription": "Mount Elbrus, technically an inactive volcano, is the tallest mountain in Russia. Typically, it takes climbers about four days to reach the summit, but in 2006, Austrian speed-climber Christian Stangl did it in only 5 hours 18 minutes.",
+    "imageCredits": "_curly_ / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_04.jpg?versionId=f7cO561U5BZpIAFowQRg_XEWbWYD5DfS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_04.jpg?versionId=bWZyM_.zxYPe7EHHr0mxWpVWudAmVHr5",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_04.mp3?versionId=cVLMF4ZykhEx3eMDCggxAiintmM_mB7p",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2311382,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Victory Day is celebrated on May 9th to commemorate the defeat of Nazi Germany in 1945. The parade celebrates the 26 million Soviet troops, referred to as the \"immortal regiment\", who died during World War II. During the 70th anniversary celebration Vladimir Putin led the parade carrying a photo of his father who served during the war.",
+    "imageCredits": "Handout / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_05.jpg?versionId=1ac1XfOW5MdTnjG.eYBYg9fpcIoN7DLV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_05.jpg?versionId=QbhVER2jFsANVBg7KCxYiPNdPVPCDZHb",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_05.mp3?versionId=gvZN9fpgqi3AvQWRvpZnNtcXP4P1sbr_",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2311555,
+    "cultureContent": {
+    "imageLocation": "Nikola-Lenivets, Kaluga Region",
+    "imageDescription": "Shrovetide is a week-long celebration of the end of winter, and is sometimes referred to as \"pancake week\" because families break out prized recipes and serve pancakes throughout the festivities. The final day always includes a large bonfire to banish the cold winter months.",
+    "imageCredits": "DMITRY SEREBRYAKOV / AFP/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_06.jpg?versionId=i19NSdbvPXsfpSgiH4YJdzDD.yx3EJ1g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_06.jpg?versionId=UTD_m0hrEGNEstNVeGont.Ry98mW0qVL",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_06.mp3?versionId=jFFabLneXEUi9wlnJmNP.ZuakL3_0Pc1",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2311705,
+    "cultureContent": {
+    "imageLocation": "NIZHNY NOVGOROD, RUSSIA",
+    "imageDescription": "The Alfa Future People Festival is an electronic music concert. The festival features the latest interactive technology, including 3D modeling, virtual reality video games, and robots. Attendees are welcomed to participate in yoga and boot camp classes where they can learn aerial gymnastics.",
+    "imageCredits": "Alexander Ryumin / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_07.jpg?versionId=qwDBmMaUIAbSG5Dx6vVqJ0CFj40F9Fp.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_07.jpg?versionId=pahY8v9yX9a4DuYmSMKq42dS72GWzrhE",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_07.mp3?versionId=YgHSYn5ccotg5Q5zPD6JLuU8Q34mZtab",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2311891,
+    "cultureContent": {
+    "imageLocation": "San Francisco, California, U.S",
+    "imageDescription": "Sergey Brin was born in Moscow and is the co-founder of the web's most popular search engine, Google. He is pictured wearing Google Glass, an innovation that was sent back to the drawing board when the product was found to have more than a few problems.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_08.jpg?versionId=zMKLP4HOgL3a.ikP_iOZuzuAX.gacVDU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_08.jpg?versionId=kZVM6Oo989VBsi1J7q9QiPIB_yFpH7vQ",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_08.mp3?versionId=05.QXSLJ3oLeOMGKe9hnto3gidmZVP_2",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2312068,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Meslenitsa, also called Butter Week, is a Slavic folk holiday which takes place prior to Russian Orthodox Lent. Pancakes are served with an array of toppings, including a healthy amount of butter. This holiday also includes sleigh rides, snowball fights, and a pushing contest. The final event is the burning of a straw effigy symbolizing the Lady of Meslenitsa, bidding farewell to winter.",
+    "imageCredits": "Konstantin Zavrazhin / Getty Image News/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_09.jpg?versionId=i.sUFkHKwRpIjASkNwNIjkMleHBCcnM4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_09.jpg?versionId=6BmpFtVy8sE2fOq5ITEd_e.zu0SE0N6l",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_09.mp3?versionId=jVOIg4VTgR4f18ZPVFC.N1fcJqVxZZ6g",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2312247,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Gulag museum exhibits focus on the history of the communist labor camps that once spread across the Soviet Union in the 20th Century. The Museum on Communism is a non-profit organization that honors the victims and educates the public about the tyranny that took place during this time.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_10.jpg?versionId=lvK8rzfPBVYV2Azq_6ysCSATNMM7uTGt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_10.jpg?versionId=GHZLer.ZT7ZzcwVZhF0G4DPxx5Arljs7",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_10.mp3?versionId=AHMX89tjUrGz1vFw6B06T8CI_SXaf9y9",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2312433,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The All Russian Exhibition Center was founded in 1939 and showcases the achievements of leading Russian industries. The amusement park is home to the Vostok-1, the rocket which took the first man to outer space in 1961.",
+    "imageCredits": "Massimo Borchi / Atlantide Phototravel / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_11.jpg?versionId=pAxjCMc0v4men79reN6JZlGZ8SMfE7w7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_11.jpg?versionId=RQI.4.jhf1rRjh4lOtmNT_nBzyAeh9hw",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_11.mp3?versionId=.fy.q9r8xkpNTWoiHgmkxGNqJ1EKXTLQ",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2312673,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "In 1927, architect Konstantin Melnikov designed a home for his family in the shape of a cylindrical honeycomb, with sixty-two hexagonal windows. Melnikov’s bold designs were ignored during the country's communist regime, and his unique contributions were only recognized after his death.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_12.jpg?versionId=UxbJTvwD0cF.QO_MMv5JM7la7L6hqwlu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_12.jpg?versionId=6h9yTcxjSt7ENif68c2QVCu.OhwHWyZa",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_12.mp3?versionId=bltD_PFyK3wcdmbLjO6kMni.aSqEanwu",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2312910,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Painter Mihail Chemiakin was born into a military family in Moscow in 1943. He is known for his unconventional art and was unafraid to stand out even as a young man. He was expelled from secondary school for resisting communist conformity, and later in life he organized a treatise called \"Metaphysical Synthecism\" devoted to painting based on religions from all nations. He was subject to psychiatric treatment for his exhibition and exiled from the Soviet Union in 1971.",
+    "imageCredits": "Mihail Japaridze / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_13.jpg?versionId=bKsLjMJVCNDl1b371DUrCnUi8cTQBqmP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_13.jpg?versionId=tU8KOHa8arXtOyfN8gRrB99CNm2EcSYH",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_13.mp3?versionId=DY3N8_ntpHLksTlV4ZwDe14D5AlfUABk",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2313179,
+    "cultureContent": {
+    "imageLocation": "Siberia, Russia",
+    "imageDescription": "The Tunguska event was a massive explosion in 1908, resulting from what is thought to have been a large space rock that detonated in the sky. The rock never actually hit earth, the \"impact event\" from its burst caused an estimated 80 million trees to fall, and killed hundreds of reindeer, and the heat could be felt for 40 miles.",
+    "imageCredits": "SVF2 / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_14.jpg?versionId=bc.fhGrboiqjEAJUUl0HQZ4fNnLgO5y8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_14.jpg?versionId=CFC6FT7GqQ4sqL8BQj.EBzHQ4L_xunep",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_14.mp3?versionId=ONp86gvjvFVRa0TJez0auW8h8U6z.CdN",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2313354,
+    "cultureContent": {
+    "imageLocation": "Lake Baskunchak,  Volgograd, Russia",
+    "imageDescription": "80% of Russia's salt is extracted from Lake Baskunchak, one of the largest salt sources in the country. The lake is known for its healing clay and dense, salty waters that allows bathers to float with ease. In 1962, car racer Ilya Tikhomirov drove his car \"Pioneer 2\" at 311.419 km/h over the thick salt crystals, setting a national speed record.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_15.jpg?versionId=5IfIqpCX5ZeAEx0DkTwPDuhJPJ9jh_48",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_15.jpg?versionId=RwmY3LQ7PJeNo60XDPJKxJ1OQU7cmCby",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_15.mp3?versionId=3i4Kv_Iy_P6_dmGyFPE1WSKHiz8fhYbE",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2313528,
+    "cultureContent": {
+    "imageLocation": "Yamal Peninsula, Russia",
+    "imageDescription": "The Nenets are a tribe of the Siberian arctic with an extensive knowledge of their lands. The tribe herds reindeer under the most extreme weather conditions, where temperatures can drop below 50 degrees Celsius. The Nenets make an annual migration to just below the arctic circle in search of summer pastures.",
+    "imageCredits": "Arn Hodalic /Nature Picture Library / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_16.jpg?versionId=1Hz1gxXyJevFbuuYqCJZNOJ1W137hyTC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_16.jpg?versionId=7jVpdHgkrznu2Ei7EvhQ0OODLS5ZMHw3",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_16.mp3?versionId=7ZN5TQMYd1pMEAWDoxBXn83367BdeKe4",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2313739,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Sweet churchkhela is Georgian candy that looks like brightly colored candlesticks. It is made by stringing together walnuts, almonds or hazelnuts and covering them in a sticky coating, consisting of concentrated grape juice, flour, and sugar. Soldiers would rely on this high-calorie treat for fuel during battle, but today they are hung in storefronts as decorative, tasty treats.",
+    "imageCredits": "Konstantin Askenikov / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_17.jpg?versionId=Iq0ohMIHAVOJpDvgTkQu3o3AbzeT9hEF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_17.jpg?versionId=c1sK8aQ84Cq_idwDoHNwhpaIbuHCiKHG",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_17.mp3?versionId=LRRhKXtiCJOjy.9cKmMQ2i4juWJ_kva1",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2313923,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "During the 2018 FIFA World Cup, Nikolskaya Street was transformed into a celebratory alley. The usually quiet street was crowded with thousands of dedicated fans from 32 nations as the tournament progressed, and became known as the \"street of lights\" from the leftover lights hung for New Years.",
+    "imageCredits": "Konstantin Askenikov / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_18.jpg?versionId=9AZHFLSHTu26lKRN_EXrcc3rQXYEuwnm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_18.jpg?versionId=QklRFwaDNFXBgOoeRr4IyvCxsEwSxrP5",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_18.mp3?versionId=L82_C2Vr6O2sJBcCTk9pHaCsClccxGHD",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2314099,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Coffee is a new and growing market in Russia. St. Petersburg citizens are jokingly called \"coffee pots\" for their caffeine consumption, and coffee drinkers are still experimenting with different brewing methods. Polls show that more than half of coffee drinkers still prefer instant coffee overly freshly brewed.",
+    "imageCredits": "Randrey / Editorial EF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_19.jpg?versionId=m0EZeewUhH9H.1haHc8MRzux6jxKrRYr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_19.jpg?versionId=8fnEYm9ObT0cgpcXIlBdlnJnVnnG4zbX",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_19.mp3?versionId=6Y_hiTJ8BH3QLBHwT30SDPZOuFubp25c",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2314296,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Chess is a popular pastime in Gorky Park in Rostov-on-Don, a port city adjacent to the Don river. Both this park and the more-well known Gorky Park in Moscow are named after Alexei Maximovich Peshkov, known as Maxim Gorky, a Soviet writer and political activist who was nominated five times for the Nobel Prize in Literature.",
+    "imageCredits": "Martin Moos / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_20.jpg?versionId=NNMGBk.rrPZHRsuYQrXbjrr8uzI6zakX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_20.jpg?versionId=9jjttMSqlOX5bClz39JjlVUm6j3yuvGP",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_20.mp3?versionId=skkuBLnnWVxmiKK8DepVGRBtAQSPFelL",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2314462,
+    "cultureContent": {
+    "imageLocation": "Lviv, Ukraine",
+    "imageDescription": "On August 24th, 2018 Ukraine celebrated its 27th Independence Day since declaring its independence from Russia in 1991. The day included showcasing the latest military weapons as Ukrainians gathered for the \"March of the New Army.\" This was the first celebration where female cadets and servicewomen were included as a separate unit, and the standard military greeting was changed to \"Glory to Ukraine - Glory to the heroes!\"",
+    "imageCredits": "Alpgiray Kelmen / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_21.jpg?versionId=ZThfc3.zPwS2RC3vZCn.9TrnvKeGLyWL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_21.jpg?versionId=rZo620vk88jLJ.E4kvYLeEdMu1k37XZY",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_21.mp3?versionId=1V9GW5I6iZfwsLbEfgOiScXR0r8MYti3",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2314651,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Stalin's bunker is a air raid shelter built for Joseph Stalin in 1942. It sits 120 feet below ground and was built to withstand a direct hit from a 2000-kilo bomb.  Today it's a civil defense museum.",
+    "imageCredits": "Steve Parsons / PA Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_22.jpg?versionId=gGlDTMIqfxxLYc8U7cqkgtcWdqzFyEpy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_22.jpg?versionId=_u_fYpX8s9sZXgeqW7oQHb.8TkemDRYX",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_22.mp3?versionId=5J5bwH4o9Vhq1KiMPwdw3B_QpHqJ7hdx",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2314842,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Cathedral of Christ the Savior is the largest Orthodox church in Moscow. It is a popular place of pilgrimage and impressive architecture. In 2012, it was the location where the punk feminist band Pussy Riot staged a protest of the Russian government that reverberated around the world.",
+    "imageCredits": "Massimo Borchi/Atlantide Phototravel / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_23.jpg?versionId=QGfclPmVjAVnTC3wLBeSORp.kZhVIcSA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_23.jpg?versionId=B1eD._WsMbpVkg69c9gij0Ul8BZ8r5TL",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_23.mp3?versionId=Sk4i4xeS2vW7CEI.TFEIXi82kD0DOEvu",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2315118,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The GUM shopping center opened in Moscow in 1893. GUM is an abbreviation for \"main universal store\" and has over 100 brands popular around the world. Inside the shopping mall is a theatre which showcases blockbuster movies along with classic Soviet cinema, foreign films, and works of popular directors.",
+    "imageCredits": "Ira Block / National Geographic Image Collection / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_24.jpg?versionId=u5SqtIyEjT_XESM0oaxu.ly_lOGuu6Fe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_24.jpg?versionId=GiGtnbGH1YoLass8MCzZiuURY3SjUrE3",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_24.mp3?versionId=bYVSu184z1wQ4Mclqbmf5ORIOZsRMrqs",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2315324,
+    "cultureContent": {
+    "imageLocation": "Yekaterinburg, Russia",
+    "imageDescription": "Yekaterinburg is known as the third capital of Russia. The architecture in the city is a blend of several different styles, ranging from the fortresses of the Renaissance to more modern high-rise buildings.",
+    "imageCredits": "Klug Photo / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_25.jpg?versionId=Px1zoYNCFhTeunSU4Df8sGLpBIvBRynM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_25.jpg?versionId=caDjDUrfZwiVQCHVaW7WN3RcP2xX7MH6",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_25.mp3?versionId=iZRYAhmwTF42dI_NReLq7caFKsg5JhOQ",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2315505,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Modern-day Moscow is a blend of old and new, but the scale can be breathtaking. The seven tallest buildings in Moscow are known as The Seven Sisters. Built in the Stalinist style, they were the tallest in Europe until 1997.",
+    "imageCredits": "Click Alps / AWL images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_26.jpg?versionId=jrPhgVTmOkrdCgdHbu5sd48OC4dCM.8N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_26.jpg?versionId=faDOkGNfrjIWt_ogo9APgD.NEn8Zs6iC",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_26.mp3?versionId=t4QkE3A_MNd8.ANPB1ca7gx.Hbk402TG",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2315674,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Zaryadye Park is an urban forest park, home of the famous floating bridge. The thin air structure is a seventy-meter V-shape which hovers over the Moscow River. With only a single support keeping the bridge above the water, the structure can withstand the weight of three to four thousand visitors at once.",
+    "imageCredits": "Scaliger / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_27.jpg?versionId=e_.20kKFhofZ9L9_gG2QmMH3ddOLqunT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_27.jpg?versionId=q016tROkqyIf8_4o20KNvdrWW_HXNzl7",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_27.mp3?versionId=Svshm0YdQePnCsc2OL0uDk2hGmuvlaOd",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2315865,
+    "cultureContent": {
+    "imageLocation": "Veliky Novgorod, Novgorod Oblast, Russia",
+    "imageDescription": "The Yuriev Monastery is one of the oldest in Russia. Legend says it was built in 1030 by Yaroslav the Wise. It was severely damaged during the 1917 Revolution, and during World War II was occupied by Spanish and German troops. In 1991 it was returned to the Russian Orthodox Church and has since been renovated, though some of the buildings are still in ruins.",
+    "imageCredits": "Richard Maschmeyer / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_28.jpg?versionId=jJrdL2_I9.a7ih.aAwKifnOQkYuve5ib",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_28.jpg?versionId=m89xb32dNNagrjlU7khHUIoH2_0o3RmI",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_28.mp3?versionId=Y5npI9uQGVX0Eh3r5xEvMVZ6hSIE5sQ6",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2316248,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Members of the Russian Orthodox Church celebrate the Epiphany in the middle of winter by jumping into the frozen Jordan River. Cross-shaped holes are carved into the ice, and believers plunge into the freezing water.",
+    "imageCredits": "Surkov Dmitri / iStock editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_29.jpg?versionId=IUSSomy2KzlHp.ck5Q8CVT2IQIj9FswA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_29.jpg?versionId=pxLUW5Nc8gOC4CuLj8sSoXqQftzE0FKd",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_29.mp3?versionId=sIT7Y8ZpDeeZj2YYo7QUcmYMH_R37MKF",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2316433,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Bast shoes are traditional sandals made from the fibrous bark of linden and birch trees. The shoes symbolize poverty because while they are inexpensive to manufacture, they are not very durable. Bast shoes were still worn in the countryside at the beginning of the 20th Century.",
+    "imageCredits": "Nosyrevy / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/full/RU_5_M_30.jpg?versionId=v3xvkFeG22n9Ks6DZyCjyd_aR8ZvWx._",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/lesson_photo/thumb/RU_5_M_30.jpg?versionId=bE.yFJqgdGaly330DfpACMz5g8b3RB.H",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/main_audio/9781508282600_Russian_5_Lesson_30.mp3?versionId=s6yCEWk9OUo5PLFf.GmRLiopZlN2vw2f",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2316608,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Here a mehendi artist adds henna decorations as part of the local Holi festival in Volgograd. Known as the hero city, it's home to memorial The Motherland Calls, a 280-foot-tall statue of a woman holding a sword over her head. Until 1967 it was the tallest statue on the world.",
+    "imageCredits": "Yulyao / iStock Editorial / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 5 orig/asset/RL/9781508282600_Russian_5_Alpha.pdf?versionId=O_X0_ReP3RSNhUfA4YwzJHuK3JYMp4Qp",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 5 orig/asset/RL/9781508282600_Russian_5_Intro.pdf?versionId=jJOv03lAX3PDUoc9_jGQQmXOyV_ycUBK",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_01.mp3?versionId=RU50MehJnr30daSmoALcVSatZzeKZs8h",
+    "mediaItemId": 2223923
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_02.mp3?versionId=PpfDw.mVkQo5AauzNMoJ4Wj3AndbslKr",
+    "mediaItemId": 2224130
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_03.mp3?versionId=IcddrAj6QgyN9ueORSMbFdcoo6HxpQNz",
+    "mediaItemId": 2224301
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_04.mp3?versionId=xmMXVLTxF505zfqcr_TMIXEQ.pxgHene",
+    "mediaItemId": 2224461
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_05.mp3?versionId=oQH5HfZGH0jzEWKqCrsxcXftwoFPjYxL",
+    "mediaItemId": 2224649
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_06.mp3?versionId=s5rydKCxjYNFLgtYxywDtDg2xhPumql1",
+    "mediaItemId": 2224758
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_07.mp3?versionId=e.zLqVRiuA4_kAXEPZwha5EI3JgTUFLg",
+    "mediaItemId": 2225582
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_08.mp3?versionId=JqSK48.jVcPkP4sqNRLBam3o2ocFK4za",
+    "mediaItemId": 2227609
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_09.mp3?versionId=.s77_JA22EpdgG4x5qnbMVjIfwOW1nd0",
+    "mediaItemId": 2230857
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_10.mp3?versionId=4heUjbBmIDEV9wkQJsQYtagh0VNGg3nF",
+    "mediaItemId": 2234226
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_11.mp3?versionId=pOua8XNFGQ5_tW9fpercM47qQ0OPF5aR",
+    "mediaItemId": 2237645
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_12.mp3?versionId=97noiVFkHvr6XSBPqdxe1JR0EGHIf43J",
+    "mediaItemId": 2241018
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_13.mp3?versionId=KpQhqtZRVq6kowtpLxyE3_X1U9Mub1ai",
+    "mediaItemId": 2243931
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_14.mp3?versionId=9rU1m0rRY1XhrJ8G4ucyy4oC5jj8VsCN",
+    "mediaItemId": 2247044
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_15.mp3?versionId=E9K2.Km7OIKRNuifvwLTPvWtmpVJiijP",
+    "mediaItemId": 2250114
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_16.mp3?versionId=jYC8MF1GJIPOuBjiuESFsffUKj5RiYsr",
+    "mediaItemId": 2253160
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_17.mp3?versionId=IKhLHjFIJT95qipnJELcCnadP3_8m1Fr",
+    "mediaItemId": 2255857
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_18.mp3?versionId=SIEB07EJAuUnhpH.DPZk1Us8d_mn2UVR",
+    "mediaItemId": 2258732
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_19.mp3?versionId=mci_4EoRWkbg5x8rLROmU6x.KJG_8kQh",
+    "mediaItemId": 2261597
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%205%20orig/asset/RL/9781508282600_Russian_5_Reading_Lesson_20.mp3?versionId=TEs8lusBqnrzNoXmkyHZX5QhS1mtBRtQ",
+    "mediaItemId": 2264010
+    }
+    ]
+    },
+    "languageCode": "ru-RU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508282600",
+    "level": 5,
+    "courseName": "Russian Level 5 Premium",
+    "simpleCourseName": "Russian Level 5",
+    "puArabic": false
+    }
+    ]

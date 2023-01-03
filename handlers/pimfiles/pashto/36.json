@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6421,
+    "languageName": "German",
+    "languageId": 147,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_01.jpg?versionId=Z8HZccrhy033yq7UbsPuKwm6ViLZI6Zt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_01.jpg?versionId=BIyCjr4e0qbEYqSOs4u9ouOnFs7606q0",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U01_Lesson.mp3?versionId=ysyu.ot6xNN74iW3d45L2enJgF6JuOHL",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2312573,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "In 2010, Munich was named Radihauptstadt, the bicycle capital of Germany. With over 1,200 kilometers of bike paths and a separate section of the sidewalks devoted entirely to cyclists,  cycling accounts for around 17% of all traffic in the city.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_02.jpg?versionId=5sUCI1WphXcHSjDsbKMPUB.dgYBioasq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_02.jpg?versionId=WQOZhMAACs3dE9qH4L0IIykROTAbg1zV",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U02_Lesson.mp3?versionId=mpkb9xHKuYyAlebd9qyzUilXmTOIZFTd",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2312767,
+    "cultureContent": {
+    "imageLocation": "Regensburg, Bavaria, Germany",
+    "imageDescription": "Regensburg, one of Germany’s oldest towns, lies next to the river Danube, and is best entered by walking across the medieval stone bridge directly into the heart of the historic center. Famous for its rich cultural history and well-preserved architecture, Regensburg also boasts a diverse cultural scene, with theaters, restaurants, clubs, and shops.",
+    "imageCredits": "DKAR Images / Tetra Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_03.jpg?versionId=CCFz_mFooXpfnp.618MztIVJsUt1Yq2Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_03.jpg?versionId=o4s94MkHuFNGVrSeWJmxiV1Suu4fXDDq",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U03_Lesson.mp3?versionId=YTfhiOeyaeGv_wuzbptl8R1wO957I.xB",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2312933,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Tempodrom Arena and event venue houses three arenas. Two feature live theater, circuses, sporting events, and concerts – including Heimatklänge, a World Music festival. In the third arena, the Liquidrom, visitors float in warm salt water in a 43-ft. bath while surrounding speakers play ethereal sounds, providing a spa experience like no other.",
+    "imageCredits": "Ingo Jezierski / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_04.jpg?versionId=vJqs.7J2fmWJhz5MByk2aNcw9PcNWIvU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_04.jpg?versionId=0BWgJUThjxhNUaL3nKlhnLIoSGYjDrjG",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U04_Lesson.mp3?versionId=bR8RO_9X5sG_1QbhbqpmcfsJgDMrXXJC",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2313146,
+    "cultureContent": {
+    "imageLocation": "Dulsburg, Germany",
+    "imageDescription": "“Tiger and Turtle – Magic Mountain” is a huge zinc and steel sculpture located on Hildebrand-Höhe in the Angerpark. Visitors can explore the spiraling pathways of the roller-coaster-shaped structure, each twist and turn offering an amazing view. At the top, 85 meters above sea level, the entire Rhine is visible.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_05.jpg?versionId=VOAls.3DfZFyhGpnTHRtkjXJcRDVRr1V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_05.jpg?versionId=9MKXEAkb8n10syRyEWWoOO.lf2kh_3V1",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U05_Lesson.mp3?versionId=r_6YktrRUVA9HJrEqyVqoQ2npSRStVy2",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2313371,
+    "cultureContent": {
+    "imageLocation": "Bremerhaven, Hanseatic City of Bremen, Germany",
+    "imageDescription": "The German Emigration Center (Deutsches Auswandererhaus) features Interactive exhibits  that allow visitors to follow the path of the 7.2 million emigrants who traveled to the New World via Bremerhaven.  Visitors can research their own ancestry or enjoy presentations about German emigration over the past 300 years.",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_06.jpg?versionId=ZZkJvDPVBY2_3dcVham6WGCbts2EVV0V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_06.jpg?versionId=K8oS0wQHyFlrOEsfBFRd3s5Rgn_aP_QC",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U06_Lesson.mp3?versionId=vXhNkA2Qd5jRwwYGRs19dICQ8w5R28jt",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2313559,
+    "cultureContent": {
+    "imageLocation": "Stuttgart, Baden-Wuerttemberg, Germany",
+    "imageDescription": "Built in 2011, the Stuttgart City Library was envisioned as a stronghold to preserve printed books in an increasingly digitized world. The nine-story, cube-shaped structure contains over 500,000 books, including fiction in twenty-five languages.",
+    "imageCredits": "Guenther Bayerl / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_07.jpg?versionId=IAz6XnfP7GsOjFZCyNTwROa0Tfhdt2Wm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_07.jpg?versionId=8jTWOlhAMYUuQwGSjeZ_FVwZgmwvf6Bq",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U07_Lesson.mp3?versionId=Fsyzc7Y_c_n2t7NbGVnwwdLBtw3TaPrR",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2313734,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Founded in 1951, The Berlin International Film Festival is the largest publically attended film festival in the world, with around 300,000 tickets sold annually.",
+    "imageCredits": "Sean Gallup / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_08.jpg?versionId=rdbsFywdZmjpHx_QJAVvt6pQzYmlOZB4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_08.jpg?versionId=H_6K8CegNYLhnF49z3DlqD1LlgStfhYR",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U08_Lesson.mp3?versionId=Lt0ohAmK9psTHWR6UlkyBqRKV9iWNUCR",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2313902,
+    "cultureContent": {
+    "imageLocation": "Upper Bavaria, Bavaria, Germany",
+    "imageDescription": "The Bavarian Alps stretch over 300 kilometers, crossing the border into Austria, and include Zugspite, which at nearly 10,000 feet is the highest mountain in Germany.",
+    "imageCredits": "Andreas Strauss / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_09.jpg?versionId=ipMUai57DPFEfP9Gmch0YIBb7CeZAsA5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_09.jpg?versionId=KfGgcj4Sx1G2CNyZQWfnB_nr1xNM1Mdr",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U09_Lesson.mp3?versionId=yEiA.zCovOoY2iPA16sGYAneh6FQGHge",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2314090,
+    "cultureContent": {
+    "imageLocation": "Trier, Germany",
+    "imageDescription": "Trier is the birthplace of German philosopher and economist Karl Marx, widely regarded as one of the most influential thinkers of the 19th century. A museum that chronicles his life and works is now housed in the building where he was born.",
+    "imageCredits": "APF / APF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_10.jpg?versionId=KSAbKueub9ZDeVo5c5KAA1DCuzDG1taq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_10.jpg?versionId=8Vxrjx95lU8fi0R5myAx6X5jGe6flQy1",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U10_Lesson.mp3?versionId=HcFe2bp59emvLeI1feuiNxPKOKIPRjDz",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2314282,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "The Starnberg Five Lakes Region of Germany is situated between Munich and the Alps. Motorboat use is restricted to ensure that the lakes remain clean of pollution, which makes them ideal places to sunbathe, swim, canoe, kayak, and waterski. They’re also popular with local fisherman who catch almost every type of Eastern European freshwater fish from the crystal waters:  from carp and trout, to eel and catfish.",
+    "imageCredits": "Chris Cheadle / All Canada Photos / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_11.jpg?versionId=L376rcA1zANPLB2IKOlTqcfULC5P67xh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_11.jpg?versionId=pRFVLY5oIGWeFgnqNyXC53Np4qFIlor6",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U11_Lesson.mp3?versionId=bIO7D.aZ2OXenOPa5b01l_alZAT7bIL.",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2314517,
+    "cultureContent": {
+    "imageLocation": "Upper Bavaria, Bavaria, Germany",
+    "imageDescription": "Known as Eisstockschießen in German, Ice Stock Sport or Bavarian Curling is a centuries-old sport similar to curling or shuffleboard.  Competitors slide weighted stocks over ice in winter, or asphalt the rest of the year, aiming either to hit a target or cover the most distance.  Today the game is played in 32 countries around the world.",
+    "imageCredits": "Florian Werner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_12.jpg?versionId=.mb.OoreswTDAJKN8SatzHjxbwX7Mm5G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_12.jpg?versionId=LeuCJU806bioMJi.qx8X4954.rMY_nus",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U12_Lesson.mp3?versionId=zmMbf2x.xPiMsmipen1HadITL_Onhscd",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2314687,
+    "cultureContent": {
+    "imageLocation": "Vienna, Austria",
+    "imageDescription": "The Secession Hall was designed to reflect the ideals of the Vienna Secession, an art movement that arose at the end of the 19th century.  Founders believed that art should be a way of life, rather than confined to academia. Gorgon masks and owls adorn the entry hall, representing attributes of Pallas Athene, the goddess of wisdom, victory, and the crafts.",
+    "imageCredits": "De Agostini / Santini / D’Alessio / De Agostini Picture Library / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_13.jpg?versionId=hQsFwRYpIBhaDu1jobNQzKc_lcJt67SU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_13.jpg?versionId=fMceaRnWscPnTTopkQgLcalxN2ci_tUc",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U13_Lesson.mp3?versionId=Vll3kihpEtwZBleeNZgYssuZEvHZN7oM",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2314870,
+    "cultureContent": {
+    "imageLocation": "Graz, Austria",
+    "imageDescription": "Appointed as the Cultural Capital of Europe in 2003, the city of Graz commissioned American artist Vito Acconcini to design “Murinsel,” or “Mur Island,” meant to reconnect the city and its river.  The steel and glass island contains an amphitheater, while the surrounding section boasts a playground and café.",
+    "imageCredits": "Westend61 / Brand X Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_14.jpg?versionId=zn0rvJ.pdYZuGXq_zrttpD0JkP_fP17h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_14.jpg?versionId=AIi.nhX5MnyiV0e_nrEEWE.Lls6jpAJL",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U14_Lesson.mp3?versionId=3LQWBpZ8Aaos.Hy4V2l5qiahjr5ifqWM",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2315098,
+    "cultureContent": {
+    "imageLocation": "Antdorf, Upper Bavaria, Germany",
+    "imageDescription": "Fingerhalkeln, or finger wrestling, dates back to the 17th century, when it was used as a way to settle disputes. Today, the sport boasts an annual competition where contestants don traditional Bavarian costumes of lederhosen, hats, and knitted socks.  The top prize is awarded to the contestant who can pull the most opponents across the table using one finger and a strap.",
+    "imageCredits": "Peter von Felbert / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_15.jpg?versionId=SnYwNkuORTZlzCGd1BhPaAiQluO9D2a6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_15.jpg?versionId=OvQeD5ZbA6qTERTpd3sf.27TNHjC5_bN",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U15_Lesson.mp3?versionId=ckOq1VLKZqyeudmS0qyY.P0fQ126wQwJ",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2315419,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "Oktoberfest, the world-renowned beer festival, runs from late September to the first weekend in October each year in the city of Munich. The tradition began in 1810 with a horse race as part of the wedding celebration of Bavarian King Ludwig I and his wife, Theresie. Today, over 6 million people attend the event, making it the world’s largest fair.",
+    "imageCredits": "Felbert+Eickenberg / STOCK4B / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_16.jpg?versionId=e1T0kRsfDOckFc1JwH9tkumyFuRpiCub",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_16.jpg?versionId=tSjQSlfJXyHphpIjaIoUHpPyNwBZ0VWu",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U16_Lesson.mp3?versionId=fXZO2NUQna3zY7LeCjSQj9BqgDGBeAFD",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2315620,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Jacob and Wilheim Grimm are known mainly as collectors and recorders of fairy tales, but they were also renowned linguists. Their work and legacy are honored in the Jacob and Wilhelm Grimm Center at Humboldt University.  It is Germany’s largest open-access library, boasting a collection of 2.5 million books.",
+    "imageCredits": "MAISANT Ludovic / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_17.jpg?versionId=jgeWotyxUCXbMzvHf_PjajpROjNr19GV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_17.jpg?versionId=hAUT8FSNXNeEEQO2FoWwlVIMQoCL2GpM",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U17_Lesson.mp3?versionId=oPsAyx6U2I3GdU4kQeAtAMqkc4iWAM58",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2315818,
+    "cultureContent": {
+    "imageLocation": "Hamburg, Germany",
+    "imageDescription": "Billed as Europe’s largest inner-city development project, HafenCity is expected to double the population of downtown Hamburg.  The development will contain thousands of new waterfront apartments, high-rise buildings, stores, restaurants, and a new symphony, and will create an estimated 45,000 new jobs and housing for 12,000 residents by its completion date in 2025.",
+    "imageCredits": "Fabian Wentzel / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_18.jpg?versionId=f1KFif.xNZe4e97rORjP2AY_dZ6r.5aQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_18.jpg?versionId=NQY_N75TIdyGv_K4gHLy9FZaFXUCarrd",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U18_Lesson.mp3?versionId=IebZKUQAAeCN4fxPdQ4C5roiwEzkINcH",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2316002,
+    "cultureContent": {
+    "imageLocation": "Düsseldorf, Germany",
+    "imageDescription": "Düsselhorf Harbor is one of the economic centers of Western Germany, characterized by postmodern architecture and home to large corporations.  Its most famous landmarks are three contrasting, twisted white buildings that seem to stretch into the sky which house the Reinhafen Center of Arts and the Media. The mirror walls of the central building reflect the buildings to the north and south.",
+    "imageCredits": "Thomas Saupe / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_19.jpg?versionId=C08uz5ilNfUgW5U5zxvMgg4de5q5kLAZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_19.jpg?versionId=PAlOxuTtFTOEsRI3Azu2y8oZxNsm9aKn",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U19_Lesson.mp3?versionId=mehrbGQ6lXIdalxK06WvnRxtVAM7DIOz",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2316168,
+    "cultureContent": {
+    "imageLocation": "Saarburg, Germany",
+    "imageDescription": "Although the Mabilion family had been making bells since 1590, it was not until 1770 that Urbanus Mabilion established a permanent bell foundry, producing bells for surrounding villages and large churches all across Germany and beyond. For over two centuries, his descendants have continued to make bells, never revealing the secret art of the sound and shape of a Mabilion bell.",
+    "imageCredits": "Hans-Peter Merten / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_20.jpg?versionId=gFx0mj5OfPWxM751Ib5MTpJw9v.8mwog",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_20.jpg?versionId=coPoGlg_FE4s6bdOUSYwZYtQUvEDf74o",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U20_Lesson.mp3?versionId=A3L5KVFp78VztYt4W__crlf58sg_Cgu9",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2316336,
+    "cultureContent": {
+    "imageLocation": "Hamburg Hafencity, Germany",
+    "imageDescription": "The Marco Polo Tower incorporates solar vacuum collectors on the roof, which use a heat exchange to turn heat into a cooling system for the apartments; a mechanical ventilation system; and sliding walls that reduce heat loss in winter and serve as thermal heat storage.",
+    "imageCredits": "Guenther Bayerl / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_21.jpg?versionId=ftNksLREOczCmNxbcY7pbtyDAhp4jUAQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_21.jpg?versionId=5HiifDFOTwuW4ow0ZQx2EnI5zwiPRxIR",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U21_Lesson.mp3?versionId=x2g1EIv3G_KmqQIXJBTi.MOGYZVkh4le",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2316596,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "The Ammersee is the sixth largest lake in Germany. Surrounded by wooded hills with hiking trails and beaches, it features a 19-kilometer bike path that goes around the lake.",
+    "imageCredits": "Westend 61 / Westend 61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_22.jpg?versionId=jzk7jUqWoswJUOpHH7dQe4idPAERc3XG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_22.jpg?versionId=811bxmmGI4YYgiUq0iV45KL.RP9td8uR",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U22_Lesson.mp3?versionId=_Hca9uX1nqvVJuOSO.o5J0WBqn5ebfZI",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2316781,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Pergamon Museum is home to a series of reconstructed monumental buildings, including the Pergamon Altar. Built in Asia Minor during the first half of the 2nd century BC, it was largely destroyed in the 7th century when the city fell to the Arabs. In the 1870s archeologists excavated the structure, transporting large pieces of the friezes and other relics to Berlin, where they were later reconstructed.",
+    "imageCredits": "Dan Herrick / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_23.jpg?versionId=xfC.iZ_0jegsmhVjrm4NmgEPRX.P26AD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_23.jpg?versionId=hCS8QCJC3lPmPIHYGXJDWZjs6v.eWH1W",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U23_Lesson.mp3?versionId=aDtk_q6pLfw5hYrF23dbE4PYndJuc1Gk",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2316934,
+    "cultureContent": {
+    "imageLocation": "Trier, Germany",
+    "imageDescription": "Visitors to Trier can attend the Gladiator School at the Roman Amphitheater, which aims to teach the fighting skills and philosophy of ancient Roman gladiators. Beginning fighters start with wooden swords and over one- to three-day camps, they practice martial arts and learn to wield swords, battle axes, and casting nets.",
+    "imageCredits": "Ralph Orlowski/Stringer / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_24.jpg?versionId=_roo0bmVhU7aluebqcdHjCQg3KBaKLGh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_24.jpg?versionId=l72bRf_4StOTSL5gfbt30IbBoaxJc01K",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U24_Lesson.mp3?versionId=dO81nMNYrzHWd5.1J4zBXJnEoCqL3YRy",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2317092,
+    "cultureContent": {
+    "imageLocation": "Wieskirche, Bavaria, Germany",
+    "imageDescription": "The Pilgrimage Church of Wies, nestled into the foothills of the Alps, was designated a UNESCO cultural site in 1983.  Legend says that in 1738, a wooden statue of Jesus Christ began to weep.  Pilgrims from all across Europe came to witness this miracle with their own eyes, and in the late 1740s the church was built to house the statue.",
+    "imageCredits": "Religious Images / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_25.jpg?versionId=9G0YMu26dUiyLDpgLoY4vVDirp1x2dfT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_25.jpg?versionId=t4GXw3Y.9NEvbwPH7zUUbdxcj_vb0y50",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U25_Lesson.mp3?versionId=edKpZth6zX9AuCpXIHAyLC6aEEi6.USn",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2317217,
+    "cultureContent": {
+    "imageLocation": "Schleswig-Holstein, Germany",
+    "imageDescription": "Glücksburg Castle (also called the Wasserschloss, or “water castle”) lies on the Flensburg Fjord on the border between Germany and Denmark.  Built in 1587, it served as the ancestral home of the House of Schleswig-Holstein-Sonderburg-Glücksburg (a German ducal house with branches that include the royal houses of Denmark, Norway, and Greece) until 1918.  Preserved in its original state, the castle is now a museum.",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_26.jpg?versionId=CdB9.8sasBq._C_HTxx0NxULHrOwDAso",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_26.jpg?versionId=WO4UnN.yzKfNG.ZwXuHqPn5YIMAW6nG.",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U26_Lesson.mp3?versionId=OFWSRtyyWi7dj9sihUguHTBvaCpI2NCU",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2317373,
+    "cultureContent": {
+    "imageLocation": "Hesse, Germany",
+    "imageDescription": "The 218 kilometer-long Fulda River is often called the heart of Hesse, and the surrounding towns are filled with celebrations. One of these, Bad Hersfeld, is known as the “Festival City,” with annual events including an opera festival; Bach Days, to celebrate classical music; a live jazz festival; and Lullusfest, Germany’s oldest folk festival.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_27.jpg?versionId=ZjHLsV08NumoKjXiN.44_B29Gv6skXey",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_27.jpg?versionId=rELRz9rj.QV5SLUo1XkYeQ9MTX6U5x1A",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U27_Lesson.mp3?versionId=UHOGdn0sI6BpzVeH1WwfjISmb..OLLs0",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2317527,
+    "cultureContent": {
+    "imageLocation": "Bremerhaven, Bremen, Germany",
+    "imageDescription": "Home to the 4th largest container port in Europe, Bremerhaven has become one of the world’s leading import-export hubs for international goods. It boasts one of the largest automobile hubs anywhere in the world, handling more than two million vehicles every year.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_28.jpg?versionId=16RbA0u8gc1cHCKLIJBNbkoxjQ6msOfE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_28.jpg?versionId=eh6_zk.YmzjE5yCcNGH.sqPP6_CYwiaT",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U28_Lesson.mp3?versionId=cBc1jjOEQVuOmFxqiGmNlICqLLAssJaB",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2317686,
+    "cultureContent": {
+    "imageLocation": "Hanseatic City of Bremen, Germany",
+    "imageDescription": "The Universum Bremen Science Center allows visitors to explore a series of themed expeditions through the realms of mankind, earth, and the cosmos.  Highlights include a virtual trip to the bottom of the sea, an earthquake room with vibrating walls, and a pitch-black maze navigated using only the sense of touch.  On the grounds outside, EntdeckerPark features a 27-meter-high wind- and weather activity tower along with 24 other hands-on installations.",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_29.jpg?versionId=4Hj29cTbknpLb9JX711HnDCUIrToU1A7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_29.jpg?versionId=wtGNv7pxRMnghNTNkq5muYla53w1t0g0",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U29_Lesson.mp3?versionId=4lU.7cxKA6I5ruAuQ5vroQK_lfWhfNdI",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2317849,
+    "cultureContent": {
+    "imageLocation": "Hesse, Germany",
+    "imageDescription": "The last Russian Tzar, Nicholas II, was married to Alexandra Feodorovna, and they would often visit her home city of Darmstadt. Between 1897 and 1899 the Tzar had the Chapel St. Maria Magdalena built entirely of Russian stone and upon Russian soil.  He had a train station built to accommodate the trains from Russia carrying the soil and granite for the chapel.  The inside of the chapel is decorated with a giant mosaic of Mary Magdalene, and the walls are adorned with lilies, Alexandra’s favorite flowers.",
+    "imageCredits": "Heinz Wohner / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/full/GR_4_M_30.jpg?versionId=sKLI5MqclsJfLnFS155x30ijWZSTqGOp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/lesson_photo/thumb/GR_4_M_30.jpg?versionId=jp7BohTPEMrS8Qh_jSc6EIiPmva10eob",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/main_audio/9781442370562_German4_U30_Lesson.mp3?versionId=iYIZCeMq1rC9th54K9B0Pfs6uTGySZ65",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2317962,
+    "cultureContent": {
+    "imageLocation": "Timmendorfer Strand, Schleswig-Holstein, Germany",
+    "imageDescription": "The Timmendorfer Strand lies along the western coast of the Baltic Sea. Its 7-kilometer beach, with a 260-meter-long pier is the major draw for visitors. The city has a large wildlife park with more than 1,300 exotic birds, including what is considered to be the most varied and complete collection of owls in the world.",
+    "imageCredits": "Christoph Hack Photography / Flickr Open / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/German/German Level 4 orig/asset/RL/9781442370562_German_4_Intro.pdf?versionId=RB7C39REgKVhfk2uJ0AVDT_DSil3JuGZ",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit01_Reading.mp3?versionId=ugbTZdbFzmCw0jqsUXCWrwFK_NsKpSwp",
+    "mediaItemId": 2223862
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit02_Reading.mp3?versionId=jukM3kyrlMtuaMBYumTD5CLgE1EtafDK",
+    "mediaItemId": 2224073
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit03_Reading.mp3?versionId=w4knco31lYiPA96.M6.Ss2IVu2A1X39a",
+    "mediaItemId": 2224208
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit04_Reading.mp3?versionId=jDGyKYeMgdHst78EMh25g06esPe.D61X",
+    "mediaItemId": 2224411
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit05_Reading.mp3?versionId=vItUbHoFdxHSQ6Lpi0RAMZcatCQUg4Fq",
+    "mediaItemId": 2224547
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit06_Reading.mp3?versionId=jlUHQKxkHsgE0EioLBfyUKe.DWviuwC3",
+    "mediaItemId": 2224725
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit07_Reading.mp3?versionId=31KfPRcS74rxFf84JUT1_Dz0fAkkA6pE",
+    "mediaItemId": 2225037
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit08_Reading.mp3?versionId=B3DQIOGjsYidRS6YLIZSC8zESf4Q4Qp.",
+    "mediaItemId": 2226557
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit09_Reading.mp3?versionId=e6HdiRR78MJFSvk14K00bd1J2AEy96S.",
+    "mediaItemId": 2229344
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit10_Reading.mp3?versionId=YmnY7iDEJaSkdVmsSx_HQ6ZbW8uSt_s8",
+    "mediaItemId": 2232781
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit11_Reading.mp3?versionId=hd4cKD5UWOcpZLzqrhCUAKv.aoq65_w9",
+    "mediaItemId": 2236551
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit12_Reading.mp3?versionId=8jHQutHeydpqBh0GUa44FOse69izVYMU",
+    "mediaItemId": 2240040
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit13_Reading.mp3?versionId=yJ0Idm03Sjson4P2e_wNnK.f0fAMtoFn",
+    "mediaItemId": 2242891
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit14_Reading.mp3?versionId=uRfl1bSujwEWTlciDfwcWJsIMVb1jRg6",
+    "mediaItemId": 2246085
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit15_Reading.mp3?versionId=ogNiQs4yco_4dQPUMwTjDu67jjJrQH_G",
+    "mediaItemId": 2249087
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit16_Reading.mp3?versionId=e_Iv5QDutvbEX66F7EVQ_U16HiKrG9ZC",
+    "mediaItemId": 2252329
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit17_Reading.mp3?versionId=MssD7l.BQJ0_jGc_QhaxgCi4BX2z0yY0",
+    "mediaItemId": 2255027
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit18_Reading.mp3?versionId=WdL5IhGTbKLNuGzUDf5RhFOReXZI1QJD",
+    "mediaItemId": 2257804
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit19_Reading.mp3?versionId=emY6v3FvQNa8sibXF86b.mE0H2v6dIhH",
+    "mediaItemId": 2260565
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%204%20orig/asset/RL/9781442370562_German4_Unit20_Reading.mp3?versionId=U7H.I8OxiLlG4FUa6e3YWRmSsmyoRR4v",
+    "mediaItemId": 2263027
+    }
+    ]
+    },
+    "languageCode": "de-DE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442370562",
+    "level": 4,
+    "courseName": "German Level 4 Premium",
+    "simpleCourseName": "German Level 4",
+    "puArabic": false
+    }
+    ]

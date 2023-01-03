@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 6466,
+    "languageName": "Danish",
+    "languageId": 128,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_01.jpg?versionId=Sr_TzvgpHivBHjU5EPIMLRM7QEVZRJvr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_01.jpg?versionId=clmh4iyu_tuKgLpeNiGiYZigr7XDT4dv",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_01.mp3?versionId=ii37UwxzZxj.3DZy.Y3OGkFhmmHM7c8k",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323642,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "The Kingdom of Denmark is home to 5.7 million people. Danish is spoken in the Faroe Islands, Greenland, and the Southern Schleswig region of Germany. Along with the official language, regional languages include Faroese and Greenlandic.",
+    "imageCredits": "SanneBerg / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_02.jpg?versionId=rMHpDrv3jeicjU3soPsnEvqwHiLMQiXW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_02.jpg?versionId=nKQNvuE.rCCK5u0eTOZ207ERp4H9vwOK",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_02.mp3?versionId=2XPXw2by5zaHMTcLTQecT4sT3cUEjS4p",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323643,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "The national flag of Denmark is the oldest in the world, dating back to 1219. Interestingly, the Danish monarchy surpasses its flag in age. Margrethe II, the current queen of Denmark, can trace her family history back over a thousand years!",
+    "imageCredits": "Alexander Spatari / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_03.jpg?versionId=4iZE47zij02XbP20CBsePIlYTKduXnOO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_03.jpg?versionId=YSqSY4etcQ_rh4azanVzYhkcowxt4zWR",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_03.mp3?versionId=PaziiahVBaHpIHkiYYViZflKsE61B1xC",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323644,
+    "cultureContent": {
+    "imageLocation": "Aarhus, Denmark",
+    "imageDescription": "Danish architecture is known for making use of limited space. In the Aarhus harbor, the Isbjerget residential complex lies where an abandoned warehouse stood. This set of contemporary residential buildings gets its name from the Danish word for \"iceberg,\" and gives residents a pristine view of the sea.",
+    "imageCredits": "Balipadma / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_04.jpg?versionId=PEENbbYkPraZB5Ez75ImY0u5nMjCsbGp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_04.jpg?versionId=8ko0.ONskepqewLp.mb1W_lPTbdmLjm9",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_04.mp3?versionId=uNH98VfLzhdhemn_F0dSjARB.s5kQgUh",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323645,
+    "cultureContent": {
+    "imageLocation": "Billund, Denmark",
+    "imageDescription": "Did you know LEGO is of Danish creation? The cheerful construction toys were invented in 1932 by Danish carpenter Ole Kirk Christiansen. Originally made of wood, the toy’s namesake is based on the Danish phrase “leg godt,” meaning “play well.”",
+    "imageCredits": "Raimonda Kulikauskiene / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_05.jpg?versionId=Dip48Tm5MvJ9T6TjdtFn2TJ3rntsjkM_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_05.jpg?versionId=YMszqQcDFnLyZYxJEvUZ0uxYPCV_noUM",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_05.mp3?versionId=dGrF_lMJbEBgRtgT942AH95o4vbcA9m4",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323648,
+    "cultureContent": {
+    "imageLocation": "Henne Strand, Denmark",
+    "imageDescription": "Denmark’s landmass is composed of a peninsula and over four hundred islands in the North and Baltic Seas. This environment has created a culture of seafaring, beach-loving people. No point in Denmark is further than 52 kilometers from the ocean!",
+    "imageCredits": "Ah_fotobox / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_06.jpg?versionId=bB3k7ntZcWwb24cYrZDTCGXPlOOUrwcF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_06.jpg?versionId=tZFOMtO_UyZifARvJWLG0vC_C2evZbeC",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_06.mp3?versionId=HJyhdbi3kWDmLlcdtsvLlQnpX5tPAyzP",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323650,
+    "cultureContent": {
+    "imageLocation": "Møns Klint, Denmark",
+    "imageDescription": "Møns Klint is a wonder of nature. Residing on the island of Møn, the white chalk cliffs are over 70 million years old, and have the fossils to prove it! At night, the cliffside transforms into a Dark Sky Park where you can experience starry nights at their fullest potential.",
+    "imageCredits": "ClarkandCompany / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_07.jpg?versionId=icoYCrcA2eJqbhQ0VOoPdHgMRbZlHsGJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_07.jpg?versionId=T1VpK41InyOfrOD.biqJzSYq2E_aS94c",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_07.mp3?versionId=h9DzUjaphHBhkkh5OBVruV_7KveMWfiP",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323652,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Like the rest of its Scandinavian counterparts, Denmark has remarkable, innovative architecture. Cirkelbroen is a pedestrian bridge that encapsulates an important part of Denmark’s history. The bridge was designed as an homage to the ships that sailed on the Christianshavn harbor for centuries prior.",
+    "imageCredits": "Lingxiao Xie / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_08.jpg?versionId=NUZKpqUkyHWp5Uwciwd29W.4VdgOUP_X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_08.jpg?versionId=opXbOaFua_i_hvS3zY2ih19voh1QDA7D",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_08.mp3?versionId=BvwHfzslckbpPkOyoElHR7TUsbnmpHJz",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323654,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Copenhill is home to activities such as dry skiing, hiking, and climbing. However, athletics were not the original intention of the facility. The off-season recreational area is an extension of Amager Bakke, which is a waste incineration plant that converts trash to energy.",
+    "imageCredits": "Picture Alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_09.jpg?versionId=q7mn.vNNm4LOqXqDSWFNJLZmX8CK0A_1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_09.jpg?versionId=VBP69FaRkSBl2tWTlP5YAyz7ont8R.yi",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_09.mp3?versionId=oyCgCXduf2jR8X6G51JkdFiJn5C2LuSJ",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323656,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Denmark is home to a myriad of talented and well-known musicians. Roskilde Festival is an international celebration of Denmark’s varied music taste; with over 80,000 attendees annually, it is the largest festival in the Nordics. Volbeat, a multi-platinum Danish band, has opened the Roskilde Festival several times.",
+    "imageCredits": "Per Ole Hagen / Redferns / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_10.jpg?versionId=eVrHs4c1eLEmyeO1VJqWEk4qA3596oJa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_10.jpg?versionId=A4d_eAekFmCKOsD86ghRjekwCy3mya0f",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_10.mp3?versionId=BIuEuAzm7wGrBNzrhu6.DHA_VDWa7QQN",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323658,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Among the historical buildings of Copenhagen lies Grundtvig's Memorial Church, a rare example of an expressionist cathedral. Although modern, the cathedral pays homage to the gothic churches of Denmark’s past. The structure was finished in 1940 along with its iconic wicker chairs, which have remained since.",
+    "imageCredits": "ClarkandCompany / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_11.jpg?versionId=9aZTzQqprv8I4mv6yceKvtL6XEVZaPUc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_11.jpg?versionId=dRLcpHbc3nm0rG0liFAb9PtJDouMo_CC",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_11.mp3?versionId=7nja1nemvex7NDPojExL_EvCpWsw9rZ3",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323660,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "One of the world's most famous restaurants resides in the heart of Copenhagen. With three Michelin stars and an emphasis placed on foraging, Noma has made a significant mark in the realm of fine dining and in the elevation of Scandinavian cuisine. The restaurant is known for its natural delicacies, with chocolate-covered moss being one of the most notable menu items.",
+    "imageCredits": "THIBAULT SAVARY / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_12.jpg?versionId=dlJB5qdamhzpsAcynwB2vxylzw0tYd2.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_12.jpg?versionId=sKq.ASK_V6oW1b092CLCpNp6VpkuDk4N",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_12.mp3?versionId=THrqYIndC4IMcjVAetw5rxU8OxxThnvm",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323662,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Did you know that the computer technology Bluetooth was named after Viking royalty? Its namesake comes from King Harald \"Bluetooth\" Gormsson. Gormsson was known for uniting tribes, similar to how today’s Bluetooth technology \"unites\" devices. The logo is a symbol of his initials in Nordic runes - H (ᚼ) and B (ᛒ).",
+    "imageCredits": "Eugenesergeev / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_13.jpg?versionId=Fex0_p.hTkJOP_qWWNvX3egX7Bv_0n2l",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_13.jpg?versionId=DXEltqq7Lc_tkKO1P4PD1DwGMVAzc89f",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_13.mp3?versionId=QtI6sGCXJ4xA6XGF_bVhrQHrEWHuk6EA",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323664,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "The Copenhagen Opera House is the most advanced of its kind. It possesses world-renowned acoustics and showcases internationally recognized musical performances. Outside of the theatrical arts, the opera house hosts a portion of the Red Bull Cliff Diving World Series, where divers jump off the 90-foot roof and into the island's ocean waters.",
+    "imageCredits": "Handout / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_14.jpg?versionId=rlXR_ATGYKWrC0de8wZlmPQSkqmrlPME",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_14.jpg?versionId=4BJTKQjpeWpq7.XoaDBOWkbI0.KF6Dzi",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_14.mp3?versionId=v0rYnoRRkQBsW11bzXzP77ykxvw0diON",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323666,
+    "cultureContent": {
+    "imageLocation": "Kastrup, Denmark",
+    "imageDescription": "The National Aquarium Denmark, also known as Den Blå Planet (The Blue Planet), is the largest aquarium in Northern Europe. Designed to resemble a whirlpool, the facility sees over a million visitors a year. It has five sections with different biomes, including a rainforest, the Great African Lakes, and more.",
+    "imageCredits": "View Pictures / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_15.jpg?versionId=kVrQkX1WmKtHk5Wz7nJCEMMFUPfPjCE0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_15.jpg?versionId=k.A7M6o7HE0P2z_Me6xVBkgTxV5gTuP5",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_15.mp3?versionId=nqGkgJDzHMDuRMd_RiRPNA0Owjr4qne_",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323669,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Despite being part of the EU, Denmark does not use the euro as its primary currency. The National Bank of Denmark is the sole issuer of the Danish krone. “Krone” is the Danish word for crown, symbolizing the kingdom’s unification.",
+    "imageCredits": "Diegograndi / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_16.jpg?versionId=b1uPcFW7_K1ljdUav6dsafhKSFdHFz9m",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_16.jpg?versionId=i9yeJll99dx8GT8Ti9ObE.vAGNbGzZvR",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_16.mp3?versionId=RX40a2_Luff16_i08AQflcW489pmxwKZ",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323674,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "While Danes embrace being cozy, they also accept the harsher things in life. Ice swimming became a popular seasonal activity in Denmark to combat wintertime blues. While visiting one of Denmark’s winter swimming clubs, saunas and hot tubs await bone-chilled divers after a refreshing dip.",
+    "imageCredits": "Cavan Images / Cavan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_17.jpg?versionId=zWxrXuNfTCKHvq_P7EaoWL6UK.cA9Go8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_17.jpg?versionId=cQpq.8ssjYxU28QIdEFWfYVEX7rx6tAg",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_17.mp3?versionId=b9h9G4bmvnUUMFP16hxnBG8oHGL.Z63u",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323677,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "If you know anything about Scandinavian culture, you may have heard of the Law of Jante or “Janteloven” in Danish. This is a social code that has an emphasis on collective accomplishments and well-being. Essentially, the Law of Jante boils down to the idea that no person is better than another. This may be why Denmark is one of the happiest nations in the world!",
+    "imageCredits": "© Marco Bottigelli / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_18.jpg?versionId=.a5y79RR3NFKxJSsrTNpPcPCrk8u.4_4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_18.jpg?versionId=ncDA4N84EwJXaGIQVh07BQmqqX.GQZAK",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_18.mp3?versionId=RvlFWbvwSdMdXFEExC4lSgC_SXhd5HP5",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323680,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Like most of Europe, soccer is Denmark’s most popular sport. Ice hockey, cycling, and handball all follow close behind. Although curling does not hold as much notoriety in Denmark, the sport has gained a following thanks to the Danish women’s Olympic curling team.",
+    "imageCredits": "Chris Graythen / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_19.jpg?versionId=x3TtJ0ily4HvnrENASusv0q2cTfceMMB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_19.jpg?versionId=9M10CGOkfWN8k9cjGdbjvy.IeOB1XHrP",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_19.mp3?versionId=s6..Au8qfWeCss2LV0pY7iKtqmMqk3wg",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323683,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Danish design is unique. The region's style is minimalist, but still holds the classic craftsmanship of the Vikings. Though the peak of the Danish modern movement has passed, Danish furniture is still coveted internationally for its durability and artistry.",
+    "imageCredits": "CommerceandCultureAgency / DigitalVision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_20.jpg?versionId=wpCYYRhEDNG0.xMLGBWw3g4GuP8dA7Gk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_20.jpg?versionId=QXD7mi0TbvON6SgSFIFoZ4j_YsiS21fM",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_20.mp3?versionId=jxNg1qBTv_gMWA0Tz7bLM18FyKIilj6o",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323686,
+    "cultureContent": {
+    "imageLocation": "Blåvand Beach, Denmark",
+    "imageDescription": "During World War II, the Jutland Peninsula was marred by more than 7,000 concrete bunkers. On the 50th anniversary of the war's end, Danish artist Elle-Mie Ejdrup Hansen collaborated with British sculptor Bill Woodrow to make art of the otherwise unsightly reminders of war. By attaching steel mule heads and tails to four of the bunkers, the artists reinvigorated an otherwise dreary landmark.",
+    "imageCredits": "frankix / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_21.jpg?versionId=ScA64B2cuzUPHrpQ.HJd0Zq.2njQtfWZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_21.jpg?versionId=D_e3AlgqvmlO1WDL3mlSoyO8qS.bZ2Nr",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_21.mp3?versionId=yuCWCFgRRo1hlOGr_tDKfDw5c1ZM9t8K",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323689,
+    "cultureContent": {
+    "imageLocation": "Celebrity",
+    "imageDescription": "Did you know Viggo Mortensen is a citizen of Denmark? The American-born actor has received various accolades for his work after starring in a variety of films, including the Lord of the Rings franchise. He is known for being fluent in four languages, including Danish!",
+    "imageCredits": "Franziska Krug / German Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_22.jpg?versionId=3sQs4uvZWVM2jSDNm9IcPBRLKhxLnPoC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_22.jpg?versionId=DJo1OiwUhAfu.iN3cgWsFQ1OwRPSWQ.p",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_22.mp3?versionId=tz8lTYihvdudXPjHuWk619bgyXUqogHl",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323692,
+    "cultureContent": {
+    "imageLocation": "Hillerød, Denmark",
+    "imageDescription": "Though not as widely known, Denmark was part of the European Renaissance. The Frederiksborg Castle is the largest example of Nordic Renaissance architecture, with a Fountain of Neptune in its courtyard. The castle also houses The Museum of National History, holding five centuries' worth of paintings, furniture, and other artifacts.",
+    "imageCredits": "ClarkandCompany / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_23.jpg?versionId=zP2GCj4yFAMb5wbvCJPN65KJqCGz7lDJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_23.jpg?versionId=le7sfPAK377SsSosThCCYyWEP19ENi3t",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_23.mp3?versionId=lm8346dlbZ6ODUsHou.MOUfzrB7N8537",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323694,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Due to its landscape, Denmark is home to unique dishes such as Smørrebrød, an open-faced sandwich with specific rules. However, the pastry many know as a “danish” isn't of Danish origin at all. The sweet is known as Wienerbrød in Danish, meaning \"Viennese pastry,\" which harkens back to the dessert's Austrian roots.",
+    "imageCredits": "ClarkandCompany / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_24.jpg?versionId=24CjTKyg15m1CXYOotvYQi6t6Fb99meO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_24.jpg?versionId=MuCBy.qeBogBi4U_nsVYoiiJM9VFFLq2",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_24.mp3?versionId=9mLS3yRmfEJdvLlB9RUEMH2HI4.faa55",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323697,
+    "cultureContent": {
+    "imageLocation": "Gásadalur Village, Faroe Islands",
+    "imageDescription": "Gásadalur Village is a picturesque settlement at the edge of a cliff, isolated for most of its existence. The surrounding mountains make it difficult to traverse, even with stairs and tunnels being placed in the mountains for ease of access. The population of the village remains under 20, but the historical houses and vistas will stay as long as even the smallest community remains.",
+    "imageCredits": "Mlenny / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_25.jpg?versionId=4JUvo_Uc_f.A.XpMUjoBMj5NutOX65ST",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_25.jpg?versionId=SuBaK5Ad8VHLL8NU5CA1T6WTHjCe3sPO",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_25.mp3?versionId=_oinKg0.dVXMv_o6NJjgI5LfmNGAgstg",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323700,
+    "cultureContent": {
+    "imageLocation": "Kirkjubøur, Faroe Islands",
+    "imageDescription": "The Faroe Islands, a part of the Kingdom of Denmark, hold traces of Nordic Viking heritage. In 1832, a runestone was found in Kirkjubøur dating back to the Viking age. The oldest still inhabited wooden house in the world from the 11th century is also located here. ",
+    "imageCredits": "Posnov / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_26.jpg?versionId=GlK2VG0Cooy7qhBN.Qvp87YXWTgWD7Vh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_26.jpg?versionId=TsJWGNg1jnye_6YqjoP_fgbmi6wCb5Kw",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_26.mp3?versionId=WQ0os89GF5I7qkgNg3KbFjbB_6CBWViI",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323704,
+    "cultureContent": {
+    "imageLocation": "Saksun, Faroe Islands",
+    "imageDescription": "Did you know only 50,000 people reside in the Faroe Islands? The local sheep out-populate people. Luckily, they're put to work, seeing as they provide upkeep to Faroesian turf roofs.",
+    "imageCredits": "miroslav_1 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_27.jpg?versionId=UnvKJUlhJYnEt1c8H2Y2IXbNPPDxQzPp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_27.jpg?versionId=bHE6eq54SIqDwrLA2XUIownDy01VrqWP",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_27.mp3?versionId=crNZmvJS0Nbh_vuH.Z20V64cIy85K7IQ",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323707,
+    "cultureContent": {
+    "imageLocation": "Danish Culture",
+    "imageDescription": "Being a society based on agriculture and fishing, it makes sense that Denmark is one of the greenest nations on Earth. Having the world's first Ministry of Environment, Denmark has been making strides to be environmentally friendly. By 2025, the entire city of Copenhagen plans on being the world's first carbon-neutral city, and by 2030, the whole nation plans on being independent of any fossil fuels.",
+    "imageCredits": "Caroline Brundle Bugge / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_28.jpg?versionId=XDXw3N0_aNABhBr6wmAFjtL9OMybn8HR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_28.jpg?versionId=g9VnKMzGUYlZZkO2vFLoygsZYq9tACKO",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_28.mp3?versionId=OiAepPGb5cdRtEsCqK6UFnkxwljtVhPD",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323711,
+    "cultureContent": {
+    "imageLocation": "Lokken, Denmark",
+    "imageDescription": "Have you ever wanted to know an easy phrase that encompasses the feeling of sitting at a fireplace with loved ones? \"Hygge\" (pronounced \"hooga\") is a Danish phrase that defines the warm and cozy sensation. The concept can be seen throughout the country, with cafes, stores, and tours emphasizing creating a cozy atmosphere for guests.",
+    "imageCredits": "Ulrik Stiebitz / 500px Prime / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_29.jpg?versionId=2x4pi3p.HIws.7lqOUUeZn9zHksCTyPv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_29.jpg?versionId=0.TYFOGdyQw11KAbYJEqmOka5XncDvSc",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_29.mp3?versionId=WOvZCv2bLQ3VgGcXVQdTCrNydU0MTKjL",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323715,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Nyhavn Canal, meaning \"New Harbor, '' or \"New Port,\" is a historical man-made waterway created as a commercial port. Hans Christen Andersen lived in this area, with all his homes still standing as museums today. To accommodate tourists and foot traffic, the canal serves as a hub of restaurants and pubs, all housed in beautifully restored buildings.",
+    "imageCredits": "SeanPavonePhoto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/full/Danish_1_9781797144405_M_30.jpg?versionId=NOtKmm3Gxsdyt3nyUz5fiB3HURtvM7sB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/lesson_photo/thumb/Danish_1_9781797144405_M_30.jpg?versionId=nIMlGuQ8r8sC61ISlVBBorvXBqtd0hOy",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/main_audio/9781442388161_Unit_30.mp3?versionId=NiuPfLiLfhKSj401JNXOIy862lH6r0gC",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323718,
+    "cultureContent": {
+    "imageLocation": "Copenhagen, Denmark",
+    "imageDescription": "Tivoli Gardens isn’t just a cheery, colorful amusement park, but a historical center as well. The 200-year-old museum is the second-oldest amusement park in the world. Nestled between the town hall square and the Hans Christian Andersen House, the park’s location makes it easy to explore Copenhagen’s history.",
+    "imageCredits": "AGF / Universal Images Group / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish Level 1 orig/asset/RL/Danish_1_9781797144405_Intro.pdf?versionId=ZAJDSQGhcnjMYb9IxcydoenGegFB..gY",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading11.mp3?versionId=IdhvBsgnoElpw4Uo1SrI8okOApe83PB8",
+    "mediaItemId": 2350088
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading12.mp3?versionId=aA9SPEuTtMF6lf0eiFh8i9ellRZ5WCeE",
+    "mediaItemId": 2350089
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading13.mp3?versionId=wA_a.bC6A22vpzaMaKxtz1fxok9VaXkp",
+    "mediaItemId": 2350091
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading14.mp3?versionId=K4ddvHI6.MsTXIkQTdI2N7jKTUVfKW6P",
+    "mediaItemId": 2350093
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading15.mp3?versionId=QvmuXERAk7uAf3j.LYszld50JO8S3.RA",
+    "mediaItemId": 2350090
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading16.mp3?versionId=MGoweKPJo24wvrMxqAnZf6VISDDvNvCS",
+    "mediaItemId": 2350092
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading17.mp3?versionId=xsbu4BuHlMryZzu1uhB59ZOojf9FlrQP",
+    "mediaItemId": 2350094
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading18.mp3?versionId=ktBPiUoJ4KmKvDgRQ2pGj.l9xMW19oyJ",
+    "mediaItemId": 2350095
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading19.mp3?versionId=QqTbdeq5W8u_cpBZHqVtej9oJ7wEKJgh",
+    "mediaItemId": 2350096
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading20.mp3?versionId=FUQEJPRIcrRstpaSD.XBZbWe74YuRhT6",
+    "mediaItemId": 2350097
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading21.mp3?versionId=CLLM7KCNDucnwIMk0Aio0DcWAz3cpwrD",
+    "mediaItemId": 2350098
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading22.mp3?versionId=_TKqKyvg55U4cQj7CGeE9CyElCc6nM2E",
+    "mediaItemId": 2350099
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading23.mp3?versionId=8cdnSGljAb6hdDhSJVCjA.uM4vqdOzD_",
+    "mediaItemId": 2350100
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading24.mp3?versionId=kbcaQVtuIQUCzmU493VbknB3mKVfhxKE",
+    "mediaItemId": 2350101
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading25.mp3?versionId=4PU2QoM8p0jlQAhWAM.bG0ty5NolTlc7",
+    "mediaItemId": 2350102
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading26.mp3?versionId=lh64zgzPFOzM6KPvDf15Vk3hC.SyP1Fj",
+    "mediaItemId": 2350103
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading27.mp3?versionId=LwXHUzJgVKqRwCfMXAm.9iaGG_Sua8xQ",
+    "mediaItemId": 2350104
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading28.mp3?versionId=G8OmPlFrWJleuWfXHN5aIRJgQWXdqF4F",
+    "mediaItemId": 2350105
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading29.mp3?versionId=q5KVKQU87gOD1wLmDIF_W_74oxIPO4mY",
+    "mediaItemId": 2350106
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Danish/Danish%20Level%201%20orig/asset/RL/Danish_1_9781442388161_Reading30.mp3?versionId=Cgjn51i60dGNoL2AFruwPSzeLc5uc85J",
+    "mediaItemId": 2350107
+    }
+    ]
+    },
+    "languageCode": "da-DK",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797144405",
+    "level": 1,
+    "courseName": "Danish Level 1 Premium",
+    "simpleCourseName": "Danish Level 1",
+    "puArabic": false
+    }
+    ]

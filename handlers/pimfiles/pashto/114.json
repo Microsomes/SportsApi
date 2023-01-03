@@ -1,0 +1,633 @@
+[
+    {
+    "courseId": 30206,
+    "languageName": "Tagalog",
+    "languageId": 170,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_01.jpg?versionId=DsyjknmXTuiQUHkSEvvDLd1QBxcG3I_8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_01.jpg?versionId=5wxjyYLf.QLKNplmpqiVk4Y6Khuc1CZJ",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_01.mp3?versionId=HGT3RJNtHAGRH6PF3J0FPK7Jyd510boS",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2225450,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Job opportunities are scarce in the Philippines, and a lot of Filipinos are forced to work overseas. Many Filipinos work several jobs and send money back to their families. The government encourages people to honor the ten million overseas Filipino workers who support themselves away from their families.",
+    "imageCredits": "Franciso Balasta/ EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_02.jpg?versionId=nX1sJvu_hnPGoWvaHApKigOjAoyx5DLP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_02.jpg?versionId=xb0p13Dfd.h5iHrGqAsQh7a5Eu08XP3H",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_02.mp3?versionId=bGpuh7CUXk_3OwDeg_7R5YHjX6pkrgsD",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2225623,
+    "cultureContent": {
+    "imageLocation": "Patriotism",
+    "imageDescription": "The Philippines declared its independence from Spain on June 12th, 1898, and celebrate Independence Day annually on this date. However, the holiday was not recognized by Japan or the United States while the Philippines was under the rule of those countries. The Philippine Proclamation of Independence was written and read by Ambrosio R. Bautista of the revolutionary Philippine government at the first celebration of the country’s independence from Spain, and the event featured the unfurling of the first Philippine flag.",
+    "imageCredits": "Jay Directo / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_03.jpg?versionId=byxztOzw0jOR1r079f2Bdrmb66SvdP75",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_03.jpg?versionId=bRvGsPTvskBeZg3TCUE5eay82qm4B0Tw",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_03.mp3?versionId=WqQPpLpmTPbZU00ej88X3BdsTrlvl7d.",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2225795,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Motorized tricycles are the most common mode of public and private transportation in the Philippines, especially in rural areas and small towns. The trikes look like motorcycles with fancy roofs and often have sidecars attached to transport more people. They are usually built locally and customized with bright colors.",
+    "imageCredits": "Tom Cockrem / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_04.jpg?versionId=VdMwsNUaN0RpP9D4uwfYdHlNbh4IGlUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_04.jpg?versionId=BlR.F_Wi93poEgqoiMzhrgObEIoIlV5l",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_04.mp3?versionId=QUEjI6Fb0Yg6MEgiJvh8ybnDVUYMxhO_",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2225962,
+    "cultureContent": {
+    "imageLocation": "Siargao Island",
+    "imageDescription": "“Cloud 9” is a legendary surfing spot off of Siargao Island. The name comes from the reef wave that gained fame for its thick tubes, and once it became popular with traveling surfers in the 1980s an American photographer named it after a chocolate bar.",
+    "imageCredits": "John Seaton Callahan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_05.jpg?versionId=tHzP4bqjfoh53XeS47VLSpIKzlTiMZCu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_05.jpg?versionId=IWRAmmRDHdrbqQtX.ZsPS8.50Bnlmc1_",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_05.mp3?versionId=Yl_Tz1of4kLjEHcYDL4HdAke2k2A3S2b",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2226193,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Fishing is a primary source of food and economy in the Philippines, and even today many styles of traditional boats are used. Archeological evidence shows the high level of Filipino craftsmanship before Spanish colonization. The balangay is a type of plank boat, the oldest known example of which dates to the second century CE.",
+    "imageCredits": "joyt / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_06.jpg?versionId=K6HEVzpHZSvj5P2.DuU1QZdtYyPo2qVi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_06.jpg?versionId=Y6yInXV60wBsw0yDkmTm6mowcMWwfzSS",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_06.mp3?versionId=DdpZmthecLRUr8Q4IX_vB_WtTCpXVt9d",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2226429,
+    "cultureContent": {
+    "imageLocation": "Miniloc Island, Palawan",
+    "imageDescription": "Miniloc Island is located in the center of Bacuit Bay in Palawan. The island encloses magnificent lagoons, which can only be reached by swimming or paddling a kayak through a small opening in the limestone cliffs. The lagoons are a popular place for snorkeling because they have crystal clear water and white sandy beaches.",
+    "imageCredits": "John Seaton Callahan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_07.jpg?versionId=tNLGkwtsCauOIiKvOJfQ5RGDDVDOOthk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_07.jpg?versionId=GkNU_6cYxE0KExAydayMuLYuWxMcLcFu",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_07.mp3?versionId=4kwldYVcPiizUY7P83jbLZHWy71Uu0SI",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2226675,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "At the 1964 World’s Fair, a Jeepney was exhibited as a national image of the Philippines. The name jeepney comes from an old-fashioned American slang term for a taxi, jitney, and the abbreviation for the US Army’s general purpose military vehicle, or GP, shortened to “jeep.” These vehicles were left in the Philippines after World War II and repurposed. Local jeepney manufacturers are planning to launch a new fleet of E-Jeepneys which will have electric motors and be more environmentally friendly.",
+    "imageCredits": "Kevin Clogstoun / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_08.jpg?versionId=WQDOqD7AR.0azRWYc_dhXHRCeAhqRzYK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_08.jpg?versionId=4sQbd0kVisX5PNYUKYu8jZu89jLLyCeh",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_08.mp3?versionId=Q4YF71jAtro9OLY5QP62NSOYLc2OHr2O",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2226956,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Coconuts are one of the main agricultural exports of the Philippines. Fresh, green coconuts are served as a hydrating beverage by simply drilling a hole through the shell and sticking a straw in to sip the delicious coconut water.",
+    "imageCredits": "Jordan Siemens / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_09.jpg?versionId=O8Smqr8yGbeeGhDriDMAS6nCfA5Md2Ls",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_09.jpg?versionId=NOo6exqrQky24ixg0x5ZWKnjPSfbNvkX",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_09.mp3?versionId=A5wiXFZKo7bKAiYvcee1d_llqUuQcYKb",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2227207,
+    "cultureContent": {
+    "imageLocation": "Bohol",
+    "imageDescription": "The Loboc River originates in the town of Carmen in the center of the island of Bohol and empties into the Bohol Sea. Luscious green mountains and forests line the riverbanks, and cruise boats take visitors out to view the pretty scenery. One attraction along the river is the coral stone Loboc Church which was built in the 1700s.",
+    "imageCredits": "travnikovstudio / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_10.jpg?versionId=beK1PR.4DyUrMYkU9zN2y7u.4I6r_40L",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_10.jpg?versionId=f1AkixCm_kWn8AmRTiMiYab7UkKjoWgK",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_10.mp3?versionId=c9NsOMh8TP5IcmWQkIyqaJ3bdkbkRV_4",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2227630,
+    "cultureContent": {
+    "imageLocation": "Puerto Princesa",
+    "imageDescription": "Visitors to Puerto Princesa in Palawan can take part in a boat excursion to the famed Subterranean National Park, a UNESCO World Heritage Site and recent winner of the New Seven Wonders of Nature competition. Inside the caves, tourists see underground rivers, bats and swiftlets. Outside they might see crab-eating monkeys or monitor lizards.",
+    "imageCredits": "Michael Runkel/Roberharding / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_11.jpg?versionId=Bybihb63wLw.nE3va8A9Zt6NmYdrwo3m",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_11.jpg?versionId=Ti5D110naVx0_wvHUxOmx7HNaqpvHD8Z",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_11.mp3?versionId=2znDgvicIwIoNqzf5uR57mKvpjWAif7t",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2227908,
+    "cultureContent": {
+    "imageLocation": "Palawan",
+    "imageDescription": "Located between the South China Sea and the Sulu Sea, the province of Palawan is the largest in the country. In April 2019 President Rodrigo Duterte signed a bill that will split Palawan into three new provinces: Palawan del Norte, Palawan Oriental, and Palawan del Sur, pending a plebiscite. The goal of this split is to benefit the economy and improve the daily lives of Filipinos, and each province is to be appointed new government officials specific to that province.",
+    "imageCredits": "Per-Andre Hoffman / Look-foto / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_12.jpg?versionId=mVtfhXIS_gEJBNmWRH0JRerPptT8.kMs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_12.jpg?versionId=An3sgvfoQPZ0zqd8xEInNKncXRJtgFNG",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_12.mp3?versionId=TRoNYL9fvl.upb5GSBNdjkURdC1bs8lo",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2228244,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Calvin Abueva is a Philippine basketball superstar and was the second pick overall in the 2012 Philippine Basketball Association draft. The versatile player was nicknamed “The Beast” once he gained popularity during his successful collegiate career. In 2018 Abueva was traded to the Phoenix Pulse Fuel Masters. In June 2019 the volatile Abueva was handed an indefinite suspension for misconduct.",
+    "imageCredits": "Pacific Press / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_13.jpg?versionId=ySaIz0r50B_m0eKNEdNbFCrIHITNNCZJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_13.jpg?versionId=cDjsQIkQVpom0yDPGXYS.xrzRMEUlNQh",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_13.mp3?versionId=GSE6eq2jXsv9ehMQtGuBSR6TQw08mRwd",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2228608,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Jollibee is a popular fast food chain in the Philippines. The Jollibee Food Corporation has 1,200 locations worldwide, and its menu is influenced by American fast food chains with items like Yumburger, Jolly Spaghetti, and Chickenjoy. The restaurant was reviewed by American food critic Anthony Bourdain in his Netflix series.",
+    "imageCredits": "Jay Directo / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_14.jpg?versionId=LCx66qDTSJvnrY_Cn8G4PL7aNBhSHplq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_14.jpg?versionId=dxcWJXwPAWSi6k_LSRC027MvTDCbZP6U",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_14.mp3?versionId=EnDqJCGAQStV24VU4a0WINUkI1BrGxQb",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2228982,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Timpuyog Festival is held every February in Kiamba, in the southern province of Sarangani. The word Timpuyog translates to “working together for the common good,” and the day celebrates unity among the townspeople as well as the anniversary of the founding of the town. The festivities include ornate dresses, street dancing, and a colorful display of hanging umbrellas that attracts locals and tourists alike.",
+    "imageCredits": "@ Mariano Sayno / husayno.com / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_15.jpg?versionId=Fu2MBRjH3PCnRPzDq4vGhgb9eZQYZNtO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_15.jpg?versionId=adgyQxk4AjaxyJOHYOKSWr6ZB2Qbw4X5",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_15.mp3?versionId=ISfoRd8agXKDV6GoCjfjqy0LoVxSKp47",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2229319,
+    "cultureContent": {
+    "imageLocation": "Cebu",
+    "imageDescription": "The Cebu Provincial Detention and Rehabilitation Center is a maximum security prison where inmates perform elaborate dance routines as part of their daily exercise and rehabilitation. The program was started by government security advisor Byron Garcia, and several videos of the dancing inmates have gone viral. The program has been criticized as exploitative of prisoners, but Garcia has set up a group of former inmate dancers to attend other Filipino jails and advocate for dance and music therapy.",
+    "imageCredits": "David Hogsholt / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_16.jpg?versionId=Qy7dbRnsgSAh2GdpQoxM3_Tw0zjeY9SI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_16.jpg?versionId=PZ1xDlwk7VUcHi1CWNlnqy3j5nuy2HhL",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_16.mp3?versionId=NttEbN2aWX9BhRIPP665uA9CTq5nlv1O",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2229734,
+    "cultureContent": {
+    "imageLocation": "Bay City, Pasay",
+    "imageDescription": "The SM Mall of Asia is a massive shopping and office complex in the Philippines. The mall attracts on average 200,000 people daily and features the first IMAX theatre in the country, an Olympic-sized ice rink, and several chain stores. There are plans to add two more levels to the mall by 2022.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_17.jpg?versionId=C8EhNmizCr04XnZq6iFRFEEpDalOAiQC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_17.jpg?versionId=bYKUDsuyhlsDaUOTZHoLrp6vMwO5AZs0",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_17.mp3?versionId=jY_.C9Z6i5u.FovTWQttfPCZOOf6kAuc",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2230078,
+    "cultureContent": {
+    "imageLocation": "Cebu City",
+    "imageDescription": "The Sinulog-Santo Niño festival is held every January in Cebu City. The Santo Niño Basilica is the oldest Roman Catholic church in the Philippines and has a rich history dating to Magellan’s conquest. It has been renovated several times while continuing to keep the shape of the original structure. The Bohol earthquake of 2013 caused severe damage to the church and the bell tower had to be completely rebuilt.",
+    "imageCredits": "Jacob Maentz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_18.jpg?versionId=gBascgK0Nv5mlP98h.yJfnO1DH4o9F_k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_18.jpg?versionId=1F3M9UC0rh38xMxhBeuaPzXXk543_3Cy",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_18.mp3?versionId=Q1pl3kuHC35cnR4Fkic.tJf16RJPNNEQ",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2230462,
+    "cultureContent": {
+    "imageLocation": "El Nido, Palawan",
+    "imageDescription": "El Nido, Palawan is a popular beach destination and has been inhabited since the Neolithic age. The name comes from the edible nests of swiftlets, a bird that is found throughout the limestone cliffs along the ocean.",
+    "imageCredits": "Rachel Lewis / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_19.jpg?versionId=Cf0T4z5V28VYE4WqMgfttXmmyvv10IXv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_19.jpg?versionId=t1KUY0iHNjLKjZI7umseXnB0zpnLmK_z",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_19.mp3?versionId=zDHyZVkBFuTb446ZG2G7BvRRdApX9nyk",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2230852,
+    "cultureContent": {
+    "imageLocation": "Environment",
+    "imageDescription": "Landfills are a huge problem in the Philippines, contributing to global warming by emitting tons of methane. There is a government incentive for landfill operators to invest in technologies that will absorb methane. The poorest communities survive by using items thrown away in these landfills and recycle food waste by recooking it to feed themselves.",
+    "imageCredits": "MsLightBox / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_20.jpg?versionId=57XJmt5Qg39rWldOEqX5Nk6klaNZgirS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_20.jpg?versionId=KESGBkZHlluPJVO93y5iEJ5cqXXgP9kC",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_20.mp3?versionId=JRsNW5TTU8DwO2PAE7kzH7Uagq5fwYrD",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2231317,
+    "cultureContent": {
+    "imageLocation": "Boracay Island",
+    "imageDescription": "Beachside massages are popular at oceanside resorts in the Philippines. Boracay Island is a heavily-visited place, and several resorts on this island offer luxury spa treatments for tourists.",
+    "imageCredits": "Jay Directo / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_21.jpg?versionId=O0BNMIbDb8KyGzehmMdwbLQBr2wPSP6K",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_21.jpg?versionId=fkKQT2FCW9sVh7UnOR2Jefei85uqwfsv",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_21.mp3?versionId=b6t9MASIEFusNziswZYRVQ9u.BMh28q.",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2231864,
+    "cultureContent": {
+    "imageLocation": "Tacloban City, Leyte",
+    "imageDescription": "In 2013 Typhoon Haiyan struck the Philippines and was the most destructive storm ever to affect the country. The typhoon hit much of Southeast Asia but the Philippines was the most gravely affected, with 6,300 known killed. Humanitarian efforts are still trying to repair the damage created by the massive storm which ravaged homes, resorts, and agriculture.",
+    "imageCredits": "Kevin Frayer / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_22.jpg?versionId=SZP5jP59sNDhJJbaDQshHexHg0JRyFGb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_22.jpg?versionId=eO.K3wIWd3qI2xwQU_ZTp9oK8TR1zpjU",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_22.mp3?versionId=gj4xwDv2PjtgwfV6J.E_tIig5pe11LRW",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2232199,
+    "cultureContent": {
+    "imageLocation": "Manila",
+    "imageDescription": "Malate Church is in the capital of the Philippines and overlooks Manila Bay. The church was built in the 1500s and is dedicated to the Virgin Mary as the patroness of childbirth, or Our Lady of Remedies. During the Japanese occupation, the church was burned down leaving only the walls. Reconstruction began in the 1950s until the church was finally restored to its original splendor in 1978.",
+    "imageCredits": "JoyfulThailand / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_23.jpg?versionId=rkUsyI_nNdoS8B13T7CH6npFUU6ZuMBe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_23.jpg?versionId=xEgQNp5ZtrCcpwazGH3n3fXV4OeunVNI",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_23.mp3?versionId=GWlar5OxAP3hEHzMmylzicLSZY8VwKLY",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2232589,
+    "cultureContent": {
+    "imageLocation": "Cebu City",
+    "imageDescription": "Upon Magellan’s arrival to the Philippines, the Portuguese explorer planted a Christian cross in the city of Cebu. It is housed in a chapel next to the Basilica del Santo Niño. The original cross is supposedly inside a cross-shaped case to protect it, though some speculate that the original cross disappeared with Magellan’s death.",
+    "imageCredits": "Kevin Miller / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_24.jpg?versionId=4wm19.vDZSDXrdKkPIdxRGPzQ1ohOmfh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_24.jpg?versionId=ZLlqms3BZWyLmBtfmRGQVM_olKgbjWsZ",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_24.mp3?versionId=TZAB5fNbODgApO8G5Sl.yUy.VXbF10KX",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2233003,
+    "cultureContent": {
+    "imageLocation": "Cebu City",
+    "imageDescription": "The Cebu Taoist Temple is open to both worshippers and non-worshippers. Built by the Chinese community in 1972 on top of a hill, this colorful complex features buildings with tiered sloping roofs and towers. There are dragon statues, colorful steps, and several winding routes to get up to the temple.",
+    "imageCredits": "mariusz_prusaczyk / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_25.jpg?versionId=IXo_wNR6ud7xkA4_aegrIga6vCHBxQSn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_25.jpg?versionId=GQKxDrIHKdC3pRxrt.LM1nhm6P_hO82v",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_25.mp3?versionId=w6gKplS8Gz.Ys_h8pUMRwFv51MSJuJHz",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2233439,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Bibingka is a sweet rice cake served by street vendors in Philippine cities, especially at Christmastime. It is served in coconut-oiled banana leaves and has caramelized coconut milk topping making it a sticky, gooey delight.",
+    "imageCredits": "Kevin Clogstoun / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_26.jpg?versionId=KivomgX0Qwwwb2H9pk18q1Ipcz7tuXXy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_26.jpg?versionId=6CyON2XE8EDhTs8TDG_JBbUhwZ_hbIV3",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_26.mp3?versionId=CCaMwyHzQgvvGa1YRSX6dX0aZRRqpn4X",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2233875,
+    "cultureContent": {
+    "imageLocation": "Banaue",
+    "imageDescription": "Wood carving in the Philippines is a craft that has been inspired by many cultures, but Filipinos are proud to have created their own intricate style of the art. As much of the economy in the Philippines benefits from the millions of tourists each year, wood carvings are sold all over the country and even exported overseas.",
+    "imageCredits": "John Borthwick / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_27.jpg?versionId=n6NnN1O4PMUimhJRCi86Avnfjun9JBs5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_27.jpg?versionId=NRF2w4TlK38gRDRERy0KvDlaI4esooXE",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_27.mp3?versionId=qhkiGgrTgeB08pr7k2YBkhP_8SsSaevm",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2234269,
+    "cultureContent": {
+    "imageLocation": "Calumpit Church",
+    "imageDescription": "Saints have been worshipped in the Philippines since Magellan brought Catholicism to the islands. The first Filipino saint, Lorenzo Ruiz, died as a religious martyr in Japan during the Japanese persecution of Catholics in that country in the 1600s.",
+    "imageCredits": "@ Mariano Sayno / Husayno.com / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_28.jpg?versionId=CHNaB7Q7T57YVQnWjhqQ2Uc959rIwdhr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_28.jpg?versionId=tN5VmXSGQ9tsZ6Z3BgRnAHG7cJuPGAM3",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_28.mp3?versionId=8EPcESwNGv.g6DHlQb80GKqbntqsiVYA",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2234658,
+    "cultureContent": {
+    "imageLocation": "Makati City, Manila",
+    "imageDescription": "Makati City within Metro Manila is the financial hub of the Philippines. Skyscrapers and shopping malls abound in the Makati Central Business District, which is where the Philippine Stock Exchange is. Makati is also where the Ayala Triangle Gardens is located, and the Ayala Museum, which specializes in the history of the Philippines.",
+    "imageCredits": "fazon1 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_29.jpg?versionId=WEKNGFEvfAX0qU28We7D_0a23N8OeMgE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_29.jpg?versionId=CoixuOTP9oEvTy6edI0AG.xluHmi.PFG",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_29.mp3?versionId=y7vasxbpZB51WR.s4if5koc4cJ8AsJTa",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2235030,
+    "cultureContent": {
+    "imageLocation": "Nature",
+    "imageDescription": "Philippine Coral reefs are slowly dying due to years of heavy tourism, industrial development, and pollution. There have been measures to protect these beautiful natural oases, however, it has been hard to manage the rate at which the reefs are decaying. The Philippines relies heavily on its fishing industry. A reef can house up to 3,000 species of fish, which is great motivation to protect these environments.",
+    "imageCredits": "Jeff Hunter / Photographer's Choice / Getty Image"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/full/TA_2_M_30.jpg?versionId=Het_zosJtF21QVQh29PJQzaZzp8vrvtp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/lesson_photo/thumb/TA_2_M_30.jpg?versionId=K9jVhATa63zP7wkKXjG_LLg9YjMLO61F",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/main_audio/9781508298991_Tagalog_2_Lesson_30.mp3?versionId=qBtGTMItPmRTT5LmWmQqwRfYqI5gMnq7",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2235563,
+    "cultureContent": {
+    "imageLocation": "Palo",
+    "imageDescription": "The MacArthur Leyte Landing Memorial National Park is a protected area memorializing the landing at Leyte Island of American general Douglas MacArthur, who recaptured and liberated the Philippines from the Japanese in World War II. MacArthur’s landing led to the biggest naval battle of the war and this memorial sculpture shows him and his entourage as seven larger-than-life figures as they waded to shore.",
+    "imageCredits": "Frank De Luyck / Gallo Images / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog Level 2 orig/asset/RL/9781508298991_Tagalog_2_Intro.pdf?versionId=qV0lN6DnOr5sT5JEZ.ExJkgjD61.0lcE",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_01.mp3?versionId=8TiPNHr79zk1qcJEwyQT3aDqtJHLN2fo",
+    "mediaItemId": 2223892
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_02.mp3?versionId=dXTyiiQPd4LJlYUiv2_n_kr1c88UIZdv",
+    "mediaItemId": 2224105
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_03.mp3?versionId=km.u2397D5uJeSGf1M7SOwjlSZgp06yf",
+    "mediaItemId": 2224245
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_04.mp3?versionId=XME9mZycnGVoUbsxJd6o_D2pn1IroDuR",
+    "mediaItemId": 2224445
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_05.mp3?versionId=KUWSfVpsnXYPkYKx3dtJ_Ffc5M5AN7ql",
+    "mediaItemId": 2224616
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_06.mp3?versionId=Lz82f0eRZNM4h9yyhCgb0tV3AuFx4c.k",
+    "mediaItemId": 2224752
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_07.mp3?versionId=DvtQ9NJ5xsfQgSHmbxfaxvC8AwNySaCA",
+    "mediaItemId": 2225403
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_08.mp3?versionId=WAVpFWxdExOG5Z7CCgI7DP4smPAGJtYT",
+    "mediaItemId": 2227354
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_09.mp3?versionId=ozRPS2tsO1jjq.iyXW2qThVLi1f6iXtE",
+    "mediaItemId": 2230304
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_10.mp3?versionId=O3E3ndt9nDDGp5fStdPiWwH1kEcVJ43v",
+    "mediaItemId": 2233814
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_11.mp3?versionId=AeK5ir_l_4aVoNXtjDr4LGK1eWtLudC_",
+    "mediaItemId": 2237323
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_12.mp3?versionId=T4FG6rfZCyIbTcEPhkWUnhY7.pzyRr1p",
+    "mediaItemId": 2240837
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_13.mp3?versionId=9z7ABhaEAoH.7CPizsYLZZ6.NQpolG0Q",
+    "mediaItemId": 2243655
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_14.mp3?versionId=ws9iWNxc2gYwBwzLoS99ZSS0jWz32nSB",
+    "mediaItemId": 2246785
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_15.mp3?versionId=a4qquy00ReVBJacKkiITEbMJimNwmIfi",
+    "mediaItemId": 2249698
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_16.mp3?versionId=ZUYiaPx6HpP8F_TntfzyaYiU1o_8O7Mc",
+    "mediaItemId": 2252702
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_17.mp3?versionId=TP7oil_TrcxSxPPfeEovOoO9kk.5mAhI",
+    "mediaItemId": 2255501
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_18.mp3?versionId=iTMj8ogUXXZ1igqShRk8WiiaZDf7yMh5",
+    "mediaItemId": 2258331
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_19.mp3?versionId=LzMWjlVS5wbEv9CvwpwPI5gvoORIecta",
+    "mediaItemId": 2261105
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%202%20orig/asset/RL/9781508298991_Tagalog_2_Reading_Lesson_20.mp3?versionId=6o0sQ9_OebVPxDvLI7bEtaGl072FIjYA",
+    "mediaItemId": 2263382
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781508298991",
+    "level": 2,
+    "courseName": "Tagalog Level 2 Premium",
+    "simpleCourseName": "Tagalog Level 2",
+    "puArabic": false
+    }
+    ]

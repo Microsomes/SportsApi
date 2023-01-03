@@ -1,0 +1,583 @@
+[
+    {
+    "courseId": 3527,
+    "languageName": "ESL Chinese Mandarin",
+    "languageId": 132,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_01.mp3?versionId=oPxrjLVrn3eJznp44.aiFZScUOij4P3p",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322564,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_02.mp3?versionId=8_zViw4vM3jf9NUyCgtNFiQdNKZ.6yNe",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322569,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_03.mp3?versionId=HVtwltn5bAxlSpv70oculKw4sHx9D63s",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322576,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_04.mp3?versionId=YjCRW70SRia30EBDLEjifwxaDjLBo9SM",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322581,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_05.mp3?versionId=mifPKIJipskck.yBhZyTyiXeN4FhGRZX",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322585,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_06.mp3?versionId=eZ.tBhYSF14Nf5xnfp_JZxAAtooxqjmr",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322591,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_07.mp3?versionId=byDO6PEFFdiun3N459clWHcfK53yOv1q",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322598,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_08.mp3?versionId=d_qY585fsE_HPOGRyD.0LrGlNu2H8dQT",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322606,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_09.mp3?versionId=0sqnFmAXFgmOv3yD7s5Ap4t7B0c9YN1z",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322613,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_10.mp3?versionId=ubg02R3kmsDf1wq7bqMe2HeMg2mb3070",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322622,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_11.mp3?versionId=Odc7LBRbkk.uT2LhlO5nORGTNX6OF97S",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322629,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_12.mp3?versionId=LBoJQWHaecZ0dyPRKguVG1It8Ph9r0GF",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322641,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_13.mp3?versionId=9522hOBWJ8XvKA_zXP0r1s5tp9VXCDe6",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322653,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_14.mp3?versionId=Sz420lyw20fI9jq9A7cMndA5SyPDWcCu",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322662,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_15.mp3?versionId=ovdHMj7HhNT0U_Acj2_xUaLyPFcinUfD",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322672,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_16.mp3?versionId=2iNA5EiKL.Nk83U3dEb9Mm0bqT0hPCdU",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2322685,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_17.mp3?versionId=R5X.pRXw4gcQhOfj0Yus49Q7RzR8zFsQ",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2322696,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_18.mp3?versionId=TYCBoGHCLOOIAftZuViVzTeTSK2b3sKy",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2322707,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_19.mp3?versionId=6epLyZoLMaKHuoi1Z3Vkv42qOSLdKawg",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2322717,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_20.mp3?versionId=2rZy301eBsVTv1S64KqOCwmCPpxTOOAL",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2322730,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_21.mp3?versionId=.CS42CAZGgt5n8Xg9btiznx9I6jDk0Uj",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2322746,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_22.mp3?versionId=I0mJsS2wkZgfYq_XhhBPJtSmc_6gvxZU",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2322759,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_23.mp3?versionId=kj.FPJpHBJ_t6ZIMy8qUohq2DziJsqcj",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2322777,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_24.mp3?versionId=UBUIkzgRTmKpE1XbJjoKaxQAxlOYHoCZ",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2322787,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_25.mp3?versionId=E4UpjeO89f9J8l6MlgZ5Ql.4gAxsrTJ8",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2322804,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_26.mp3?versionId=124WdC8CtMS4GEueNYDojQc.1eIWdwYV",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2322816,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_27.mp3?versionId=mdZ5st5gIIgfBq2a7T6UuOzZepmuK1ja",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2322825,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_28.mp3?versionId=a9xuJNQew77mytlLSSi2xbbsxjGUcv69",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2322837,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_29.mp3?versionId=YhJllHJmgWwgo56ahBsE1Az65Fr_nKKe",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2322855,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/language_image.jpg?versionId=Tl1joCwEJEFCWgS7tgvBfJlonXuv8PiS",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442332294_Unit_30.mp3?versionId=Wxp8Qv3SGSaZwWlBg.25NHI3JjgGwKRz",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2322873,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_ESL_Chinese_Mandarin_1_Bklt.pdf?versionId=VeAGNkYwHSEAecRXK94wKOFN55FlyfEP",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U01.mp3?versionId=5ZpfllpPbp5B7qcNgFP50VwIMZ7QYn_i",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2223647
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U02.mp3?versionId=Q_Cr9T4xS8o_ShviTnd3t4dxOFv7xfz1",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2223743
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U03.mp3?versionId=CAcP6b0mlfoX6EbgazrSDMpCt0H2oAyQ",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2223992
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U04.mp3?versionId=p4wZ_zMETXdEYyvJZQIr7MYroU7PljFm",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2224303
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U05.mp3?versionId=1K95..AvL9RuuiB70ecf3W1tlzlt9dYn",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2224613
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U06.mp3?versionId=7ooo_DWRp47jqRIh0jLJDY3U71.WBvlg",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2225045
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U07.mp3?versionId=_yS_vyQnBSvJWM3.snHzF1bet1DhGeaF",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2228321
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U08.mp3?versionId=cRoFGBw6Fp7tYT8ZJbnCXlJNw7I1I4.0",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2233983
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U09.mp3?versionId=_F4kCixsuJviBXbqBTjatXojtdN25Idd",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2239547
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U10.mp3?versionId=tS0qQ5FpSjnS_wOVSlrMF2ISRK8_rliJ",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2244639
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U11.mp3?versionId=oD.ByAHe5PcTUxKFUfCYYbTE.1gQN1Xz",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2250020
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U12.mp3?versionId=cbCocnYA4ZU_e1y9wCeFgcG3sXMzAv3d",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2254729
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U13.mp3?versionId=jPGult769jBz_kOW9rTTWNi4M_WyfVR7",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2260028
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U14.mp3?versionId=u0L7zEhCNCUGLf9pk1noTQ3hkzMlNg4Y",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2265463
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U15.mp3?versionId=pfkn1VWheTACtlgKftazaEvceo9ReBDt",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2270860
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U16.mp3?versionId=_Vml5XdeAFMCARPHVp_QB7xjDZlamAqA",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2275772
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U17.mp3?versionId=2zuI0kbA4GZJUnBuleH5uoIKJYHiM2th",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2280780
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U18.mp3?versionId=SW.HikkOm.15d_iw5Z6c3VBjYEUrzot2",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2286109
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U19.mp3?versionId=fZ4CaD8jFDqPjdZVH6eIsrk0tNUCZ1Q1",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2290510
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U20.mp3?versionId=joa49nzFNC0J9.fKHsgDLm2eCUSTkEek",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2293290
+    },
+    {
+    "order": 21,
+    "title": "Reading Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Mandarin%20Chinese%20Speakers/English%20for%20Mandarin%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332294_Reading_U21.mp3?versionId=uavhBg5vuIb.xhNd1cUSIqnAeesK3Me_",
+    "startPage": 28,
+    "pageCount": 1,
+    "mediaItemId": 2295964
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442332294",
+    "level": 1,
+    "courseName": "English for Chinese (Mandarin) Speakers Level 1",
+    "simpleCourseName": "English for Chinese (Mandarin) Speakers Level 1",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,583 @@
+[
+    {
+    "courseId": 3721,
+    "languageName": "ESL Italian",
+    "languageId": 138,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_01.mp3?versionId=FdmH4mUYBlDGgufmHUJ54I0oX0mXLvNE",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2322709,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_02.mp3?versionId=UdEZfgI0ZYsNqKeurhjgn8EMqhfmK7Jq",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2322720,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_03.mp3?versionId=awW4kHPJt5UZawvyBshZWQwUZsOw.Q7k",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2322735,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_04.mp3?versionId=.MlcPxzJqtJN_CzTZbOxkZdIHFRVQ.jQ",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2322745,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_05.mp3?versionId=YzAot0m7NVWKq7CrU8X.RebvnnntpVYO",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2322760,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_06.mp3?versionId=PNObZcD1ULvlG9hZUuDWgKWppBOVkkg.",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2322771,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_07.mp3?versionId=fnJkowOppKzc1JK0uAfJE..H6dlK6L76",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2322786,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_08.mp3?versionId=PfDr0cI.ZuRleacGWMlElq_fTmZ..p0T",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2322808,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_09.mp3?versionId=VcddRxMu3ZLIrjtS2kWAUXx01Z0_VfD.",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2322819,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_10.mp3?versionId=YuRc.3BMaCNpFmQIjxBdM8wA5N4HAKOe",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2322832,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_11.mp3?versionId=cer7cb3Ndul6rDgF_ptMXPCv0ZT.cVMZ",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2322842,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_12.mp3?versionId=bkX10qM2A_lCHWeK9ADbdked9xiKKfY3",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2322853,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_13.mp3?versionId=Zd3EMwncYFYo553v2xXRvzJCSywBQmLG",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2322863,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_14.mp3?versionId=QC4fd23yMEKJWwQ_jt4erBo_SFhiFkHQ",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2322874,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_15.mp3?versionId=f.cQF8jawJRShPDXnYbgXujXmg5VdGXe",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2322883,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_16.mp3?versionId=RisMBdnlcQZxwOZL86xcVyRURlhig2gM",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2322894,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_17.mp3?versionId=IxYogMweSU0hTlb0wid4gMspJgcwPplZ",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2322909,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_18.mp3?versionId=IsSMXFFiu0NMDL8VBx.rWt1b5lmRMbvD",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2322919,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_19.mp3?versionId=PVvaGWm60Q.Tzt1TtZqyiPRIc3sPIlNU",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2322928,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_20.mp3?versionId=IjDAuzgpbpl30TkDMopaFbuD.m.4mcQj",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2322941,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_21.mp3?versionId=zyTc8gZm.4m3LqXPX32SiHAnL1v4Af43",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2322964,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_22.mp3?versionId=lSYDIUVXhtdr5idUeeIwj.e5XdmBpwnL",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2322974,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_23.mp3?versionId=aMyq8ASaCte8wgmy2o1MLEzzxTO9_4x3",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2322989,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_24.mp3?versionId=J_.c8CSFSpcvalxcRvJTnfQDmDP6JWXy",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2322996,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_25.mp3?versionId=EZ3mxrzo_bHw_KjVDOU78gdBQDb2s0qS",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2323003,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_26.mp3?versionId=9pZyxF82JNtkDm6kl7c0qOXI2PhyFXFz",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2323012,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_27.mp3?versionId=ASnmxhraVDbznnfG07NqA6FUdfuf5DFa",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2323022,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_28.mp3?versionId=4aeqeg1bssXsbEYvn5MZM9i.aOuaWl34",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2323028,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_29.mp3?versionId=HBEHadIjqXku3Ye1XInTV0W_rSbEYcrW",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2323034,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/language_image.jpg?versionId=gaxv_3NBq9V8B4kBimADUJkFyLq_tQwy",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/main_audio/9781442326828_Unit_30.mp3?versionId=qOa1Euqnp.3IYKVtbsDvANAgv7p6HHqz",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2323040,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_ESL_Italian_2_Bklt.pdf?versionId=0YAszl1ntL6eF7lgRCxzoq62i2OVJdeA",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U10.mp3?versionId=TRSy4T4wRxy1XF1QNYJs5qcgsT5knrK1",
+    "startPage": 7,
+    "pageCount": 1,
+    "mediaItemId": 2224320
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U11.mp3?versionId=_8v0DaBJnbj7bUnCq7lLhX.VqvSTLJF4",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2224627
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U12.mp3?versionId=LPjUlAIB77A3W3t7OhXP5P_u6rhZCyEW",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2225072
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U13.mp3?versionId=.jjKqyPEf0wZpSvQoln1sxMKmLZjfQHy",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2228443
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U14.mp3?versionId=gcevmpsHOu_59hyJ1URt.b1CwDYmPYVQ",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2234111
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U15.mp3?versionId=lskMxpeEJ7npyZ1e6P1FFvxgfh0MlxXH",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2239738
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U16.mp3?versionId=K9.PAmQRHaqchikwt4TAmNESVRarhbu6",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2244836
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U17.mp3?versionId=vyOCQqSp1xFesOwzcR7YbO8tASuqP6gh",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2250029
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U18.mp3?versionId=zOwp1TZuA80EjjZKCxwz9ToBa86kFf7R",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2254693
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U19.mp3?versionId=dwHaCk_FuA2Eu_NbhXqNfO9XurmXez8_",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2259882
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U20.mp3?versionId=A0BDOzPW16EGt1JH939p64Q5f96oyKap",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2265167
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U21.mp3?versionId=EWhi6CPj7FbyTHqPoEoi8OYxDkwBPu3Z",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2270404
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U22.mp3?versionId=R0vahdYrr5jKdpPBCcNYnLYY1VZv80v2",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2275363
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U23.mp3?versionId=9G8u.PJvRxL70t96oxUsEVhitU6SWYLa",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2280573
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U24.mp3?versionId=nu.n4CEr7frrL2HHserGikrMSh.bmjmi",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2285842
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U25.mp3?versionId=G5XMzCAx3Xnd2d3eGXAR_DVodGAmfboa",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2290303
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U26.mp3?versionId=R3Ou_ATqusbM3Py3Ymn_BR27.SJ1KZuE",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2293189
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U27.mp3?versionId=9MTNahtvJk0LKqtkwysDBHd0gWhP7kdD",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2295865
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U28.mp3?versionId=JvW.Ul5eowYKEOtxrAAc9uKvEJssXwBG",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2298466
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U29.mp3?versionId=iMt3VAn99Dr_upCFvfRWMejrcYpqLJMo",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2300227
+    },
+    {
+    "order": 21,
+    "title": "Reading Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Italian%20Speakers/English%20for%20Italian%20Speakers%20Level%202%20orig/asset/standard_reading/9781442326828_Reading_U30.mp3?versionId=Hbv4ykaXM7HzqyzSz6EnipHwhlh1KQlG",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2300799
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442326828",
+    "level": 2,
+    "courseName": "English for Italian Speakers Level 2",
+    "simpleCourseName": "English for Italian Speakers Level 2",
+    "puArabic": false
+    }
+    ]

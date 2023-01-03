@@ -1,0 +1,659 @@
+[
+    {
+    "courseId": 5042,
+    "languageName": "Polish",
+    "languageId": 161,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_01.jpg?versionId=ktQY0SJdKO4eSgJn0Z3jnZKPpHgR2WUt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_01.jpg?versionId=KZLRgnvXsDRYLYEaS459TZFe5_vlMA6s",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_01.mp3?versionId=1bLZX5agU4BCbmYIxD8UCrYrM2GtPOHu",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323371,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Part of the West Slavic branch of the Slavic languages, Polish has been influenced by German, Latin, and other languages due to Poland's central location in Europe. Over 85% of Poles identify as Roman Catholic and Catholicism is a great part of Poland's cultural identity.",
+    "imageCredits": "moodboard / moodboard / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_02.jpg?versionId=CFf5xDpgCNL41pZvRYyIQXfnuGz3RK6A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_02.jpg?versionId=y6wmVhnTiLBxIRMpPHhkUNV5fWtEQhKc",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_02.mp3?versionId=uwdw4AkojdBWqIdXrqqKkfotk8DPiLie",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323382,
+    "cultureContent": {
+    "imageLocation": "Gdańsk",
+    "imageDescription": "Nestled into a bay on Poland's Baltic coast, the city of Gdańsk is Poland's most important port city. The city's complex history, including Prussian and German rule, has left its mark on the styles of architecture, which includes structures from the 14th and 15th centuries.",
+    "imageCredits": "maodesign / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_03.jpg?versionId=OaQwtgkJZqw6Sxzmv7j9P0emySWvR3q2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_03.jpg?versionId=FyGSTRf9dhTB6h1HzisjZK3xFCIREj.D",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_03.mp3?versionId=ScLwHX3jYaj1H2yITcZOIb9IC0.JC81F",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323390,
+    "cultureContent": {
+    "imageLocation": "Kraków",
+    "imageDescription": "Constructed in the 14th century, Saint Mary's Basilica in Kraków is one of the world's finest examples of Polish Gothic architecture. The hejnał mariacki trumpet call rings out from the basilica's highest tower marking every hour of the day, abruptly breaking off before its end to honor an unlucky 13th-century trumpeter whose warning alarm was cut short by a Mongol's bullet during an attack.",
+    "imageCredits": "joe daniel price / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_04.jpg?versionId=YralHEeqNnuD0hzr4Tb7t7X0JTsgjQeU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_04.jpg?versionId=jc4KcWIo3dkYTYE1yu4bzRjOlAqWuEPF",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_04.mp3?versionId=v6whD3zP_fPRRnn1UoS0DlJrFCPbyRKo",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323400,
+    "cultureContent": {
+    "imageLocation": "Wrocław",
+    "imageDescription": "Home to one of the largest markets in Europe, the Market Square in Wroclaw has been in continuous use since it was founded in the early 13th century. A luminous Christmas market is held there each year featuring cheerful lights and decorations to celebrate the winter holiday season.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_05.jpg?versionId=SyTW48AeAcVwjfH9w19nL5urcjsBTU9y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_05.jpg?versionId=fazXQhyELzUhaiLTiYU9B.YpG38yq3_U",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_05.mp3?versionId=nRICoShkwe08OIqO.vv95xK1VzQIH_BB",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323409,
+    "cultureContent": {
+    "imageLocation": "Brzezinka",
+    "imageDescription": "Poland paid a heavy price during WWII. Following the Nazi invasion of Poland in 1939, and the subsequent Soviet invasion several weeks later, hundreds of thousands of Poles were deported or executed. The Nazis built six extermination camps throughout occupied Poland, including Auschwitz-Birkenau, which was liberated in January of 1945.",
+    "imageCredits": "
+    Scott Barbour / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_06.jpg?versionId=WGRQMMmxNLmeWxC8f0NBZJoGbEqTw.ZR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_06.jpg?versionId=q7l6WxHGAU1jcujWAmpSjDAQFO8t5Zet",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_06.mp3?versionId=2uZ3bbi.O.icnK16bqgU02cJoATLJMPL",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323418,
+    "cultureContent": {
+    "imageLocation": "Wieliczka",
+    "imageDescription": "In use from the Neolithic period until 1996, the Wieliczka Salt Mine in southern Poland is a UNESCO World Heritage Site and a Polish Historic Monument. Reaching 1,000 feet in depth, the mine features several chapels, a reception room, a horse treadmill, salt statues, and an underground lake.",
+    "imageCredits": "
+    EunikaSopotnicka / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_07.jpg?versionId=N4qfD6ERiBEu2Ds5w6VcqSEJx_OQH7an",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_07.jpg?versionId=KgMiCxY3kE0x.0fXM2I9iDO4RCNlXSnq",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_07.mp3?versionId=1k8f2Xo9jKZ4iJkWIcWuoXTPjr22rzWE",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323426,
+    "cultureContent": {
+    "imageLocation": "Dresden, Germany",
+    "imageDescription": "King of Poland and Elector of Saxony until his death in 1733, Augustus II gained his title of Augustus the Strong through his tremendous physical strength, as well as his impressively large number of illegitimate children. A devoted patron of the arts, Augustus was beloved by the city of Dresden for transforming the city with grand palaces and major urban development prior to the Kingdom of Saxony's absorption into the German Empire.",
+    "imageCredits": "
+    ROBERT MICHAEL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_08.jpg?versionId=tUxPnm7Bvps6cNesy_jxyQze83I1TYMk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_08.jpg?versionId=.tg9igdnAoEimlfgWv..B_eBLB.gLMd.",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_08.mp3?versionId=wzB5jXckdR0glUyswyq7M24rG8gSgDoF",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323434,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "In 1955, the Polish government made a decision to \"neonize\" Warsaw, intending to establish a European appeal to the city. This sparked a neon renaissance of sorts, in which artists created signs that blended harmoniously with the city's architecture. One of the only neon sign museums in the world, the Muzeum Neonów in Warsaw boasts a collection of hundreds of these fully restored Cold-War-era neon signs.",
+    "imageCredits": "
+    picture alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_09.jpg?versionId=aIHUxzM4IYFPxg5_Dv3N73LFa3vjzdOh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_09.jpg?versionId=7qqLaVfVdYed8rvRgTlV61kCLb07CGdq",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_09.mp3?versionId=_VmgbchXKvLFOTsrl6mdkNSImcG5e8Nm",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323444,
+    "cultureContent": {
+    "imageLocation": "Gdańsk",
+    "imageDescription": "Dating back to 1260, Saint Dominic's Fair is held annually in Gdańsk to commemorate the feast day of Saint Dominic, patron saint of astronomers. The enormous open-air fair has long been one of Europe's most important cultural and trade events and features a carnival as well as stalls filled with handicrafts and antiques, outdoor stages with performances, and street parades.",
+    "imageCredits": "
+    Pawel Wewiorski / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_10.jpg?versionId=pbcfYxwSEwrGPQC7GWMqBpQ9ZqMmGvjp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_10.jpg?versionId=LOA5TlOHVKFEwrl9c2eRk6ni1moIvTbv",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_10.mp3?versionId=up4zzhVd_Utz5rLJLiI0VPCZxrMQgMDS",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323458,
+    "cultureContent": {
+    "imageLocation": "Gdańsk",
+    "imageDescription": "Originating in Gdańsk's Old Town at the Upland Gate, known in Polish as Brama Wyżynna, a route known as The Royal Way was the official parade route used by the medieval kings of Poland whenever they visited the city. The route progresses east through the city to the Złota Brama, or Golden Gate, down the Ulica Długa, or Long Street, past the Długi Targ, or Long Market, and ends at Zielona Brama, the Green Gate, by the water.",
+    "imageCredits": "
+    Fodor90 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_11.jpg?versionId=h3ow2CkyryrMNbTCtDsVVfiXjmX4NqOp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_11.jpg?versionId=H.l5oFvGD8oKbtvGKhaPMW7n4kD_Yx5b",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_11.mp3?versionId=LSrya6Q0XAB1EcXl2XTAj1kjpmB3FM6l",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323467,
+    "cultureContent": {
+    "imageLocation": "Szymbark",
+    "imageDescription": "Built in 2007 as a tourist attraction with an anti-communist statement, the Upside Down House in Szymbark, Poland is open to visitors and features 1970s décor including a vintage television showing communist propaganda from the bygone era. Visitors must enter the home through an attic window and wander through the house by walking on the ceiling.",
+    "imageCredits": "
+    Eliane29 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_12.jpg?versionId=ZKA5Bd8YzU9Dl0QsgnUBwSI9K1.YwpIk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_12.jpg?versionId=yIRZlPchiwnX4he.0.brdrPoTal_bXUP",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_12.mp3?versionId=6FmdQcXfBkvwHp6ziDYZBvGubfBNMKAn",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323475,
+    "cultureContent": {
+    "imageLocation": "Malbork",
+    "imageDescription": "Named Marienburg by the Order of the Teutonic Knights to honor the Virgin Mary, Malbork Castle in northern Poland was built by the order in the 13th century to bolster their stronghold in the region. Perched in a strategic position above the Nogat River, the castle became an important center of the amber trade, and served as one of the royal residencies of the Polish kings.",
+    "imageCredits": "
+    Construction Photography / Avalon / Hulton Archive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_13.jpg?versionId=2wpv6tBYoB6mJUJ1Km56WOr8CRcjkJG6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_13.jpg?versionId=30DjeRzcL1dLkJchu9iPi6o28E6v3fxa",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_13.mp3?versionId=QBm8sawIeN9nCeCQ6qJ412Th9fs859SN",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323483,
+    "cultureContent": {
+    "imageLocation": "Kraków",
+    "imageDescription": "Settled since the Stone Age, Kraków is the second-largest city in Poland and one of Europe's oldest cities. Kraków's treasured Old Town attracts countless tourists each year with its charming blend of medieval, Renaissance and baroque-era architecture, its Market Square, and its festive horse-drawn carriages.",
+    "imageCredits": "
+    dmf87 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_14.jpg?versionId=MAEBPD0PK4RxfPBJl4_1H5XpStZExPAa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_14.jpg?versionId=L7dQq3AnWIuXerbPH9QP1BcX1dffqvMy",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_14.mp3?versionId=PFN2aXsL9sI2r62Huk1RMzfGCWZCwNm6",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323490,
+    "cultureContent": {
+    "imageLocation": "Sopot",
+    "imageDescription": "The seaside resort town of Sopot can be found on the Baltic Sea between Gdańsk and Gdynia in northern Poland. Its attractions include the longest wooden pier in Europe, the Sopot baths, and the Krzywy Domek, or \"crooked house,\" modeled after a fairy tale.",
+    "imageCredits": "
+    RobsonPL / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_15.jpg?versionId=e0_yu5Q9FS6SH1z51YHnBxBAUqY4FjY6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_15.jpg?versionId=20wHgR1A4DjtGATx3qdgGXLD0B5isuC9",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_15.mp3?versionId=bbSbB23xjVvQuKcvvCfvT1toTt5hGMjz",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323497,
+    "cultureContent": {
+    "imageLocation": "Częstochowa",
+    "imageDescription": "Born Karol Józef Wojtyła in Wadowice, Poland in 1920, Pope John Paul II was head of the Roman Catholic Church from 1978 until his death in 2005. In his memory, the southern Polish city of Częstochowa commissioned the world's tallest pope statue, which towers over the city at 45 feet high.",
+    "imageCredits": "
+    JANEK SKARZYNSKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_16.jpg?versionId=.8mgI2LIzLLt5KC739OFYXkMe0JznOND",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_16.jpg?versionId=xJREOReVVVad3_ChkUlcTdEyh9CQMay0",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_16.mp3?versionId=XvVISsf7FDI9L4a_QMXzqvhegw5ktfyd",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323506,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "Founded in 1816, the library at the University of Warsaw was a center of anti-communist activity during the 1980s. Its vast rooftop botanical garden, one of the largest roof gardens in Europe, is home to many endangered native Polish plant species and rare ornamental trees.",
+    "imageCredits": "
+    Siegfried Layda / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_17.jpg?versionId=L3POzKLHlX1H.xb3Em7KeG6x7ya7kvvP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_17.jpg?versionId=NUSaQpqhYxX6qUECUM.gOifSKXxvIWpb",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_17.mp3?versionId=SQ7v3JuicdNQO3hh6i3aEJycLpj77AEz",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323512,
+    "cultureContent": {
+    "imageLocation": "Poznań",
+    "imageDescription": "Sculptor and fiber artist Magdalena Abakanowicz was one of Poland's most well-known artists. Her installation entitled Nierozpoznani, or Unrecognized, located at the Citadel Park in Pozań, features 112 headless, armless, iron figures, each striding toward a different destination.",
+    "imageCredits": "
+    NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_18.jpg?versionId=Bs.gyQ2j0P6.160KldIrlc4eHSsE0rHn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_18.jpg?versionId=7dGx3.foiM40Sp2.Cq80XB08_09QFPVX",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_18.mp3?versionId=gC3na51c.HXssW1ED.7Yj0baz8JrxjLN",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323517,
+    "cultureContent": {
+    "imageLocation": "Gdańsk Pomerania",
+    "imageDescription": "One of Poland's 23 national parks, Bory Tucholskie is located within the Tuchola Forest, the country's largest woodland. A haven for 144 species of birds, the park boasts more than 20 freshwater lakes, and features trails for bicycling, kayaking, and walking.",
+    "imageCredits": "
+    Shaiith / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_19.jpg?versionId=hsBvqX97WW_cHkeBG4VQorDssVFm7OTK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_19.jpg?versionId=8fdpHWOwqv7zLjkvRc4CbSpBL_gCtAQ3",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_19.mp3?versionId=xIt1JdsBc72L16UfMDWOst.dkm345kL.",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323522,
+    "cultureContent": {
+    "imageLocation": "Tatra Mountains",
+    "imageDescription": "Forming a natural border between Poland and Slovakia, the Tatra Mountains have long been used as the summer herding grounds for goats, sheep, and cows. With its rugged peaks, extensive cave system, and hundreds of miles of hiking trails, this region has become a popular spot for tourism.",
+    "imageCredits": "
+    ewg3D / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_20.jpg?versionId=1DcA6M9xcaftjLO7pMyFuOdvsiqzZvXM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_20.jpg?versionId=gy.95yrogo_eD55o95JbMpCBPKIx6I2D",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_20.mp3?versionId=L2RVW35PBuBw1SImLUNPkV1xVt95ODPJ",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323528,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "Plagued by construction delays and a failed contract with the architect, Museum of Modern Art Warsaw finally opened its new exhibition space, called Museum on the Vistula, in the spring of 2017. Its modern façade features bold and colorful drawings by Polish artist Sławomir Pawszak.",
+    "imageCredits": "
+    Gwengoat / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_21.jpg?versionId=DoFytoQIef91d5NctU_xek8tqv8BcG3l",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_21.jpg?versionId=X_FheDUBIoiBpGQ.dlQaxyUh3CzmQvd2",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_21.mp3?versionId=OjrH6.pYymAMSQlMRtz0XTQVPXHP16nv",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323537,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "Warsaw, the Polish capital city, was founded in the 13th century, and has grown to become a city of three million people. The city is home to more than sixty museums and art galleries, as well as world famous opera houses and theaters. The Wilanów Palace, built for the 17th century king John III Sobieski, is part of the National Museum.",
+    "imageCredits": "
+    tupungato / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_22.jpg?versionId=LfKiJUaRHBB3vIth5ytNorkylfw0rTj8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_22.jpg?versionId=p6K.LkncHDElmKtnyMV53NkJ72H8wr_G",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_22.mp3?versionId=obnhjRy4JW25n4wzGVjm_TlTSx11tygj",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323549,
+    "cultureContent": {
+    "imageLocation": "Poland",
+    "imageDescription": "Over the last decade, Poland has become a popular European skiing destination thanks to the accessibility and affordability of its small-scale resorts. Most of the country's skiing is done in the Tatra Mountains in southern Poland, not far from Kraków.",
+    "imageCredits": "
+    Imgorthand / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_23.jpg?versionId=Oh5U2QwULtpoCm5jUz0qifs9qVlYbiYI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_23.jpg?versionId=SD1hiYGPBPh_h0QruD9krFnVZClyRF8k",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_23.mp3?versionId=YcgNuDUT1hMvm4DCAvOPxeBeoCfGVtwU",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323555,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "Measuring at just three feet at its slimmest point and five at its widest, Keret House in Warsaw is known as the world's narrowest house. Classified as an art installation to skirt Warsaw's building codes, Keret House was named for its first resident, Israeli filmmaker Etgar Keret.",
+    "imageCredits": "
+    Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_24.jpg?versionId=hK11zW2TfYdGxZ6SlZJxEtXGzrjVONAe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_24.jpg?versionId=1Oio0ImsaITeAnRJLfchzu0VGf0FhMt2",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_24.mp3?versionId=7Q6.MpWzaey69GQ1EoqywaAGLcP65MBt",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323561,
+    "cultureContent": {
+    "imageLocation": "Poland",
+    "imageDescription": "Though it might not be the first place that springs to mind when contemplating a beach vacation, Poland has 478 miles of Baltic sea coastline, much of which is covered in soft white sand dunes and long beaches, perfect for sunbathing, kite surfing, or swimming.",
+    "imageCredits": "
+    LUKASZ-NOWAK1 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_25.jpg?versionId=AU2qAuKYqPC13uLQjha64SrE7WRyua7b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_25.jpg?versionId=8j20B3J2Kzwhqz4ZIMvZhSX72Fb.uF.W",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_25.mp3?versionId=NiAiC.if4.wPGVFX12WNOV30aPtPOfN7",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323571,
+    "cultureContent": {
+    "imageLocation": "Kraków",
+    "imageDescription": "Pierogis, a type of dumpling, have been loved in Poland since the 13th century. An annual pierogi festival is held in the city of Kraków on the feast day of Polish Dominican priest and missionary Saint Hyacinth. The Polish saying, \"Święty Jacku z pierogami!\" or, \"St. Hyacinth and his pierogis!\" is used to call for aid in a hopeless situation.",
+    "imageCredits": "
+    NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_26.jpg?versionId=MenhewIeHEwRZB9ioMHG0dDXdivSUIrT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_26.jpg?versionId=UMwsm89ya5D8kOwQa_GI1a4feERmOQJH",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_26.mp3?versionId=OBB5GnN.bB5QQ_Q1xYaFXQGo5mAcYWry",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323575,
+    "cultureContent": {
+    "imageLocation": "Poland",
+    "imageDescription": "Held regularly since 1928, the Tour de Pologne bike race averages 750 miles over five to eight stages through Poland. During the 77th running of the tour a terrible crash occurred during the first stage after the sprint to the finish line, injuring several riders as well as a race official.",
+    "imageCredits": "
+    Luc Claessen / Velo / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_27.jpg?versionId=EgYil6LNCOy7AfGrLONl71_JusKoJfYa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_27.jpg?versionId=RqBUXk8At.lujxmQq.O9AlBja3eWYPrR",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_27.mp3?versionId=qrVJwTA0EuhfrR6r_8HJQEP6n7GlgUAa",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323580,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Established in 1921, the Poland national football team has contested the FIFA World Cup eight times. Though they've only ever won bronze medals at the World Cup, they took home a gold medal at the 1972 Olympics in Munich, and silver medals at the Olympic Games in 1976 and 1992.",
+    "imageCredits": "PressFocus / MB Media / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_28.jpg?versionId=qWfFDgUr_DEJ2KrCh_XUJruhx.w9L29N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_28.jpg?versionId=2QVkIY1.93sUYfpCCzesWtCDWnYgg644",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_28.mp3?versionId=_esD..WLO1B.MKYdsg_RsJq6jNePM6lu",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323585,
+    "cultureContent": {
+    "imageLocation": "West Pomerania",
+    "imageDescription": "Known as Krzywy Las in Polish, the Crooked Forest is a grove of 400 strangely bent pine trees in West Pomerania. Theories vary on what caused the trees to grow so peculiarly. Some speculate that they were purposefully cultivated this way for use in boat building, while others suggest that a natural phenomenon is to blame.",
+    "imageCredits": "MBPROJEKT_Maciej_Bledowski / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_29.jpg?versionId=K_LWyCxnbtxbF9T5_atvIjMw8OsRAOI8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_29.jpg?versionId=KqJ4En14FlpNaqaZJfVOsMsWsqVIrD0P",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_29.mp3?versionId=9QfUtwiwP8ZhL9gTProMA5fgQG40Rhb0",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323591,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Each region of Poland has its own folk dance style, from the Kaszuby style of the northern region to the Beskid Podhalański in the south, which showcases the culture of the Polish highlanders known as the Gorals. Joyful and fast-paced, Polish folk dances tend to be lively and athletic, with dancers dressed in the traditional costumes of their region swirling about in pairs or in a circle. Famous Polish dances include the mazurka and the polonaise.",
+    "imageCredits": "
+    picture alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/full/Polish_1_9781797140797_M_30.jpg?versionId=T_xKaeUhGVnN20528kjo6fThjiOKBE1A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/lesson_photo/thumb/Polish_1_9781797140797_M_30.jpg?versionId=JZ6_z8PvSlXcvH8wDeUCE3eYV9DW8mBY",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/main_audio/9781442322707_Unit_30.mp3?versionId=0Lvxp6KhAhPR8_MrjUvym5cOJto0eVmS",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323598,
+    "cultureContent": {
+    "imageLocation": "Warsaw",
+    "imageDescription": "Evolving in stages since the Middle Ages, the Royal Castle in Warsaw was destroyed by the Luftwaffe during WWII. Reconstructed in the 70s and 80s, the castle features a long brick façade with a tall clock tower, a beloved symbol of the city. The castle museum is home to countless works of art, much of which was donated during the reconstruction.",
+    "imageCredits": "
+    MikeMareen / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish Level 1 orig/asset/RL/Polish_1_9781797140797_Alpha.pdf?versionId=dC5w_tsn.TIJBWvWrz_UB19YwPZ4sazT",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish Level 1 orig/asset/RL/Polish_1_9781797140797_Intro.pdf?versionId=Rm41griwpktLD8r_bIzfCV9YzrLGBbm.",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading01.mp3?versionId=.KdOsudKLJn4ioMIe_uO9laG60CmrGc7",
+    "mediaItemId": 2340179
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading02.mp3?versionId=G_rlw_p_e_Ux17yN_klByZ8U12ls9lM1",
+    "mediaItemId": 2340180
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading03.mp3?versionId=30QgczH5zvBM5EK46.8v_tcbHYl4QCrO",
+    "mediaItemId": 2340181
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading04.mp3?versionId=I1FNn6.6IpFT3ugmkAwf49Co3HyEEM_N",
+    "mediaItemId": 2340182
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading05.mp3?versionId=NZHYpLihfuA2fc2Q1eubnfoDpjwFMPnN",
+    "mediaItemId": 2340183
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading06.mp3?versionId=ZGhyammlrY_oZSmDRteyj4Y2uZs2q8ux",
+    "mediaItemId": 2340184
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading07.mp3?versionId=Jn3QBc3j.t449sfm3.yeM2X2dU5gKpNH",
+    "mediaItemId": 2340185
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading08.mp3?versionId=E2AiEYqvIjgLOYHdNww0KKKDnbg3Y0MB",
+    "mediaItemId": 2340186
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading09.mp3?versionId=W2qyLKbzW1z1nG10gCCMxvZDLK7tqg1s",
+    "mediaItemId": 2340187
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading10.mp3?versionId=7auNn3BSLwtV8v2tIsBta_eYjqRFIzwn",
+    "mediaItemId": 2340188
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading11.mp3?versionId=JC9CoZSZ6jpx5sGDlPnv.tP8dXgvRgeU",
+    "mediaItemId": 2340189
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading12.mp3?versionId=qXhNlY2N_goNNl28jrQJcW6kursws2Cj",
+    "mediaItemId": 2340190
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading13.mp3?versionId=RjCDQolJPBa_U4Mjehim9CZl3v2Sxp6i",
+    "mediaItemId": 2340191
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading14.mp3?versionId=9t2UGwe7x8I_O0m.DnTN5NqdOiE0HLfJ",
+    "mediaItemId": 2340192
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading15.mp3?versionId=aO68G_CqS9hyKDay5bXqDmrazLHzYEb2",
+    "mediaItemId": 2340193
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading16.mp3?versionId=eSalIbS2lRiDNy9doLyOWVhbvBNgco8Y",
+    "mediaItemId": 2340194
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading17.mp3?versionId=dd12Ie.DnrqmphbB_uY65zYCIPlhutI1",
+    "mediaItemId": 2340195
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading18.mp3?versionId=D.TLiB_5H_utURBslHrgqqqH3K0.mwJ0",
+    "mediaItemId": 2340196
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading19.mp3?versionId=QQ_NYPyRMlx8mXEtranpcv9r0o93GfTg",
+    "mediaItemId": 2340197
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Polish/Polish%20Level%201%20orig/asset/RL/Polish_1_9781442322707_Reading20.mp3?versionId=IGeRDagZP3jVXkOBtFq8o5uLMxAsaYCh",
+    "mediaItemId": 2340198
+    }
+    ]
+    },
+    "languageCode": "pl-PL",
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797140797",
+    "level": 1,
+    "courseName": "Polish Level 1 Premium",
+    "simpleCourseName": "Polish Level 1",
+    "puArabic": false
+    }
+    ]

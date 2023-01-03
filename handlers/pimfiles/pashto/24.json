@@ -1,0 +1,639 @@
+[
+    {
+    "courseId": 3416,
+    "languageName": "Dutch",
+    "languageId": 129,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_01.jpg?versionId=ubqnA1A3YFaDMZRz3DfdWye.U70LPduW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_01.jpg?versionId=mcTeEW.nh3q7nkpaco6JKWTk4NZRvH23",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_01.mp3?versionId=tkJHcqMjogxkgDXGi2EDiSy5XUCf4LvS",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322536,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Dutch is the only official language of the Netherlands. However, an estimated 90% of the population also speaks English which is taught in schools starting at about ten years of age. Several dialects of Frisian are also spoken by the 450,000 or so residents of Friesland, a province in the north of the Netherlands.",
+    "imageCredits": "
+    Morsa Images / DigitalVision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_02.jpg?versionId=CASFcKnlSBHmOIOLvTEZZ5Mkf6zyqQtH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_02.jpg?versionId=v6Dh69CVRfgE8iNhNWhyaZ8lG5ekvsMe",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_02.mp3?versionId=QfQ71nfaFr0qj.4lwdUk3x6pupADuVMQ",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322544,
+    "cultureContent": {
+    "imageLocation": "
+    Amsterdam",
+    "imageDescription": "The Rijksmuseum showcases 800 years of Dutch history through art and culture, and boasts over one million objects in its collection, of which around 8,000 are on display at any given time. It also has a road running right through the middle of it. Until the 1930s it was a major thoroughfare in the city, but today the underpass is only open to cyclist and pedestrian traffic, and is a much-loved local landmark.",
+    "imageCredits": "Merten Snijders / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_03.jpg?versionId=z13ieskt0WtYiIBmVTQv0h.6xKpIIqlo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_03.jpg?versionId=I0.tLfQClceSzoINWIi2wRCN0DO6fp2R",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_03.mp3?versionId=i99NPy.4DbwAK_d_4mSJtDYaxNy9Va04",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322548,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Did you know that tulips are edible? The bulb can be ground into flour, and the flower and stem have a mild onion flavor. At one point, tulips were the Netherlands' fourth biggest export behind cheese, gin and herring. Today the Netherlands exports nearly two billion bulbs each year.",
+    "imageCredits": "
+    FrankvandenBergh / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_04.jpg?versionId=Vb1FG2amq3bUpHBcUflHfwUUzma9omwz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_04.jpg?versionId=WryaqmtvEqH88Xn8vYsqD2V6frov.Zx1",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_04.mp3?versionId=aNRSvhRQSoR_Kyw.bCA3_lCvLfAG3TuX",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322553,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "Python Brug is a pedestrian bridge located in the heart of Amsterdam, well known for its serpentine shape and vibrant hue. Locally, it's known as Hoge Brug, or High Bridge. Just nearby is Lage Brug which features the same bright red coloring, but with a lower elevation, ideal for cyclists.",
+    "imageCredits": "joe daniel price / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_05.jpg?versionId=6jCwOGTNZk9JTW9dP4R8ZLANBqna1LpA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_05.jpg?versionId=bbJoxH9n1ymiisweZ4eFSx8bhjdfz_vS",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_05.mp3?versionId=Y9RAFwD82kKCzNZwzFAlbz3Qz9wRdtaL",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322558,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "There are more than 880,000 bicycles in Amsterdam, and it's one of the most bike-friendly cities in the world. Most citizens use it as their primary form of transportation, as only one in every four people owns a car. The city has a goal of removing all gas and diesel-powered vehicles from its streets by 2030, and ultimately of becoming a car-free city.",
+    "imageCredits": "
+    kadmy / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_06.jpg?versionId=ReJn.QZWdaNm9dTdmS76A2Lu2Y3aOqas",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_06.jpg?versionId=2OwyJDEexWQykviESQhOUwotsg5I4VXP",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_06.mp3?versionId=KWgcHnNAa0c8o19Ckz9HclgQV1IjUpfn",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322563,
+    "cultureContent": {
+    "imageLocation": "Biddinghuizen",
+    "imageDescription": "Lowlands is a high-energy experimental music and camping festival that offers its guests a unique experience. Some of the more commonplace festivities include theater, ballet, comedy, visual arts, and literature showcases. However, Lowlands is known for creating eccentric entertainment; one year the Lowlands team released an app where festival-goers could participate in a simulated zombie apocalypse!",
+    "imageCredits": "Paul Bergen / Redferns / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_07.jpg?versionId=7iZKYWKu3611E_aqg9Il1OS5TFHKti3H",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_07.jpg?versionId=a6_P1GEnrv5jFFwpWX3lcbXtbHnwL0HH",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_07.mp3?versionId=IiLt59ZnjCgc5cIMgggAej2rHpepvQAh",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322568,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Every year in April the Keukenhof Flower Parade, formally called the Bloemencorso Bollenstreek, showcases flower-covered floats along a winding 25-mile route from Nordwijk to Haarlem. The ornate and exquisitely-decorated structures feature dancers and singers from all across the country. This parade takes place at the same time as the Tulip Festival, when billions of colorful Dutch tulips are in full bloom",
+    "imageCredits": "Thierry Hebbelinck / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_08.jpg?versionId=hUyj8MafzrKyp2oScy34QFjSJ9J1aYSG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_08.jpg?versionId=ZBow.yFarN3WKTq7xhsW3jlwB7zFbxZ_",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_08.mp3?versionId=7FJ6QKBxdP9QR1Vsqg4Hnzk2X3VjamGj",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322573,
+    "cultureContent": {
+    "imageLocation": "Texel Island",
+    "imageDescription": "Texel, pronounced Tessel in Dutch, is the biggest of the Frisian islands. With seven local villages and protected nature reserves, it styles itself as a unique getaway from the life of the dense city. A local museum, called Ecomare, teaches visitors everything they need to know about the surrounding sea, marine life, and mysterious dunes.",
+    "imageCredits": "sara_winter / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_09.jpg?versionId=PDtxRMyFfP3c0nJbT2C.VNRKB17ykf7b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_09.jpg?versionId=B2dDzxRJ_6KsjBRL2exzLx4Jn_FpxxSL",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_09.mp3?versionId=FQveyLtlwia6BXkoLFNTbkfmgViP3H.O",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322582,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Did you know that Gouda is pronounced \"how-da?\" First created in the 12th century, this famous cheese is named after the Dutch city of Gouda, where one can find wheels upon orange wheels of the creamy, mild food at farmers' markets.",
+    "imageCredits": "Ufuk Ergun / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_10.jpg?versionId=A1VFsQTPkeilUjAHxyiNVlqExC5_dAq5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_10.jpg?versionId=TX03W_pt78S91M1OInFT.5sNCX4Y7ZEl",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_10.mp3?versionId=QPh3VOB.OZMiPLFFf6sE3InXwTqM3MHo",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322587,
+    "cultureContent": {
+    "imageLocation": "Zaandam",
+    "imageDescription": "Located on the Zaan river, Zaandam was once a large milling center, servicing the local industries. Hotel Inntel Zaandam is an odd-looking, modern structure inspired by the area’s traditional architecture. Standing 11 stories tall with nearly 70 different cottage-like facades and 160 rooms, its design was inspired by the paintings of Claude Monet, who created 25 paintings of the area while living there.",
+    "imageCredits": "Frans Lemmens / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_11.jpg?versionId=w0xCjSkY.yoy74NDGelV70qvB05zIKtB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_11.jpg?versionId=6XAINLmuCLABQ1Z.KwbxIdoF2ycjdKGu",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_11.mp3?versionId=VtlDEOelbgj2Jfqfl2oJxG5yMyWgS9TQ",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322593,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Soccer, or football as it's called in other countries, is the most popular sport in the Netherlands, with over one million citizens playing professionally or recreationally. In international tournaments many of the Netherlands’ teams can be seen wearing their national color: orange. These Dutch teams are lovingly nicknamed the Flying Dutchmen and Clockwork Orange.",
+    "imageCredits": "Ben Radford / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_12.jpg?versionId=TCqJwNfRSOekzSe4s9Sv3abz.F6eU_Wi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_12.jpg?versionId=qWFO9ErE5gKy2HlKfqzPAo7fjNXucuKp",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_12.mp3?versionId=KKZh9PhcP91P98edsyO2TgPeZaLa8gC5",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322601,
+    "cultureContent": {
+    "imageLocation": "Giethoorn",
+    "imageDescription": "“Netherlands” means \"low lands,” relating to the area’s geography. Most of the country is only a bit above sea level; for this reason, miles of canals were made to divert water out of the land and back to the sea. The town of Giethoorn is known for relying solely on waterways in the older parts of town and is referred to as the \"Venice of the Netherlands.\"",
+    "imageCredits": "nikitje / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_13.jpg?versionId=p.LRB9eLuKl99GuUQfxMF9RjJlnIija4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_13.jpg?versionId=e2PSb5utR_GuURP3uiD64qjKEbkj89_w",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_13.mp3?versionId=0Ysoxf.VAlUb81ps5KsljCBSCEXY89._",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322608,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "It's a well-known fact that the Dutch love their cheese, and the Amsterdam Cheese Museum is proof of that. Located just steps away from the Westerstraat Market, this fromagerie showcases every Dutch cheese from across the Netherlands. The museum has its own shop, antique cheese-making instruments, and demonstrations. Admission is free, and so are samples!",
+    "imageCredits": "petekarici / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_14.jpg?versionId=sSPNX8pH_XdGTJ58bnqVGS5RMEnwDcrB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_14.jpg?versionId=YCDPUHzj_vYIns4m9MOesqMH9rtknmH8",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_14.mp3?versionId=XXC9Y222lG4fh00vbRt4nGbofbaV47ZF",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322614,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "Rembrandt was a Dutch Golden Age painter, and is considered one of the most important artists in history. A pioneer in his craft, he is well-known for his dramatic sense of lighting and is one of the first artists to portray commonfolk as heroes. In 2021 the Rijksmuseum embarked on a hi-tech restoration project of The Night Watch, Rembrandt's most famous painting, which allowed visitors up-close viewing of the process.",
+    "imageCredits": "ROBIN VAN LONKHUIJSEN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_15.jpg?versionId=Vcza_6pyPr_0srIcCZIcy_1P0PXS7_AK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_15.jpg?versionId=f_2MiN8WDabicJ6MtmTpDseaPXN3RuEa",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_15.mp3?versionId=KPttpj730Z.lbCxgdTEf3Ikzk6vMFF0R",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322621,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Being established in 1813, the Netherlands has a fairly young monarchy in comparison to other European nations. Today, the royal family has little to no power in terms of ruling the country, but they are still loved by the Dutch. King Willem-Alexander and his wife Queen Maxima can be seen at a variety of national events, with crowds gathering just to catch a glimpse of the couple and their children.",
+    "imageCredits": "Patrick van Katwijk / WireImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_16.jpg?versionId=f8IOPSzV888J8PRnYzsGI.vtviwahAZM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_16.jpg?versionId=Rg1duMvBcYsZJzqsRolwdkWMEG5Yf0MX",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_16.mp3?versionId=0HNAQgzR6as2ioByM9pzqt1p43XLVCYw",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2322630,
+    "cultureContent": {
+    "imageLocation": "Bruges, Belgium",
+    "imageDescription": "Given the rich history and close relations between the two countries, it isn’t surprising to find out that one of Belgium's official languages is Dutch. About 60% of the Belgian population speaks it, with Flanders being the most prominent Dutch-speaking region.",
+    "imageCredits": "TomasSereda / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_17.jpg?versionId=0_2_beJaWLUs0L8KN.m1NTH.SudIEkHH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_17.jpg?versionId=TnFt.eRubzMHMfXYSibWZ48gODFnyujU",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_17.mp3?versionId=y6rfnjHk69RF7GuHdsyi6EK32E1gkXMe",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2322639,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "While windmills are emblematic of the Dutch aesthetic, they were constructed for practical purposes. Made as early as the 12th century, windmills were mainly used to pump water out of the lowlands and back into the rivers beyond the dikes. Most of them are out of commission, but they still stand as UNESCO heritage sites and lovable landmarks.",
+    "imageCredits": "Frans Lemmens / Corbis Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_18.jpg?versionId=saQzrzy3tAmg8pHj_dPB91Fr_sWl6YVU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_18.jpg?versionId=MLtPk1bweKK94pwLyjJsbR6zHyRSd7V3",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_18.mp3?versionId=XlPCsKqq.vzS5Z876zshK5wTiE.l3ufI",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2322657,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Did you know that people live on the Dutch canals? When traveling through the Netherlands you'll see houseboats docked throughout the waterways. They have modern accommodations such as running water, electricity, and plumbing. People need a permit for owning a live-in barge, but visitors can book these water-bound homes for a once-in-a-lifetime lodging experience.",
+    "imageCredits": "AndreyKrav / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_19.jpg?versionId=7lG5w_M6DXk6pgbZVLyJ_TAqNMoqxefV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_19.jpg?versionId=si0uHObu3WeSww93hb4p5GrqI8Dei8Q_",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_19.mp3?versionId=4_71NKXCN1xDKPTMpaVmcZNfM8A37EgZ",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2322666,
+    "cultureContent": {
+    "imageLocation": "Rotterdam",
+    "imageDescription": "A sizeable amount of Rotterdam was destroyed during World War II. In the aftermath the city has built up some very innovative and striking architecture. The Cube Houses are a cluster of eye-catching residential buildings constructed above the main thoroughfare. Though people do actively live in these sculptural homes, one of the 45-degree angled houses is available for small tours.",
+    "imageCredits": "Christian Beirle González / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_20.jpg?versionId=hICaub2FsTxxwIDljJE3AMtVPLxQ_VJU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_20.jpg?versionId=nRW3MPlcjdgbBW1Oz3ba7tSkKSVo86qf",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_20.mp3?versionId=lYAtQlDYasKvc0U_cK7gEa4az.3r2aDb",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2322675,
+    "cultureContent": {
+    "imageLocation": "The Hague",
+    "imageDescription": "Built in 2010 the Stadskantoor Leyweg is an eye-catching eighteen-story high rise in The Hague, the Netherlands' administrative capital. The city is known for also being the home of the International Criminal Court and the Peace Palace, which has splendid gardens and heartfelt memorials surrounding it. The city has a unique charm, possessing seven miles' worth of beaches, interesting shops, and awe-inspiring street art.",
+    "imageCredits": "Rob Kints / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_21.jpg?versionId=JgBu35SiD5WC6_6G1hTa3TLLnoQB69rz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_21.jpg?versionId=0A0EWr9GzxvKZu0Qu.DFnrSAt5j0GX14",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_21.mp3?versionId=qYPbVZbGqylFGtao6P_VLYWdsIqUWkOG",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2322686,
+    "cultureContent": {
+    "imageLocation": "Rotterdam",
+    "imageDescription": "Markthal, or Market Hall in English, is an innovative building located in the heart of Rotterdam. Even if it appears to be an eccentric arch from afar, Markthal holds residential accommodations, office spaces, and a market hall, decorated with a colorful aluminum mural along its ceiling. It even has a supermarket and a 1,200-vehicle parking lot underground!",
+    "imageCredits": "
+    NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_22.jpg?versionId=4qqS9rz23eiJXqsKkFfO9hT8nfl3B2Gl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_22.jpg?versionId=OmjmwWyQ4x2bwqh8KhykkpJNP0EzPRIQ",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_22.mp3?versionId=g41qhlTnP4zbqyqBO0.RN0zzG3OK1XSd",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2322698,
+    "cultureContent": {
+    "imageLocation": "Muiden",
+    "imageDescription": "The Netherlands has seen many stages of Western history, including the Middle Ages and the Holy Roman Empire. Muiderslot, also known as Muiden Castle, is a small, square castle that was built around 1280, but today functions as a museum featuring fully-restored 17th-century rooms, lush gardens and a real, medieval-style moat.",
+    "imageCredits": "SEM VAN DER WAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_23.jpg?versionId=FK8DrntUKLZ8A5mHWkOxu6XA_PkMmm9e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_23.jpg?versionId=i0rXljwsAd9TIzI13hWkzLRZYfYMh51r",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_23.mp3?versionId=GFZxwvvxIoMyyArP90tliOPjBIfHm53_",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2322714,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "Amsterdam beer is internationally adored. The brew being a centerpiece of social life in the Netherlands, it’s no surprise that there are over 600 breweries in the city and it is home to Europe’s largest tavern. After decades of popularity, Heineken created the Heineken Experience at its original brewery in Amsterdam, which offers multiple bars and tours of the original brew room.",
+    "imageCredits": "Alexander Ryumin / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_24.jpg?versionId=PCigcpgkdv02.6lPsn3n1glrvyh7CY4p",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_24.jpg?versionId=iAd8lvAYIxHeKz2uBhCHkFxN5VI6Abun",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_24.mp3?versionId=Vok9.wc5OlzUiVeeHrT72aQ3VFhXFIRU",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2322729,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "The NEMO Science Museum is a unique museum with interactive experiences for all ages that attracts more than half a million visitors each year. Within this striking copper-green building are five floors where you can watch contemporary science explained in an exciting, visual way, such as a real-time chain reaction of giant dominoes, a flying car and the concept of DNA.",
+    "imageCredits": "Cultura RM Exclusive/Lost Horizon Images / Publisher Mix / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_25.jpg?versionId=3QRur.ssJmQE7iAjtZS4KWTavsFAlWJT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_25.jpg?versionId=bNaL0lVbmJ1X9gF43PJ4zlwUXnZwa33U",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_25.mp3?versionId=7kWvTqbIPRSoXUcwUGmMwZ3w.bvDL7Pf",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2322740,
+    "cultureContent": {
+    "imageLocation": "Leiden",
+    "imageDescription": "While being a curious oddity from afar, the CORPUS museum is the world’s first interactive human body exhibit. Here, visitors take an hour-long tour inside the body of a larger-than-life man. Watch the digestion of a cheese sandwich, take a walk through an ear canal, and end your trip with interactive activities and a snack.",
+    "imageCredits": "hedepo / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_26.jpg?versionId=gbuvyQGe2QBvmAz7vPZQyqP5r5I3V2Rc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_26.jpg?versionId=TYUGWzkx66PjAhUBcG3bb6Bf8QsdfI21",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_26.mp3?versionId=GV4swGzH4BLvVl7ZXbGonR25.XCjs3og",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2322756,
+    "cultureContent": {
+    "imageLocation": "Zandvoort",
+    "imageDescription": "Although a global sport, Formula One auto racing has only recently been revived in the Netherlands. Max Verstappen is the first-ever F1 Grand Prix winner from the Netherlands as well as the first Dutch winner of the F1 World Championship. Needless to say, his fame most likely aided the reopening of the Dutch Grand Prix after 36 years of being dormant, bringing life roaring back to the Circuit Zandvoort.",
+    "imageCredits": "Dan Mullan / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_27.jpg?versionId=rRllQeG4HytqUnnhv8k0qMwGYQkWdQU9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_27.jpg?versionId=0ZplXbYpM2Ju9B4c5IJYpSxTAdkdoAKh",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_27.mp3?versionId=yRLxpskEGk7zVBQ8Z95kZAggGYPg12b.",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2322768,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "Opened in 1960, the Anne Frank House serves as both a memorial and a multimedia museum. Being restored to how it looked during World War II, the house has over one million visitors each year who long to see what life was like for Anne, her family, and others hiding in the Secret Annex during the Nazi occupation of the Netherlands.",
+    "imageCredits": "Alphotographic / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_28.jpg?versionId=ilW2iqAyxRmTS.OKzLl1jl8Q0kVNBKyC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_28.jpg?versionId=aK_P9rXmSPysF7o9ev_VNDDxZZiM7z5v",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_28.mp3?versionId=cq9pZmNQoCvAWPAFXpNVW1R0DdJTLAOt",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2322781,
+    "cultureContent": {
+    "imageLocation": "Amsterdam",
+    "imageDescription": "While learning how to reclaim land from the sea the Dutch also became experts in maritime ventures. In 1602 the Dutch East India Company (abbreviated VOC in Dutch) became the first multinational corporation in the world, wielding the power to colonize distant territories and change the global economy single-handedly. Although it went bankrupt in 1800, artifacts from the company along with other pieces of Dutch naval history can be found at the National Maritime Museum in Amsterdam.",
+    "imageCredits": "Paulo Amorim / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_29.jpg?versionId=6Eo1RxvcNujOkoe5yC9_CA2x5vZ3_5dm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_29.jpg?versionId=gcMwCb2PclpX1icSZU3MVTNL6I04NCky",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_29.mp3?versionId=gZ_I403Si9h6Pa1Kbcq5wtnrfjsfTDE_",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2322793,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Netherlands and Holland aren’t interchangeable names for the country. \"Holland\" actually only refers to two of the twelve provinces of the Netherlands – North Holland (Noord-Holland) and South Holland (Zuid-Holland). While these two provinces contain major cities such as Amsterdam and The Hague, the Netherlands means the country inclusive of its ten other provinces.",
+    "imageCredits": "ROBIN VAN LONKHUIJSEN  / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/full/Dutch_1_9781797141794_M_30.jpg?versionId=cYAZjK69WDgngRYzmeLwLL7S06YlqbS1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/lesson_photo/thumb/Dutch_1_9781797141794_M_30.jpg?versionId=6tVG19q0yPpPP1OmZpjUsxPlNezRWwCb",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/main_audio/9781442319134_Unit_30.mp3?versionId=d8oD5bCXe1UcopddlXL6ZbEFXLkWpZk_",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2322802,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "KLM Royal Dutch Airlines is a century-old air passenger service, making it the world’s oldest commercial airline. Its first route was Amsterdam to London, which operates to this day. As a gesture, the company gives its business-class guests miniature Delft Blue houses, which are replicas of real Amsterdam buildings filled with Dutch gin.",
+    "imageCredits": "Boarding1Now / iStock Editorial / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch Level 1 orig/asset/RL/9781797141794_Dutch_1_Intro.pdf?versionId=tcKdYUiyvFpNTTKzSD4wjRlKioHyITkv",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_11.mp3?versionId=DbAU4rElqrgtwEm37f16GLV7JfWcbYZ.",
+    "mediaItemId": 2334417
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_12.mp3?versionId=sELnTcxB8JnNDJJ1M2BV_TKYmkxC3xY4",
+    "mediaItemId": 2334418
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_13.mp3?versionId=VckUI4rZSSQ2JNj4w_Gq07kDvrMIkssC",
+    "mediaItemId": 2334419
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_14.mp3?versionId=2n.tGevx1f1mfKUZYpg0U9c7d08iGijQ",
+    "mediaItemId": 2334420
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_15.mp3?versionId=.SphemEurN_eiG2uHkhdkMHd8C2Mm6TJ",
+    "mediaItemId": 2334421
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_16.mp3?versionId=g1VjimqRP.CHCFS31IhUOgnUShR072D3",
+    "mediaItemId": 2334422
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_17.mp3?versionId=z1SJ2kx1xPPxpN4uw_OUAKs948XXUukZ",
+    "mediaItemId": 2334423
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_18.mp3?versionId=5GII2PbsrICMD_tjHVz9Qsgg7K06bxXA",
+    "mediaItemId": 2334424
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_19.mp3?versionId=lVSVtcib2LPoxRkECFr0dwuKimJe5tJP",
+    "mediaItemId": 2334425
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_20.mp3?versionId=cjgIZLUCmp8InNdn.lW77yZRVrSLLLcm",
+    "mediaItemId": 2334426
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_21.mp3?versionId=uvyfPIudV3HcwzYRS2WkvV_A4Yo9CPnB",
+    "mediaItemId": 2334427
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_22.mp3?versionId=3jE.JH5N_wHzAnfkgEKUPSWiVLcAmC90",
+    "mediaItemId": 2334428
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_23.mp3?versionId=1AVXxXloRSWoIZUAdEZ8GLAfYTyfxKbf",
+    "mediaItemId": 2334429
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_24.mp3?versionId=Dv05651cCe2ZKx7_WRbxPgD1q9zNBw_T",
+    "mediaItemId": 2334430
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_25.mp3?versionId=sB1kAtt4V6pptUhju.uvpMl_TSFjCgFs",
+    "mediaItemId": 2334431
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_26.mp3?versionId=a3Q1jilz2zcxUnVb9Qk5cxSavz.050Y2",
+    "mediaItemId": 2334432
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_27.mp3?versionId=PNL51z1uIqcawhd1Ps39fH_LJJzWHl8F",
+    "mediaItemId": 2334433
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_28.mp3?versionId=C0yk4InhFpv1Ie58dUszpYDQ4VSuuyQ.",
+    "mediaItemId": 2334434
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_29.mp3?versionId=bo1HwZC.MPoPUdYOaCPZzhBZ8wM7qGRY",
+    "mediaItemId": 2334435
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dutch/Dutch%20Level%201%20orig/asset/RL/9781442319134_Dutch_1_Reading_Lesson_30.mp3?versionId=0oVOpJ4NbnY5moGDgedlHsdwHxkz5vWu",
+    "mediaItemId": 2334436
+    }
+    ]
+    },
+    "languageCode": "nl-NL",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797141794",
+    "level": 1,
+    "courseName": "Dutch Level 1 Premium",
+    "simpleCourseName": "Dutch Level 1",
+    "puArabic": false
+    }
+    ]

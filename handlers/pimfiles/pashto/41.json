@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 200004,
+    "languageName": "Japanese",
+    "languageId": 156,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_01.jpg?versionId=7Bgu3_9rQLewmD.yAXmC_dm_wMevvPBY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_01.jpg?versionId=KJHXu4Sni4w4RGZnSNak_mVOZWsL5kg2",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson01.mp3?versionId=eTelyxRIDGcFp0LNXFnDSKuctWTpBFEO",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2329822,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "College years in Japan are a time to explore and enjoy all that young adulthood has to offer.  After passing grueling entrance exams, Japanese college students have the freedom to relax and socialize.  They also have a newfound sense of fashion expression since almost all high school students have to wear uniforms.",
+    "imageCredits": "Levers2007 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_02.jpg?versionId=Q6hG_oNTnlgh5j1tve0N9H1iZKDEe8gN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_02.jpg?versionId=0viqgYmX3wjODMxdWxn6LZ_F0gIcCv6I",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson02.mp3?versionId=5BXlPo5TbMMIXThHpMKMhLqWn6Ay_Dka",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2329823,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "According to Japanese mythology, Amaterasu, the Sun Goddess, gave grains of rice to the first emperor Jinmu, and commanded him to turn Japan into a land of rice. For much of the Middle Ages and beyond rice was used as a unit of taxation, but it wasn't until the 1960s when mechanized farming reached its heyday that Japan was able to grow as much rice as it consumed.",
+    "imageCredits": "Yuji Kotani / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_03.jpg?versionId=mAkngpOSRwR9XG6ffP2jWMOa0wXtwC_A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_03.jpg?versionId=jtgaId5Bkvu.ZpwVoQHtL0yFA0dzzgQy",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson03.mp3?versionId=yFD7UvQ47Ak6kl3b9Z7gGl9C98yM34HF",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2329821,
+    "cultureContent": {
+    "imageLocation": "Todaiji Temple, Nara Prefecture, Honshu, Japan",
+    "imageDescription": "The gigantic bronze Buddha, the Daibutsu (\"Great Buddha\") is nearly 50' tall, and is installed at the Todaiji Temple, once the largest wooden building in the world. Dating back to 752, and withstanding fires and earthquakes throughout it's history, the statue has been continually  restored and is part of the UNESCO World Heritage Site Historic Monuments.",
+    "imageCredits": "Luis Veiga / Stockbyte Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_04.jpg?versionId=.UcAvXTxvqs4ZF8Too4ZgjP4A6OCo.fp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_04.jpg?versionId=sIr7m5OAOXOpHD0DtFIw0qa9tHCIGcju",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson04.mp3?versionId=iDLuhzr9IGSH62l9nSG6_KOyUgMwpnU3",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2329825,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Every movement and every instrument conveys layers of meaning in a Japanese Tea Ceremony. Traditionally, a tea whisk made of three kinds of bamboo is used to mix green \"matchi\" tea with hot water. Then it is poured into a \"chawan,\" a tea bowl, and the tea is served to each guest along with sweets.",
+    "imageCredits": "Brian Kennedy / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_05.jpg?versionId=.i7xUD1egYTzjpeos48D3lQh0H.wQdSx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_05.jpg?versionId=YHbFUewj.KZHNeISdyQx8iyuVJ19l1VN",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson05.mp3?versionId=56maWDXBCwMgLpFNViQQxOhkm0CAd57o",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2329824,
+    "cultureContent": {
+    "imageLocation": "Zentsuji, Kagawa Prefecture, Shikoku, Japan",
+    "imageDescription": "In southern Japan, the town of Zentsuji is famous for its square watermelons. While the fruit is still small, it is inserted into a tempered glass case to force it to grow to the exact dimension to fit on a refrigerator shelf. These space-saving watermelons are roughly three times the price of a regular watermelon.",
+    "imageCredits": "The Asahi Shimbun / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_06.jpg?versionId=zhtuoXOGFAWTzIm4HhAjuS2CTR_mf7Ki",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_06.jpg?versionId=E2PtxL3a_q.vDFMjLgpYtAUktKXSLwEn",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson06.mp3?versionId=LDaVOeMfNiDRlbRughQveG52uHRVlHxw",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2329827,
+    "cultureContent": {
+    "imageLocation": "Okinawa Prefecture, Japan",
+    "imageDescription": "Succulents have been cultivated by the Japanese for centuries; their thick leaves store water, and their unique appearance and low maintenance makes them perfect for Japanese ornamental gardens.",
+    "imageCredits": "Daniela Duncan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_07.jpg?versionId=g0TMJES.j8ZIL8W8T.gNTSxVa5dNzlnv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_07.jpg?versionId=Of5XQjVhk7zUd0wOoDdrthTkB3rR8FLb",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson07.mp3?versionId=64ob3xMvYFVnqSTzDCazvoGbXGXeLNm4",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2329826,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "In its most basic form, sushi consists of cooked rice combined with raw fish or vegetables. Raw fish served on its own is called sashimi. To become a sushi chef, or Itamae, one must train for at least ten years, learning everything from how to select a piece of fish to how to move with grace and dexterity while preparing it.",
+    "imageCredits": "Koji Hanabuchi / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_08.jpg?versionId=Qqv8FlaVnm5E2Hvpz.4vxzVI_S3jsJQg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_08.jpg?versionId=La8uTqLrYC7RT6FAsaZSLaUstMbHSfKR",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson08.mp3?versionId=bHERA8cNMdRGw5f.WFPqWml5jIi7BjoW",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2329828,
+    "cultureContent": {
+    "imageLocation": "Odaiba Diver City, Tokyo, Japan",
+    "imageDescription": "Unveiled in 2009, the 18-meter tall Gundam RX-78-2 statue depicts a fictionalized manned robot introduced in 1979 in the anime series Mobile Suit Gundam. It was built to commemorate the 30th anniversary of the Gundam series, a televised animated series that has spawned numerous sequels, spin-offs, manga comics, toys, computer games, and even amusement park rides!",
+    "imageCredits": "Lasalus / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_09.jpg?versionId=sgV6QNGRLSwpHpjubC_nipintKPfxyuX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_09.jpg?versionId=YbOpn6K1njRX2pCb2S4dGHwVSkRAK48r",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson09.mp3?versionId=FEmf28pyhNeS_7mN5MeXRa_EYFXANBWu",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2329829,
+    "cultureContent": {
+    "imageLocation": "Satoyama, Yamaguchi Prefecture, Honshu, Japan",
+    "imageDescription": "Growing rice using traditional methods has become unprofitable for the first time in history. Over 67% of Japanese rice farmers are over 60 years old, and the method is extremely labor intensive. Today a movement is growing in Japan similar to the CSA movement in the US. Community members purchase shares in a rice terrace, and in exchange receive a share of the harvest.",
+    "imageCredits": "Photoaraki.Com / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_10.jpg?versionId=i9LDem9evTClWJO1UOGw.gvRjCckEPpw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_10.jpg?versionId=hgCrQ1v021I8sDYnKyB9NeS9ew.HYW19",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson10.mp3?versionId=SEaPFtXYhEyXEzd02gru4IhVmdjgLLFA",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2329831,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Kyoto Prefecture, Honshu, Japan",
+    "imageDescription": "Kyoto was the capital of Japan and the home of the emperor and his court for over a thousand years (794-1868). In the historic Gion district, it's common to see young women wearing the traditional ornamented hairstyle, makeup, and kimono of the Maiko (Geisha in training).",
+    "imageCredits": "Satoshi-K / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_11.jpg?versionId=OKZgUnicAFgZQ8Bo49LQbISr4mxIqqTd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_11.jpg?versionId=SW9os8S7XN5k_49vch8KSq6Qfdr8xOx7",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson11.mp3?versionId=c9d8wy6IgSWn_km_3z8KswK3muqQAftm",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2329844,
+    "cultureContent": {
+    "imageLocation": "Aso, Kumamoto Prefecture, Kyushu, Japan",
+    "imageDescription": "Shintoism is Japan's traditional and most common religion. It includes the worship of ancestors and spirits in the natural world. In Aso, the annual Shinto Swing-Fire Festival is celebrated to request the goddess of agriculture to provide a bountiful rice harvest.",
+    "imageCredits": "The Asahi Shimbun / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_12.jpg?versionId=RJxkKsUgIJf8cCUKvRfT62Xjm7pJDcuc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_12.jpg?versionId=ZVFviCHPkeGqQUQdOg0WiFVL7fjtW31n",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson12.mp3?versionId=DXp8fvWaSubhs_UjrRQXpnqhi75kAh9L",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2329830,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "The Akita Inu, or Japanese Akita, is one of seven dog breeds designated as Natural Monuments in Japan. This versatile breed originated in the mountainous regions of Northern Japan. In feudal times they were used to guard royalty, but today they fulfill a variety of roles, from police work, to hunter, to sled dog, to beloved family member.",
+    "imageCredits": "Bruev / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_13.jpg?versionId=CnguHng4gxttUt936QcsDCHmjFyrnmew",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_13.jpg?versionId=LTPih6NJgKX1.E51oHnMshKwdLGlh7zg",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson13.mp3?versionId=6Nkn6snxls6qq_Xp4son0NZjthVOt5wa",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2329832,
+    "cultureContent": {
+    "imageLocation": "Otsuchi, Iwate Prefecture, Honshu, Japan",
+    "imageDescription": "After a magnitude 9.0 earthquake and tsunami struck in 2011, Red Cross workers in Otsuchi faced a scene of complete devastation and great loss of life. Damage to the nuclear plant in nearby Fukushima spread radioactive material over a large area, rendering the land uninhabitable.",
+    "imageCredits": "Red Cross Japan / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_14.jpg?versionId=oJdYRgl0PnPomPm7AwewmWNej1fWWSgq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_14.jpg?versionId=3AAeKY.3Qevbl.plx1zb8.0fDaxZHvRn",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson14.mp3?versionId=LnBQzRY_BLPD6YkHuQH7vQk01HZY0GGC",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2329833,
+    "cultureContent": {
+    "imageLocation": "Shinonome Canal Court, Tokyo, Honshu, Japan",
+    "imageDescription": "Finding a specific address in Tokyo is not easy as the streets have no names, only numbers, and the buildings are numbered by the order in which they were built.",
+    "imageCredits": "Chris Jongkind / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_15.jpg?versionId=PhQE4.f4oNn1UfB2qYwtKZQi_dppmDuQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_15.jpg?versionId=Ih5_v.GmKJxHUvcP7NJmLuuX4NxU6BlX",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson15.mp3?versionId=E1WSPiGJ0GjGrCnWQWc1x3xfZ5e8HNy0",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2329836,
+    "cultureContent": {
+    "imageLocation": "Melbourne, Australia",
+    "imageDescription": "Tennis is wildly popular in Japan. At the 2015 Australian Open held at Melbourne Park, Kei Nishikari competed in the fourth round. Known variously as \"the giant killer,\" Air K, and Project 45, he broke into the Top 100 at the age of 18, the first Asian player to receive the accolade.",
+    "imageCredits": "Patrick Scala  / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_16.jpg?versionId=eTEm3XmktsxAoEeEHntx4JkzRAvag0nn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_16.jpg?versionId=ms4vJvBlsZvvX1MejSgzOQABE4eMUzpP",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson16.mp3?versionId=9.tZelfsP6mgncFt7qh4N.olic2tB0oi",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2329834,
+    "cultureContent": {
+    "imageLocation": "Biei, Kamikawa Subprefecture, Hokkaido, Japan",
+    "imageDescription": "Biei-cho (Blue Pond) has been called the most beautiful pond in the world. Featured in Apple's OSX Mountain Lion wallpaper, the water in the lake contains a high level of aluminum hydroxide, which reflects blue light, and causes spectacular color changes through the seasons.",
+    "imageCredits": "Shunichi Yoneyama / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_17.jpg?versionId=_H6WAOq3e27pcFBxrCPUJNYpspS0ogbn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_17.jpg?versionId=b_r.N9CHKdwQe6ZiQvQnwQ.A.Pr8EQTZ",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson17.mp3?versionId=SV3Ou7e1VsOtyIErqLoe9Vwkfc2.yahM",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2329835,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Honshu, Japan",
+    "imageDescription": "Cosplay, short for “costume play,” is an art form heavily influenced by Japanese pop culture and practiced throughout the world. Individuals dress up as anything from their favorite anime or manga character to famous celebrities and even animals.",
+    "imageCredits": "SeanPavonePhoto / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_18.jpg?versionId=vtQ.eh6GZW1OWZs3NHodVng..A2elash",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_18.jpg?versionId=DsvsNJOX67MxfX0L0Nu6ne8RN6Ft.HHo",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson18.mp3?versionId=RR67Jmyllb03S7UkeRKYJxnBQ.7nf9YK",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2329838,
+    "cultureContent": {
+    "imageLocation": "Okinawa, Japan",
+    "imageDescription": "Okinawa is a snorkeler’s dream. The most popular snorkeling spot on the island is Cape Maeda, where both novice and experienced snorkelers and SCUBA divers can swim among sea turtles, manta rays, reef sharks, and countless varieties of tropical fish. More adventurous swimmers won’t want to miss Blue Cave, a majestic underwater cave where the filtered sunlight creates a mystical blue glow.",
+    "imageCredits": "Tororo / iStock / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_19.jpg?versionId=YtZ.e6mpOnx3Dd5zQm2nmx75ZksRHlH_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_19.jpg?versionId=gpThYTMGry_tfTPAlujctX3Laq3Cl3t3",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson19.mp3?versionId=Snc4mofcWTE9VzaNX7Wya3KgsQCFtN9w",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2329837,
+    "cultureContent": {
+    "imageLocation": "Yoro, Gifu Prefecture, Honshu, Japan",
+    "imageDescription": "Yoro Park, also called \"Site of Reversible Destiny\" is an absurdist landscape of strangly angled buildings with sloped floors and curved steps, mazes, and distorted landscapes. Skateboard helmets are handed out upon admission, and visitors are told to \"expect the unexpected\" as they climb, crawl and walk through distorted landscapes designed to make them question accepted notions of reality.",
+    "imageCredits": "John S Lander/LightRocket via Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_20.jpg?versionId=2ntFlZCmmZ28RHPLaUSeJMblhKL6.ofE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_20.jpg?versionId=5zhTvm6VZ.Rnfa3.hPllMZR.CFNtHGoB",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson20.mp3?versionId=oPJKKiWYOUdjHMI3ZXrAzMjnsdGEuIJV",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2329840,
+    "cultureContent": {
+    "imageLocation": "Benesse House garden, Seto Inland Sea, Naoshima,  Japan",
+    "imageDescription": "Benesse House Museum opened in 1992 based on the concept of “coexistence of nature, art and architecture”. It is an unusual facility integrating an art museum with a hotel built overlooking the Seto Inland Sea and embedded in the beautiful Setouchi scenery.",
+    "imageCredits": "Eric Lafforgue / Art In All Of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_21.jpg?versionId=LszFucxtt2rO63FnTtwECKUwjxQOgk88",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_21.jpg?versionId=I9JGQzpIaZt9TBrDnomB4aLM6.Om42R6",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson21.mp3?versionId=169CXGyUGQjmO8Kf3JKjXU7CtR22a2hw",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2329839,
+    "cultureContent": {
+    "imageLocation": "Kintaikyo Bridge, Iwakuni, Yamaguchi, Japan",
+    "imageDescription": "The Kintaikyo Bridge in Iwakuni was constructed in 1673 to replace earlier bridges. Built without the use of a single nail, it featured five wooden arches supported by a massive stone foundation. It withstood the Nishiki River's currents for almost three hundred years, but in 1950, it was destroyed during a typhoon. It has since been rebuilt following the original design.",
+    "imageCredits": "The Asahi Shimbun via Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_22.jpg?versionId=z4.nZh0OoihxTGL7alrCEEdDxWNl.a96",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_22.jpg?versionId=lwz2RJ5VK2FvJauGPH2ViGoYpaupR_8O",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson22.mp3?versionId=hT.o8aGLd86Qd5NuHBRuUGzFYzb9stm4",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2329842,
+    "cultureContent": {
+    "imageLocation": "Kuwana City, Mie Prefecture, Nagano,  Japan",
+    "imageDescription": "Nabana no Sato is a theme park and botanical garden located on the island of Nagashima. Since so few flowers bloom during the winter, they began holding “Touka no Kyouen” (flowers in winter), a light show featuring over 8.5 million colorful LED bulbs spread throughout the vast grounds, on the water, and in the gardens.",
+    "imageCredits": "HunterKitty / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_23.jpg?versionId=7b447B_yJZmvIDhT71Dn25ORAD0Wict1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_23.jpg?versionId=ytG.nYhpFalKCBNFz63nQbGEOCOcvnFY",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson23.mp3?versionId=jj6IPOOEVnThM_S0GRzPO6RYykaAgL_8",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2329843,
+    "cultureContent": {
+    "imageLocation": "Odaiba, Tokyo Prefecture, Honshu, Japan",
+    "imageDescription": "The Fuji TV Headquarters are housed in one of the most striking buildings in the Odaiba area of Tokyo. Designed by architect Kenzo Tange, the 25-story-high structure took over three years to complete, opening its doors in 1997. The observation deck is part of the 32 meter silver ball that protrudes from the upper floors of the building. Weighing an estimated 1,200 tons, the ball had to be constructed on the ground, then hoisted 123 meters up to its current position.",
+    "imageCredits": "Alexander Spatari / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_24.jpg?versionId=Kbf9e5q1E.N5UWzXoghG6WO9kFj1PBz0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_24.jpg?versionId=PPdOJA4xI5qzXRRgQgJKKq9OGnfaN_nl",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson24.mp3?versionId=2sv8a7FI9zLvXYkwslTfWs8URjkzZWlS",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2329815,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Honshu, Japan",
+    "imageDescription": "Tokyo Sky Tree is the world's tallest freestanding broadcasting tower at 634m (2080 ft.) tall including its antenna. Opened in May 2012, it's a major symbol of the city. Constructed of shining silver steel mesh, it has two popular observation decks.",
+    "imageCredits": "Ooyoo / iStock / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_25.jpg?versionId=R2Np2QeySoWq4Bn5Si59g1LBhdP2.PWv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_25.jpg?versionId=Cx7NxhqOChoRN3Gtyo8L8G3x5Er7wTpC",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson25.mp3?versionId=fhaX4Ko6Ti1iXomSMpaOLqffPXvqWzTH",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2329816,
+    "cultureContent": {
+    "imageLocation": "Purification Trough at Ikegami Honmonji Temple, Tokyo, Japan",
+    "imageDescription": "Buddhist temples and Shinto shrines are popular places to visit in Japan and each have their own rules and etiquette. It is common to see fountains and troughs filled with fresh water outside so that visitors can perform the Japanese ritual of purification by water to symbolize people having pure bodies and minds before entering the sacred spaces.",
+    "imageCredits": "Japanesescape_Footages / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_26.jpg?versionId=b9lbz8qhHrlroyP7i33.PZaIUZQvey2p",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_26.jpg?versionId=yfSHfYVO4EK0UtFlECx37L83Um3Doh3D",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson26.mp3?versionId=hlkpzZOnKAY6BiUNohDgnL1ZGD77b5gP",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2329817,
+    "cultureContent": {
+    "imageLocation": "Shimoda, Shizuoka, Japan",
+    "imageDescription": "The Black Ship Festival commemorates Commander Matthew Perry’s arrival and signing of the Amity Treaty between Japan and America in 1854. This is a lively festival with historical reenactments, concerts, fireworks, traditional drumming and dancing.  A similar “sister” festival occurs in Newport, Rhode Island where Commander Perry was from, celebrating the friendship between Japan and America.",
+    "imageCredits": "Bill Chizek / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_27.jpg?versionId=hfDdrmBac4qe.3GRMRkynFgi.AQipVIO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_27.jpg?versionId=r2NLeOobdtLd1GWN9NMjNX.VEXXzVL_t",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson27.mp3?versionId=TRlt2rT.MUsrpUTzjZEB0c5S_JQYrI9r",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2329818,
+    "cultureContent": {
+    "imageLocation": "Bamboo forest, Japan",
+    "imageDescription": "When the wind blows at the Sagano Bamboo Forest just outside Kyoto, the closely planted bamboo stalks sway and rub against each other, making noises that are said to sound a lot like music.",
+    "imageCredits": "Shichinohe / iStock / Getty Images Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_28.jpg?versionId=s6.g.4fsn5ZjuXVqROhxOyuFeZriCqgQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_28.jpg?versionId=4_R_OjUl81Hr_nw6Mj6bmbVMMcywvTTO",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson28.mp3?versionId=PQ0U985iZWHUBeDHjgJTJ.RXHYxcZwc3",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2329819,
+    "cultureContent": {
+    "imageLocation": "Shizuoka, Honshu, Japan",
+    "imageDescription": "Green tea is the most consumed type of tea in Japan whether hot, as a cold bottled beverage or infused into ice cream or other sweets.  The lush Shizuoka plantations date back to 1241 and are famous for their nutrient-rich soil and prolific production of green tea.",
+    "imageCredits": "Tuul & Bruno Morandi / The Image Bank Unreleased  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_29.jpg?versionId=BR7mOXOxSiLI3kFnd1y5GrdNfZxxNcBc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_29.jpg?versionId=FgGw8VmI6xQRwC2SXPsExRo0SKUOOzWn",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson29.mp3?versionId=wyalfJhzVi3gYEIBUtHnQTIJbJHzJZN4",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2329841,
+    "cultureContent": {
+    "imageLocation": "Tsuzumimon Gate, Kanazawa Station, Japan",
+    "imageDescription": "The city of Kanazawa escaped being bombed in World War II and contains many historic districts from the Edo Period (1683-1867), so it is fitting that the entrance to its modern railway station recalls the gatehouses of ancient Japanese temples.  Its called the \"Drum Gate\" amd mimics the drum used in musical performances at those temples.",
+    "imageCredits": "Korkusung / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/full/JP_2_M_30.jpg?versionId=fWtTD0ZFIjIg8jVNXkcydSRRayUoXIxr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/lesson_photo/thumb/JP_2_M_30.jpg?versionId=Yv3ZRH7dGtX4y8ndE3.FqjdLP6lIN_ax",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/main_audio/Japanese_2_9781797130446_Lesson30.mp3?versionId=bgQRGjpD2a2Q2rFpkCWxZXZPXIsw1MER",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2329820,
+    "cultureContent": {
+    "imageLocation": "Tokyo Tower and nightscape, Tokyo, Japan",
+    "imageDescription": "At at 1,092 feet tall, the Tokyo Tower is the world's tallest self-supporting tower. Its graceful design is said to be reminiscent of the Eiffel Tower. Since 1958 it has transmitted signals from all of Tokyo's FM radio stations and television stations throughout the metropolitan area.",
+    "imageCredits": "HIT1912 / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 2 2021/asset/RL/9781797132013_Japanese_2_Alpha.pdf?versionId=5_ONm9udbuSNs6RyS4RO.ADe_.94wcyl",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 2 2021/asset/RL/9781797132013_Japanese_2_Intro.pdf?versionId=AJJa9hvpV8oxeQN01VZeTsfUFebEbThk",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading01.mp3?versionId=ECzyHccsE2W8oqXaH9hjAh2qMObM2GeZ",
+    "mediaItemId": 2329875
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading02.mp3?versionId=vimTJKYdp0WydsHrsTluUQ0YzKewojnd",
+    "mediaItemId": 2329876
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading03.mp3?versionId=rnkzOzrSBYD8vqX6xi6cKs0WCcJ9y774",
+    "mediaItemId": 2329877
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading04.mp3?versionId=Bbe5ezW7GhxBh9CRn_ZIUBLiDdXtANg4",
+    "mediaItemId": 2329878
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading05.mp3?versionId=11SeMKQozdI0LZJ6tl41hzrEjiY5_QdD",
+    "mediaItemId": 2329879
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading06.mp3?versionId=S9jQlZJZ3daiXXJXS.3ykHQHLZsMS0_Y",
+    "mediaItemId": 2329880
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading07.mp3?versionId=WW9aDkw.ZyS30haQt2gIx4nvm8iR2n41",
+    "mediaItemId": 2329881
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading08.mp3?versionId=iFqvuzEqWJ97B3Sjch_2ATa1SOEWw6ti",
+    "mediaItemId": 2329882
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading09.mp3?versionId=d9AlgChNQu5q5cKJZUrUfArvzqnmA3PI",
+    "mediaItemId": 2329883
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading10.mp3?versionId=5ahUwM.JPmKxdocMItsVisPkQ0N4WfZi",
+    "mediaItemId": 2329884
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading11.mp3?versionId=H2.FnAmR177cViPpdFenWFWj4aYUQiLZ",
+    "mediaItemId": 2329885
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading12.mp3?versionId=syzo9_Fed48f9Wqq68KJD2KmvnFfu0fr",
+    "mediaItemId": 2329886
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading13.mp3?versionId=p0z8Xn3QPaR_oG04_hUjewnBQIUJisvm",
+    "mediaItemId": 2329887
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading14.mp3?versionId=iX9oVhlMOLhEOhhCfErgJtPKUS8OSQle",
+    "mediaItemId": 2329888
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading15.mp3?versionId=ZHeIDY6ObIhLoHxjHdcsPyodJ83c8nDZ",
+    "mediaItemId": 2329889
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading16.mp3?versionId=X3PmJAljVQm4q9O91vEj7jUfZoQ7y7_L",
+    "mediaItemId": 2329890
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading17.mp3?versionId=0oOCtLvCpdxw2vw4fNx49aWOE_nTDf9.",
+    "mediaItemId": 2329891
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading18.mp3?versionId=SjVRDLO0gGX7moipaWa5jEnx7nT7187z",
+    "mediaItemId": 2329892
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading19.mp3?versionId=XMD4WNvoGHV1GUrU0VCwOkq3lcx0ozka",
+    "mediaItemId": 2329893
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%202%202021/asset/RL/Japanese_2_9781797130446_Reading20.mp3?versionId=iIzWFO6xC7ZfdiAsAXsExFlIUORQFxPy",
+    "mediaItemId": 2329894
+    }
+    ]
+    },
+    "languageCode": "ja-JP",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781797132013",
+    "level": 2,
+    "courseName": "Japanese Level 2 Premium",
+    "simpleCourseName": "Japanese Level 2",
+    "puArabic": false
+    }
+    ]

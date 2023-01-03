@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 30260,
+    "languageName": "Japanese",
+    "languageId": 156,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_01.jpg?versionId=.NLAz.pDzyN73hrrU_CIj4P9v5p4PGSP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_01.jpg?versionId=VyQi9KX.6e2UNZkbiuFoOHfvXzOXMX_L",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U01_Lesson.mp3?versionId=jKTkyKMYyjaXlLfjy3GgoaplP5YpJLMY",
+    "level": 5,
+    "lessonNumber": "01",
+    "mediaItemId": 2227541,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Japanese is spoken by roughly 125 million people worldwide. A beautiful and complex language, its relation to other languages is fiercely debated. Japanese has an extensive grammatical system dedicated to expressing politeness and formality.",
+    "imageCredits": "Electra K. Vasileiadou / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_02.jpg?versionId=6b51d8h8VO55PHrTcjLqT2UzUuvbD7vl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_02.jpg?versionId=MSK1fj5mNUZX6Wc0Xl0D54IH6gza3d2o",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U02_Lesson.mp3?versionId=SwGJQjo0dYak2MNE8oXm5zsz4I22lUjg",
+    "level": 5,
+    "lessonNumber": "02",
+    "mediaItemId": 2227835,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "A type of raccoon dog, the tanuki has long been revered in Japanese folklore, where they are considered to be masters of disguise and mischief. It is common to find figurines of them wearing hats and carrying bottles of sake, their round bellies a symbol of boldness and calm decisiveness.",
+    "imageCredits": "Makoto Akimoto / EyeEm EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_03.jpg?versionId=jfu4E19ppsqr2_jGNULoMH_4xX_4acdG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_03.jpg?versionId=qZ.EyHACLRrh6XhW1s0uRxODt._crZ2U",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U03_Lesson.mp3?versionId=TyuuVfF.11aqHyBxvpycJijTG5t8OHFv",
+    "level": 5,
+    "lessonNumber": "03",
+    "mediaItemId": 2228165,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Dedicated to the work of Fumio Asakura, the Asakura Choso Museum was once the site of the sculptor’s studio and home. Known as the “Rodin of Japan”, one of his favorite subjects was the feline form.",
+    "imageCredits": "ColobusYeti / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_04.jpg?versionId=_kQtjt8eIivgVcCk.MS1EUq1PnNY9JtH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_04.jpg?versionId=1x9l7_znMsF00UXDyylzqbarnY53i_QZ",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U04_Lesson.mp3?versionId=9p_z.cXuGysV_.mW5qdW2habZkOQefTu",
+    "level": 5,
+    "lessonNumber": "04",
+    "mediaItemId": 2228593,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "With Tokyo hosting the 2020 Olympic games, Japan plans to launch a robot-operated taxi service to help visitors navigate the city. Critics of self-driving cars cite safety and job destruction, while studies show their positive impact on road safety, pollution, traffic congestion, and parking.",
+    "imageCredits": "SM / AIUEO / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_05.jpg?versionId=XXkUpNCsuI4K.1D61LwBt.SYjgkKGLfS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_05.jpg?versionId=16fun2iqJQ2eqB29WNQtLUSSIm2kr_1L",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U05_Lesson.mp3?versionId=BojBJr4PUHu2ENNhmVF8eXaQOz9h92.C",
+    "level": 5,
+    "lessonNumber": "05",
+    "mediaItemId": 2228974,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "The Harajuku district is known internationally as a center of fashion and youth culture in Japan.  This kaleidoscopic mirrored entrance is in the Tokyu Plaza Omotesando Harajuku, a shopping complex featuring high-end boutiques that calls itself, a fashion theme park.",
+    "imageCredits": "B. Tanaka / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_06.jpg?versionId=wAeqVxTIRgyKzyZ54vINz9.WQLZBrKWI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_06.jpg?versionId=XC89SIV6j4wQvgMinoong.1gumJgDEfc",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U06_Lesson.mp3?versionId=525kZCWVJPIi0M1NBtrI3PWxph2_YtpT",
+    "level": 5,
+    "lessonNumber": "06",
+    "mediaItemId": 2229328,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "The seat of the Roman Catholic Archdiocese of Tokyo, the Tōkyō Katedoraru Sei Maria Daiseidō, or St. Mary's Cathedral is located in the Bunkyo district. The original cathedral was destroyed during World War II. The present structure was completed in 1964 and features a cross layout, and a 202-foot bell tower.",
+    "imageCredits": "Micha Pawlitzki / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_07.jpg?versionId=fOmW9JFkCR_Ip6_wkiQiPpuM0sc02K9A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_07.jpg?versionId=UsgkPYlgETV4i9sLQd45sV14kSCc2Jib",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U07_Lesson.mp3?versionId=n2o0WbCJvuT90jCdp2y2ed6iRzCbegLI",
+    "level": 5,
+    "lessonNumber": "07",
+    "mediaItemId": 2229873,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "The Aoyama neighborhood, one of the wealthiest in the city, was named for samurai Aoyama Tadanari, who once lived there. Home to many fine restaurants and international fashion houses like this Prada store, Aoyama attracts tourists and shoppers from around the globe.",
+    "imageCredits": "Iain Masterton / Canopy / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_08.jpg?versionId=vznPG1c4hS9ta.Mf36CcSJSOLxbRjRXf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_08.jpg?versionId=Q9TvCn1pa6.gChuCkYfEcONwZeAV7bIU",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U08_Lesson.mp3?versionId=UyhacpdtB3HqEs0LT7uvUle3KvoVStBQ",
+    "level": 5,
+    "lessonNumber": "08",
+    "mediaItemId": 2230204,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Following a 2015 incident where a drone was discovered on the roof of the Prime Minister's office, Japan passed regulations restricting drone use, including prohibiting them from flying over many government offices, embassies, courts and palaces, or near nuclear facilities.",
+    "imageCredits": "Hiroshi Watanabe / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_09.jpg?versionId=FgXgDaRs56p9CvY9bFmkuXaieOOfmrOi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_09.jpg?versionId=NpEq8nraz8VgnqgQBiWsw.gDwnnXdaly",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U09_Lesson.mp3?versionId=BOoQDIPhh5QgE2b8AydSbc3LQa0.LsRi",
+    "level": 5,
+    "lessonNumber": "09",
+    "mediaItemId": 2230679,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Located at the foot of Mt. Fuji, Fuefukigawa Fruit Park is a sprawling garden planted with the eight fruit crops traditional to the region, including peaches, persimmons, gingko, and pomegranate. The park also features three glass domes housing an event space, a tropical greenhouse, and a Fruit Musem.",
+    "imageCredits": "John Edward Linden / Arcaid Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_10.jpg?versionId=rk9dhgtD4NO2ljl2sLfXaNVSU4GB3KS9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_10.jpg?versionId=BBnihSc.iNE2nITz.mGRbQRs3EI0yaqQ",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U10_Lesson.mp3?versionId=H_cNKFYLmTnpIRGaBonz37LD4kD.mbcZ",
+    "level": 5,
+    "lessonNumber": "10",
+    "mediaItemId": 2231068,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Japan",
+    "imageDescription": "Dedicated to a guardian warrior spirit named Kōshin, the Yasaka Kōshin-dō is a small temple in Higashiyama. Hanging from the temple walls and ceiling are colorful fabric balls representing Kukurizaru, a bound monkey. It is thought that in order to have a wish granted by Kōshin, one must write it down and place it in a Kukurizaru ball.",
+    "imageCredits": "Frank Carter / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_11.jpg?versionId=VJlQhCoZ5rUsAe_Mv.yBEIl77veUB2pB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_11.jpg?versionId=JzPUsvLIKM3Sw_ENudc99fRJ76Uw9E0Y",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U11_Lesson.mp3?versionId=_cId.5Tj1yGn1Q0y4E1m2j4xASgxnKqN",
+    "level": 5,
+    "lessonNumber": "11",
+    "mediaItemId": 2231453,
+    "cultureContent": {
+    "imageLocation": "Yokote, Japan",
+    "imageDescription": "Honoring the water deity each year in mid February, the Yokote Kamakura Festival includes the building of igloo-like snow structures called kamakura. They range in size from lantern-sized domes, to those large enough to seat several people around a small brazier. Grilled rice cakes are served along with a warm sweet rice wine called amazake.",
+    "imageCredits": "Peter Essick / Aurora / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_12.jpg?versionId=OcjlwU2JdQaJSccm4mAq_g0Fm3eUiKgw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_12.jpg?versionId=r0jV4q9NuMdjVk5Krgvk_4HVqPJHLVmq",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U12_Lesson.mp3?versionId=rZ2bASCVRR43VWBGU5XaOAS.khRpEfaJ",
+    "level": 5,
+    "lessonNumber": "12",
+    "mediaItemId": 2231816,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Starting in the 1990s, the Harajuku neighborhood has grown into the epicenter of Japanese street fashion. The bright colors, eclectic style, and cartoonish charm, in this giant clock typify the bold creativity of Japanese youth culture.",
+    "imageCredits": "Jenny Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_13.jpg?versionId=olRaclY6qEH6O6G_4CGu8bWYt0HUeSKu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_13.jpg?versionId=uBXg7zLEShgvlyyMc8_taWwNTMXIYRrM",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U13_Lesson.mp3?versionId=xKp6vJpGVNnZCOimylj_vzWTUpB10K_p",
+    "level": 5,
+    "lessonNumber": "13",
+    "mediaItemId": 2232169,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Japan",
+    "imageDescription": "This dragon stands guard over Kiyomizu-dera, a Buddhist temple founded in 778.  Offering breathtaking views of Kyoto, it has a stage that towers 43 feet above the ground and is supported by 18 pillars made from ancient zelkova trees. The temple is so skillfully constructed that it has withstood countless earthquakes, yet it contains not one single nail.",
+    "imageCredits": "Frank Carter / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_14.jpg?versionId=ud3OfzOthEJvkaRBaaLKA0.mfOkxPf.n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_14.jpg?versionId=10C9zF38AMESqdk9io3dWwALErvqXlAK",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U14_Lesson.mp3?versionId=GA8ldEa7NS_qF8..KBrmU9kSTgeP1pRU",
+    "level": 5,
+    "lessonNumber": "14",
+    "mediaItemId": 2232529,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Mikimoto Kōkichi, founder of the jewelery company that bears his name, was a pioneer in the cultivation of cultured pearls. He was known for possessing a flair for the dramatic while promoting his products, including setting low-quality pearls on fire, and displaying a replica of the Liberty Bell embellished with pearls in the 1926 World Exposition in Philadelphia.",
+    "imageCredits": "Phil Bond / Arcaid Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_15.jpg?versionId=g1pVPUQuu6Fyb_FoZ8H3SjXNxySEUP1J",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_15.jpg?versionId=A8Hik4PT3G_OFEDD84J0qbtyu.slr0ji",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U15_Lesson.mp3?versionId=tM4In8zAJ5GmWiThQ_rQtO9qWB3uFlNO",
+    "level": 5,
+    "lessonNumber": "15",
+    "mediaItemId": 2232912,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Japan",
+    "imageDescription": "Completed in 1164 by order of Emperor Go-Shirakawa, the Sanjūsangen-dō is a Buddhist temple honoring the thousand-armed deity, Kannon. There are over 1000 statues of Kannon housed at the temple, each with 11 heads, thought to make them better to bear witness to the suffering of humanity.",
+    "imageCredits": "Apexphotos / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_16.jpg?versionId=VblPXBVn6IKl7zTOPOCQIyWsjwr0fn94",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_16.jpg?versionId=TLrecBo2CFBieiMwnFcTQhDebC_et_WT",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U16_Lesson.mp3?versionId=Y9738vRGqO3dpFuQZtNycE2r1HCB2lH7",
+    "level": 5,
+    "lessonNumber": "16",
+    "mediaItemId": 2233311,
+    "cultureContent": {
+    "imageLocation": "Osaka, Japan",
+    "imageDescription": "A notable destination for food tourism, Dōtonbori in Osaka is known for its bright illuminated signs lining the canal, its restaurants and its street art, including four statues of faces built in front of the Dōtonbori Hotel. Representing Asian, African, Arab, and Western faces, the sculptures are meant to convey a philosophy of hospitality and welcome to international guests and have become a landmark in the Dōtonbori area.",
+    "imageCredits": "Jenny Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_17.jpg?versionId=UA0NmciXjW7OuP4VTxYoR.H0ahsx3wnK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_17.jpg?versionId=ahSXd.q9uSM59BOezyBdHi8g5skvyIpw",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U17_Lesson.mp3?versionId=ITctKavvDmyoCR6xZZPTZ1YlgsNzR_XS",
+    "level": 5,
+    "lessonNumber": "17",
+    "mediaItemId": 2233720,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Practiced by nearly 80% of the Japanese population, Shinto is an ethnic religion based on carrying out ritual practices to connect the present to the past. Purification rites and rituals are an intrinsic part of the practice, often taking place at one of the 80,000 Shinto shrines in Japan.",
+    "imageCredits": "Christopher Pillitz /  Photonica World / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_18.jpg?versionId=.7m53jfMs8fXXQaVIlcOZXCihdv6DUQ1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_18.jpg?versionId=TItQlc_Zb1HpLNXrsDnE9m8ivC6bH2ke",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U18_Lesson.mp3?versionId=F7fU4k2Tb1X6g9LzSPfTGwVbkzL4W3NY",
+    "level": 5,
+    "lessonNumber": "18",
+    "mediaItemId": 2234148,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Its name meaning “what you like”, the okonomiyaki is a grilled, savory pancake often made from flour, yam, broth, eggs and shredded cabbage. Traditional recipes and toppings vary according to region. Once a vital source of nutrition during the rice shortages of WWII, okonomiyaki is a delicious and popular snack served throughout Japan.",
+    "imageCredits": "Nigel Killeen / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_19.jpg?versionId=C9QctqTq8HzYp8TaZy.SLMGZjeDEAJEu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_19.jpg?versionId=K1RHdxF6OfLuQhxE4fsQXyXhsZK3Xf_T",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U19_Lesson.mp3?versionId=oJjAxCoS88iB_TsrVdPfSK12TDECffTk",
+    "level": 5,
+    "lessonNumber": "19",
+    "mediaItemId": 2234487,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Introduced to Japan in the 8th century by vegetarian Zen Buddhist monks, tofu is an important part of the Japanese diet. High in protein and low in fat, tofu is prepared in a multitude of inventive and flavorful ways in Japanese cuisine, ranging from savory to sweet.",
+    "imageCredits": "Ivan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_20.jpg?versionId=mETzLINQTXtcGvzQjCqmiaJOYO3WaooQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_20.jpg?versionId=XleCvv5DYCtZEZfmxuKflTknQR3uWfxH",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U20_Lesson.mp3?versionId=mUrCCVPSbvn4qDBB97I5kE.sxwUwRpeZ",
+    "level": 5,
+    "lessonNumber": "20",
+    "mediaItemId": 2234924,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Sushi, as we know it today, was popularized in the early 1800s in Japan. Once a simple dish of raw fish served over vinegar-seasoned rice, sushi has become a dominant art in Japanese cuisine and is now served in tens of thousands of restaurants worldwide.",
+    "imageCredits": "Ivan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_21.jpg?versionId=9sOo9Wkbya9N4Tr.qlFb6Aa3bTm8Kpw9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_21.jpg?versionId=w3tSoOD6CJnUe2y8..KujbiTGBuAJEag",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U21_Lesson.mp3?versionId=LMqigdh3zWCrq7B_x1_4stJ1UTwYzCBD",
+    "level": 5,
+    "lessonNumber": "21",
+    "mediaItemId": 2235530,
+    "cultureContent": {
+    "imageLocation": "Miyoshi, Japan",
+    "imageDescription": "One of the last vestiges of old world Japan, the Iya Valley is revered for its natural splendor, including several rivers traversable via vine bridges. Once quite isolated from surrounding areas, the valley has developed its own customs, traditions, and cuisine.",
+    "imageCredits": "Jake Jung / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_22.jpg?versionId=jjDx195QmxgD5_PQVD22cXYS9DSrbxh6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_22.jpg?versionId=bhxOeoyx5RQxqXxzJTV2ymcatjLD.wSM",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U22_Lesson.mp3?versionId=QIBzC3HyMV2blF3g0Fx6UJBTwj2kbV9u",
+    "level": 5,
+    "lessonNumber": "22",
+    "mediaItemId": 2235906,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "World-renowned architect, Kisho Kurokawa cofounded the Metabolist Movement, an avant-garde movement fusing architectural ideas with organic growth structures, capable of being removable, interchangeable, and adaptable. The Kisho Kurokawa Green Institute was founded in his honor after his death in 2007.",
+    "imageCredits": "Photo Japan / Robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_23.jpg?versionId=6gPHYQeRW.ta5m05jPvwAuJgr_bwXKEP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_23.jpg?versionId=xWu14NFP640tPIiczVtqUZSpIKnzO9Qq",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U23_Lesson.mp3?versionId=qiRyUG8aB9j2FUpemP0Hw.Zs16_rg8IP",
+    "level": 5,
+    "lessonNumber": "23",
+    "mediaItemId": 2236357,
+    "cultureContent": {
+    "imageLocation": "Hokkaido, Japan",
+    "imageDescription": "With its variable but temperate climate, some parts of Japan get long, cold winters. The language includes over 100 words used to describe snow, including a word for the fluffy snow that looks like mochi rice cakes.",
+    "imageCredits": "Marco Wong / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_24.jpg?versionId=97.L_S0e7sENkxnH0FdjllC7KEdzpeos",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_24.jpg?versionId=DphrFTMLxA7RW8F9.ScKAJ4ZT46Bg6gI",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U24_Lesson.mp3?versionId=0l6BW3O87S22aYqmrSfKF6oaA5A9LcpY",
+    "level": 5,
+    "lessonNumber": "24",
+    "mediaItemId": 2236692,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Many renowned western architects visited Japan during the 20th century, including Frank Lloyd Wright. They brought their findings back, influencing western modernism with the Japanese quality of space and simplicity. The west, in turn, inspired Japanese architects to explore new materials and forms.",
+    "imageCredits": "Jose Fuste Raga / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_25.jpg?versionId=_4mv4bAHQp2mo8Mg..UK74B49A9.PTZq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_25.jpg?versionId=d5o8WcoV20ed0YHMPX2DpxNv7YxLDO7c",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U25_Lesson.mp3?versionId=AQzgQpYVpD0rKA4TK4FvZsnekrIC6py8",
+    "level": 5,
+    "lessonNumber": "25",
+    "mediaItemId": 2237025,
+    "cultureContent": {
+    "imageLocation": "Hokkaido, Japan",
+    "imageDescription": "This devil statue guards the entrance to Jigokudani Monkey Park. Translated, the name means, “Hell’s Valley”, named for the boiling water and steam that springs up from crevices in the frozen ground. Wild Japanese snow monkeys bath in these hot springs, attracting tourists from around the world.",
+    "imageCredits": "Paul Dymond, Lonely Planet, Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_26.jpg?versionId=LhejIN2iOkkHwz_RLsL71CroDsZq8vhP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_26.jpg?versionId=m.LB3AZiMMJcmEbw1Wue13xa9nDI23VZ",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U26_Lesson.mp3?versionId=xXZaPzskOkAeig8KvBBST3.TQeWjcajb",
+    "level": 5,
+    "lessonNumber": "26",
+    "mediaItemId": 2237374,
+    "cultureContent": {
+    "imageLocation": "Okinawa, Japan",
+    "imageDescription": "Heritiera littoralis, otherwise known as the looking-glass mangrove, grows up to 50 feet and is characterized by its tall, ribbon-like buttress roots. Its leaves appear silvery white from below, and emerald green from above. Traditionally used for shipbuilding, these towering trees can be found growing along coastal areas in Asia, Africa and India.",
+    "imageCredits": "Ippei Naoi / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_27.jpg?versionId=gpOZybgacEcQ.U2WrJhbeV1sr4E5hx9U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_27.jpg?versionId=2Qo3r3AX.opkF0gImR5zUTLW28ongBgg",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U27_Lesson.mp3?versionId=wq5G0b_DPHHv7veM1toSJOf.uodUED4o",
+    "level": 5,
+    "lessonNumber": "27",
+    "mediaItemId": 2237837,
+    "cultureContent": {
+    "imageLocation": "Nara, Japan",
+    "imageDescription": "Nestled at the foot of Mount Wakakusa, Nara Park is one of the oldest public parks in Japan, and home to over 1,200 wild Sika Deer. Designated as national treasures, the deer roam freely around the park and their curious and mercurial nature can sometimes inspire mischief. Helpful signs posted around the park provide warnings of potential behavior.",
+    "imageCredits": "Jenny Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_28.jpg?versionId=9CZdWMqqsHGqSBWTZfcS85v._xcAuV59",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_28.jpg?versionId=h1bjuQZPjuwNu2wrzrpR9YGUO43BD7h1",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U28_Lesson.mp3?versionId=7W_xnr53H_gEGwdFvEV6uTv4tz1a6j8P",
+    "level": 5,
+    "lessonNumber": "28",
+    "mediaItemId": 2238196,
+    "cultureContent": {
+    "imageLocation": "Okinawa, Japan",
+    "imageDescription": "The United States has maintained a military presence in Japan since the country's surrender at the end of WWII. 62% of U.S. military bases are located in Okinawa Prefecture.",
+    "imageCredits": "Stocktrek Images / Stocktrek Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_29.jpg?versionId=3xOvfATuWbuS0fGCmfg28PjhUlzAF5Gg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_29.jpg?versionId=3MhmO2tPLUWWUS48vHQVG7GjMs3gQmcv",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U29_Lesson.mp3?versionId=AeEUAcea82OIP5dmX8NkxIU4.L8n9tcp",
+    "level": 5,
+    "lessonNumber": "29",
+    "mediaItemId": 2238588,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Pioneering technological innovations such as LCD screens, solar cells, and video game systems, Japan boasts the largest consumer electronics industry in the world. Trendy virtual reality and mixed reality arcades have become very popular in Tokyo, as purchasing a VR system is still unaffordable for most gamers.",
+    "imageCredits": "Xavierarnau / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/full/JP_5_M_30.jpg?versionId=e1X947H7BYwDEGcvTD7iAfJZMGKFeF.g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/lesson_photo/thumb/JP_5_M_30.jpg?versionId=5p71rUB15Awa01u0eQTwrnvJ9otxxnJT",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/main_audio/9781508235972_Japanese5_U30_Lesson.mp3?versionId=SirUdRvBJEG2qPdIIGHkLnNhkntVhaOA",
+    "level": 5,
+    "lessonNumber": "30",
+    "mediaItemId": 2238951,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Whether taking in a baseball game, or a martial arts competition, sports are a huge part of Japanese culture. Introduced to the country in 1872, baseball is the most popular sport in Japan, followed closely by sumo wrestling.",
+    "imageCredits": "Altrendo Images / Altrendo / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 5 orig/asset/RL/9781508235972_Japanese_5_Alpha.pdf?versionId=uf0lHT2pBS4U4ANMpyPGzgdj0mH_6vUg",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 5 orig/asset/RL/9781508235972_Japanese_5_Intro.pdf?versionId=gCkfdTV4Y0uwLS_oq55HPrBG98xHL33P",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit01_Reading.mp3?versionId=O4MqadGUWV5Lz_5.5KeicxEDoisQ4qoU",
+    "mediaItemId": 2223905
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit02_Reading.mp3?versionId=cO53CvkIJGRb74FfC7hRG9yP6cO1qMy8",
+    "mediaItemId": 2224116
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit03_Reading.mp3?versionId=ccIw3PCcgtDn4Ohi70rxv6s9d.kltRtX",
+    "mediaItemId": 2224264
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit04_Reading.mp3?versionId=7_y3wGMo0qsOcvbTzqpNvnRLU6ddAOL9",
+    "mediaItemId": 2224448
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit05_Reading.mp3?versionId=3QDK7djOk1U5qeO77oy1iJhYCEycWhZU",
+    "mediaItemId": 2224617
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit06_Reading.mp3?versionId=ESQzZRq.S0XMwGEDRhIpeKDmrk1r87xq",
+    "mediaItemId": 2224746
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit07_Reading.mp3?versionId=z3PEz.WpUvtmVy77rR496Kp9CoHmQxxU",
+    "mediaItemId": 2225392
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit08_Reading.mp3?versionId=B1hamk5.uEJtHVLldKYoZiN6YYgoufKZ",
+    "mediaItemId": 2227291
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit09_Reading.mp3?versionId=7crTNU15cQLR3QnxpQu7NsA.saOL_Sjq",
+    "mediaItemId": 2230263
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit10_Reading.mp3?versionId=7Xm7v9FELhoP8ePcBLJV37.BctzNqlUq",
+    "mediaItemId": 2234063
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit11_Reading.mp3?versionId=63NkQkK2vSFh_7U7gEknAfTHmV1XScer",
+    "mediaItemId": 2237441
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit12_Reading.mp3?versionId=85ENvJF6NB1_IBoSgR7IGwUBaR9KSdLn",
+    "mediaItemId": 2240949
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit13_Reading.mp3?versionId=QvzcR4E_6e.zMzXWEYLI0aW2hgug915r",
+    "mediaItemId": 2243869
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit14_Reading.mp3?versionId=AMD6lBzSZSwiwpaEqI0YTR6oFV7hDlv3",
+    "mediaItemId": 2247031
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit15_Reading.mp3?versionId=Sxl5.47fmQOpxdV6r7L_mPfA9mfd44Yt",
+    "mediaItemId": 2250064
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit16_Reading.mp3?versionId=Y8qHEo.VSrhSKYHCxwwBXR.T5pkwza7f",
+    "mediaItemId": 2253102
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit17_Reading.mp3?versionId=kVewcr3RKor9bg40M0aVcxHrjUiqRCzU",
+    "mediaItemId": 2255847
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit18_Reading.mp3?versionId=ahtDcSRcO6myW7JBxp7q2co9AGxgVqtb",
+    "mediaItemId": 2258711
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit19_Reading.mp3?versionId=46cI.HCSHKfSUDdsd5tGk3wa.4..9qnL",
+    "mediaItemId": 2261478
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%205%20orig/asset/RL/9781508235972_Japanese5_Unit20_Reading.mp3?versionId=ySo9cz9oU_nz.3Wx7LkCqa75323B9NtA",
+    "mediaItemId": 2263945
+    }
+    ]
+    },
+    "languageCode": "ja-JP",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508235972",
+    "level": 5,
+    "courseName": "Japanese Level 5 Premium",
+    "simpleCourseName": "Japanese Level 5",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,644 @@
+[
+    {
+    "courseId": 3907,
+    "languageName": "ESL Spanish",
+    "languageId": 143,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_01.jpg?versionId=NdfrSrizadeq9CgdI58h29oUoMVcyLym",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_01.jpg?versionId=TMH09vGmSkbMhupLic5EDheLBMWR8sm4",
+    "credits": null
+    },
+    "name": "Lección 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U01_Lesson.mp3?versionId=ohcckMLA03DXJ4ppqtZIWemM12YE7NZV",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2225253,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "Mujeres latinas son propietarias de más de un millón de negocios en los Estados Unidos, y una de cada 10 compañías que son propiedad de mujeres en los Estados Unidos, es de una latina.",
+    "imageCredits": "Take A Pix Media / Tetra images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_02.jpg?versionId=w1YVOsGKS_Ksr2FbsWrRaiplnHh6y3Qw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_02.jpg?versionId=D2CS5RAaifMtmz6Fi9V1dhWZJQmAn5G5",
+    "credits": null
+    },
+    "name": "Lección 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U02_Lesson.mp3?versionId=L534j1Qp1LEDQyAJBCmQ2Q_vLpHUice7",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2225408,
+    "cultureContent": {
+    "imageLocation": "San Francisco, California, USA",
+    "imageDescription": "El puente Golden Gate es uno de los más emblemáticos y fotografiados en el mundo. La arcada del puente mide 4.200 pies y se alza a una vertiginosa altura de 220 pies por encima del agua en marea alta.",
+    "imageCredits": "Deejpilot / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_03.jpg?versionId=5T7FidQ2zIgTISmkGNU_jc3UeE2PXIzy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_03.jpg?versionId=oXY6mceHocByJvS9hM0zxzcb1yEdt2zN",
+    "credits": null
+    },
+    "name": "Lección 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U03_Lesson.mp3?versionId=ZEiHqRVpl5jwqHo4Gt7uiw76kS1rqlkr",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2225572,
+    "cultureContent": {
+    "imageLocation": "Washington DC, USA",
+    "imageDescription": "En 1963, aproximadamente 250.000 personas se reunieron enfrente del Lincoln Memorial para escuchar a Martin Luther King Jr. pronunciar su histórico discurso: “Tengo un sueño”.",
+    "imageCredits": "Emily Riddell / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_04.jpg?versionId=Pw8IucDJvGDH3YKkcLBRo9Pz9tIARsUJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_04.jpg?versionId=sn3qsQ_UYmXvJpImyEJWJd5ekqWZmF27",
+    "credits": null
+    },
+    "name": "Lección 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U04_Lesson.mp3?versionId=8KCnVn_qFazDKukYbgS4s1QADtiJ7Rcc",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2225767,
+    "cultureContent": {
+    "imageLocation": "Las Vegas, Nevada, USA",
+    "imageDescription": "Famosa por sus casinos, vida nocturna, tiendas, excelentes restaurantes y todo tipo de entretenimiento, en  Las Vegas también hay un parque de diversiones con equipo pesado donde los adultos se pueden divertir manejando palas mecánicas y excavando huecos.",
+    "imageCredits": "Somchaij / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_05.jpg?versionId=HGheXfhF3n_eIPxeNms9az4i8KGQAIS9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_05.jpg?versionId=IlovdkvskcOtOegNkzq7lJIfhue1CPVs",
+    "credits": null
+    },
+    "name": "Lección 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U05_Lesson.mp3?versionId=qq9Zt7pNvZs9MLsidxryNf0nzoI_aKGA",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2225925,
+    "cultureContent": {
+    "imageLocation": "Alberta, Canadá",
+    "imageDescription": "El lago Moraine se encuentra bajo el Valley of the Ten Peaks (Valle de los Diez Picos) en el Parque Nacional Banff. El inusual color azul de lago se debe a “harina de roca”, un polvo fino creado por la erosión glacial.",
+    "imageCredits": "MartinM303 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_06.jpg?versionId=P6MmO8i5khtD_Y.N3kDPYPNT19o2XH2V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_06.jpg?versionId=f5Q_NzPVKs3VID0j2n.g661c4Xjj1BAd",
+    "credits": null
+    },
+    "name": "Lección 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U06_Lesson.mp3?versionId=9bUbtfpYu1mgjnc138b7a0wIWIDXdr3Z",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2226112,
+    "cultureContent": {
+    "imageLocation": "Daytona Beach, Florida, USA",
+    "imageDescription": "Joey Logano, el conductor del Ford Shell Pennzoil #22 hace una parada técnica durante la NASCAR Sprint Cup Series Daytona 500. Las carreras de los automóviles stock son el deporte que le sigue en popularidad al fútbol americano.",
+    "imageCredits": "Jared C. Tilton / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_07.jpg?versionId=z5CzC9SYR4ozzVlCHtm4xx16r1DxPCNi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_07.jpg?versionId=FZOC4PugTT_PYuW.OJJShniwIVexp4ND",
+    "credits": null
+    },
+    "name": "Lección 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U07_Lesson.mp3?versionId=lhT7r2Hngg84101Me5ItqceEC_BJ8CKJ",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2226340,
+    "cultureContent": {
+    "imageLocation": "Utah, USA",
+    "imageDescription": "La esquiadora profesional Cait Morgan sube hacia una cresta en las montañas Wasatch. El esquí ha revitalizado la industria turística en Utah, y algunos dicen que la nieve en Wawstch es la mejor del mundo.",
+    "imageCredits": "Lee Cohen / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_08.jpg?versionId=xqc8RolhjjGjc96nOkvpkRHSfiCap9eZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_08.jpg?versionId=OXUPrEP3RKhoGCxwSNuF8G5sIJviSj3_",
+    "credits": null
+    },
+    "name": "Lección 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U08_Lesson.mp3?versionId=n_Bgwv68UX3usqZ45ubRh6TW0tdQJCq5",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2226581,
+    "cultureContent": {
+    "imageLocation": "Parque Nacional Yellowstone, Wyoming, USA",
+    "imageDescription": "El bisonte americano pasta en una pradera cerca de la cordillera Grand Teton. En 1902, en el Parque Nacional Yellowstone había menos de dos docenas de animales. Hoy, la población del parque supera los 5.000.",
+    "imageCredits": "Matt Anderson Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_09.jpg?versionId=a2dlPEEG0S9qxFG92ip9_1LU6wOALJ6.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_09.jpg?versionId=etitjYwOQeUHp6OTB0JLX1eZ9omo.qIW",
+    "credits": null
+    },
+    "name": "Lección 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U09_Lesson.mp3?versionId=3iFDaG5hpg0xVrCm4loCCnE0UX_1QmAV",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2226861,
+    "cultureContent": {
+    "imageLocation": "Keystone, Dakota del Sur, USA",
+    "imageDescription": "Las cabezas de 4 presidentes de los Estados Unidos se encuentran esculpidas en el granito de Mount Rushmore: George Washington, Thomas Jefferson, Theodore Roosevelt y Abraham Lincoln.  Cada cara tiene 60 pies de altura.",
+    "imageCredits": "Will & Deni McIntyre / Corbis Documentary/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_10.jpg?versionId=ZapeCKidF2Du2OSgjea_tQRqODZmAnwx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_10.jpg?versionId=MmivyiIROs4BriCoKjrw7Jkn1svHjHpe",
+    "credits": null
+    },
+    "name": "Lección 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U10_Lesson.mp3?versionId=V1VGkfyOJogAEHCJTG2VQBXqe6jm0RdI",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2227296,
+    "cultureContent": {
+    "imageLocation": "Parque Nacional del Gran Cañón, Arizona, USA",
+    "imageDescription": "El río Colorado atraviesa el fondo del Gran Cañón, visto aquí desde el mirador Toroweap. El cañón es el resultado de millones de años de erosión, lo cual ha dejado al descubierto una de las más completas columnas geológicas en el planeta.",
+    "imageCredits": "Piriya Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_11.jpg?versionId=2z7lzYteXFr7XF4V0chIBlWowII80CEw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_11.jpg?versionId=mt7axA0.uwl4iO66OrOxFvNyjJ5vuCUo",
+    "credits": null
+    },
+    "name": "Lección 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U11_Lesson.mp3?versionId=Tspv7c4IV7Gl.GwsvTWngJi6VMAbkkEh",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2227553,
+    "cultureContent": {
+    "imageLocation": "Cataratas del Niágara, Canadá",
+    "imageDescription": "Las Cataratas del Niágara, que son realmente tres cataratas, en la frontera entre Canadá y los Estados Unidos, tienen un tasa promedio de flujo de agua de 150.000 galones por segundo. En 1969, los ingenieros cerraron el flujo de las Cataratas estadounidenses para apuntalar la base.",
+    "imageCredits": "Mike Lanzetta / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_12.jpg?versionId=TCqnHjxj6WaCuyDS7dvMwqqy5W7azNbt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_12.jpg?versionId=LL9jevbkoFVjftlVzYdZ_oHxWaM_W02e",
+    "credits": null
+    },
+    "name": "Lección 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U12_Lesson.mp3?versionId=w8mKZ3qgaaFnhpN7iioOS2PoZwt5zrmw",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2227853,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "El fútbol estadounidense es el deporte más popular en los Estados Unidos, y el Super Bowl es uno de los eventos deportivos con más audiencia en el mundo.",
+    "imageCredits": "Thomas Barwick / Stone/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_13.jpg?versionId=QF0ntbopG78Lspsqo851Yx7t8QEM0jta",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_13.jpg?versionId=N5FtDkXLWcuaJguPpOAr1XsFolWqZ0CS",
+    "credits": null
+    },
+    "name": "Lección 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U13_Lesson.mp3?versionId=8nl.8uqnoUJu.jbnYFGxWNGmxHQkiE7G",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2228138,
+    "cultureContent": {
+    "imageLocation": "Isla Mount Desert, Bar Harbor, Maine, USA",
+    "imageDescription": "Lo que alguna vez se consideró alimento sólo para los pobres, la langosta estadounidense se servía a los insatisfechos prisioneros y era usada como fertilizante. Las langostas de Maine pueden llegar a pesar más de 45 libras.",
+    "imageCredits": "Alan Copson / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_14.jpg?versionId=7yJOVdsGRqPT_.MZ.VaT.NhCRPGQhScU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_14.jpg?versionId=pjeToLVSV7DPvwhQ6s5av4qLZIBQZmDc",
+    "credits": null
+    },
+    "name": "Lección 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U14_Lesson.mp3?versionId=iMmn0RzDwKl82g.lOwljtYVGDy1LBck3",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2228590,
+    "cultureContent": {
+    "imageLocation": "Louisville, Kentucky, USA",
+    "imageDescription": "Los originales sombreros son solo una parte del emblemático Kentucky Derby, una carrera de caballos que se lleva a cabo cada año. Tomar mint juleps, un coctel hecho con bourbon, menta y jarabe de azúcar, y comer “burgoo”, un espeso guiso hecho de carne de res, pollo, cerdo y vegetales son  parte de la diversión.",
+    "imageCredits": "Bloomberg / Boomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_15.jpg?versionId=D32PvJPWfQ_OqCj1Dv6JOzCKA2r.hlNw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_15.jpg?versionId=T5Xa0Le4udmrWwcda04iBWdWe0V5gyQU",
+    "credits": null
+    },
+    "name": "Lección 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U15_Lesson.mp3?versionId=.qz3IDtnpRq971b7G7LAdEYBWYeAHYfy",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2228932,
+    "cultureContent": {
+    "imageLocation": "Lago Tekapo, región Canterbury, Nueva Zelanda",
+    "imageDescription": "El área alrededor de la cuenca Mackenzie en el lago Tekapo ha sido designada como una de las reservas de cielo oscuro de la UNESCO. Las regulaciones locales en contra de la contaminación ligera hacen de esta área uno de los mejores lugares para mirar las estrellas en el Hemisferio Sur.",
+    "imageCredits": "Simon Bradfield/ iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_16.jpg?versionId=_in2Xap4yEmoVQ1P.22eS9Ogem_uBIK6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_16.jpg?versionId=WTOsuxRPUJXtlM.5teVAp.I886Q4BI44",
+    "credits": null
+    },
+    "name": "Lección 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U16_Lesson.mp3?versionId=Z.EQOub2iRUucFNuC4Aw683McnaU1Kqo",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2229308,
+    "cultureContent": {
+    "imageLocation": "Hollywood, California, USA",
+    "imageDescription": "Originalmente el simbólico letrero “Hollywood” aparecía como “Hollywoodland” y era una valla publicitaria para una urbanización.",
+    "imageCredits": "Chiara Salvador / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_17.jpg?versionId=iNXTWVj4Q7TXepnpyp.F.tC12LNjrKnv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_17.jpg?versionId=iQDOLOH5KehkMbM_JB8vWfSehynFQuQ2",
+    "credits": null
+    },
+    "name": "Lección 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U17_Lesson.mp3?versionId=V8m2piJcqjb.y.fW0b.vp6F0MoVU1xu_",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2229690,
+    "cultureContent": {
+    "imageLocation": "Nueva Orleans, Luisiana, USA",
+    "imageDescription": "El Mardi Gras, en Nueva Orleans, celebra el fin de la cuaresma. Durante las dos semanas previas al Miércoles de ceniza, se realizan desfiles diarios con música, lujosas carrozas, creativos disfraces y fiestas extravagantes  llamadas “balls”, patrocinadas por grupos comunitarios llamados “krewes”.",
+    "imageCredits": "Jonathan Bachman / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_18.jpg?versionId=SWXnqCO1PhgqPvr1mQnzTHciAW9qCe_b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_18.jpg?versionId=gKCSBMayd5HSmPstMc_AXMenR2lytHlJ",
+    "credits": null
+    },
+    "name": "Lección 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U18_Lesson.mp3?versionId=PphDBZhWk.bFxNw9S6d9Lgp6wZd9WfOX",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2230040,
+    "cultureContent": {
+    "imageLocation": "Killington, Vermont, USA",
+    "imageDescription": "El follaje durante el otoño en Nueva Inglaterra atrae a turistas de todo el mundo y le inyecta un estímulo de aproximadamente 3 billones a la economía. Los brillantes colores se pueden ver aun durante el verano. A medida que la cantidad de luz solar disminuye en el otoño, la clorofila se descompone y los colores brillan.",
+    "imageCredits": "Denis Tangney Jr / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_19.jpg?versionId=DObnosgTyOrEUU4svScWtGa8XoXu5htV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_19.jpg?versionId=x40BBWqJeHyjD6o9khru0KMiI17dU2Qx",
+    "credits": null
+    },
+    "name": "Lección 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U19_Lesson.mp3?versionId=HL5Q2q2GjYTd7k2UY5EghXQxEWzuF.k6",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2230389,
+    "cultureContent": {
+    "imageLocation": "Carolina del Norte, USA",
+    "imageDescription": "Antes de que el faro en la isla Hatteras se construyera, la peligrosa área a su alrededor se conocía como “El cementerio del Atlántico”. A 210 pies de altura, es el faro de ladrillo más alto en los Estados Unidos.",
+    "imageCredits": "Raymond Gehman / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_20.jpg?versionId=1n9HwKqZ4bRwNNtBF.er5jsjdi0bfakp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_20.jpg?versionId=zNvnXPEdW44hI1pa6jALF_cVe36LN73i",
+    "credits": null
+    },
+    "name": "Lección 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U20_Lesson.mp3?versionId=kkHImmeYvTJhVgg4Fg_AwSTDGimlaCvR",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2230855,
+    "cultureContent": {
+    "imageLocation": "Albuquerque, Nuevo México, USA",
+    "imageDescription": "La Albuquerque International Balloon Fiesta es el festival de globos aerostáticos más grande del mundo. Se lleva a cabo anualmente en octubre, dura 9 días y en él participan más de 500 globos cada año.",
+    "imageCredits": "Alan Copson / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_21.jpg?versionId=10aCeYbhJupQZfnSEvpks9j99c_TwX5s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_21.jpg?versionId=FHgGuXQMI21zFiR15u9b13id7wg70rV7",
+    "credits": null
+    },
+    "name": "Lección 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U21_Lesson.mp3?versionId=peFwAJ3cVjZ2ySWwaz_Dgti27n3cioTY",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2231431,
+    "cultureContent": {
+    "imageLocation": "Alliance, Nebraska, USA",
+    "imageDescription": "Carhenge, una réplica del Stonehenge de Inglaterra, se encuentra en la región de High Plains y se compone de 39 automóviles estadounidenses clásicos, todos pintados de gris. Desde su inauguración en 1987, ha aparecido en la música popular, film, televisión e Internet.",
+    "imageCredits": "Christian Heeb / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_22.jpg?versionId=sL0ls_FdGQawopwBu1uRPHxeOTAYtFvJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_22.jpg?versionId=Qgx.qOGPQ1yDLZZIaZkrgZ4vVSQGyLkM",
+    "credits": null
+    },
+    "name": "Lección 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U22_Lesson.mp3?versionId=jrXxQ3.2rHe9B.ttpW6Yh83.6c1rq5Qg",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2231801,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "El Día de Acción de Gracias es un día de fiesta oficial en los Estados Unidos y se celebra el cuarto jueves en noviembre.  La tradición de comer pavo como plato  principal, ha llevado a que a este día se le conozca como “el día del pavo”.",
+    "imageCredits": "evgenyb / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_23.jpg?versionId=nFHIuRZBEShEVnYaoLFPEmfQBLBZfAvb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_23.jpg?versionId=oVhHCe3FmVL8AlG8vmejRXZmsQ8Rx44W",
+    "credits": null
+    },
+    "name": "Lección 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U23_Lesson.mp3?versionId=.wz3TLkRzUz0kJCASC6ptEWtxm2VZjEe",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2232149,
+    "cultureContent": {
+    "imageLocation": "Punxsutawney, Pennsylvania, USA",
+    "imageDescription": "Pennsylvania afirma que es el hogar de Punxsutawney Phil, la marmota más vigilada en el país el 2 de febrero, Día de la marmota.  La leyenda dice que el invierno durará seis semanas más si Phil ve su sombra cuando sale de su madriguera ese día.",
+    "imageCredits": "Mark Wilson / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_24.jpg?versionId=n2_tUrwZUlPwf.kfZ3zBGPt2GNHKak5c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_24.jpg?versionId=HRGFUG4.uFBuPy3fUYGTnOYPoXoN9ftg",
+    "credits": null
+    },
+    "name": "Lección 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U24_Lesson.mp3?versionId=bzAYaU4TzHq4e8IXj9uxTJPKeEWspqo2",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2232524,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "Una actividad popular durante Halloween en todos los Estados Unidos es tallar e iluminar calabazas para hacer faros, llamados Jack-O-Lanterns.  Se cree que la tradición de esculpir caras espeluznantes o cómicas en las calabazas se originó en Irlanda, donde también se usan los nabos.",
+    "imageCredits": "Erik Freeland / Corbis Historical/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_25.jpg?versionId=F8V5Jt7XcSCYSJs4NF8lxMSztMjrdEsu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_25.jpg?versionId=Ec7xBAxRE9q9sj9LYLMNOCVBwU__x_z2",
+    "credits": null
+    },
+    "name": "Lección 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U25_Lesson.mp3?versionId=XK1MhZJvWoqXL4aw4440s18SI5NjM7qb",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2233019,
+    "cultureContent": {
+    "imageLocation": "Chicago, Illinois, USA",
+    "imageDescription": "Cloud Gate es una escultura del artista Anish Kapoor en el Millennium Park en Chicago, Illinois. Se le llama cariñosamente “The Bean”,  y está compuesta de 168 placas de acero inoxidable pulidas para que no se noten las uniones.",
+    "imageCredits": "Chris Mellor / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_26.jpg?versionId=DykjXN8Eo_zh3peuX0ZPdMkN8JwuU88D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_26.jpg?versionId=QZenEPTbOGhAqCMO2HPpYO7eADMY4mfy",
+    "credits": null
+    },
+    "name": "Lección 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U26_Lesson.mp3?versionId=A0w.2yxjxKQ4hTW3xRtNtkNbg2f9SVsd",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2233425,
+    "cultureContent": {
+    "imageLocation": "Calgary, Alberta, Canadá",
+    "imageDescription": "El Puente de la paz fue diseñado por el arquitecto español Santiago Calatrava y es usado por peatones y ciclistas para cruzar el río Bow. Más o menos 600 personas usan el puente cubierto de vidrio diariamente para viajar entre las comunidades de Sunnyside y el centro de Calgary.",
+    "imageCredits": "Joe Daniel Price / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_27.jpg?versionId=o97nKDW_4ELRc3onolvWfQIpzY8fGUir",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_27.jpg?versionId=PmBv9W15Gpszq6QMjLgbp3cTnPJqwlWh",
+    "credits": null
+    },
+    "name": "Lección 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U27_Lesson.mp3?versionId=ut77wW4erqLkNGMNpjw5ty5NMg0QHtws",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2233885,
+    "cultureContent": {
+    "imageLocation": "Chicago, Illinois, USA",
+    "imageDescription": "Las escaleras de la parte norte del Museo de Arte Contemporáneo de Chicago (MCA) deslumbra a los visitantes, sin importar su perspectiva. El arquitecto Josef Paul Kleihue diseñó el museo basándose en temas de simplicidad, apertura y serenidad.",
+    "imageCredits": "Franz-Marc Frei / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_28.jpg?versionId=1uS23fSJYWkiz04BpVG9RCKDgrpMVTV6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_28.jpg?versionId=DZqIEmW6fREZb67uprNfZcPvJ4HaLFe5",
+    "credits": null
+    },
+    "name": "Lección 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U28_Lesson.mp3?versionId=nWrYuArHNnuBvO3HdfXluuBFsLeswAD.",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2234230,
+    "cultureContent": {
+    "imageLocation": "Desierto Black Rock, Nevada, USA",
+    "imageDescription": "El festival anual de Burning Man (Hombre en llamas) que se lleva a cabo en Nevada se enfoca en comunidad y arte y ha crecido hasta alcanzar 70.000 asistentes llamados “Burners”. El evento, que dura una semana, culmina con la quema de la escultura de una figura humana el último sábado del festival.",
+    "imageCredits": "Photoshot / Hulton Archive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_29.jpg?versionId=zq45sjJHi6XKxjS1DnXPP2zYy48BZGRv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_29.jpg?versionId=kLbZnk2fLEYaA3bGmpUhSfZV.CAXrAHO",
+    "credits": null
+    },
+    "name": "Lección 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U29_Lesson.mp3?versionId=h3KufljA2rml3M0ISAW6zarNVqrd2h6j",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2234568,
+    "cultureContent": {
+    "imageLocation": "Cannon Beach, Oregon, USA",
+    "imageDescription": "Las fogatas en Cannon Beach iluminan Haystack Rock al fondo. Con una altura de 235 pies, la monolítica roca es uno de los más grandes promontorios marinos en la costa Pacífica de los Estados Unidos. Todo tipo de vida marina pulula en las pozas de marea cercanas.",
+    "imageCredits": "Mint Images / RF/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/full/ESL_SP_1_M_30.jpg?versionId=oGYIK.vO2SlnpWK5hhtlkmjd8ecEMMsi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/lesson_photo/thumb/ESL_SP_1_M_30.jpg?versionId=VtzKeSj.Tkd50IOtdmMeLnuUhK67z0hP",
+    "credits": null
+    },
+    "name": "Lección 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/main_audio/9781508235927_ESL_Spanish1_U30_Lesson.mp3?versionId=9BrEIVVGrGHrktqt.aTicGSdEpbu4OXk",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2235045,
+    "cultureContent": {
+    "imageLocation": "Ciudad de Nueva York, Nueva York, USA",
+    "imageDescription": "La ciudad de Nueva York ha sido llamada la capital de la cultura mundial. Es considerada como una de las ciudades con más diversidad linguística en el mundo, donde se hablan por lo menos 800 idiomas cada día.",
+    "imageCredits": "Stanley Chen Xi / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/English for Spanish Speakers/English for Spanish Speakers Level 1 orig/asset/RL/9781508235927_ESL Spanish_1_Intro.pdf?versionId=MojZlYZQUMFiCxiR6OTSX1eSvoya1vAp",
+    "audios": [
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit09_Reading.mp3?versionId=wHqSWESh.eV8OrEKjHwKb_y_Ay_TpWBD",
+    "mediaItemId": 2223730
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit10_Reading.mp3?versionId=VoL7Jtdu1v9iwUKkCBdXgPfgYemdZtmg",
+    "mediaItemId": 2223852
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit11_Reading.mp3?versionId=pxbITq9BJnF2s3xwrb.Mt7kwzoFhFTl6",
+    "mediaItemId": 2224054
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit12_Reading.mp3?versionId=enRUoqRL_fwHsdkXiw1iIwlGaEpPrzAQ",
+    "mediaItemId": 2224189
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit13_Reading.mp3?versionId=W.0EqpWuVZuS8JRWqCG5JsAr12DgvTQM",
+    "mediaItemId": 2224402
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit14_Reading.mp3?versionId=cY_4iVw2NtA3wa09LKnZqSb4hqKlKkT_",
+    "mediaItemId": 2224524
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit15_Reading.mp3?versionId=WSFtAWuO2tiR3GucdJUUg6lI6Zqb8xTk",
+    "mediaItemId": 2224711
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit16_Reading.mp3?versionId=l426pWaKFo.zsZzt9LPV0lrYhgc6.Jb8",
+    "mediaItemId": 2224942
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit17_Reading.mp3?versionId=7wnqUfzmuwXcPOFZEWWUiXkILaetWRZ_",
+    "mediaItemId": 2226323
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit18_Reading.mp3?versionId=pvFffLPP9yNBL6OvW.2HlAJIMqBUM_jC",
+    "mediaItemId": 2228728
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit19_Reading.mp3?versionId=6bkqB13mm4bKGItAS22fW6Ueu5K.ksQc",
+    "mediaItemId": 2232001
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit20_Reading.mp3?versionId=_pqLLv8RG1.eklmJTi3bBUlyODpMHSac",
+    "mediaItemId": 2235716
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit21_Reading.mp3?versionId=Di3y9PZNYo5OghwkikZ_3lSSldP_Lvs6",
+    "mediaItemId": 2239046
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit22_Reading.mp3?versionId=7uIkLgY9ZYHmvU64xOvnJgmt1bx32mnr",
+    "mediaItemId": 2242105
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit23_Reading.mp3?versionId=yA2ws62LUwXMzASD4iwnIlFRuiePAyRe",
+    "mediaItemId": 2245269
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit24_Reading.mp3?versionId=llUIMbCisEqYqkjsco7w.jsPeyAJvRCc",
+    "mediaItemId": 2248176
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit25_Reading.mp3?versionId=7q0bIgQUcyh7RQpxyXDqmv.BnybwHZUP",
+    "mediaItemId": 2251345
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit26_Reading.mp3?versionId=p8WnvK9RSo.jCzQeoJ8p.c_XoGRz8uoH",
+    "mediaItemId": 2254296
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit27_Reading.mp3?versionId=iMDj0Mp9foOlDS2xpU_Mje77Q7X_dYwM",
+    "mediaItemId": 2257139
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit28_Reading.mp3?versionId=DUbOQNO6Zu2kDR5SOIq3ePR2jqJVzrNT",
+    "mediaItemId": 2259973
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit29_Reading.mp3?versionId=5lA80zZ7ZTLOocjsf3Sw0pgMEBYiVW.m",
+    "mediaItemId": 2262387
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%201%20orig/asset/RL/9781508235927_ESL_Spanish1_Unit30_Reading.mp3?versionId=3JdNt9JQvW2vJSMxpv5QTeVi97Gf138V",
+    "mediaItemId": 2264466
+    }
+    ]
+    },
+    "languageCode": "en-US",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508235927",
+    "level": 1,
+    "courseName": "English for Spanish Level 1 Premium",
+    "simpleCourseName": "English for Spanish Speakers Level 1",
+    "puArabic": false
+    }
+    ]

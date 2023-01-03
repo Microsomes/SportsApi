@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 200003,
+    "languageName": "Japanese",
+    "languageId": 156,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_01.jpg?versionId=sWwipP6HswCyqA5r.IIQGmFNB2taVVuJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_01.jpg?versionId=qj4JYRHt1xc7OYS1Fb_pRWL1eFMIQyaa",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson01.mp3?versionId=NabaFhxlCOydJamgv7izew5_aWzNOn.p",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2330359,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "In preparation for stringent entrance exams, Japanese students often attend juku (\"cram\") schools which have them spending extra hours every day after school studying with hopes of attending the best schools.",
+    "imageCredits": "Benoist Sebire / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_02.jpg?versionId=AUMYwvyNJMxRPGkjoXkI8LsUbRoIQcrE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_02.jpg?versionId=392b0JcxbwdhYfpiSwphKK9JSCt2_o5k",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson02.mp3?versionId=.OqBfguiOI6cqtrpqOd0etmWp8V_Idpf",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2330360,
+    "cultureContent": {
+    "imageLocation": "Nara, Honshu, Japan",
+    "imageDescription": "The Kasuga Grand Shrine, or Kasuga-taisha, is a Shinto shrine built by the Fujiwara family in the 8th century CE. The path to the shrine weaves through a lantern-lit park, where tourists can feed and interact with free-roaming deer. The deer are thought to be messengers from the Shinto gods within the shrine, and have even learned how to bow to visitors for food.",
+    "imageCredits": "miralex / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_03.jpg?versionId=gkxQzOiPRuAiETtNIrzq_9Z63Z3SqUh0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_03.jpg?versionId=X6mo8yUkswQo7HnED3YL8Z_2LUaEKHC5",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson03.mp3?versionId=w774WCwjzdxrsaPSqacQglfjQ2eSFGtg",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2330362,
+    "cultureContent": {
+    "imageLocation": "Okayama, Chugoku region, Japan",
+    "imageDescription": "Korakuen Garden, which surrounds Okayama Castle, is considered one of the Three Great Gardens of Japan.  The castle was nearly destroyed by bombers during World War II. Reconstructed in 1966, it is now open to the public, with tours and displays offering historical information about the castle and its inhabitants.",
+    "imageCredits": "Kyle Lin / Moment / Getty Images Plus"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_04.jpg?versionId=Dh66AN9VIGNaYuzDMJFoa8WuDKUIX0Ay",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_04.jpg?versionId=EbKPN7dASiTkrKMjcm9k2cxk6.X6DumD",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson04.mp3?versionId=lKEIvduUAJf5.62hbfpYeD9mwMaNEibl",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2330361,
+    "cultureContent": {
+    "imageLocation": "Osaka, Japan",
+    "imageDescription": "Baseball was introduced to Japan around 1868 by an American named Horace Wilson, and by 1920, Japan had its first professional team. Baseball is now the most watched and played sport in Japan, with teams existing at all levels, from elementary school to professional teams that compete around the world.",
+    "imageCredits": "Koji Watanabe / Samurai Japan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_05.jpg?versionId=kDErPdxa0.47Y3UIubsmUNIgNV5RdfrG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_05.jpg?versionId=KtnKL5g2WEMjtH1AtvAxlwdVKUlCT22D",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson05.mp3?versionId=q62z8fAgyoVh5ialpEzKMZdu4V2IwCY2",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2330364,
+    "cultureContent": {
+    "imageLocation": "Chiyoda, Tokyo, Japan",
+    "imageDescription": "The Mitama Festival in mid-July marks the beginning of Obon, a Shinto holiday during which thousands of visitors come to the Yasukuni Shrine to celebrate their deceased ancestors. The entryway has forty-foot high walls, decorated with more than 30,000 lanterns. In the evening, portable shrines called mikoshi are carried through the crowds, while the crowd cheers.",
+    "imageCredits": "Kohei Kawahara / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_06.jpg?versionId=l3HXI38vC3ECrfX2cp6MM8XIk4sqlh9O",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_06.jpg?versionId=3pfEa2x2_pPaOP4Wg5zaCbY0cvD39y8y",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson06.mp3?versionId=XjJPy7A1skQF9scQ0iJGnEmDyp_444eQ",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2330363,
+    "cultureContent": {
+    "imageLocation": "Chiyoda, Tokyo, Japan",
+    "imageDescription": "The facade of Tokyo's main railroad station includes both stately elements of European architecture and Oriental domes.",
+    "imageCredits": "ULTRA F / Taxi Japan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_07.jpg?versionId=PMoWwJkTvNcvzUcss2JqK9o2okEnQn4z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_07.jpg?versionId=uSbxNTqt.aN7P8L1MYMfgMsUvL0zfZR7",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson07.mp3?versionId=K1oBB4OdbBWNt9woNScyZJvbrdMwZZgS",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2330365,
+    "cultureContent": {
+    "imageLocation": "Shinjuku, Tokyo, Japan",
+    "imageDescription": "Godzilla has had a long and illustrious film career, appearing in 28 films between 1954 and 2004. In April 2015, the Toho Shinjuku Building opened with the goal of introducing the country's signature monster to a new generation of Japanese filmgoers. A twelve-meter tall replica graces the 8th floor terrace, treating passersby to the illusion of Godzilla breaking his way through the building some forty meters above their heads. Avid fans can stay in Godzilla-themed rooms at the Hotel Gracery Shinjuku, which is located on the upper floors of the building, and watch movies at the 12-screen Toho Cinemas.",
+    "imageCredits": "Anadou Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_08.jpg?versionId=Ilh85aJHC5UXju89AG9B_Wqgkv1WDfch",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_08.jpg?versionId=sLciMo4s78Vr4wOiicoxCn8SAdzeNYkp",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson08.mp3?versionId=Ze7wdxEiLk9psc1BNVfC7iFYKzzNg4Bp",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2330366,
+    "cultureContent": {
+    "imageLocation": "Koyasan, Wakayama Prefecture, Japan",
+    "imageDescription": "Traditional stone lanterns line the path to one of Mt. Koya's 117 temples. The Buddhist monk Kobo Daishi (\"Kukai\") founded a center for his sect there in 826 A.D., now the center of Shingon Buddhism.",
+    "imageCredits": "Ryouchin / Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_09.jpg?versionId=hjkIYaz75XCgUkx6bSZ6dLJUrorgwa.y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_09.jpg?versionId=OND_VXeNqUUuJ7X0fmQjgSZSuO5ztweh",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson09.mp3?versionId=PPqyjl1avIm3tuvTYYrMco4t5rUkT9sK",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2330367,
+    "cultureContent": {
+    "imageLocation": "Nagano, Chubu, Japan",
+    "imageDescription": "Stone lions are often found \"guarding\" traditional Japanese temples. These kimainu are usually found in pairs and are said to scare off evil spirits.",
+    "imageCredits": "Antony Giblin / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_10.jpg?versionId=YZYuTkoHPGw554YbQCUAIZt6wzBVmdzu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_10.jpg?versionId=c4HFBR.fVSGwWxXCP73rmBY5QkTeFmnr",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson10.mp3?versionId=3qJ1i4sdcxtF0e2Ltu21_R6qPRPlM91G",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2330368,
+    "cultureContent": {
+    "imageLocation": "Kanto Region, Tokyo, Japan",
+    "imageDescription": "Japan has a lively and volatile stock exchange - nearly 4,000 listed companies with a market capitalization of $4.48 trillion (USD) in 2016.",
+    "imageCredits": "Yoshikazu Tsuno / AFP Creative / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_11.jpg?versionId=jcIiE7J5505WC1CchUZIxYf.ikrOum0t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_11.jpg?versionId=BYs5TLo_VHl.S8VgpuxXQvAAQCs2RxsE",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson11.mp3?versionId=qpAbW.iRuEN1wWL4FFVTMSZLkWTLv8rr",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2330369,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "A master of the Japanese tea ceremony may spend a lifetime gathering the specialized dōgu (\"tools\") required. Perhaps the most essential of these is the chawan (\"tea bowl\"), which, along with the chasen (\"whisk\") is used to prepare the tea. Tea whisks are carved from a single piece of bamboo. The type of bowl and whisk used depend on whether one is preparing thin or thick tea.",
+    "imageCredits": "Yuichiro Chino / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_12.jpg?versionId=uUBYh9s7Xu0_q0x8tBasX5fAWK_GhLoF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_12.jpg?versionId=JGwUqZu7wj5e4refhkqh3ZJ7sB4FvrAT",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson12.mp3?versionId=ycSS4iSD9vnPuRB._4nf9fn.ifomlyLp",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2330372,
+    "cultureContent": {
+    "imageLocation": "Nagano, Japan",
+    "imageDescription": "The historic city of Nagano was the home of the 1998 Winter Olympics, the southernmost city ever to host the Winter Games. During the Games, American Tara Lipinski won a gold medal in women's figure skating.",
+    "imageCredits": "Matthew Stockman / Getty Images Sport Classic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_13.jpg?versionId=XbVR3a8LV6Ue1krG8DIWTBfuO.DiTM6v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_13.jpg?versionId=y_yc0ABXlxbSRTyc6cXIa2eq3_NnrK5F",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson13.mp3?versionId=n3rl.HhcM3m46vuAS61rpIYuR2Dhu6p5",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2330371,
+    "cultureContent": {
+    "imageLocation": "Yukawa, Iwate Prefecture, Japan",
+    "imageDescription": "A soak in a roten-buro, a wooden open-air pool fed by volcanic hot spring water, provides a warm and relaxing experience. Volcanic hot springs (onsen) are found in many areas of Japan.",
+    "imageCredits": "ULTRA F / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_14.jpg?versionId=y4yIvT85hGSm_SVT_FwrIP.Xd4QEhAqG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_14.jpg?versionId=Hs4PuOq0Q1h5rVAIY8mzaWelH_RJ1C4J",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson14.mp3?versionId=W76Bq2WAqaaHNXUaTqAWYUdqIxzDx2H0",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2330370,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "The dango, a sweet dumpling made of mochiko (rice flour), is first boiled, then skewered on a bamboo stick and grilled. Different varieties flavored with green tea, chestnut, red bean paste, sesame and other fillings are eaten in different seasons, depending on the time of year and the ingredients used.",
+    "imageCredits": "Oongnoi / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_15.jpg?versionId=iM1_OB7cTw3VEIKcqhiCQoNaPYDdrHQK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_15.jpg?versionId=ZokOywGJRh9sZmaISKBTCotI.R0EQwz8",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson15.mp3?versionId=WmOcpyBjIF.VzLJvUaTIj53Dd3iJAKAY",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2330373,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Japan",
+    "imageDescription": "Gion, the oldest section of Kyoto, contains many restaurants. This one is constructed of thin pieces of wood which may be covered with plaster to form interior walls or interlaced to make strong latticework. Here, the structure allows air to flow freely into and out of the building.",
+    "imageCredits": "B. Tanaka / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_16.jpg?versionId=ClNAvA2G9I6gFVJtZ79Zc.Z794A2UG_3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_16.jpg?versionId=ae0dWB9E2pjTXWwBWQS5HZ44r7oLqsm6",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson16.mp3?versionId=N1n9CfxDBswtAkO1vDL53UAHrMK37kDI",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2330374,
+    "cultureContent": {
+    "imageLocation": "Shimbashi, Tokyo, Japan",
+    "imageDescription": "In 1972, architect Kisho Kurokawa envisioned a future in which people would live in capsule-like apartments that could be moved from one building to another  in a different location. His Nakagin Capsule Tower included 140 capsules, each featuring the most up-to-date technology and appliances. About 20 of them are still used as full-time living spaces, with the rest serving as art studios, part-time homes and offices.",
+    "imageCredits": "Yoshikazu Tsuno / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_17.jpg?versionId=uzXe9vRgxfpZpbdPXR6GjbeuKYALV7y7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_17.jpg?versionId=oDGM.WoUgWE1Y3eP84XmdUAxFpTrS43n",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson17.mp3?versionId=DgmPhQOttJIOgGY1ndNAQ44dsBoNh2Oy",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2330375,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "The koto is the national musical instrument of Japan. Its ancestor is the gu zheng, a Chinese instrument with 16 strings brought to Japan during the 7th century. The koto has either 13 or 17 silk strings and moveable bridges, and it is played with fingerpicks worn on the thumb, index and middle fingers.",
+    "imageCredits": "Don't worry be happy / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_18.jpg?versionId=dsKQk6G1yWJYb4yEe54qgHBT1kU5JLM8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_18.jpg?versionId=WbmWhdY4CCMZJfnuzOsoqmkQVwMi7.OO",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson18.mp3?versionId=T3LyiuTbUSv8HUOIoaLYXzKMrtaOy6sk",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2330380,
+    "cultureContent": {
+    "imageLocation": "Harajuku District, Tokyo, Japan",
+    "imageDescription": "Young, trendy fashionistas model their versions of harajuku style. Named for the Tokyo district known as the epicenter of Japanese teen culture, this street-fashion is a boldly creative and individualized mix of anime, pop, glam, punk, and gothic styles.",
+    "imageCredits": "Emmanuel Faure / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_19.jpg?versionId=inlgOwuHH90AmKM8.VlE8HiyjTPk72P5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_19.jpg?versionId=4ZwrA5cVH.VT5Evsiscxs9WmwMR0Xy4N",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson19.mp3?versionId=rnZvWUWeBNZrA6Py5PAxHlIFMBs0aPgo",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2330383,
+    "cultureContent": {
+    "imageLocation": "Koto District, Tokyo, Japan",
+    "imageDescription": "Established in 1988, the Yumenoshima Tropical Greenhouse Dome is a tropical garden built on reclaimed land. Its three domes house more than 1000 species of tropical and subtropical plants. One reproduces a rainforest, complete with a waterfall, orchids, and ferns; another depicts a tropical village, and the third contains vegetation from the sub-tropical Ogasawara Islands. There is also an exhibit filled with carnivorous plants, and a surrounding park filled with cherry trees.",
+    "imageCredits": "Tsuneo Yamashita / Taxi Japan / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_20.jpg?versionId=28hnMN7WGW1EyFYansWbBlSgJUVbDSAd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_20.jpg?versionId=6iZVL9HmUst41bwtPH8JLmJ2gAVMjmt5",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson20.mp3?versionId=Wb72NVz4tp7NcR3Je2I.GmXwOV6XIEw6",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2330377,
+    "cultureContent": {
+    "imageLocation": "Yokohama, Kanagawa Prefecture, Japan",
+    "imageDescription": "Minato Mirai (\"Harbor of the Future\") is the central business district of Yokohama. With towering skyscrapers rising high above the water. this seaside district is home to a wealth of attractions, including the Sky Garden Observatory, several museums, a convention center, and many shopping centers and hotels. Visitors can also ride the Cosmo World Ferris Wheel, which displays the time and was once the world's largest clock.",
+    "imageCredits": "Juergen Sack / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_21.jpg?versionId=hemJjc1nQnGh_kg9z84hSjG4jukMGJ31",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_21.jpg?versionId=CnNC_JogKPjBp0GIx2oPCND4u.qJsiOy",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson21.mp3?versionId=arXsogEWHSw0ol0u.emkJD96OX0RS2Og",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2330381,
+    "cultureContent": {
+    "imageLocation": "Takayama, Gifu Prefecture, Japan",
+    "imageDescription": "Nikuman can be found at most convenience stores in Japan. These steamed buns are filled with beef or pork, and are a hot, tasty snack during the cold winter months. Popular flavors include traditional, curry, pizza, and anman, filled with a red bean paste.",
+    "imageCredits": "Judy Bellah / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_22.jpg?versionId=iBlgXKG7lnVqUEsLTCQqlgfhNFGVEF7U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_22.jpg?versionId=MvvtL7Mm6Qr_.NA7ubbPIFQdpzLYtzUs",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson22.mp3?versionId=XBRYxG1gqrUC6ymaONJIam_z0PGOCI17",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2330379,
+    "cultureContent": {
+    "imageLocation": "Kurobe, Toyama Prefecture, Japan",
+    "imageDescription": "The Tateyama Kurobe Alpine Route crosses the Hida Mountains and includes a visit to the Kurobe Dam. The Kurobe area receives some of the heaviest snowfall in the world, reaching 23 ft. in an average season. Between mid-April and late-May, over one million guests come to see the 50 ft. \"snow walls\" of Kurobe formed as the route is plowed.",
+    "imageCredits": "Dousan Miao / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_23.jpg?versionId=S33CVVATKMGiNk64iIIl0fvSLk7A6Cr1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_23.jpg?versionId=gcS3Izv6V.iuZoHtqt98yVJbQ7uXtAg_",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson23.mp3?versionId=awC6FdvM.Aq0IHYTx865IRQjXORwIlvz",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2330378,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Renowned as being one of the most efficient public transit systems in the world, the Tokyo subway is relied upon by millions of riders every day. The continued use of Tokyo's underground transportation system has prompted an entire urban ecosystem to flourish underground, with boutiques, pedestrian passageways, and food stands made readily available at busy subway stops.",
+    "imageCredits": "percds / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_24.jpg?versionId=mC5fkcMvl75kOoAyvMzU3MaZj38h3pcC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_24.jpg?versionId=iFfdReDbL5jsjtJa_n9Wms9f3dZAhHuU",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson24.mp3?versionId=Otw6uYpg43HmYKkHjzF1QWf0CjnlNbUh",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2330376,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Cycling is one of the best ways to get around urban Japan. Cyclists must ride on the left side of the road, and must stay off the sidewalks. Bicycles must be registered with the prefectural police, and each must have brake lights and a horn.",
+    "imageCredits": "Hiroshi Watanabe / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_25.jpg?versionId=pWGC18PXzbwrEjeIqyKP95u3lN2Fh10Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_25.jpg?versionId=_nCEF3Cx_BwhV3cEvB.j0ycf1zTBjOZy",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson25.mp3?versionId=opuR2eIYQKCpW7VJo05gAeb.9ALYiPNr",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2330382,
+    "cultureContent": {
+    "imageLocation": "Oga, Akita Prefecture, Japan",
+    "imageDescription": "Namahage statues pay homage to deities bearing a resemblance to ogres or demons. Every winter during the Sedo Festival, young people dress up as namahage and go from house to house, admonishing people for their misdeeds and shortcomings. Homeowners appease them with offers of sake and mochi cakes, and in return for their hospitality, are supposed to enjoy blessings and good health.",
+    "imageCredits": "Jun Takahashi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_26.jpg?versionId=S3vbWWS0eO7Qv.gE0jkopSsItduXUaOB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_26.jpg?versionId=NtgE6IX8Oo0853DxlZBkgiEQDDIu9mco",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson26.mp3?versionId=PntNRufDx2WyhU8.LtStb1PD7jcTXvfu",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2330354,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Despite its worldwide popularity, skateboarding has only recently been recognized as an Olympic sport by the International Olympic Committee. Though skateboarding outside of designated areas is considered to be \"meiwaku-koui,\" or \"bothersome behavior,\" you'll find plenty of prospective Olympians practicing their skateboarding skills in indoor parks all over Tokyo.",
+    "imageCredits": "Behrouz Mehri / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_27.jpg?versionId=GGVxzdhHVHjJq4vdRRGhJceIVq193Mle",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_27.jpg?versionId=Pzi2xiPOcCwu08HnK1VG.B5bwAcDRdSR",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson27.mp3?versionId=6JEEhVZEr94IEnoVwtMa_cQe8G3yJYKE",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2330355,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "The craft of ornamental metalworking has long been used to decorate works of art. It has been passed down for centuries, from master to pupil, as have the tools of the trade. In years past, it was used to create incised or raised decorations of gold and silver on samurai swords and daggers during Japan's feudal period.",
+    "imageCredits": "Petar Chernaev / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_28.jpg?versionId=lzquEdL7_ZWBlNattwEFAUETe01E2vsT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_28.jpg?versionId=5PFASiBhHS_5ofZYTrQMF2lvXCEDXUF6",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson28.mp3?versionId=fg7M2mv6fWyEHjMNS90p1QF6s3X6vCt8",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2330356,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Tokyo's upscale shopping and entertainment district, Ginza, is full of electronics stores, fine restaurants and high fashion shops. It's a very popular weekend destination for both tourists and Tokyo natives.",
+    "imageCredits": "Steve Ogle / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_29.jpg?versionId=VbB8Q9tnV6rkPP4aIX0Oif5ZTpF0Agnx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_29.jpg?versionId=osxYXRqevwDjjVEjlOn81cyxgLu6p.lD",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson29.mp3?versionId=jNAxS56JIQTDi.gP7HCt8ktitAqZ8sWQ",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2330357,
+    "cultureContent": {
+    "imageLocation": "Kyoto, Kansai Region, Japan",
+    "imageDescription": "The legendary Yasaka Shrine has been standing in Kyoto, Japan since 656. This iconic landmark attracts tourists every year to its summer festival, known as Gion Matusuri. The festival includes elaborate parade floats and hundreds of participants, and a plethora of lanterns line the shrine's main hall.",
+    "imageCredits": "totororo / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/full/Japanese_3_9781797132020_M_30.jpg?versionId=7CkXUoMJDVNlJBFz9oBytPVWjK18hQJQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/lesson_photo/thumb/Japanese_3_9781797132020_M_30.jpg?versionId=LsiiZjISkvJbt4dFQigp9pz0gWWKLfBi",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/main_audio/Japanese_3_9781797132273_Lesson30.mp3?versionId=FQXyEtXBLJ.4QzPfNPdnOW7hbBH0.sAP",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2330358,
+    "cultureContent": {
+    "imageLocation": "Japanese Culture",
+    "imageDescription": "Roughly 80% of Japan's population resides within the cities. However, Japan's countryside is filled with gorgeous, sprawling fields, snow-capped mountains, rushing rivers, clear streams and many small villages filled with fishermen and farmers. Visitors are welcome in rural Japan, although English-speakers are far less commonly found than in the cities.",
+    "imageCredits": "Laikwunfai / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 3 2021/asset/RL/Japanese_3_9781797132020_Alpha.pdf?versionId=lfPqXCAAFrcpPUw.ToQ_I3pxGqWVgisn",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese Level 3 2021/asset/RL/Japanese_3_9781797132020_Intro.pdf?versionId=C8l4GOj0St7TqhU_5KcbZ5mPBVELq9ig",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading01.mp3?versionId=rAtm5Rnn_ObdEhfOTwslcT1J8o23vPwQ",
+    "mediaItemId": 2330444
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading02.mp3?versionId=UgeZEwEQhTLqC2DQ9BhzId.h.PSdg720",
+    "mediaItemId": 2330446
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading03.mp3?versionId=_d1mWQSc2kntE.sa.YlZXoQWl7bfENev",
+    "mediaItemId": 2330447
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading04.mp3?versionId=d2tb4ParXQk456dEBDQTaUQf1Z6mfPBD",
+    "mediaItemId": 2330448
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading05.mp3?versionId=lJtIhR_1CmFRhXLsgXqW1khsRqnbda9y",
+    "mediaItemId": 2330449
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading06.mp3?versionId=DF2rMD2y0T5zKQbzh.QMd3t1VXTV5elH",
+    "mediaItemId": 2330450
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading07.mp3?versionId=HycFhLQxXpUsZFFwOS7_c2lUGpw7HR7O",
+    "mediaItemId": 2330451
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading08.mp3?versionId=2EykHqW.GrPXKh96Vw.534ki7OaYmmE_",
+    "mediaItemId": 2330452
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading09.mp3?versionId=Ml0.i6Z4bLU4Fq6oNhrSiYt64wR8jZih",
+    "mediaItemId": 2330453
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading10.mp3?versionId=S5KEYPJAT.mKnQnH3h.aoEe_P619AU1q",
+    "mediaItemId": 2330454
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading11.mp3?versionId=Wx5K61l5eejOQqSCxPaSSM6MtbCf.eFH",
+    "mediaItemId": 2330455
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading12.mp3?versionId=rYjMHWCXJSeLaZRR3ugqVB55yvO1Nz1T",
+    "mediaItemId": 2330456
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading13.mp3?versionId=c_aTq57xSUqr2bbglEyzCZVk7wjbn1QN",
+    "mediaItemId": 2330457
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading14.mp3?versionId=m05Ku_PaTiLxYLSNNlcV_DCepxIapeX2",
+    "mediaItemId": 2330458
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading15.mp3?versionId=lW6o0fZXSEiZRHrFjGFiKQt.u1kFrKdp",
+    "mediaItemId": 2330459
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading16.mp3?versionId=62zqM_81COpO073R.LNatVX3rSdqBrLQ",
+    "mediaItemId": 2330460
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading17.mp3?versionId=RqbblMDcnKaNYO8Q1eWLqigVD6i0S7K8",
+    "mediaItemId": 2330461
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading18.mp3?versionId=Lkrz6.zuV.1qWpij56652Q0obDFytTEq",
+    "mediaItemId": 2330462
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading19.mp3?versionId=Fbfb7rOe6ryHNdiWtdYE2fnJa30UQzbD",
+    "mediaItemId": 2330463
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Japanese/Japanese%20Level%203%202021/asset/RL/Japanese_3_9781797132273_Reading20.mp3?versionId=5akUtWOFPABD1t5yNGRjqb17KRRaUHON",
+    "mediaItemId": 2330464
+    }
+    ]
+    },
+    "languageCode": "ja-JP",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781797132020",
+    "level": 3,
+    "courseName": "Japanese Level 3 Premium",
+    "simpleCourseName": "Japanese Level 3",
+    "puArabic": false
+    }
+    ]

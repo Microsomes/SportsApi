@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 2968,
+    "languageName": "Arabic Eastern",
+    "languageId": 120,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_01.jpg?versionId=PNXMEz_k6HIFXr0wQyMWLllsyoqhJ2MW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_01.jpg?versionId=XCnpVq4eSFrGcPeNAPgKuvMjJY6eNBY9",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_01.mp3?versionId=lhlnVqapWxd.yPVtI4WvIHnSOcR4AQDe",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2227060,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Though gender inequality remains a major concern in the Middle East, the number of women business owners in Arab countries is growing rapidly.  Up to 57% of STEM graduates in Arab countries are women, far surpassing the rates in universities in the Western world.",
+    "imageCredits": "m-imagephotography / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_02.jpg?versionId=oF6K.CahcbEV.42tH.x1845IMwgWeUdR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_02.jpg?versionId=SBXTCINwYaxy4_X1eHMwBiWHuUNYxy5C",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_02.mp3?versionId=ehsrOzB3kMkhaGfPpZzGI3JDoIO6HRx4",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2227337,
+    "cultureContent": {
+    "imageLocation": "Sahara Desert, Morocco",
+    "imageDescription": "The camel is very important to Arab culture, so important in fact, that the Arabic word for camel, jamal, is almost identical to the word for beauty, jamaal.  Many Arab countries even have camel beauty contests, judging the animals on the size of their prominent features, including their knees!",
+    "imageCredits": "GavinD / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_03.jpg?versionId=cAosV1vjY1yzDnBYlVQ_SW3jLBkRKiT3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_03.jpg?versionId=00HX2Y8C11sC3IA9c.U.j2jhtLxyaUKg",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_03.mp3?versionId=bqVjpxPqAYWqwU9mlrYoVJR62R7Hdw9i",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2227592,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "The official language of Egypt is Arabic, with more than 50% of the population speaking a vernacular called Egyptian or Cairene Arabic.  Prior to the 17th century, Egyptians spoke Coptic, which is now only spoken in the Coptic Orthodox Church of Alexandria.",
+    "imageCredits": "Givaga / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_04.jpg?versionId=jGTy.d6WT.C90JEcdvF.cP7Pvls6p8OU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_04.jpg?versionId=O9IEKoLENuX2xsoLQMk.RMSQqCp9nyF_",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_04.mp3?versionId=alT3Yj0mCME5VXUw.AClctW6n2oiFqnL",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2227902,
+    "cultureContent": {
+    "imageLocation": "Dead Sea near Jericho, West Bank, Palestine",
+    "imageDescription": "The second of two annual Islamic holidays, Eid al-Adha is a feast day celebrated by Muslims throughout the world.  It commemorates Abraham's willingness to sacrifice his son and marks the end of the annual pilgrimage to Mecca.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_05.jpg?versionId=LrFjSfcPAi8TDPKY4IV1X0DIVhZnjfb1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_05.jpg?versionId=nzusbNu8pLgvoBOJT.T9Z8_Xc51oC3Zn",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_05.mp3?versionId=ErNb6GuH8SWqcw6pyag_XdsYCY4GyLgD",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2228270,
+    "cultureContent": {
+    "imageLocation": "Muscat, Oman",
+    "imageDescription": "Completed in 2001, the Sultan Qaboos Grand Mosque in Muscat, Oman, is one of the most beautiful mosques built in modern times.  It houses an 8 ton chandelier encrusted with 600,000 Swarovski crystals, and the second largest hand-knotted carpet in the world.",
+    "imageCredits": "Florian Studenroth / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_06.jpg?versionId=FiLNZDkO462_4G35iMbn7R2dVUZfUQuI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_06.jpg?versionId=HQ1kB.ExonucKDLbJA9igjjD1nrntqWl",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_06.mp3?versionId=WiIGlXjvv7IkKudLzB0g53ztZehl8.Sg",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2228633,
+    "cultureContent": {
+    "imageLocation": "Riyadh, Saudi Arabia",
+    "imageDescription": "Formed in 2012, the King Abdulla Petroleum Studies and Research Center is an independent, non-profit think tank which studies economics, technology, and policy related to energy.  The KAPSARC campus in Riyadh, Saudi Arabia, was opened in 2017, and features both a residential complex, as well as five interlocking buildings that house a computer center, conference center, library, research center, and a musalla, or place to pray.",
+    "imageCredits": "Abdullah Al-Eisa / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_07.jpg?versionId=.RE2bu2fXDrLgh7W7qk4iohTe_JC1P3u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_07.jpg?versionId=NXzUJpbxrp_PAOEaIQ7cQhTHCoWsnoS0",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_07.mp3?versionId=rEc26EkpzeEp5XvFazQ7jGlPuon1v8Vy",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2228999,
+    "cultureContent": {
+    "imageLocation": "Petra, Jordan",
+    "imageDescription": "Built in the 1st century, Al-Khazneh, or The Treasury, is an ancient temple carved into the side of a sandstone cliff in Petra, Jordan. It has appeared in many films, the most popular of which is Indiana Jones and the Last Crusade.",
+    "imageCredits": "Christopher Groenhout / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_08.jpg?versionId=BTbF5IkWrpJWvmN7.DLzP.e7fQEfZi.T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_08.jpg?versionId=gyefPKrzimDzvkvBiH8uDtPTEy8uBo7v",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_08.mp3?versionId=dmrR8uQNlJFqBZsGe8X5ad3aW0K8TukD",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2229334,
+    "cultureContent": {
+    "imageLocation": "Gaza City, Palestine",
+    "imageDescription": "Observed by Muslims worldwide, Ramadan is a month-long period of devotion and fasting from sunrise to sunset, ending in the festival of Eid al-Fitr.",
+    "imageCredits": "MOHAMMED ABED / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_09.jpg?versionId=Uzqyd.M4p5tqoIkN7RLGp2GIE_Tldb3s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_09.jpg?versionId=oRSgqEMyB6W82fsFm9T8SMkL7Ua3GrfO",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_09.mp3?versionId=sBya_sLKqUgOm0vuVUQISLjVt4hUnmp6",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2229709,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "Opened in 2009, the W Abu Dhabi hotel on Yas Island was built above the Formula 1 Yas Marina racing circuit.  Its facade is known as the Grid Shell and features a rapidly cycling lighting system.",
+    "imageCredits": "ANDREW HOLBROOKE / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_10.jpg?versionId=U4olwFa5niREJSqGUDv8tKppSbKVT2JI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_10.jpg?versionId=GkKxxOThIbDg2SZ.80tWNYah0u6.86_Y",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_10.mp3?versionId=kyGoW0IKS9iLm4yqkAq7V7qG41CYDSbF",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2230279,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Also known as Arab folk dance, belly dancing has a long history in Arab culture and features percussive and fluid movements of the arms and torso, along with shimmies, shivers and vibrations of the hips or ribs.",
+    "imageCredits": "PATRICK BAZ / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_11.jpg?versionId=OtXPTelWvbTYdkYWR6oCf8bq3ZhM7wqc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_11.jpg?versionId=8HB5Zzst2HTnfyQmLseBfn9XdRQu7lEz",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_11.mp3?versionId=LlTQ6Os_wtWNNGfX7G4a9rsyFNfePbNH",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2230634,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "Beginning in December of 2010, a series of anti-government protests, armed rebellions and uprisings spread across the Islamic world as a response to the poor standard of living provided by oppressive regimes.  This period came to be known as the Arab Spring of 2011.",
+    "imageCredits": "Chris Hondros / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_12.jpg?versionId=ijXtwjrJkawRPxHcrK2YA_eA50KtnJdT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_12.jpg?versionId=Z0nD_iME7v_WpKx3yx3TECGEDxVPM96y",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_12.mp3?versionId=yPCldU1kut993mDF1MRcOcRPYMwxIfB0",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2231045,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "Established in 1866, Egypt has the oldest continuous parliamentary tradition in the Arab world.  The country's government is rated by Freedom House as being partly democratic.",
+    "imageCredits": "Daniel Berehulak / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_13.jpg?versionId=YKkerErVbwi1WRQ3IPUukoAc3eo.ZdVI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_13.jpg?versionId=yX7Wio5Rc.RZS6_tV.E6EnEf57Q2mxuV",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_13.mp3?versionId=bOL01p36nD.LyQ37A20jabvpaKCaEqex",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2231416,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Founded in 2007, Art Dubai is an annual international art fair held in Dubai in the United Arab Emirates.  It is the most globally diverse art fair in the world, featuring work from more than 40 countries.",
+    "imageCredits": "KARIM SAHIB / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_14.jpg?versionId=nm9ajJItuPZ9GgEDFBTeMkGYlA2RbyYH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_14.jpg?versionId=Qp2gw77N5pGv2j98wP1d4OQ_H.wfFNWI",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_14.mp3?versionId=.eoPC1P_PjXYCxH2KKzYs68qW9.jJwUy",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2231797,
+    "cultureContent": {
+    "imageLocation": "Cairo, Egypt",
+    "imageDescription": "German artist HA Schult's work entitled Trash People is an installation of one thousand human shaped sculptures made from electronic waste and crushed cans.  A critique of human consumption, it traveled to the Pyramids of Giza in 2002.",
+    "imageCredits": "Patrick AVENTURIER / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_15.jpg?versionId=xoQVFi9ONmErBlWZr2BK6tADhMbRimb0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_15.jpg?versionId=rog2ECFXySaO5pNlcZ3_hp8tGNurBVV0",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_15.mp3?versionId=jE4kiLrad8ZmCe.yFg8Yf1HCBBQA7DLR",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2232116,
+    "cultureContent": {
+    "imageLocation": "Old Dongola, Sudan",
+    "imageDescription": "Large domed tombs known as qubbas dot the landscape of Old Dongola, a ruin in the desert of Sudan which dates to the fourth century.",
+    "imageCredits": "christophe_cerisier / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_16.jpg?versionId=fumwrz2XALxeI.VmhMb8FNA9ejB.x9v3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_16.jpg?versionId=EqEquDb_raiCg4Q4W.IuOeqA.wEjVDuX",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_16.mp3?versionId=6GhWDunjjJ561NMcsEnD4EEeQ4vZGW03",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2232525,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Egyptian midfielder Mohamed Salah is considered one of the best soccer players in the world.  He is known for being an advocate of women's equality in the Middle East, and has played for Liverpool F.C. since 2017.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_17.jpg?versionId=syMKYiBz9FbriuumudK_UsdVlNfg8FOS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_17.jpg?versionId=7ZIpjHcFXOJkkWVHwurOLgcAz9anvUc6",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_17.mp3?versionId=He7CWQug8G_VmoTb2cKKhBSSu6flYEJ4",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2233008,
+    "cultureContent": {
+    "imageLocation": "Merzouga, Morocco",
+    "imageDescription": "The desert-dwelling Bedouins are a nomadic Arab people who range through North Africa and the Arabian Peninsula.  They are traditionally animal herders who live in tents and speak variants of Arabic known as the Bedouin dialects.",
+    "imageCredits": "Nicolas VINCENT Photographe / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_18.jpg?versionId=NS.T_xOz4Z74zJ2NT2jHjwCAsMf8Ka4o",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_18.jpg?versionId=QTU7IL4U.9vIz94eI.pl68UyVemELfjM",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_18.mp3?versionId=vaEVve3QmOdwwiVOU3_Y9Jtw.ETYIOmy",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2233444,
+    "cultureContent": {
+    "imageLocation": "Rafah, Gaza Strip, Palestine",
+    "imageDescription": "A Middle Eastern treat known as kanafeh is made of thin pastry soaked in sweet syrup and with a layer of cheese.  The world's largest plate of kanafeh was created in Turkey in 2017 and was 255 feet long.",
+    "imageCredits": "Pacific Press / Light Rocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_19.jpg?versionId=0U49f5alisX8SFXgoGgAAfV5xKDmAtVq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_19.jpg?versionId=9kMbQ379ep76F_cMkXmXQHzYiejjYS_U",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_19.mp3?versionId=7HT7TzkfjMuww77PztRDKi.Sb_qpwnDO",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2233855,
+    "cultureContent": {
+    "imageLocation": "Shibam Hadramawt, Yemen",
+    "imageDescription": "For over 1,700 years the city of Shibam Hadramawt has been an oasis in the desert of Ramalt al-Sab'atayn.  Known as the \"Manhattan of the Desert,\" Shibam contains of hundreds of ancient mud brick houses, rising 5 to 11 stories high, which served as protection against attacks from roving Bedouins.",
+    "imageCredits": "George Steinmetz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_20.jpg?versionId=M.OInoAxF.UNGVc3WsID905.HrbiDpNG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_20.jpg?versionId=I5ElLV9cMaLSL_w.U_JSAWF0m1stUvrN",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_20.mp3?versionId=JaZO9BHHdac7yTKx2ecglKBWOMfFH3TW",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2234323,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Opened in 2016, the design of the Dubai Opera House was inspired by the shape of a traditional fishing boat called a dhow.  Seating 2,000 guests, the opera house boasts a system of hydraulic lifts which can convert the space from a concert hall to an exhibition space.",
+    "imageCredits": "GordonBellPhotography / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_21.jpg?versionId=SAgBNnNlyCLWRfwcxPS.D.6kQM6HJWW7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_21.jpg?versionId=lTASuG34SyDvwpgfafxZNjfnHhRpcfkL",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_21.mp3?versionId=ysnlbdCNnz74u29bVEW1r2M_9hUJzAKw",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2234845,
+    "cultureContent": {
+    "imageLocation": "Abu Dhabi, United Arab Emirates",
+    "imageDescription": "A collection of five towering skyscrapers, the Etihad Towers in Abu Dhabi became world famous when used as a filming location for one of the popular Fast & Furious action movies. Added together, the height of the five buildings would be over 4,200 feet tall!",
+    "imageCredits": "Noppawat Tom Charoensinphon / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_22.jpg?versionId=ZvNTiYoOisS44EHbu6x0Qg.36B_ENz5X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_22.jpg?versionId=n4JGlPY1AJbqTTHr2mgKefJp_wE4pICm",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_22.mp3?versionId=2ABaH27mMzWuxx4ta8cKcYXiZDUOm3dE",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2235315,
+    "cultureContent": {
+    "imageLocation": "Petra, Ma'an, Jordan",
+    "imageDescription": "Not only the home of Al-Khazneh, the ancient city of Petra is also home to glorious natural sandstone formations.  The most famous of these is a dim, narrow gorge called the Siq, which narrows to just 10 feet wide in some places.",
+    "imageCredits": "mantaphoto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_23.jpg?versionId=hYC_ZgrBcsO5CvpLz6MjpCrZ5UbWiP8W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_23.jpg?versionId=uVKG3F5fRJ41UfNheKsyaHYvDduK2CBp",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_23.mp3?versionId=Kei5eoOVjLrXVvoqCLtRT5S5s5f2EfaW",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2235756,
+    "cultureContent": {
+    "imageLocation": "Dubai, United Arab Emirates",
+    "imageDescription": "Opened in 2005, the Mall of the Emirates hosts over 100 restaurants and 960 storefronts, as well as the world's largest indoor snow park & ski resort.  Guests of Ski Dubai can enjoy skiing as well as sled and toboggan runs, ice slides, giant snowballs, and an ice cave, and can book encounters with the resort's flock of penguins.",
+    "imageCredits": "Gabriela Marj / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_24.jpg?versionId=rRhttMsd7FMadX6ncQbXZGDtykQIX.w6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_24.jpg?versionId=afJ19NMLbY5f3yxaLWV6j7fFQmECYfJ5",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_24.mp3?versionId=xY1maeYQefGAR8_h7RtfP2BcwQjYet3e",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2236131,
+    "cultureContent": {
+    "imageLocation": "Wadi Karak, Jordan",
+    "imageDescription": "Fed by springs, the waterfalls of the canyon of Wadi Al Karak provide a home for plants and animals in the wadi, or valley.  There are three main wadis in Jordan, all of which drain into the Dead Sea to the west.",
+    "imageCredits": "George Steinmetz / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_25.jpg?versionId=JDhiUPK0ky9c7w2MJvVI0Dmnxr1phglq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_25.jpg?versionId=NWemwXbzOAff4uh9j.2QoOj9X4dFqsyR",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_25.mp3?versionId=cbgLmUBE2szThom8XXLI6O2Eu_oYAwtO",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2236532,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "After being used as the location for the spaceport of Mos Espa on the planet of Tatooine in 1999 Star Wars film The Phantom Menace, the abandoned set now serves as a Bedouin trading post.",
+    "imageCredits": "CANOVAS Alvaro/Paris Match / Controur RA / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_26.jpg?versionId=nabprV4VHwCAFcJlP.nitjISAQCHdBZF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_26.jpg?versionId=glZ_1DYK91cNsEmo9_B62MZR.Zk0AcQM",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_26.mp3?versionId=NKw4QSeuYyHJjJYmDAgEn6pG_yyL40tU",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2236840,
+    "cultureContent": {
+    "imageLocation": "Onk Jmel, Tunisia",
+    "imageDescription": "Lebanese fashion designer Elie Saab was the first person of Arab descent to be admitted to the Chambre Syndicale de la Haute Couture, earning the right to call his fashion house an haute couture house.  Born the eldest son of a wood merchant, he now dresses celebrities, royals, and other members of the elite all around the world.",
+    "imageCredits": "Simon Kremer / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_27.jpg?versionId=T1YyyWcikP3AM4R3l1_msBvlE8lqyCGh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_27.jpg?versionId=mGiirZG3YEmcFUbHgRhhb4vu2tmCqBlF",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_27.mp3?versionId=m9uiK001b7vogsydJXMqCKx7jMV0fgbQ",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2237201,
+    "cultureContent": {
+    "imageLocation": "Moreeb Dune, United Arab Emirates",
+    "imageDescription": "Held each year from late December to early January, the Liwa International Festival is a seven-day festival featuring car, camel and horse racing, including a treacherous race to the top of the 1,000-foot Moreeb Dune.",
+    "imageCredits": "KARIM SAHIB / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_28.jpg?versionId=FA3XL0eE_Q.dGjUoU7iuzS_p8a7TQqQY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_28.jpg?versionId=1iRJY9zcCIJW9_1jn_pSJEN31UrrUGS8",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_28.mp3?versionId=CrrHX.cAVmY.7cpP77y1Q7QDRbXAmh5m",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2237605,
+    "cultureContent": {
+    "imageLocation": "Red Sea, Sudan",
+    "imageDescription": "A diverse ecosystem, the Red Sea is home to over 1,200 species of fish, some found nowhere else on earth.  A splendid coral reef extends 1,240 miles along the coastline, and is thought to be between 5,000-7,000 years old.",
+    "imageCredits": "Vincent Pommeyrol / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_29.jpg?versionId=tY4vOsmjKG9hbLq19ksurpt0Iwl_WH7P",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_29.jpg?versionId=2MvcvZIweyrFL1l7YaSM25mgKQVxLO0r",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_29.mp3?versionId=aQhDe52krw8MleUkcxKBy93vQd2bK2m0",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2237988,
+    "cultureContent": {
+    "imageLocation": "Gaza City, Palestine",
+    "imageDescription": "Not only a time for prayer and fasting, Ramadan is also a time for celebration.  In some countries, lights and decorations are hung across city streets, some people bathe in holy springs, and some beat drums to announce the evening Suhoor meal.",
+    "imageCredits": "MOHAMMED ABED / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/full/EA_1_M_30.jpg?versionId=I.QmqdbHam0QpLxj44ubkMe7MERZfnZp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/lesson_photo/thumb/EA_1_M_30.jpg?versionId=_XruDjf8wy5mBPhn3m5VVlINmVxBs1Jb",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/main_audio/9781797115108_Arabic_Eastern_1_Lesson_30.mp3?versionId=cQUlHNq7szXgfGo7DdjypN85gqAqyaNF",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2238399,
+    "cultureContent": {
+    "imageLocation": "Marrakesh, Morocco",
+    "imageDescription": "Designed to retain as much moisture as possible, the Moroccan tajine is used to slow-cook savory stew dishes, traditionally served with bread.  The tajine is placed over hot charcoal to gently simmer for hours, ensuring that the stew is tender and rich with flavor.",
+    "imageCredits": "hadynyah / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Eastern)/Arabic (Eastern) Level 1 orig/asset/RL/9781797115108_Arabic_Eastern_1_Alpha.pdf?versionId=qvvgET_Xvv6DLkGsQwPbW3j1dGY6HKmm",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Eastern)/Arabic (Eastern) Level 1 orig/asset/RL/9781797115108_Arabic_Eastern_1_Intro.pdf?versionId=OLocVaxBmjzQGtz_uLONaldMihc8vrdK",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_01.mp3?versionId=ZUTwNofg41IDAmMteZNVwS_2ugk0362g",
+    "mediaItemId": 2223693
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_02.mp3?versionId=gImxTqOI_RLiDR.1ZqPRN.OnSnVxhWD6",
+    "mediaItemId": 2223814
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_03.mp3?versionId=t8yqtW0hW7gQLaV53xx1EwzuatutGsft",
+    "mediaItemId": 2223969
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_04.mp3?versionId=hewd1cjFQEGE2XuVqQ98zuVaHHf96RFs",
+    "mediaItemId": 2224153
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_05.mp3?versionId=nzccekZDyPV7XzErVq16SgSDg2kYDGl.",
+    "mediaItemId": 2224354
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_06.mp3?versionId=WAfBYN4JGvIOChoP0OlEm2EvouIKP92D",
+    "mediaItemId": 2224490
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_07.mp3?versionId=xBp71UZ_kOJ5EJl1lFWfJhwIOFKNYGOI",
+    "mediaItemId": 2224684
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_08.mp3?versionId=6P7JbpuqvQaZW7d7NzQxJEIdrIM5scFa",
+    "mediaItemId": 2224791
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_09.mp3?versionId=erqSFIwjvAtaQ3YdtZU60Ps2IbmEOYtz",
+    "mediaItemId": 2225927
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_10.mp3?versionId=MIX5BTVHpUaAd6FWcnjYnxTY4UaS1cEE",
+    "mediaItemId": 2228326
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_11.mp3?versionId=i6h5BCT6CaTIdHEneXh7..ixDCtNiksx",
+    "mediaItemId": 2231426
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_12.mp3?versionId=bg_mtVZ_nJmYHeURgmDuxB35lDJalUYN",
+    "mediaItemId": 2234834
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_13.mp3?versionId=RDmHcngVG27IarpufTzncisCKfsqewzp",
+    "mediaItemId": 2238233
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_14.mp3?versionId=iCyycu51DahMU3KUow5hgUW7lqAKXtXk",
+    "mediaItemId": 2241462
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_15.mp3?versionId=A7Y_nq3.558XtCZlsVpDUAjuiHo8yYip",
+    "mediaItemId": 2244299
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_16.mp3?versionId=IeZsD82VLZYYKOFPUmvQxkpfSobt5mhf",
+    "mediaItemId": 2247376
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_17.mp3?versionId=hw4fhTo8gaE9TXIhDEyrC0k7jRdZg1Nj",
+    "mediaItemId": 2250618
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_18.mp3?versionId=n6RpIm5JG43rYlloXvGzrbnpHS7JTRM6",
+    "mediaItemId": 2253583
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_19.mp3?versionId=AqyixmRNPrvgu_Kpsfaa_3aDLVLqhx.Q",
+    "mediaItemId": 2256294
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Eastern%29/Arabic%20%28Eastern%29%20Level%201%20orig/asset/RL/9781797115108_Arabic_Eastern_1_Reading_Lesson_20.mp3?versionId=kyLkm.u4gTC.E2_EBI6SYZuzIrTtNsWk",
+    "mediaItemId": 2259192
+    }
+    ]
+    },
+    "languageCode": "ar-LB",
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797115108",
+    "level": 1,
+    "courseName": "Arabic (Eastern) Level 1 Premium",
+    "simpleCourseName": "Arabic (Eastern) Level 1",
+    "puArabic": true
+    }
+    ]

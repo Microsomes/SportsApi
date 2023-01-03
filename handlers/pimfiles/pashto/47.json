@@ -1,0 +1,633 @@
+[
+    {
+    "courseId": 4394,
+    "languageName": "Haitian Creole",
+    "languageId": 149,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_01.jpg?versionId=g.kwa0bF.LGRtCFgfAyaK6Jkik6v.4bZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_01.jpg?versionId=NC28lpD4emp2X8xQVleXMRnpC7WzhlmK",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_01.mp3?versionId=Pg1UxhDJrGQLUle7FbCmOsl.zf5g8otP",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322839,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Haiti has a rich and complex history. During the 18th-century Haiti, or Saint Domingue as it was called, became France’s most profitable colony due to sugar, coffee, cotton, and indigo exports produced by enslaved people brought from West Africa. In 1791 the enslaved people, influenced by the French Revolution, formed an army and revolted. By 1804 they had succeeded in overthrowing their oppressors and claimed an independent nation.",
+    "imageCredits": "Juanmonino / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_02.jpg?versionId=rmK86eRd9UxEdDDdCBZlb7h4kfmK_xam",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_02.jpg?versionId=c9gCkno0QwBt0Yn3Yqbb_fgDmNGQ_o95",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_02.mp3?versionId=b8kap37_uATKItA3vcgekZIpVWqbyM2x",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322851,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "The Iron Market features distinct historical architecture while being a vibrant hub for groceries and goods. Originally an iron train station that was meant for Cairo, Egypt, the Victorian-style structure was purchased by Haitian president Florvil Hyppolite in 1891. Vendors in stalls sell spices, Hispaniolan vegetables, locally handcrafted items, street food, and beauty products.",
+    "imageCredits": "tropicalpixsingapore / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_03.jpg?versionId=MuBAWn2ad5sj4FvC4NI59_oBYa8dcwaw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_03.jpg?versionId=LIXAnHGGZQlYtkvtf15Zx6DOJlyYAd.c",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_03.mp3?versionId=B4QRnxjEyyq9_dk2uv5forBjH__UTBTD",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322865,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Carnival is one of the most celebrated festivals in Haiti. Taking place in the days leading up to Ash Wednesday, Carnival in Haiti is a joyous occasion that highlights local cultures including Vodou, Haitian music, and satirical plays.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_04.jpg?versionId=jKy3f7XOaG87PaI0BprSMoep6olNmyZz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_04.jpg?versionId=LW3Gp1m4gwcKPBRINQvLUTk8MyymNC8X",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_04.mp3?versionId=e02_koYkJIC.aiUcPxRpwp5.Sqi.nYMC",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322876,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "The Haitian tradition of \"tap taps\" are exquisitely painted buses that provide local transportation. Tap tap buses are privately owned and each one is uniquely painted with imagery that represents the Haitian mindset. Professional painters use several styles including surrealism, naturalism, and realism and the buses are repainted frequently to maintain a fresh flair.",
+    "imageCredits": "Jan Sochor / LatinContent Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_05.jpg?versionId=_O3nVvqCpteTUxsVH.lhuHgDazdNGAFO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_05.jpg?versionId=Y5EhE5OSVKm581KX0z9aBS9IsWp..FxL",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_05.mp3?versionId=R5vCFN0yYuPePo3MLVQZRrasjZMRdfR0",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322886,
+    "cultureContent": {
+    "imageLocation": "Cap-Haïtien",
+    "imageDescription": "During French rule of Haiti, Cap-Haïtien was considered the capital, or \"Paris of the Antilles.\" During the rebellion against the colonizers, Cap-Haïtien, also called Le Cap, was the site of many uprisings by enslaved people. After the rebellion succeeded, self-proclaimed King of Haiti Henri Christophe rebuilt much of the city, only to have it destroyed by natural disasters.",
+    "imageCredits": "1001nights / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_06.jpg?versionId=oL71lI8TWtZwzYteLxKmGZI5owvnsWqt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_06.jpg?versionId=vgwxsYP_qw4UjCfmP5mDhyIyB2oWSMRz",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_06.mp3?versionId=aAf8OxQcFrZcUsLXcv45dc5CDbVsZVA4",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322899,
+    "cultureContent": {
+    "imageLocation": "Labadee",
+    "imageDescription": "Labadee is a cruise ship port leased exclusively to Royal Caribbean Cruises Ltd for its private use. The peninsula is used exclusively for tourism and cruise ships pull in to port at 8 AM. The beach along the resort features ziplining, snorkeling in coral reefs, and beach bungalows which can be rented.",
+    "imageCredits": "NAN104 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_07.jpg?versionId=4INkq30vkmr6gy7b3faEsD7Nc5U6gXIx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_07.jpg?versionId=.vSPPTd3qptbgy81Rwj5Mwv92jMl2Kbl",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_07.mp3?versionId=XhuuJWg1dTZoHWzWYyz1P3C0Rfi_oKxg",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322912,
+    "cultureContent": {
+    "imageLocation": "Labadee",
+    "imageDescription": "The Monsters of Rock Cruise is an annual five day cruise that captivates rock fans with live performances and rock and roll themed events. The ship makes stops at CocoCay, Bahamas and the private resort of Labadee, Haiti. One of the attractions at Labadee is a summer bobsled track where people can ride through the forest of the exclusive peninsula.",
+    "imageCredits": "Marina113 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_08.jpg?versionId=GuFDsd3xYjSVAVa4SzFc1ka6LyKwDZtU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_08.jpg?versionId=O17g6BCzb56CO0TJXTCofHS8JbqKPpfk",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_08.mp3?versionId=CI006wqhQUwh7sGWChrmJTTNTYIlAlnI",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322925,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "Jalousie is a neighborhood in Port-au-Prince that is often without electric power. This poor area is made brighter by buildings painted in vibrant colors as part of a $1.4 million government beautification initiative. Critics referred to this expense as \"the botox\" because the money could have gone towards sanitary water sources and reliable electric grids.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_09.jpg?versionId=w.a5daZ21Xebc8RaoXVO4wp9zLHlIMfZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_09.jpg?versionId=nLoEogntVugd0HiYD.VBREc7rVa408Xi",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_09.mp3?versionId=CsIVGY5NhJIQguQ0Eyuhs0EROJS9SjLL",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322938,
+    "cultureContent": {
+    "imageLocation": "Saut d' Eau",
+    "imageDescription": "The Saut-d'Eau waterfall is a site that attracts religious pilgrims each year during July. The site is believed to have been visited by the Virgin Mary in the 19th century, when she appeared in a palm tree. Rituals of both Vodou and Catholicism are performed while pilgrims bathe in the sacred waters.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_10.jpg?versionId=XG3aLwwe8CYZ6sAfO9mke10t0MlZseLE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_10.jpg?versionId=hv6JermfTzDKYfYSGoxXLDvz2mukjlF7",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_10.mp3?versionId=ddYOCnWk43kfMFzeMr9JHOn42DzpIq_5",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322950,
+    "cultureContent": {
+    "imageLocation": "Cap-Haïtien",
+    "imageDescription": "The Cathédrale Notre-Dame Du Cap-Haïtien dates back to 1690, when Haiti was a colony of France. On August 17th, 1793 in the plaza of the cathedral was made the announcement that the enslaved people would be liberated. An earthquake in 1842 badly damaged the cathedral, and extensive renovations were finally made in the 1940s.",
+    "imageCredits": "John Seaton Callahan / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_11.jpg?versionId=0egC.SiajACwd.VAXs_0yKHNGZtNSae0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_11.jpg?versionId=htST8vmuK.Ybu28j68bOG7gAJssiHCFr",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_11.mp3?versionId=8yRUu.p6FNmV6mSMAeTcnoq_ibeOQDoY",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322958,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "In the spring of 2019 protestors took to the streets of Haiti over missing public money. Haiti’s government got greatly discounted oil from Venezuela as part of the Caribbean's PetroCaribe alliance, with generous repayment terms. However, Haitians saw few of the promised benefits from the savings and were outraged after $2 billion in accumulated funds disappeared.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_12.jpg?versionId=4y0MW59jccS0TTRCGZHIfypsRGakr9KR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_12.jpg?versionId=x5ag2VmRTvNC12ePSVFyiJfhd.UNFlM5",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_12.mp3?versionId=Gi.MBTs8W3ulbapv7uexiF2RQBaZVEKA",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322967,
+    "cultureContent": {
+    "imageLocation": "Île-à-Vache",
+    "imageDescription": "The eight mile stretch of island called Île-à-Vache is an ecological haven that does not allow cars. Being one of smallest communes in Haiti, with a population of 14,000, the island is said to be one of the most scenic places in the Caribbean. This idyllic isle contains two resorts in addition to beach bungalows at the Village Vacancies for the more adventurous tourist.",
+    "imageCredits": "John Seaton Callahan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_13.jpg?versionId=w2dVYNzF13ZMYd.z8l0aaslg2fg2DHMa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_13.jpg?versionId=6mAkmsen04hJUfonDqJtpJTbs31POdqL",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_13.mp3?versionId=AlSJOgEgRStBDaaJ60U4eY8vT5qHu1VK",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322981,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "Haitian Carnival, or Kanaval, celebrations are unusual in that they incorporate traditions of both Vodou and Christianity. It is a time of joy and rage alike, as many of the Carnival traditions are protests against Africans being sold to the French during the colonizer's rule. Coating themselves in a mixture of coal and sugar cane syrup, dancers dressed as the devil perform in the Port-au-Prince Carnival.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_14.jpg?versionId=ds.a2CG2tzBrzYLZlDuUW3VQ4HDeD4G1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_14.jpg?versionId=u2v7HFBYeJFl1rNSig.4K7yzm6bQn5Tc",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_14.mp3?versionId=Druhh0J8HMcV1u2d4gsOnIzhktcLyB8c",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322991,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "Cockfighting is a popular sport in Haiti, as it is other Caribbean countries and many places around the world. Locals revere their fighting roosters, which are raised and trained with care. For thirty minutes two roosters fight to the death. Many Haitians find a much needed distraction in the activity of cock fighting.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_15.jpg?versionId=zSSYNFNFe_Y.TpYarePrNWrzSwzB4SjH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_15.jpg?versionId=1wkTPAj58z61jc0NfJR8h3ZZxarhfXZK",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_15.mp3?versionId=wnDskpWe7L.6z.FUmJ9_4FeDag01sly4",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322999,
+    "cultureContent": {
+    "imageLocation": "Petionville",
+    "imageDescription": "While Haiti’s cocoa production is less than its neighbor the Dominican Republic, chocolate has become a cash crop for Haitian farmers seeking a better income than short-cycle crops can provide. The country's private sector sees the value in cocoa production and has begun investing in the industry. Makaya Chocolat produces luxury edible chocolate art and is devoted to creating a profitable cocoa market for Haitian farmers.",
+    "imageCredits": "VALERIE BAERISWYL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_16.jpg?versionId=OVns3ETU6o0JpqDve76iCgFlD67OCwpu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_16.jpg?versionId=19Z2IRQ9T_auR13NHDZp.Epq1FMUR6SF",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_16.mp3?versionId=cTPTbO.yaqaUXGmwLoLRTns7ejga9.QG",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323008,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Wyclef Jean is a Haitian rapper, singer, actor, and songwriter. The performer tried to run for Haitian office in 2010, however, he was deemed ineligible because he had not lived in Haiti for five consecutive years prior to the election. Jean has won three Grammys and is most known for being a member of the influential music group the Fugees.",
+    "imageCredits": "Per Ole Hagen / Redferns / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_17.jpg?versionId=q2ebGJEgtBOlAbWsn2t11KgtXseKNC.w",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_17.jpg?versionId=bo4Eztr8tq6Ty1xaJg8OTfEsnfTE9h9U",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_17.mp3?versionId=RJWppnnWcRNZmszdjhbx2JsP3o3glEY2",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323016,
+    "cultureContent": {
+    "imageLocation": "Nature",
+    "imageDescription": "The Ricord’s rock iguana is an endangered species found only on the island of Hispaniola. The creature was thought to have been extinct in Haiti. However, in 2015 a nest was found and since then efforts to protect the species on Hispaniola have been underway. The reptile is the largest iguana in the Americas, reaching up to 6 feet in length.",
+    "imageCredits": "Jieophoto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_18.jpg?versionId=nWXnNupHawqhw6HsxdoCDPyuAX3RNRjY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_18.jpg?versionId=qPoSKdf7BxzjDoc_ROKfZsEGx.0cl6dU",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_18.mp3?versionId=FRI6KtoVRQ2hSPUnz..JiDcMkqHJdGBS",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323023,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "Haitian Carnival traditions have ties to colonial times, when the French arrived in the Caribbean and brought their Fat Tuesday masquerade convention. Later, there were added influences from Spanish, British and Africans. Today the combination of song, dance, and masquerade are staples of any Caribbean Carnival.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_19.jpg?versionId=OdHlkqIQ7vbnycfIJbHTam3RT4H6Cxtl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_19.jpg?versionId=VVLbLOdrOUnffiNzxfcAOzeemhjNuvO_",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_19.mp3?versionId=tmYp1BcJDmBiyTVsAYBIgj1_Ox3M2ua0",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323029,
+    "cultureContent": {
+    "imageLocation": "Souvenance",
+    "imageDescription": "Hundreds of Vodou worshippers flock to the small village of Souvenance every Easter. Pilgrims display their devotion to West African gods through rites and ceremonies. Vodou is a potent symbol of Haiti's liberty from France, as armies of enslaved people were able to overthrow their colonial captors in 1804.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_20.jpg?versionId=5QGNAgwVCDOMzjINXxR_ygWVx0_y54Qw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_20.jpg?versionId=z5DN8mVsHISnMClk3e1aX8zNLwvtllRz",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_20.mp3?versionId=6tNVgUWaBVAsb.3RgqJw6fShg_8oJ4mh",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323033,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "After the 2010 earthquake shattered Haiti, fifty government-created refugee camps were created to house Haitians whose homes had been flattened by the 7.0 magnitude disaster. Daihatsu, named for the adjacent car dealership, was one of several citizen-made camps that were thrown up spontaneously by displaced people themselves. The earthquake caused hundreds of thousands of Haitians to flee their home country.",
+    "imageCredits": "Brian Vander Brug / Los Angele Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_21.jpg?versionId=4vwpXxkvaiAzoq.Xou0fQwfASiunJ_nu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_21.jpg?versionId=UWbJ86iy3c1Rb2dJ.m28vM5tdRqxwu.x",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_21.mp3?versionId=WNfD400MojiQr8E3U78lDRpjO4GJDMpJ",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323039,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "Participating in the Feast of God procession, children don white outfits for the feast of Corpus Christi. The Roman Catholic holiday is the observation of the body and blood of Christ as he is present in the Eucharist.",
+    "imageCredits": "HECTOR RETAMAL / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_22.jpg?versionId=esRl4R3okV2VQ_YWkhZQ0M8OZzzi87VU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_22.jpg?versionId=ehJu79WWysSq5XCK7fClKIniv4B0xV.5",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_22.mp3?versionId=w4MlCVbjcKp97iqsnu837AMASqCszxkY",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323045,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Soup Joumou is a squash-based soup with cultural significance to Haitians. During French colonial rule, enslaved people were made to cultivate squash and prepare this soup but weren't allowed to eat it. Thus on January 1, 1804, when the enslaved Haitians won their freedom, they ate this soup in celebration. The soup usually contains pumpkin or squash, beef marinated with vegetables, and pasta.",
+    "imageCredits": "ALLEKO / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_23.jpg?versionId=tIuimZiXxjQNS0v9GhYkarvsJ0d1gok1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_23.jpg?versionId=oo1375gKqftrZZiarHg9iF976ah875LJ",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_23.mp3?versionId=EdWl4U4UFOOJ3y33dRbj3cJgBJnEYTEt",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323050,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Haitian art has a complex history, taking influences from African art mixed with that of European and American art. Often politically charged, Haitian painting can be found around the country on the sides of buildings, or on public transport known as tap taps. Many Haitian artists are categorized into of schools, including the Saint Soleil School, the Artibonite, and Market painting.",
+    "imageCredits": "Sebastien Desarmaux / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_24.jpg?versionId=SSUWkyhlh_PoHyilCR8a31QGt1k_x7_W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_24.jpg?versionId=z.Au7v90JOw4DIqdC0_0K1gg7ww6MJ7h",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_24.mp3?versionId=5mDjV_jb.kAkSwJMYThTfRuGNYVVmF4t",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323054,
+    "cultureContent": {
+    "imageLocation": "Nord Ouest",
+    "imageDescription": "While much of Haiti is covered in forest, the country has undergone environmental damage and the increasing desert is also attributed to climate change. The Nord Ouest region has suffered several periods of extended drought and an artificial lakes project has been initiated in this region.",
+    "imageCredits": "Claudiad / E+ /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_25.jpg?versionId=qXNq_9aNp9lv5I69JVijMS7.5nGhXh.M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_25.jpg?versionId=EKDdPDBA6DgaPH8v24v5uL0enFiWWwO5",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_25.mp3?versionId=fnb6kPLMxyIcw4EsvWynjJa5bhMLWAF3",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323059,
+    "cultureContent": {
+    "imageLocation": "Port-au-Prince",
+    "imageDescription": "The Cathedral of Our Lady of the Assumption was a Roman Catholic church constructed between 1884 and 1914. During the 2010 earthquake the historic structure was destroyed, leaving behind ruins of the lower walls standing amidst piles of rubble. In 2012 the Haitian government issued a competition for architects to submit plans for the cathedral's reconstruction, but no work has begun.",
+    "imageCredits": "arindambanerjee / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_26.jpg?versionId=Gco_tCP4L0bNN003_chp5CAYyrWPfMvN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_26.jpg?versionId=KKljvszbjIXoX129ihkGOKB2rkOJM5lk",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_26.mp3?versionId=pIAwBR9EoE7Cg9eIkCrUokBGTjgJpJaE",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323063,
+    "cultureContent": {
+    "imageLocation": "Nord Ouest",
+    "imageDescription": "The tree-like cactus, known in Haitian Creole as \"pat tôti,\" is native to the Caribbean islands. Found in areas from sea level to 150 feet in elevation, the cactus can grow up to twenty feet tall. The succulent resemblances a prickly pear, and bears green fruits in a chainlike pattern that remain on the plant for several years.",
+    "imageCredits": "Tropicalpixsingapore / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_27.jpg?versionId=FVDWjgYPP8dypKbwaXa.UpZqNlhRbAi_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_27.jpg?versionId=QhIJIksNMtws9RzYXpd9LKmjRLYgMNke",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_27.mp3?versionId=Kihb3ZeBh_VWaNny9ESejeDaTBIuvMJt",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323068,
+    "cultureContent": {
+    "imageLocation": "Nord",
+    "imageDescription": "Citadelle Laferriére is the largest fortress in the Americas. Locals refer to massive ramparts perched on a mountaintop as the eighth wonder of the world. A powerful symbol of Haiti’s newfound independence in the 19th century, the citadel was to be used by the people in the case of attack by the French. A scorched earth technique would be employed, setting fire to the surrounding land while Haitians sheltered within their impregnable castle.",
+    "imageCredits": "John Seaton Callahan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_28.jpg?versionId=3x7m60RBils3b3jVmdSPWRpipMwyR869",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_28.jpg?versionId=V6mzklKVsO5loeZAOLtfMSKMGlBbl4uN",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_28.mp3?versionId=vxdqgy3j7TY2tXEjLBZQlDqhefW_AD8u",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323072,
+    "cultureContent": {
+    "imageLocation": "Sud-Est",
+    "imageDescription": "The best surfing conditions in Haiti are to be found on the north and south coasts. Jacmel has some good surf and there is a nascent surf tourism market in the otherwise downtrodden area. The good conditions are not without risk, however. Lurking dangers include fire coral, sea urchins, and shallow areas.",
+    "imageCredits": "John Seaton Callahan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_29.jpg?versionId=5uYONZJjHpzO2uBuGRvTPq7cRrJy7VYy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_29.jpg?versionId=cti9Pb4GSXSJ8xg70SMVy829EKnx_Rss",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_29.mp3?versionId=qBPARPnzueNsa.2on8aRIFBdJHmRucQ1",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323075,
+    "cultureContent": {
+    "imageLocation": "Labadee",
+    "imageDescription": "Adrenaline Beach is one of the many pristine beaches at Labadee. Featuring a zip line from which to take in the scenery, the attractive beach with the curious name is popular with the cruise ship tourists. The swim-up bar is the highlight, where swimmers paddle up to the bar and enjoy a cocktail.",
+    "imageCredits": "romrodinka / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/full/HaitianCreole_1_9781797143682_M_30.jpg?versionId=4_KuZgBtdV7xiLFaw7lhMefczn2Ka7V8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/lesson_photo/thumb/HaitianCreole_1_9781797143682_M_30.jpg?versionId=hkfKR2YtkESjZJ.TIjGwPvXuo4ZkrfLW",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/main_audio/9781442336865_Unit_30.mp3?versionId=83jXbd1UwhssUtkkslA0VNNDdYItT1t6",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323078,
+    "cultureContent": {
+    "imageLocation": "Milot",
+    "imageDescription": "The Palace of Sans-Souci was built for Haiti's only king, Henri Christophe, a former enslaved man who was instrumental in overthrowing the French in 1804. The use of the palace was not long as King Henri I died seven years after its completion. In 1842 the palace was destroyed by an earthquake and was never rebuilt. The ruins are now a UNESCO World Heritage Site but unfortunately lack infrastructure for tourism and education.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian Creole/Haitian Creole Level 1 orig/asset/RL/HaitianCreole_1_9781797143682_Intro.pdf?versionId=5PsldEWZ993AM86GCc3JDzB92Mc8rKJH",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading11.mp3?versionId=QaHI4YlYi0yi3kefSFh8XeSDg7jZK.bv",
+    "mediaItemId": 2337765
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading12.mp3?versionId=7SEUD.CpojcXZ6Hl_rJpDnfwyjukVYAn",
+    "mediaItemId": 2337767
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading13.mp3?versionId=bHupOd__GTa.azj2Bg.DBwrIAiktXbCr",
+    "mediaItemId": 2337766
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading14.mp3?versionId=lJoNl_el_8niqm8x9x68YvxL4k0yjZuU",
+    "mediaItemId": 2337770
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading15.mp3?versionId=V0vEDmOYEh8pt14Tx4gqSsCi6jsu0Ikf",
+    "mediaItemId": 2337768
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading16.mp3?versionId=EYyWm5BnAR9iiST_TWIVciF47K7rD.n4",
+    "mediaItemId": 2337769
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading17.mp3?versionId=dO2p._.fC1Jeb4hK1PiZGDOmDbnmNcfu",
+    "mediaItemId": 2337771
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading18.mp3?versionId=BSqndOWbnkpLtDwk_TCA42Xf6Z0xCB4R",
+    "mediaItemId": 2337772
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading19.mp3?versionId=HrLp_JYoLqUAbZNF0TtDBBCd9c5R61l3",
+    "mediaItemId": 2337773
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading20.mp3?versionId=Zq5vBDSR2KSc6a29lHSWhASB_tAtEw9g",
+    "mediaItemId": 2337774
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading21.mp3?versionId=kl0UZpa4iv7SkL361KdZJfx1XWQ0T8lT",
+    "mediaItemId": 2337775
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading22.mp3?versionId=ioWrzgsozu81hbS3M748gdBpIKNVqRbb",
+    "mediaItemId": 2337776
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading23.mp3?versionId=VKy9jrQ49l9jrY45G.ypk7YMq6Hft9oy",
+    "mediaItemId": 2337777
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading24.mp3?versionId=EomTn5GSOv9RTOfeWk5bZumNzYApW26T",
+    "mediaItemId": 2337778
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading25.mp3?versionId=0pQQGAosxHucL9ofLH3h8A0rNSKoI6X.",
+    "mediaItemId": 2337779
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading26.mp3?versionId=mljLsCOWHJYkZQJhlPmK5m8wv6NA6fQ0",
+    "mediaItemId": 2337780
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading27.mp3?versionId=M1hPEutLk2xENv6Yif9FIWZliV39Dsdv",
+    "mediaItemId": 2337781
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading28.mp3?versionId=SoVE_trb.8t66OTIbXUW_vxMire73Pra",
+    "mediaItemId": 2337782
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading29.mp3?versionId=GXK95A1mNJ5qqBcTN4Pvtg9py8HR59G1",
+    "mediaItemId": 2337783
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Haitian%20Creole/Haitian%20Creole%20Level%201%20orig/asset/RL/HaitianCreole_1_9781442336865_Reading30.mp3?versionId=QZoU5oun5jjWPiQFAr8lSUnFFV4dVOHs",
+    "mediaItemId": 2337784
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797143682",
+    "level": 1,
+    "courseName": "Haitian Creole Level 1 Premium",
+    "simpleCourseName": "Haitian Creole Level 1",
+    "puArabic": false
+    }
+    ]

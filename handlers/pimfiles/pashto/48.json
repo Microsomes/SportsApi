@@ -1,0 +1,685 @@
+[
+    {
+    "courseId": 4431,
+    "languageName": "Hebrew",
+    "languageId": 150,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_01.jpg?versionId=nz15YSLXlQPvsf4hed3_naVIQ2falhZb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_01.jpg?versionId=mf0G6u6Fqa2TnqH3Evp_Qi1mfoPO71Gt",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_01.mp3?versionId=PXCm_2YAKl4.DKDQNL6.Z8wkP7DVmehG",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2291840,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Israeli flag features the Star of David, and was originally called the \"flag of Judah\" when it was first designed by the Zionist movement in 1891. The two blue stripes on a white background recall the Tallit, the Jewish prayer shawl.  The deep shade of  blue in the flag was designed to resist fading in the bright Israeli sun.",
+    "imageCredits": "Juanmonino / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_02.jpg?versionId=TWLjTqjO4YWtbE6BHHYBCUGYiKYzxHMQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_02.jpg?versionId=7DPOdMARMxkrijZPmik7r7NHe.9U9vuq",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_02.mp3?versionId=SmyuiOP_C51wuz6mPfYiIVsSL_GJJu2I",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2292083,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Western or \"Wailing\" Wall in Jerusalem is a pilgrimage site and sacred place of Jewish prayer. It is the only standing remains of the Temple of Jerusalem, which was the center of worship in ancient Israel . The wall is a disputed site between Jews and Arabs.  After the Six Day War in 1967 the Israeli government took control of the site and the Old City.",
+    "imageCredits": "bpperry / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_03.jpg?versionId=TeZ3mi6V5q49.5UiUosVCSqiT8obzPew",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_03.jpg?versionId=I6BflfQVYD3jLxJT5YTi.m9DE_q4gXCC",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_03.mp3?versionId=L5JWyHbUg_AvH4OYmUmRx14Y.sDnEscJ",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2292323,
+    "cultureContent": {
+    "imageLocation": "Mea Shearim, Jerusalem",
+    "imageDescription": "Mea Shearim is the ultra-Orthodox  Jewish neighborhood of Jerusalem. The people that live in this area are called Haredim Jews, hared meaning to tremble with fear before God. The Haredim follow strict rules that prohibit the use of smartphones, watching television, and internet usage. When visiting Mea Shearim it is important to be respectful by limiting picture-taking and wearing modest clothing.",
+    "imageCredits": "MariaDubova / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_04.jpg?versionId=B0hDzIsn6OomHyVzbjNnl5JGGkLmnIwB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_04.jpg?versionId=evguZrAHerHDc6hVnMi8vxM1UJKe2Xvp",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_04.mp3?versionId=1givCZxOIq_nbQQkhMBZnoPWKjp3hCuS",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2292615,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "The Tel Aviv Museum of Art was opened in 1932.The building has a unique structure including a new addition that was designed in 2011 by American architect Prescott Scott Cohen. The museum exhibits 20th century art and features Israeli artists.",
+    "imageCredits": "Michael Jacobs/Art in All of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_05.jpg?versionId=_yE68wrIsyEVeHjUhP.gRs7YIqO5Dvlv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_05.jpg?versionId=BfdmnrL1N9uNglMnG9FC5_tjaFsapxYm",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_05.mp3?versionId=RZEm58N5904hhTCuSaFRV7e3SF2mKJJS",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2293066,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "The city of Tel Aviv has started several initiatives to increase green infrastructure. The first prime minister of Israel began the action with his call to \"make the desert bloom.\" The coastal city has created an urban farm with open garden plots, and a massive dump site adjacent to the airport has been transformed into a playground and public recreation spot.",
+    "imageCredits": "EnginKorkmaz / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_06.jpg?versionId=xHjQTmX7HiB5ubhIHE1QH8M70QSGNDrh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_06.jpg?versionId=m3jiw26Cm_jYAKC3md5gvgp6__1KKG2q",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_06.mp3?versionId=MruYAFLpL1jzrLVSxvUbpWi4MuaU42Bo",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2293268,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Three skyscrapers make up the Azrieli Center in Tel Aviv, the base of which is a shopping mall.  The tallest building has a cylinder shape, the next one is triangular, and the third has a square shape. The complex has become a symbol of renewal for Israel, and is a one-stop shopping center with several apparel stores and eateries.",
+    "imageCredits": "dtokar / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_07.jpg?versionId=2FDOlwbEenyELctaT2kkrhC8cW6nfGD2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_07.jpg?versionId=BVx1UfeTikLhUYKwuDTHhQv3kUVITbII",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_07.mp3?versionId=PfTYzvKypBMZnweap7iiEFl5xfYQ_FvS",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2293576,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "In Israel military service is mandatory for all citizens (except Arabs). It is one of the few places in the world where women are conscripted. The Israel Defense Forces has a long history of allowing LGBT and intersex persons to serve openly.",
+    "imageCredits": "Joel Carillet / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_08.jpg?versionId=2hnC8nXBLRe4w6Sr8eYxHxSxGRBQJ0ZF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_08.jpg?versionId=2W90OJIR12PBiEAm_Nk8hpwurcNI58n1",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_08.mp3?versionId=j9ys3A6oCOAemvNxPv4BS8ZITLXmVlHT",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2293801,
+    "cultureContent": {
+    "imageLocation": "Yatir Forest",
+    "imageDescription": "Israeli wine is in high demand from the rest of the world because it is mostly all kosher. New World production practices being used the Old Country are creating unique blends. Grapes from around the world have proved quite successful in the fertile lands of the cooler high regions of Israel, whereas the hotter places are not ideal for grape cultivation.",
+    "imageCredits": "David Silverman / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_09.jpg?versionId=.B_qO8DrdknQE4NlcFnhx5o.C2u5Xb64",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_09.jpg?versionId=vEzqQgOaOdi12kZVOLkg0FRI5oJ2Cj33",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_09.mp3?versionId=MW4GGnh.1zV_amK.Mihr5j_cMl0RvDec",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2294047,
+    "cultureContent": {
+    "imageLocation": "Eilat",
+    "imageDescription": "Lush underwater ecosystems and pristine waters make the Coral Beach Nature Reserve in Eilat, Israel one of the most beautiful places on earth. The protected landscape is home to the only coral reef in Israel. The nature reserve is a popular site for tourists, and daily cleaning of the beaches helps to conserve the coral reef.",
+    "imageCredits": "Nick Brundle Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_10.jpg?versionId=lNoJvQ_CCb44IGawnEVy7DRteaXiG_8k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_10.jpg?versionId=0Tjjh6OxLRLZgzGrSrAESsgJDDMk.Jk_",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_10.mp3?versionId=zmvXkEzo8S_9l5QkWB1Pgp0KgBkzMrCD",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2294320,
+    "cultureContent": {
+    "imageLocation": "Eilat",
+    "imageDescription": "Water sports are popular in the coastal regions of Israel. The waters are free of sharks and seaweed, attracting surfers, wakeboarders, and swimmers alike. Winter surfing is also popular because the waves reach between 6 and 10 feet in height during the winter months.",
+    "imageCredits": "edb3_16 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_11.jpg?versionId=aXFMP15fR2YfCFDHT47DiTIklv9X20KX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_11.jpg?versionId=qxA86QUsw1M2BQWQLJwegwFl965c6uu0",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_11.mp3?versionId=DGIhkvAr63PW8b1k_Q1N5p1I6bfD_e90",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2294569,
+    "cultureContent": {
+    "imageLocation": "Negev, Israel",
+    "imageDescription": "Israel's sunny climate makes it an ideal location for flower farming. Cut flowers are a big export and the country is third to Kenya and the Netherlands as the world's leading cut flower exporter.  Some of the flowers grown in Israel include peonies, anemones, roses, and many more thanks to efficient growing systems.",
+    "imageCredits": "NewSaetiew / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_12.jpg?versionId=EOKHaxY2Usi2Nl9k95RaiKinGO_15u8c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_12.jpg?versionId=ku5BlmLQoYJ_GeeCrCyo7.f7wyj98peV",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_12.mp3?versionId=4nFDzPnHAvcpjBtH6iOxLqfGazKT1jM1",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2294827,
+    "cultureContent": {
+    "imageLocation": "Jaffa, Tel Aviv",
+    "imageDescription": "Beginning at sundown on Friday, the Shabbat, or Sabbath, is a time of relaxation and recreation that lasts until sundown on Saturday. In Jerusalem public transportation, restaurants and shops close to honor the rest day. Some people visit sites important in Judaism, while others might celebrate with friends or family at a beach party.",
+    "imageCredits": "Maremagnum / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_13.jpg?versionId=FkZFDEw2jgGAKizRJRhG38t4ynCV8rAl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_13.jpg?versionId=EhC.O8EvvgG5lIlZ9JG0nVl0_zrwPeHl",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_13.mp3?versionId=p0BvQyVTaxhDuPTIw9JIUNXJlfoCgVVR",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2295028,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "Not all things in Israel are Jewish.  Christmas is widely celebrated in several cities in the country.  After all,  the story of Christmas originates here, known as the Holy Land. Thousands of pilgrims from around the world come to the Old City of Jerusalem to ring in the season. The YMCA holds the popular Christmas Bazaar in the beginning of December where there are hot drinks, pastries, and concerts.",
+    "imageCredits": "Eddie Gerald / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_14.jpg?versionId=wsdW75L_FWC1mxm1oD9PSt2QciIHtJHX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_14.jpg?versionId=7Kpn8A.TI6kUidmIBTGVZU_SQmf_12gq",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_14.mp3?versionId=9oUh.0xwMI77SXh.gc3KufqPEdOxu26M",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2295315,
+    "cultureContent": {
+    "imageLocation": "Judean Hills",
+    "imageDescription": "The 50,000-square-foot Avshalom Cave is filled with stalactites and is one of the natural wonders of Israel. The cave was kept a secret by local authorities after it was discovered by quarry workers in 1968. The cave has been outfitted with lighting that accentuates the natural formations in the depths. Visitors can find this wonder in the Judean Hills twelve miles west of Jerusalem.",
+    "imageCredits": "motimeiri / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_15.jpg?versionId=nZ8gcb_vXcBtlTDhExkNYEhhqvCBIvff",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_15.jpg?versionId=omX6dkN3xYoeDPcDcrL9WuzNGzG04KmD",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_15.mp3?versionId=7KgTut3ts0JlwfV7hXAogKVUw2Uu1nmt",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2295582,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Genesis Prize is awarded to a Jew who has attained  excellence and recognition in their field and embodies the values of Judaism. The award is a one million dollar prize and aims to foster Jewish identity, inspire Jewish pride, and strengthen the bond between Israel and the Diaspora.  In 2016 the award was given to Israeli-American Itzhak Perlman who is a  virtuoso of violin and world-famous conductor.",
+    "imageCredits": "GALI TIBBON / Stringer / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_16.jpg?versionId=9ukamjcA5B_Wtn_xTjLn2qUpBNtGEvKF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_16.jpg?versionId=1KobjDuAb1bpKiuZlbaWrYPHnCBk40Fr",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_16.mp3?versionId=HoI.19FOi98Kvo88DlsiNDpHizJu640G",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2295851,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "Yad Vashem is the World Holocaust Remembrance Center. The museum aims to document, commemorate, and educate visitors about the Holocaust, or Shoah. The center also provides curricula and tools for educators and houses the International School of Holocaust Studies.",
+    "imageCredits": "Grant Faint / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_17.jpg?versionId=Ltu7IDwhnbMll3eORfcnlPn4qebh7.7u",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_17.jpg?versionId=uV15MKNcck1608qAUNX096V5slvSXOOZ",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_17.mp3?versionId=b38lB9alGG0Lt7uBezSPA7UbyEzBrXrx",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2296100,
+    "cultureContent": {
+    "imageLocation": "Judaean Desert",
+    "imageDescription": "Overlooking the Dead Sea is the ruins of the ancient fortress Masada. Built in 30 B.C. by the Roman king Herod I, it is known as the site of the mass suicide of hundreds of Jews during the First Jewish-Roman War. Today the archeological site is protected as a UNESCO World Heritage Site and can be reached by ascending a winding path or cable car.",
+    "imageCredits": "vvvita / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_18.jpg?versionId=1b3J9Fcl.7STTdHpAl9nBtuF3v10lnWE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_18.jpg?versionId=fw6YAyp3J3WXTfl7iBGDNd_WGWFkuQl6",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_18.mp3?versionId=aqAkf6G46PidwS687Rcc9l6pN0FzBeZo",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2296432,
+    "cultureContent": {
+    "imageLocation": "Arava Region",
+    "imageDescription": "The Arava Peace Road goes along Israel's southern border with Jordan in the Arava Valley region. The route features roadside attractions including abstract sculpted figures. The road was built along the bed of the Arava streambed following the Israel-Jordan Peace Treaty of 1994, in order to make peace in the farmlands between the two countries.",
+    "imageCredits": "Eddie Gerald / Moment Mobile / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_19.jpg?versionId=6vusoEK188eW2fVT0X3qJbGN7goSpywK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_19.jpg?versionId=x2e9XOCzdCnUXqOSF586xVriVcfhMN5B",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_19.mp3?versionId=Qu9r4oCLsOdpIMIgOA3maYp3FcjgdRDl",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2296668,
+    "cultureContent": {
+    "imageLocation": "Southern Negev Desert, Israel",
+    "imageDescription": "Nestled in the Southern Negev Desert is Kibbutz Neot Semadar, an Israeli cooperative living community. Established in 1989, the kibbutz offers seminars on organic farming, ecological architecture, and tours of the campus. The winery grows grapes under the harshest desert conditions and produces organic wines using sustainable practices. Visitors are welcome to stay in guest rooms at the inn or enjoy an organic meal at the kibbutz restaurant.",
+    "imageCredits": "Aldo Pavan / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_20.jpg?versionId=TFarz1ygxiZIBicoz6tqwLuAWumtgR2x",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_20.jpg?versionId=.0ia62MGIz.WzowK9NXA85Ahq.cku5OY",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_20.mp3?versionId=faq4Fb.MJPnv2y8AEIY4vEIaLYWYWZmt",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2296994,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Chapel of Saint Helena in Jerusalem is an Armenian church built by crusaders in the 12th Century. The chapel is in the lower level of the Church of the Holy Sepulchre and is modestly decorated to honor Saint Helena's simplicity. During renovations in the 1970s builders discovered a space containing a drawing of a Roman ship from the 2nd century and Armenian authorities have recently created The Chapel of Saint Vartan in the discovered void.",
+    "imageCredits": "DZarzycka / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_21.jpg?versionId=x9dFPpNpQFKfatt5g0yyDSAf7nn.E6t1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_21.jpg?versionId=lcGSmPG_c8mbl2ZKC71Li4cR63SlLll4",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_21.mp3?versionId=dYO3MvVcuy5aY2g3SFY2AAJIMAc.ATDa",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2297238,
+    "cultureContent": {
+    "imageLocation": "Bnei Brak",
+    "imageDescription": "Before sundown at the start Passover, ultra-Orthodox Jews burn leavened foods in the streets of Bnei Brak. All leavened foods are forbidden during the festivities of Passover in remembrance of the Israelites' hurried departure from Egypt. The entire country has many programs for the week-long celebration of this holiday.",
+    "imageCredits": "JACK GUEZ / Staff / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_22.jpg?versionId=zTJhKEly4_B8l0urst4N722G32dxa8w4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_22.jpg?versionId=G4sSNDH6ZgUFUzv2CEsFcx9MF55EQ7Te",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_22.mp3?versionId=bKJVpOKRAAKJH0Tf11dxfej6tf3m3I_N",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2297511,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Israeli-born actress Natalie Portman starred in her directorial debut \"A Tale of Love and Darkness,\" which is a film adapted from the memoir by Israeli novelist Amos Oz. It is a coming-of-age story of trauma and loss that takes place during the founding of the state of Israel. Portman's movie was filmed in Jerusalem, and the movie debuted at the 68th Cannes Film Festival in 2015.",
+    "imageCredits": "AHMAD GHARABLI / Stringer / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_23.jpg?versionId=zIPu2QE92L5RKICjlkiQXyFoLckKrttE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_23.jpg?versionId=DwIwJo75VBhMdndMDitz4NS9mQt2zW.k",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_23.mp3?versionId=f9f0pKuUOOTUd9ZanAOweHjhj_rKl.FM",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2297755,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "During the month of June the Festival of Lights in Jerusalem creates a magical night scene in the Old City. Light projections on buildings combine modern themes with  ancient architecture. Three-dimensional installations are placed around the city to invite festival-goers to explore.",
+    "imageCredits": "Eddie Gerald / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_24.jpg?versionId=xZsW47CNQeKkeeaUUgL.IhbCoA2sUKEm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_24.jpg?versionId=x5hbvm6UMdBSeiIFfQLg._GY_veY0LKU",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_24.mp3?versionId=YAJAPX1xlZtwX4_UM_fFLV8L4ABy7nC3",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2298023,
+    "cultureContent": {
+    "imageLocation": "Holon",
+    "imageDescription": "The Design Museum Holon opened in March 2010 and is a testament to the city's commitment to culture and education. The museum is dedicated to design and features historic, contemporary, commissioned, and educational exhibits. The interactive collections invites dialogue across borders about Israeli art.",
+    "imageCredits": "Jack Guez / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_25.jpg?versionId=ltf1ARph8o.aFgXUfmy8oQaVrkC8fG4w",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_25.jpg?versionId=wTy3EJbMVfmxIC.82zbal8ZuBRG_yDzH",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_25.mp3?versionId=q7MWTXZOne2RkwY4slfpwyTOnHdg41oY",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2298259,
+    "cultureContent": {
+    "imageLocation": "Negev Desert",
+    "imageDescription": "Timna Park is located in southern Israel's Negev region. The park is filled with eroded red rock formations that look like giant mushrooms, pillars and arches. Ancient people known as the Edomites used to mine copper here. The park is open to visitors who can explore the giant geological formations and striking desert landscape.",
+    "imageCredits": "vvvita / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_26.jpg?versionId=W7AT.gZyO3SNJdEW2EnsmnegNK3saU9a",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_26.jpg?versionId=jtzQeaGKV458mGhnml3wZP3ZcEbfH1.R",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_26.mp3?versionId=Laca6dRSEnKLdQuLIpnsumOnRo7Xg6oE",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2298499,
+    "cultureContent": {
+    "imageLocation": "Western Galilee",
+    "imageDescription": "Not far from the Mediterranean Sea and the border with Lebanon the Keshet Cave arches over dense woodlands. Here rock climbers can rappel from permanently fixed anchor points. While exploring this site watch out for the hyraxes, small, rotund mammals who inhabit the sunny landscape.",
+    "imageCredits": "Oleg Lopatkin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_27.jpg?versionId=sIqd4e81oaQ2XAj0N6j_F1PhwP1l5i5X",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_27.jpg?versionId=tsoynv8j8FGGQUoINfbzQmVyTOgfxxvT",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_27.mp3?versionId=2VUb6bS90Tya3dROU9khW1yWxRWwVNv1",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2298865,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Tel Aviv is a mix of high-end shops and historical sites. This tourist hotspot is knowns for its pristine beaches and picturesque coastal landscapes. The artist quarter of Florentin is  filled with graffiti painted on abandoned buildings. Open air markets are plentiful, featuring produce, spices, clothing, and  wares from different cultures. The city has abundant vegetarian and vegan restaurants.",
+    "imageCredits": "Roman Krykh / EyeEm / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_28.jpg?versionId=vZbm7Sg0PJdDp6CgLyioqdJjYo8gHICr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_28.jpg?versionId=vE9lZvrKJaKeuJ7dafc3Q.XIRFqzKGTe",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_28.mp3?versionId=QhRYnavLcd61oEDaYhSocqtzlL8x0uKt",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2299123,
+    "cultureContent": {
+    "imageLocation": "Wadi Qelt, West Bank",
+    "imageDescription": "Embedded in the side of a cliff in Wadi Qelt is the St. George Monastery. The complex was built during the Byzantine period and was established as a lavra, which is a cluster of cave living quarters for hermits. The monastery was destroyed by the Persians in 614 and reestablished years later by the Crusaders. Now operated by Greek Orthodox monks, it is open for visitors and pilgrims.",
+    "imageCredits": "Kathryn Farley / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_29.jpg?versionId=YTY286E6KwtrreMOP096zdfUhOUQ2oVe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_29.jpg?versionId=wh_bf.zQoDY8yNH06Z9KvXIaPQajSi87",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_29.mp3?versionId=VXaV62zqbz1O1NNdRI4s61F69op1WWiZ",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2299339,
+    "cultureContent": {
+    "imageLocation": "Safed",
+    "imageDescription": "Safed, located in the Galilee area of northern Israel, is considered one of the four Holy Cities in Judaism.  Well known as the center for Kabbalah, or Jewish mysticism, in Israel, this tourist haven sits atop a hill and commands stunning views. Traditional family farms, a colorful artists colony, and  infrastructure dating back hundreds of years are to be discovered in this eclectic city.",
+    "imageCredits": "Evan Lang / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/full/HE_1_M_30.jpg?versionId=12CVb1QvAVgpAnT0vDIMXF0_gs.9Dam7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/lesson_photo/thumb/HE_1_M_30.jpg?versionId=QnI_nHtLYJf6fRCh0D3eDcNADzmEAoZw",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/main_audio/9781797114446_Hebrew_1_Lesson_30.mp3?versionId=EbCQve_BDUaxccQlwguqMmdyiG48hCUQ",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2299612,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Dream Doctors Project is a non-profit organization that dispatches medically-trained personnel dressed as clowns to hospitals in Israel. The Dream Doctors assist in various medical treatments to promote the wellness of young patients. The Clownbulance, driven by medical clowns, allows children and parents undergoing long-term treatment to leave the hospital for the day.",
+    "imageCredits": "Uriel Sinai / Stringer / Getty Images News / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew Level 1 orig/asset/RL/9781797114446_Hebrew_1_Alpha.pdf?versionId=19B_W1PJB3vXHcKyZ2Pq1SYJE5RIAeE3",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew Level 1 orig/asset/RL/9781797114446_Hebrew_1_Intro.pdf?versionId=zWiKHSQ2TWe0XrC1iOa4FhpnSm5HmC1c",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_01.mp3?versionId=gVB1nBiEcR9kqKOdpZpIN4CP5XCbtT_B",
+    "mediaItemId": 2223760
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_02.mp3?versionId=n7RaOQ95gfgc3c1.70na3C.Vs6XNF5W9",
+    "mediaItemId": 2223875
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_03.mp3?versionId=ttCwUTGm_S80BIuYyVLyhk8gPbEtp6fb",
+    "mediaItemId": 2224088
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_04.mp3?versionId=nMmnr2YBxfScGgMCBTe8dQVVU2rPkeWJ",
+    "mediaItemId": 2224228
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_05.mp3?versionId=e41qqGny7VDOi6Gzogr_3B1V2w01u2js",
+    "mediaItemId": 2224422
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_06.mp3?versionId=.NZLs3uOiKff6nuKkKeiqvLO_CBxlh1n",
+    "mediaItemId": 2224557
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_07.mp3?versionId=GN3hAaR3Pkr6s4n9tJr_N5_PCjvxxgYf",
+    "mediaItemId": 2224731
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_08.mp3?versionId=0HSTsPWYiZoQk3.qUKsAwtWSAPzWTOsz",
+    "mediaItemId": 2225095
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_09.mp3?versionId=1bNk6JY2Oc.NmS8PfJoevXxBEolLUjTH",
+    "mediaItemId": 2226710
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_10.mp3?versionId=N.dK4h0exmtIK7DayknxO_Sgzu9GxGKB",
+    "mediaItemId": 2229502
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_11.mp3?versionId=ZCDalrB0WZoGbzmuFUHij1kkyLsNgR_p",
+    "mediaItemId": 2232722
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_12.mp3?versionId=eAj9MJN2x9in6udByQ9JxOIo1bnuVMjk",
+    "mediaItemId": 2236418
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_13.mp3?versionId=r8IYLRM2TJuUdDvVAID5Ao4sI4rQQRUJ",
+    "mediaItemId": 2239557
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_14.mp3?versionId=naWC_0X9bDNZNmU1sgN1DFrNWkmpaEI.",
+    "mediaItemId": 2242515
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_15.mp3?versionId=dB8Q3UNuly9dBygUqZcdQWm.9oSTHZmy",
+    "mediaItemId": 2245800
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_16.mp3?versionId=Io9pV2dQnyYmO41GpLQzwi1AjJUXliJw",
+    "mediaItemId": 2248722
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_17.mp3?versionId=1iDux5XqYvBIr_15vkpYowe1SBKbrB..",
+    "mediaItemId": 2251752
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_18.mp3?versionId=tW1eEiv451nyj6OcRLiM1OwOJW3_1ol4",
+    "mediaItemId": 2254541
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_19.mp3?versionId=_4sq6blTfOwDGHLJZE8PI_a2SwfVyErC",
+    "mediaItemId": 2257391
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_20.mp3?versionId=2u1YliTp2DkJJKd8d5PWO.Lfk_jblLJc",
+    "mediaItemId": 2260185
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_21.mp3?versionId=wcaCtHTt8W9EEuXDG..WdO73i9ZYEK7M",
+    "mediaItemId": 2262720
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_22.mp3?versionId=FQ.yZx3wQAMtk_PHQvnWuZYVdQLrDIBW",
+    "mediaItemId": 2264636
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_23.mp3?versionId=MRkj.R80_lj_CLAwzedygibWDFTZNf7G",
+    "mediaItemId": 2265813
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_24.mp3?versionId=WQolchs7_STmt6T2kR53f9MP0LhneG8W",
+    "mediaItemId": 2266449
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_25.mp3?versionId=AtmJbaSlj7r3UvpgfTSoEDIue5lV5swJ",
+    "mediaItemId": 2266888
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_26.mp3?versionId=BqiVlZpvDkjjKdiCI4epjF060FgJtoFJ",
+    "mediaItemId": 2267279
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_27.mp3?versionId=_0NS5A3bXqFlQHJ8GrZtO13X5A5GsMzv",
+    "mediaItemId": 2267646
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_28.mp3?versionId=K2lMm1pNQbVVL1BeJj_HTCuzoc6WOaI_",
+    "mediaItemId": 2268077
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_29.mp3?versionId=2O6c8tpj8amRi8A_FrnW6Snnho3sE1iQ",
+    "mediaItemId": 2268471
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%201%20orig/asset/RL/9781797114446_Hebrew_1_Reading_Lesson_30.mp3?versionId=sBhyTnKbdWXERVi6rFg3i1EcRxZoktkz",
+    "mediaItemId": 2268858
+    }
+    ]
+    },
+    "languageCode": "iw-IL",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797114446",
+    "level": 1,
+    "courseName": "Hebrew Level 1 Premium",
+    "simpleCourseName": "Hebrew Level 1",
+    "puArabic": true
+    }
+    ]

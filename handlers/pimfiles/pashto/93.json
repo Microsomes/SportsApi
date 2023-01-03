@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 5641,
+    "languageName": "Ukrainian",
+    "languageId": 174,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_01.jpg?versionId=yHeQHC5Xl5a0dCb5J5bLBQD3CqnXv9eb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_01.jpg?versionId=l_5Ke6GhQA9.KwMh0b1WDhsvkYdrcMW4",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_01.mp3?versionId=amyx1nqrMnoMKUYz0yd2Wl4UIBSu46D1",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323319,
+    "cultureContent": {
+    "imageLocation": "Ukrainian Culture",
+    "imageDescription": "Descended from Cossacks and ancient Kyivan Rus, Ukrainians are an East Slavic ethnic group native to the region. The Ukrainian language, a Slavic language, is spoken by over 40 million people worldwide, and the written language uses its own variant of the Cyrillic alphabet.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_02.jpg?versionId=9dKJ.0isBnv30nwMOUBcHQIJSjj9BFGU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_02.jpg?versionId=08v0TB4X9wID_bgWrktCMNBDz1C4pKeW",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_02.mp3?versionId=wJWD.MLPa4eItTsZVKXwaGKz4lmEqJtU",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323329,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Celebration of independence is a large part of the Ukrainian cultural identity. After gaining independence in 1991, Ukraine's first parliamentary election was held and the Verkhovna Rada was established. The parliament meets in the Verkhovna Rada Building in Constitution Square.",
+    "imageCredits": "Maxym Marusenko / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_03.jpg?versionId=fIixd4wQsuk4qJ157UqJ2fcoT23QXFL_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_03.jpg?versionId=mZP_SM26xgKY44XuGCTWXbGf6Ox8riKJ",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_03.mp3?versionId=CDlXEcI8VwSb_ocVZc7MScvKqQSn89Yx",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323339,
+    "cultureContent": {
+    "imageLocation": "Ukrainian Culture",
+    "imageDescription": "The light blue and yellow colors of the Ukrainian flag date back to the Kyivan Rus. Ukrainians see these colors as representing the blue sky over a field of wheat or sunflowers, calling to mind the rich soils of their homeland. The Ukrainian coat of arms features the trident symbol of Volodymyr, the first grand prince of Kyiv, who ruled from 980 to 1015.",
+    "imageCredits": "Iurii Malaschenko / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_04.jpg?versionId=omSJSOTOISmMcj4MPWmeLiPY4DRZqQZ3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_04.jpg?versionId=SGhWygfnBdpeb3vnu4iK8lX8vCt.YHbz",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_04.mp3?versionId=teYM2G_bVdizvKt9drU.ATGtXzbExutl",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323348,
+    "cultureContent": {
+    "imageLocation": "Odessa, Ukraine",
+    "imageDescription": "Built in neo-baroque and late French rococo styles, the Odessa National Academic Theatre of Opera and Ballet is the oldest theatre in Odessa. It was the first building in the city to be fully illuminated using electricity, and once featured a unique summer cooling system utilizing loads of ice and straw which were placed under the main hall allowing cool air to drift through vents under the seats.",
+    "imageCredits": "Krasyuk / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_05.jpg?versionId=0i0n1UgSTWqI98VoUBgv6fjT..StxodN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_05.jpg?versionId=2Ua7WpprLtRRyXTKTmmBQYSgrgdNwJAm",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_05.mp3?versionId=Y4S7YK_DCfaWFZCH9RbMpDRp.5UAb.4D",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323356,
+    "cultureContent": {
+    "imageLocation": "Pyrogove, Ukraine",
+    "imageDescription": "July 6th is known as Ivana Kupala in Ukraine, an ancient Slavic pagan holiday celebrating the summer solstice. After Christianization, this holiday was linked with St. John's Day as both celebrations involve bathing in water. Traditional Ivana Kupala practices include jumping over bonfires, wearing wreaths of flowers and ferns, and bathing naked in rivers and lakes upon which candlelit wreaths are floated.",
+    "imageCredits": "SERGEI SUPINSKY / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_06.jpg?versionId=IzuAwXRSO.3wYyCofB36JwavsUw7s7F2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_06.jpg?versionId=t23Tg4ZQRkQZSpC1Z0qUghtMgS0pJ0XU",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_06.mp3?versionId=jU53iwj6eV72ZtlUKB.jQr4UE2F4Rsek",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323367,
+    "cultureContent": {
+    "imageLocation": "Lviv, Ukraine",
+    "imageDescription": "Traditional Ukrainian Christmas is celebrated in early January and includes a feast of twelve dishes on a table decorated with garlic and a sheaf of wheat called a didukh. Carolers parade through the streets performing carols called koliadky. People decorate with shopka, a type of portable nativity scene, and the Christmas star is celebrated; the first star in the eastern sky.",
+    "imageCredits": "Markiian Lyseiko / Ukrinform / Future Publishing / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_07.jpg?versionId=5jWNRwWq.zq0P0mXhyeoVSaProohKFfM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_07.jpg?versionId=1Np_Qcf9ZQ5S.pd_LVFs6wGpklZqDB3W",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_07.mp3?versionId=UQmbyInWBI68nfCSb1G05H1g5.X8HibO",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323377,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "The Batkivshchýna-Máty, or Motherland Monument, towers 335 feet above Kyiv, with a 52-foot-long sword in one hand, and a giant shield in the other. It was constructed of stainless steel and completed in 1981, and is a sometimes-controversial memorial to lives lost in WWII.",
+    "imageCredits": "Maksim Kudimets / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_08.jpg?versionId=7zxFB9PngPr.nL6UT_SOwXuJFav4L.Pn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_08.jpg?versionId=j4GG_Rs4DTvM3clecRZFqS6TtvfMYORr",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_08.mp3?versionId=qThExdq6BwTldFPOADod6iey_ipTH7Fe",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323386,
+    "cultureContent": {
+    "imageLocation": "Donetsk, Ukraine",
+    "imageDescription": "Dedicated to the military units that liberated the Donbas region in WWII, the Tvoim vyzvolyteliam, Donbase, or \"To Donbas Liberators\" sculpture is the largest monument in southeast Ukraine. Located in Lenin Comsomol Park, it features imagery of a miner and a soldier along with a banner and an eternal flame.",
+    "imageCredits": "Elizaveta Becker / ullstein bild / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_09.jpg?versionId=At88.cyU_uAYaYYw1ZvQ8oW65.yd_3xT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_09.jpg?versionId=Om6sV2gW3rjRSNGj0iPntVJ8yokTS5SK",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_09.mp3?versionId=4K26nk9ADcWppLEXafwQLdjm.0PdVPcr",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323398,
+    "cultureContent": {
+    "imageLocation": "Carpathian Mountains, Ukraine",
+    "imageDescription": "Ukraine's long winters make for a six-month season, ideal for winter sports. Most of Ukraine's ski resorts are in the Carpathian Mountain Range in the west. Bukovel is the most popular, with 61 tracks of varying difficulty. Those seeking a more adventurous experience should consider Drahobrat on the slopes of Stih mountain, Ukraine's highest elevation ski resort.",
+    "imageCredits": "anatoliy_gleb / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_10.jpg?versionId=jTiv1YglQkGWsUcest7S5aJpYhWZpvay",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_10.jpg?versionId=P9QhELNHTj_8vs.nRxvCIkb8Y8eTkqIa",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_10.mp3?versionId=ATsF5KPJFF.GoxszixqYt5mVvr0tZOnQ",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323406,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Kyiv's Budynok z khymeramy, or \"House with Chimaeras,\" has been used as an official Ukrainian presidential residence since 2005. It was designed and constructed in 1902 by Polish architect Władysław Horodecki in the Art Nouveau style, and its façade features countless sculptures of mythical creatures and animals.",
+    "imageCredits": "LittleElefant / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_11.jpg?versionId=hIbxTWC_5bAyoaLYPrA9pNGRfudZ7y9i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_11.jpg?versionId=WEIXoQUCpEiP_mg44tuEP9fctaPQD1Yu",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_11.mp3?versionId=rnnhaSxOglHpQQ8w0R.BqMOl7TO7A09n",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323416,
+    "cultureContent": {
+    "imageLocation": "Polianska Huta, Ukraine",
+    "imageDescription": "A type of Christmas puppet theatre or mystery play called the vertep appeared in the Ukrainian region in the late 16th century. It is based on the Nativity scene, but also includes characters representing the diverse backgrounds of Ukrainians including the Cossack, Pole, Muscovite, and Jew. Traditional Christmas carols are sung as the characters either parade the streets or set up puppet theatres to enact the play.",
+    "imageCredits": "Serhii Hudak/ Ukrinform / Future Publishing / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_12.jpg?versionId=tWE02hMqGbaA6MztcHSbtg80LpHKtg4N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_12.jpg?versionId=MjJWbM4LW4VZ3i5mFzE8XL9MW._yt5Ht",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_12.mp3?versionId=rTQ_kIIGu31J3oLwPLqo3dtV6L8GRdo4",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323425,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "The Independence monument is a 200-foot-tall column commemorating Ukrainian independence. It is topped with a sculpture of Berehynia, an ancient Slavic pagan mother goddess, believed to be the creator of life and death. Above her head, she holds a branch of guelder rose; a symbol of family roots, connection to the land, and youthful feminine beauty in Ukrainian folklore.",
+    "imageCredits": "Igor Golovniov / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_13.jpg?versionId=yHh0nxfVwfuSa67o4COR4k1efCXeT8nf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_13.jpg?versionId=VnyNEqsHylFoDPfCRFEgWlWwjL2i6tdY",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_13.mp3?versionId=maP02ozJBC1ih_VDbdbewqH._fiNRvVm",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323438,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "This mosaic on the wall of the St. Sophia Cathedral depicts the Virgin Mary. Artist Oksana Mas created it with over 15,000 traditional wooden Easter eggs painted in the traditional Ukrainian style. Most Ukrainians are self-declared Orthodox Christians. Christianity was brought to the region sometime around the turn of the first millennium and was popularized by the cultural influence of the Byzantine Empire.",
+    "imageCredits": "Sergei Supinsky / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_14.jpg?versionId=Rs0UvbUK03zxGpNgsJZjXOafdkchCO3I",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_14.jpg?versionId=bFVAbKJKiYaSKSkWeaTkqzLNHf1xTfEl",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_14.mp3?versionId=oUoQCA96M2gppQyAp6FzFbAk9ElAgtu_",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323447,
+    "cultureContent": {
+    "imageLocation": "Ukrainian Culture",
+    "imageDescription": "Ukraine's national dish, borscht, gets its name from the Proto Slavic word *bŭrščǐ, the common name given to the Heracleum sphondylium plant now known as hogweed. This plant has flourished in the boggy meadows and liminal roadsides of Europe and Asia for thousands of years. Ancient Slavs made a sour borscht from its fermented leaves and stems, not unlike sauerkraut or kimchee, though today the dish is usually prepared with beetroot and cabbage.",
+    "imageCredits": "istetiana / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_15.jpg?versionId=Dchl5udyD9JKNbJdtp.OFrvHCDHj7XZe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_15.jpg?versionId=BKEQ_wz4oLL4.n7425d9ejb4mX8uwZzT",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_15.mp3?versionId=fjYjW.wAs8jzlUb0V70kqzZhh93i0hRU",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323455,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Ukrainian businessman Petro Poroshenko served as Ukraine's fifth president from 2014 to 2019. Here, artist Daria Marchenko works on her piece, \"The Face of Corruption\" made with candy wrappers. Though Poroshenko has holdings in manufacturing, agriculture, and finance, he earned the nickname \"The Chocolate King\" due to owning a confectionary brand. In 2019, he lost reelection in favor of Volodymyr Zelenskyy who scored a record 73% of the country's popular vote.",
+    "imageCredits": "Sergei Supinsky / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_16.jpg?versionId=lXDvY2nN1uPr3Jhjqpk1GZTe0.mL7v25",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_16.jpg?versionId=1G1sSfwqP7ae9IJ7zpBeRVJ2Swx_YqF2",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_16.mp3?versionId=BmNz2vBIX7t5A9zze3b.5oJj.evVlY9F",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323463,
+    "cultureContent": {
+    "imageLocation": "Syvash, Ukraine",
+    "imageDescription": "Located in the Kherson region of Ukraine, Lake Lemuria gets its pink hue from Dunaliella saline algae which produces high levels of beta-carotene. The shallow lake's high salinity and supposed healing properties make it popular for bathing, and the lake mud is certified for use as a therapeutic product. However in summer, the warmer water creates a strong smell, which has earned it the nickname \"The Putrid Sea.\"",
+    "imageCredits": "Anton Petrus / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_17.jpg?versionId=hW2ikGKv48Yxog7OAXNAAkksRoiecw6E",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_17.jpg?versionId=.HRaXAu5VQhS.ikhQDDX9kkShitqgd9U",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_17.mp3?versionId=uJnge9V5SkY4JLp94vg6_hS6GkaNz6gZ",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323472,
+    "cultureContent": {
+    "imageLocation": "Los Angeles, California",
+    "imageDescription": "Award-winning actress Mila Kunis was born in Chernivtsi, Ukraine (formerly Ukrainian SSR) in 1983. Her family moved to Los Angeles in 1991 when she was seven years old. Because she was raised when Ukraine was a part of the Soviet Union, she speaks Russian rather than Ukrainian.",
+    "imageCredits": "Rich Fury / WireImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_18.jpg?versionId=FD4hDtKnpE4h..rvJixJWM8pQQl1yGUS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_18.jpg?versionId=AV88_XhBcHrNatYdueLsbcwBrRx1CtN2",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_18.mp3?versionId=CtZ.0SwQYvP0BfvY4Imazk6PQiyAjS_s",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323481,
+    "cultureContent": {
+    "imageLocation": "Pripyat, Ukraine",
+    "imageDescription": "The ghost city of Pripyat in northern Ukraine was evacuated over the course of two days after the Chernobyl Nuclear Power Plant disaster in 1986. The Pripyat amusement park Ferris wheel still stands, stuck in time like a monument to the promise nuclear energy once held.",
+    "imageCredits": "DeSid / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_19.jpg?versionId=G7luvWMbgmYuT2wzLvmC69PcprFGcWej",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_19.jpg?versionId=t_Esp56QoZVpfGOjXgFkTPzZH4oMEpGs",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_19.mp3?versionId=DAMtE_LstRqqPsYMavQt2lWc2CWivkUQ",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323489,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Built to resemble colorful 19th century buildings, the district of Vozdvizhenka was constructed in the early 2000s. Initially built as a luxury residential area, most of the buildings have been uninhabited since the global financial and real estate crisis of the late 2000s. Some residents of Kyiv refer to Vozdvizhenka as \"the oligarchs' ghost town.\"",
+    "imageCredits": "OlyaSolodenko / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_20.jpg?versionId=znk4oqsVp1JEtuCvdPcoWOO1FkpEI98Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_20.jpg?versionId=feBYfFCxjreS9vPQ2Kdbsv8G2zi7.CtA",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_20.mp3?versionId=qoolDSMsLAd6A4cLKYo792MQlo9iVkcM",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323496,
+    "cultureContent": {
+    "imageLocation": "Ukrainian Culture",
+    "imageDescription": "Pysanka, Ukrainian Easter eggs, are named after the Ukrainian word \"pysaty,\" which means \"to write.\" To create the eggs, artists inscribe the designs with geometric or floral patterns using a beeswax-resist method and dye them in various layered colors. It's thought that this practice dates to ancient Slavic times.",
+    "imageCredits": "DmyTo / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_21.jpg?versionId=pGcHT.Gdnnzb4dOTFfOtdOYS6.HqV8LN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_21.jpg?versionId=beos3GXycDca2bnXnLNK6A8p44wfFYNS",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_21.mp3?versionId=JoL.FuGFg.t3LpVl8dwTi25KU7OnBav7",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323502,
+    "cultureContent": {
+    "imageLocation": "Krasnoilsk, Ukraine",
+    "imageDescription": "The Ukrainian holiday Malanka is celebrated annually on the 13th of January, or New Year's Eve in the Julian calendar. Traditional foods are served including pancakes, dumplings, pork, and a wheat berry pudding known as kutia. Carolers parade through villages and young costumed men run around expressing good wishes while singing and dancing.",
+    "imageCredits": "Brendan Hoffman / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_22.jpg?versionId=a9oJUyGky7y15.oSxdFWN3N54fEuOIgT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_22.jpg?versionId=EBeJQUIgjuq_iYvNBbo06DNnokHN2sPX",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_22.mp3?versionId=V68nBFtKeZWrDUbxmpn6T45uDZMRdyEQ",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323509,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Constructed during the 11th century by the Kyivan Rus, the Saint Sophia Cathedral in Kyiv is considered one of Ukraine's greatest monuments. It was named in honor of the Hagia Sophia in Istanbul, Turkey and contains many great mosaics and frescos as well as the sarcophagus of Yaroslav the Wise; Grand Prince of Kyiv from 1019–1054.",
+    "imageCredits": "OSTILL / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_23.jpg?versionId=I2sdDRsL4ViZdFAOtfMg4sAAkwR0CcLj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_23.jpg?versionId=DfiTPIKOKPJNHDvaDqqm55o4vuTm6mbt",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_23.mp3?versionId=NvDURC4Pv78nHOtpMTd_mqL4YayrP14o",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323519,
+    "cultureContent": {
+    "imageLocation": "Tokyo, Japan",
+    "imageDescription": "Born in Odessa, Ukrainian tennis star Elina Svitolina took up the sport at the age of five. Since then, she has won 16 WTA Tour singles titles, and reached the semifinals at Wimbledon and the US Open. She's the first Ukrainian tennis player to win an Olympic medal after winning bronze at the 2020 Summer Olympics in Tokyo.",
+    "imageCredits": "Clive Brunskill / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_24.jpg?versionId=gNR9IjhoDtXAwzK2Xg4YT0Eis3brssqY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_24.jpg?versionId=Ibd1h9HACXzrMt_R5XH_BUdavwmiDdOB",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_24.mp3?versionId=X9t.tDor726m5rOMxGjiZjk3vBWDfA9r",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323525,
+    "cultureContent": {
+    "imageLocation": "Ukrainian Culture",
+    "imageDescription": "Often called the breadbasket of Europe, Ukraine is one of the world's most prolific agricultural producers. The country is known for its rich black soil and is the world's largest producer of sunflower seeds and oil. In addition, the country has a growing meat and dairy industry, and produces more honey than any other country in Europe.",
+    "imageCredits": "Anton Petrus / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_25.jpg?versionId=RzKeRuybUIcmRg0KjkVQcANZPZ6r.SQw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_25.jpg?versionId=Mi56KMnrkMqNfP1CXmoELKUMcSJL_nOy",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_25.mp3?versionId=p_oyP76vtLhXcFn7votrr.O3mdzHiN8O",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323533,
+    "cultureContent": {
+    "imageLocation": "Chernivtsi, Ukraine",
+    "imageDescription": "Established in 1875, Chernivtsi National University in Western Ukraine was originally founded when the city was part of the Austro-Hungarian empire. In fact, the university's primary language of instruction was German until 1918. Following the region's absorption into Romania, the primary language was Romanian, until it was switched to Ukrainian in 1940. The university has been a UNESCO World Heritage Site since 2011.",
+    "imageCredits": "Komyvgory / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_26.jpg?versionId=5bEduYtMrRGKOsM5WBe6HrAEfMy9YMRz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_26.jpg?versionId=ZgLZSKAOG5jIVIZRxmbfXl6B10G8TWxZ",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_26.mp3?versionId=sMCnEHKYQSJ2NE_dPrYNRRGrySTykzoe",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323539,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Romani people attend a remembrance ceremony at the Nomad-caravan memorial on Roma Holocaust Memorial Day, instituted in 2004 by the Verkhovna Rada (the Ukrainian Parliament). The day commemorates the victims of the Romani genocide during WWII. On August 2nd in 1944, 2,897 Roma were put to death in the \"Gypsy family camp\" at Auschwitz. It's estimated that as many as 500,000 Roma were killed during the war.",
+    "imageCredits": "Sergii Kharchenko / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_27.jpg?versionId=HKVRFlvR0AANO0dXp0iuf5uZL0BvS6zq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_27.jpg?versionId=QT36uFYqbxuwMe7KTpIGEAxCWhXEgwkQ",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_27.mp3?versionId=UvoCfPzSp7FlZSA5k__LMcMdgNsTE6KG",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323545,
+    "cultureContent": {
+    "imageLocation": "Klevan, Ukraine",
+    "imageDescription": "A popular tourist destination, the Tunnel of Love is a stretch of railway with trees enclosing it on all sides. According to local legend, the trees were planted during the Cold War to conceal military hardware being transported on the tracks. The shape of the tunnel is now maintained by the regular passage of trains delivering birch lumber to and from a nearby factory.",
+    "imageCredits": "Conan-Edogawa / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_28.jpg?versionId=VuLHy3Oi9gDVCH3gxVpXaOYTVRW9PE0a",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_28.jpg?versionId=VoglAqvfLG_Md50oU.7iYSbuRUW9laGM",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_28.mp3?versionId=Wc.03vuHTP1Hm6Chyq00ImxwcfQKMq6o",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323550,
+    "cultureContent": {
+    "imageLocation": "Kyiv, Ukraine",
+    "imageDescription": "Kyiv's Metro system was first opened in November of 1960. Zoloti Vorota station was built in 1989 and is located near Kyiv's golden Gate. It was designed to resemble an ancient Kyivan Rus temple and features 80 mosaic pieces depicting scenes from Kyivan Rus history. Constructed at a depth of 317 feet below the surface, the station has been used as a shelter during difficult times.",
+    "imageCredits": "Rainer Lesniewski / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_29.jpg?versionId=upAoThOMt91kbCoSxapUNzVZlQQ7ncfb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_29.jpg?versionId=tWnb0HDn.H8vPGwCyNsVKT_H6zIhSHDH",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_29.mp3?versionId=8r0yjxSaKNFw85iLuQQA8X4JWU.N4NLX",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323556,
+    "cultureContent": {
+    "imageLocation": "Lviv, Ukraine",
+    "imageDescription": "Originally named Lwihorod after Lev (also known as Leo of Galicia), eldest son of King Daniel of Ruthenia, Lviv was founded in 1256. It is the largest city in Western Ukraine and one of the country's main cultural centers. It is home to 1,500 cafes, the most per capita of any city in the world. The city's historic center is a UNESCO World Heritage Site, with buildings dating back to the 13th century.",
+    "imageCredits": "krblokhin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/full/Ukrainian_1_9781797147031_M_30.jpg?versionId=6OmfjB.Yhs1BYrEZ.h1ReYefvJctNgi6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/lesson_photo/thumb/Ukrainian_1_9781797147031_M_30.jpg?versionId=Hc.6eXIOzd4ynFosKesfdAyYBq0Q_0FG",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/main_audio/9781442324558_Unit_30.mp3?versionId=ZM.uRj7VayIZ3ObwmIdsjqRRG_6CgdF6",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323563,
+    "cultureContent": {
+    "imageLocation": "Stanislav, Ukraine",
+    "imageDescription": "It's thought that the Black Sea was once a freshwater lake prior to the rise of the Mediterranean Sea at the Bosporus and Dardanelles straits. The waters sit in two layers which do not mix, the top oxygen-rich, and the bottom with high salinity making it anoxic, meaning little life can survive there. The Kherson Cliffs were once home to the ancient Scythians who came to this region from Central Asia.",
+    "imageCredits": "Oleksandr Zaichuk / EyeEm / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian Level 1 orig/asset/RL/Ukrainian_1_9781797147031_Alpha.pdf?versionId=epn9NkEXRi7AZklb_uYrXdm7FLQAWLs4",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian Level 1 orig/asset/RL/Ukrainian_1_9781797147031_Intro.pdf?versionId=kOkZPq9MonNTTroWQd5ZUNyVCUE9wLQc",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading01.mp3?versionId=PlVFob.IkLHgZrz8NyxoK3tQqBdxAmO8",
+    "mediaItemId": 2340201
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading02.mp3?versionId=wkYXcqadjEX3o6hHqmQvBKAFXhh4YF_y",
+    "mediaItemId": 2340202
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading03.mp3?versionId=V3QcIHk9h4aBlPwSNFR.XVQ8CHcHsuKc",
+    "mediaItemId": 2340205
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading04.mp3?versionId=C0VKQ7hHIuM01fhZhKXbKHYA2NxwzAlO",
+    "mediaItemId": 2340204
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading05.mp3?versionId=7Kx_1Pdmvu_gCEHA6Myh4_d1GO7UMvTi",
+    "mediaItemId": 2340203
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading06.mp3?versionId=W9ZYy264ipMNZqi_5uzShXe2DG5cwCPN",
+    "mediaItemId": 2340206
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading07.mp3?versionId=YzIPQFpFfr_j6ntjprf2s.8bOhvQvtMC",
+    "mediaItemId": 2340207
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading08.mp3?versionId=z_2yBxw8KCQK7whub1.3DerSmtGAW58T",
+    "mediaItemId": 2340208
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading09.mp3?versionId=Sjxis6mv3arA7Yq35._yPhyqqNd4Xdj5",
+    "mediaItemId": 2340209
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading10.mp3?versionId=__7pL0iOKwQtaTPOXOH0BCodMVoTO.jg",
+    "mediaItemId": 2340210
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading11.mp3?versionId=iGh7AAUUDWslKl3hn2FVe13NmNiefzeD",
+    "mediaItemId": 2340211
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading12.mp3?versionId=T7nzdMmcn.E0I1NU19tH8JGVCnH7ImuW",
+    "mediaItemId": 2340212
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading13.mp3?versionId=aT2YwLuSt3V1lZCjtqlRut0_lhaSkamq",
+    "mediaItemId": 2340213
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading14.mp3?versionId=HkGEqfZdJ7DtlQYhudMyXLYXEPvqgK.Y",
+    "mediaItemId": 2340214
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading15.mp3?versionId=jTNzz1qLiGm3BR0Rns29RfhQOYlOjm72",
+    "mediaItemId": 2340215
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading16.mp3?versionId=scDrJ_JvYIFpSHCqBcnOFMQV_4wvXSpM",
+    "mediaItemId": 2340216
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading17.mp3?versionId=BUTSmgn5L_Xsln9bIKlS9s793Icbvl1C",
+    "mediaItemId": 2340217
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading18.mp3?versionId=.jJSjETZRb4vYu.Z9HiaTE__VVi_Gx18",
+    "mediaItemId": 2340218
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading19.mp3?versionId=dQ714W.bDPQarJDhdP9W.7T2X.5gq0Ra",
+    "mediaItemId": 2340219
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ukrainian/Ukrainian%20Level%201%20orig/asset/RL/Ukrainian_1_9781442324558_Reading20.mp3?versionId=paImG8S7xgQhFWA_6n7DOJ.STNnPb2PV",
+    "mediaItemId": 2340220
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797147031",
+    "level": 1,
+    "courseName": "Ukrainian Level 1 Premium",
+    "simpleCourseName": "Ukrainian Level 1",
+    "puArabic": false
+    }
+    ]

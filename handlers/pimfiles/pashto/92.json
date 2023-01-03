@@ -1,0 +1,575 @@
+[
+    {
+    "courseId": 5680,
+    "languageName": "Urdu",
+    "languageId": 177,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_01.mp3?versionId=UwVbgyhVsAbx2KkfUMPZRcpS7EOlNGLs",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323143,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_02.mp3?versionId=LiB7vQ37v26WscwA649SAekB5i.79P6y",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323147,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_03.mp3?versionId=F90lP.pSh0AsIbqgNmSxtPkHBLt5enUu",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323151,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_04.mp3?versionId=ZDQ_Fbr_jEwnMkvrVPEb.P0.4cU4b26o",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323157,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_05.mp3?versionId=p1C7PyQU6esc5C3hSepjjGT.IiRTS1Zp",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323162,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_06.mp3?versionId=UJi09fNiYUPNKeYcnr7P4imgQnwclHjl",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323171,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_07.mp3?versionId=HUgnOtBePDQfPlkCHnfJvYZloChW7Xjj",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323179,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_08.mp3?versionId=qaEr2ms3793ZizSse9_mmAiwND7jQVyS",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323186,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_09.mp3?versionId=zFXkQeuRvMpkXNtImpsvQOk3uy5oiK6I",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323193,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_10.mp3?versionId=gNEB8QaaTi2D2gsxYS08kI1na1hJrnBJ",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323199,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_11.mp3?versionId=DxUN.K4Ap2xRTlIEvpe3AxKg.nMCgjGA",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323211,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_12.mp3?versionId=AbJ7M34w2r6hD0kdVlpuNPQfOBrtDlYe",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323224,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_13.mp3?versionId=P4uQClZHqvrGlXs1bdnJxXBqmZEN4FVr",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323232,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_14.mp3?versionId=fIwn1GHQQPSKAbzagCa1xHjd8CBEgF.o",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323241,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_15.mp3?versionId=FAIeFwtqXzI30P6cXTj5xNxDydDKLk1x",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323246,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_16.mp3?versionId=6Em69darmShm.tuLxh3.HYH23huXzMoc",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323256,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_17.mp3?versionId=8m12UBfhXhFgMkrSqZa3_fxV7jv1IsfM",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323264,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_18.mp3?versionId=9Ygub4QTqzLJgFL6R_H6K2aqtnhDkSUe",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323273,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_19.mp3?versionId=Qv6RyNRNkCzoXHt0Z8r3GZ2VaDQkJIzE",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323282,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_20.mp3?versionId=GHIcSxHkhIJlG4u_dllx96_dH1Q6Yesz",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323291,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_21.mp3?versionId=Jgy_UhfL22TfQo4wY.MfUjlxRjvq5knZ",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323299,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_22.mp3?versionId=UN97b8xjbikDV3YuzPCweI3YrdtUCgEp",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323310,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_23.mp3?versionId=FiuVo0kPaHnM0AktuX6bVLIqJnmzVW_d",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323320,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_24.mp3?versionId=OBa1hCm9RbzWwBs.5HwHIH.fGOfoCaUk",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323328,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_25.mp3?versionId=V._H.6a_FPcfzTGXZAaLwr62BLwo9O17",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323338,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_26.mp3?versionId=PjxPmPJSgoDkEvI3yMvWzxnkOD40XdqS",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323347,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_27.mp3?versionId=WAiHvGfYMDe86UADvkti3A.9X1cR5LBX",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323355,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_28.mp3?versionId=ZUSxLhEayp4YOuTSODrvokbGSQBM9_o2",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323365,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_29.mp3?versionId=TEyav9Ea2akOHipziArC3LZn.DKJYUY3",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323372,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/language_image.jpg?versionId=2Uo7CybuHss76gq_eXryCHTJABP8QIUF",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/main_audio/9780743596671_Unit_30.mp3?versionId=w4Hq.LvJiRoiwSxQCcb8pUv12RKFxDwq",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323385,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Urdu_1_Bklt.pdf?versionId=dQNrTq5t0cJIdaIG1ZsFaUixFuBonjGP",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U01.mp3?versionId=tujerfrt6nxby.cC1hPcNg9BWAk.21nC",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2224219
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U02.mp3?versionId=_FOHI.ZA86lbmSDKm8np0vybnUdvdKHJ",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2224542
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U03.mp3?versionId=fSOLPfYWio4J4RQmeaoslit7qyZY8.0J",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2224876
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U04.mp3?versionId=z.ZDHpx.ICA3ASXGQuD8LruP.7Uol1aM",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2227683
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U05.mp3?versionId=qQX.KNT0DDdaAgAOB7CqvVLS5SByOKqz",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2233105
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U06.mp3?versionId=m43x1fQzOs4a3DtSCcapnbbuuasbiXSe",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2238817
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U07.mp3?versionId=hD1K5W5UR1q06CQnHeGuYaba7bltootD",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2243975
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U08.mp3?versionId=jszddRdDfRdqecAIX.xHJElnjNBfjNJH",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2248937
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U09.mp3?versionId=pDu8sQ53GixYg26xfo.ztQ8jj755m.OT",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2253966
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U10.mp3?versionId=jxAxWvq3gHVUOkZ133XS_3XCcogGoci5",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2259195
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U11.mp3?versionId=qVFrEjCC7oVDwQ9_aGHBC5CYySSqqoC3",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2264415
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U12.mp3?versionId=wodVHUrs6SrSzfLUEISyYzsKNS6WDQdH",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2269736
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U13.mp3?versionId=z_jIftmp6pYM6wZzayn5vbOOHTzxjEE5",
+    "startPage": 28,
+    "pageCount": 1,
+    "mediaItemId": 2274414
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U14.mp3?versionId=glkp6isWD87XVCBaA1MB2WRfhr2CpPDb",
+    "startPage": 29,
+    "pageCount": 1,
+    "mediaItemId": 2279560
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U15.mp3?versionId=ezBdxrpg1Ht7UFMngJJC_2PY3YnTorSb",
+    "startPage": 30,
+    "pageCount": 1,
+    "mediaItemId": 2284914
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U16.mp3?versionId=.uEFvojz56F.E5TVcSvdHB0kLYOz92vB",
+    "startPage": 32,
+    "pageCount": 1,
+    "mediaItemId": 2289505
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U17.mp3?versionId=fMjqeStS5R5dj6LI7k.9H4tclJwRjMbV",
+    "startPage": 33,
+    "pageCount": 1,
+    "mediaItemId": 2292652
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U18.mp3?versionId=W5WQEnvqbPaE_32GVR0Ar2jNMdQXu8Zv",
+    "startPage": 34,
+    "pageCount": 1,
+    "mediaItemId": 2295298
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U19.mp3?versionId=0yHRBw.KrJ1kphSiWRpjSrDlABZ9qSSs",
+    "startPage": 36,
+    "pageCount": 1,
+    "mediaItemId": 2297746
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Urdu/Urdu%20Level%201%20orig/asset/standard_reading/9780743596671_Reading_U20.mp3?versionId=zpr2yRngiW9tpoLHe8SmFKtTl7pbtWWH",
+    "startPage": 38,
+    "pageCount": 1,
+    "mediaItemId": 2299957
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9780743596671",
+    "level": 1,
+    "courseName": "Urdu Level 1",
+    "simpleCourseName": "Urdu Level 1",
+    "puArabic": false
+    }
+    ]

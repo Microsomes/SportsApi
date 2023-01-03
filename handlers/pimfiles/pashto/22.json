@@ -1,0 +1,624 @@
+[
+    {
+    "courseId": 3379,
+    "languageName": "Dari (Persian)",
+    "languageId": 176,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_01.jpg?versionId=r.8mhMFFPjUNqRJprEmnDRxRHqKYkFJZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_01.jpg?versionId=9_s9jnH1yWD33uBcTdKodCaPeGUMwUgi",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_01.mp3?versionId=2cXTIeJsEywWjMbTz9o4XjKrjbsSgtyC",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322533,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Dari, or Dari Persian, is one of the two official languages of Afghanistan, with over twenty million native speakers. The term “Dari” is often used as an umbrella term, encompassing the numerous dialects of Persian spoken in Afghanistan. One may hear it referred to also as Afghan Persian or Eastern Persian. Dari serves as a lingua franca for Afghans who speak minority languages, and is well understood by nearly 80% of Afghanistan’s population.",
+    "imageCredits": "FatCamera / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_02.jpg?versionId=aWeswzLbmfU7ttK.JDko1pZJISD_2fUn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_02.jpg?versionId=Sj244562bzM0roK1jlZvys7DainqLqAQ",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_02.mp3?versionId=iXRD66EZDKnCyk0NZcOivrGAOSInOpw6",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322535,
+    "cultureContent": {
+    "imageLocation": "Herat",
+    "imageDescription": "Widely regarded as Afghanistan’s crown jewel of architecture, the Friday Mosque of Herat greets its visitors with an elaborate display of arches and mosaics. Though the building looks nearly untouched by time, its origins date all the way back to the 13th century. While the ornate patterns of the exterior are striking to the eye, the plain walls of the mosque’s interior add a note of modesty to an otherwise extravagant structure.",
+    "imageCredits": "Alex Treadway / Stockbyte Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_03.jpg?versionId=EN.A0ncV_6j_bwCbUJ42x6PT4yz_plQH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_03.jpg?versionId=bfMvSKsGDTVphIN6jms.xol8EDNSwhXE",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_03.mp3?versionId=guDIGxNVpp4nbZGzup8MMVExznVEHC3S",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322538,
+    "cultureContent": {
+    "imageLocation": "Bamiyan Province",
+    "imageDescription": "What may appear to be photographically enhanced blue water is truly such a hue because of the naturally occurring travertine which lines these lakes. The lakes are formed from natural dams found within Band-e Amir National Park; a protected area dedicated to showcasing Afghanistan’s natural beauty. The park is home to a wide array of bird species, which are now protected thanks to anti-hunting laws. ",
+    "imageCredits": "Gratiane De Moustier / Reportage Archive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_04.jpg?versionId=tNIotz4KBZwCT7W1fxjBwz0_bEwWv1ti",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_04.jpg?versionId=1IqUq3LPQtNzb84OpPiWYcX4Zwjp9R.H",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_04.mp3?versionId=flvqDd1BYUcmgLcz8OiAv0jqNOe35GId",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322541,
+    "cultureContent": {
+    "imageLocation": "Ishkashim",
+    "imageDescription": "Mountain towns like Ishkashim will use the area’s natural resources to herd livestock, which includes goats and cows. Harvests in this area are scanty, with wheat and barley being the sole crops. This is due to the cold winters associated with the region, where temperatures regularly drop below freezing.",
+    "imageCredits": "Pe3check / iStock /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_05.jpg?versionId=oWmP7cEOiJal58bXj4NCfx2DxznxZI_x",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_05.jpg?versionId=37Ed52z5yFYhq8ix4PvmyhFkgLbbYPjR",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_05.mp3?versionId=tzSXngCRhv9WD9Taji0ZblTTE.PHZB5n",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322545,
+    "cultureContent": {
+    "imageLocation": "Bamiyan Province",
+    "imageDescription": "Prior to their destruction in 2001 by the Taliban government, the Buddhas of Bamiyan were two enormous statues that stood northwest of Kabul. The Buddhas were said to date back to the mid-6th century, with speculations that their origins were linked to the Silk Road – a route used not only for the trading of goods, but also for the transfer of knowledge and culture. It is said that the famed pilgrim Xuanzang visited the area in 630 CE, writing that the Bamiyan area was a lively hub for Buddhist monks.",
+    "imageCredits": "brianb2 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_06.jpg?versionId=8E57Pp.WnXatw9mDB1uOM8bSlPGW3cqq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_06.jpg?versionId=bHjL5mevLQgjAzbR7izaYZdlFr.AAqaE",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_06.mp3?versionId=oF7Fv9WdRG6MLwVWE2bIqZdUlIzP0Ey6",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322549,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "Serving as the capital and the biggest city of Afghanistan, Kabul holds a population of nearly 4.5 million. The city has grown significantly since the turn of the 21st century, with the municipality of Kabul now spanning about 400 square miles. The city is one of the highest capitals in the world, standing at almost 6,000 feet above sea level. While Kabul enjoyed a tranquil period marked by tourism and the \"Hippie Trail\" in the second half of the 20th century, the city has seen almost nonstop fighting since the 1980s. ",
+    "imageCredits": "mbrand85 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_07.jpg?versionId=251FUFzSspKJ7fra53_MdEsyXZYhgVAf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_07.jpg?versionId=vLdmtqS9zEvOHVxZLyHAh5c42_yuaao_",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_07.mp3?versionId=MXgw8ZRgx1kD.1b4Ntk9Xw8guTKYfKqg",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322554,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Poppy fields in Afghanistan paint the landscape in swathes of pink and white. The country is by far the world's biggest producer of opium, which is derived from poppy flowers. But the growth of poppies has been strictly controlled in recent years, with efforts being made to ban the cultivation of poppies entirely. Despite its reputation, the poppy has long served as a symbol of sacrifice and remembrance; eternal sleep and peace, for people all over the world.",
+    "imageCredits": "Luke Hunt / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_08.jpg?versionId=xEAmnUQY.cgjBajaltTPZSEXsAZS4c83",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_08.jpg?versionId=TJWLQvXvu36IXmlbyyS6gpGxaEZvr4hF",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_08.mp3?versionId=U4S5PrNNNRBd3ZcP6ndGwEMxdi2OZFWi",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322559,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "The Kabul Zoo was opened in 1967, standing right on the bank of the Kabul River. Although the zoo used to hold over five hundred animals, attacks during the civil war in the 1990s caused a significant amount of damage, resulting in animals being killed or stolen. Attempts have been made by foreign parties, including from China, the United States, and Great Britain, to assist the zoo in its operations and raise the quality of care, with limited results.",
+    "imageCredits": "BULENT KILIC / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_09.jpg?versionId=cxm0MfOXk2.nxEJ1N9pQdO.uOXhHj3Ze",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_09.jpg?versionId=l3fHqipmDuLKAxZk95RTOvZTfc6O8IfA",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_09.mp3?versionId=5.qkjAEX0_5lOwH5LHLQDSwcadMYWNX5",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322565,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Born without the ability to use her hands, arms, or legs, artist Robaba Mohammadi has defied all odds by painting elaborate portraits using only her mouth. Mohammadi creates artwork that represents the resilience, beauty, and power of Afghan women. She opened an art center in Kabul, where she taught classes to 50 students. Currently exiled due to the Taliban takeover, she is continuing her work online and trying to get her extended family to safety out of the country.",
+    "imageCredits": "NOORULLAH SHIRZADA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_10.jpg?versionId=X1kf9K4NIywSYttv6JHozvBOYv42B5ir",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_10.jpg?versionId=4cu1TFMvpLEKCeOlF3XwLQdN4CrguOrx",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_10.mp3?versionId=Mhc3PfeytL_LCLqyioSJmJ7BRSoCES2m",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322571,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Afghanistan men's national cricket team has enjoyed great success since the beginning of the 21st century, holding the world record for the highest Twenty20 International cricket score – a whopping 278/3 during their match against Ireland in 2019. The Afghanistan team was awarded its first Cricket World Cup win in 2015, and later that year entered the top ten of the ICC's ODI rankings for the first time.",
+    "imageCredits": "SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_11.jpg?versionId=Ft27dHOIy8bddSMRqdUTvSTvUtkIzBNx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_11.jpg?versionId=oMn8WDvM91kNtF70jy4a2MWoRabMPkVp",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_11.mp3?versionId=Cx_1t2pbo606hlctIl0VbYLl9fKscN.y",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322578,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Afghan wedding garments are elaborately decorated and saturated with color, with red or green being the most traditional. Close female relatives of the groom will often host a henna night, where the bride’s hands are intricately painted with designs in henna dye. Female family members don their finest dresses for the ceremony to express their joy and excitement for the union.",
+    "imageCredits": "ADEK BERRY / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_12.jpg?versionId=G0V9HoYW72AZNh.fSMDMEKhuwAa8yQPN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_12.jpg?versionId=i9o.RIohF0WpyYim.qTKpqfFchPRoT71",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_12.mp3?versionId=KDEs7nQuI_Q1ICvJwDbuKy2TMMa8pO4l",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322584,
+    "cultureContent": {
+    "imageLocation": "Herat",
+    "imageDescription": "The Khwaja Abd Allah Ansari shrine in Herat, also called Gazur Gah, houses the tomb of the Sufi mystic Khwajah Abdullah Ansari, who is remembered as the patron saint of Herat. Known to have lived in the 11th century, Abdullah Ansari was a renowned scholar and Qur'an commentator, as well as a spiritual master. His teachings were spread among the common people, cementing him as a historical role model for disciples both past and present.",
+    "imageCredits": "Kaveh Kazemi / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_13.jpg?versionId=FaLi_psKlXoaaW0Z58OBAZHF2PiaMMA9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_13.jpg?versionId=MmmmRtNpX0lT1ilukzs5Ek6NXE9EmBle",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_13.mp3?versionId=2YGNHVwkwxjlI_hzNEtLV2aszdu.bhfc",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322590,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "Markets in Kabul’s old town put on stunning displays for passerby, who are drawn in by the appealing storefronts. Before the Taliban intervention, birdkeeping–for pets or bird fighting (an ancient Afghan sport)–was extremely popular, with bird vendors often making large sums of money in a single day. However, restrictions on bird ownership have caused business to stagnate, with some vendors going days without a sale.",
+    "imageCredits": "AHMAD SAHEL ARMAN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_14.jpg?versionId=inp10qcWGc871_JqQ.BGEa3JVcS2Dh3f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_14.jpg?versionId=ygAawNALZMoa2JOXNVOjmKjjYnBnQOcJ",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_14.mp3?versionId=NV8te.0FdavuUkmPFuRxkD7j8O4odBfd",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322596,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "Festooned in colors and words, motor-rickshaws like this one are a common way of getting around downtown Kabul. Favored as a form of private transportation or as a taxi service, motor-rickshaws are easier to operate than their human-powered counterparts. The lack of a fully enclosed interior makes the motor-rickshaw a breezy and fun way to get around during Kabul’s warm months.",
+    "imageCredits": "SAJJAD HUSSAIN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_15.jpg?versionId=0FQELtGvSg2kqgAZ7ITAjZ_ve.4rSvUB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_15.jpg?versionId=AAUByruYiDaSEl7Ej0drJow.II.mkE7g",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_15.mp3?versionId=elnoJ5XPsQzUvxVWJvPZsqNtax068IKT",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322604,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Vendors hang up intricate carpets during Kabul’s Nowruz celebration, which welcomes the new year in the spring. The thirteen-day celebration aims to bring good fortune to those who celebrate, with cooking, visits with friends and family, and new purchases marking the occasion. The holiday has been officially banned, however, since the Taliban takeover.",
+    "imageCredits": "AHMAD SAHEL ARMAN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_16.jpg?versionId=W5IwwfEzx5d8V2zuuJXmUYdx_bLP693k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_16.jpg?versionId=MRI2iwbREWzoYtli.m69z47LdhE7CYJN",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_16.mp3?versionId=_mVzoE9yhEIYp.o1FQGScQEbDxsnQxp5",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2322611,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Embroidery is a long-standing tradition for women in Afghanistan, with styles varying by region and ethnicity. Everyday items and garments are customizable with intricate designs, ranging from floral imagery to small, repetitive patterns. This diverse and fine art form has allowed women to express themselves and support their families for centuries.",
+    "imageCredits": "Ghulam Hussain / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_17.jpg?versionId=ZKG9USZudrN5SWpl0a8ckCYgNXzYICzi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_17.jpg?versionId=3PyUcs1YBDS_3uRb2RAzoMKNFx.0kqJM",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_17.mp3?versionId=WdRI0sChNGbQl5rbPm9qZurt1DqnEP1a",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2322620,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Created with the aim of bringing joy to children living in difficult situations, the Afghan Mobile Mini Children’s Circus (or MMCC) is a nonprofit organization that teaches children acrobatics, music-making, juggling, and more. Senior members of the circus act as mentors, teaching the youngsters how to express themselves onstage in a healthy, fun way. After two days of workshopping the troupe performs for the community on the third day, showcasing newfound skills to an eager audience.",
+    "imageCredits": "MASSOUD HOSSAINI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_18.jpg?versionId=ZhfboM6MoUqHz4.0LgDZDrKdD2zn34m.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_18.jpg?versionId=sczM3efMw5fub0y5DlRCW8Rf63gEezeG",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_18.mp3?versionId=YLccORPx6Semism146_HANEfAFmXNuZB",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2322628,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Skilled wood carvers create fine details while making musical instruments, like the tabla drums pictured here. South Asia’s wide array of percussion instruments can be divided into two categories: the idiophones and the membranophones. The former creates sound through the vibration of the instrument’s body, while the latter creates sound by beating on a membrane stretched over a space in the instrument.",
+    "imageCredits": "Marcus Yam / Los Angeles Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_19.jpg?versionId=m_yX11nw6eOnlqppYrkDk3DJxfFFXKHV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_19.jpg?versionId=o69agxztmHbdYJBiKuJkalCptVBStuqh",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_19.mp3?versionId=Yvd6ynN.686d1cmM4bIR24uqA9Kh_.9E",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2322636,
+    "cultureContent": {
+    "imageLocation": "Herat",
+    "imageDescription": "The Shahzada Qasim shrine in Afghanistan's second biggest city was constructed in the 15th century and in recent decades fell into disrepair. With significant help from the U.S. Embassy, a painstaking restoration was completed in 2016. This Shia mausoleum and its Sunni neighbor, the Shahzada Abdullah, are visited equally by devotees of both branches of Islam, an indication of the citizens' religious tolerance.",
+    "imageCredits": "Robert Nickelsberg / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_20.jpg?versionId=1iXH1.luVjkGeWcq8gA6J4y7WjAEm7yG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_20.jpg?versionId=z6hZ_yj9o6oN5WwW9WZJHfY97I3dQK3m",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_20.mp3?versionId=rVC0.5Fvy697PimS7gcVA92K6usRQT_q",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2322644,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Portable dwellings called yurts are used by the Wakhi people, an Iranian ethnic group who live in various places in Central Asia. While the Wakhi are nomads and live very simply, they can increasingly be found employing solar panels and car batteries for a bit of electricity inside the yurts.",
+    "imageCredits": "Eric Lafforgue/Art In All Of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_21.jpg?versionId=bfX_NG5ojvQQGcH4JNN2UHoiw78Pyg1G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_21.jpg?versionId=020A0vmlW0slgWMaP7j8FH_3NI_sFMWF",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_21.mp3?versionId=8aq4THHTaB.EiMV7tmcJlF0Q3N8edtTE",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2322654,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Local charities in Kabul fund mass weddings, where dozens of engaged couples can tie the knot simultaneously. These events are put on to help families who can't afford the typical Afghan wedding extravaganza, with its lavish accoutrements and hundreds of guests. This service allows everyone access to a wedding ceremony. The ceremonies can last up to three hours and are often followed by large caravans of decorated cars driving through the city center.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_22.jpg?versionId=0AQSlUkbMExiIS3nbnD73erCpYeBE37i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_22.jpg?versionId=_5RR0VbJPfYxp2xpynxf4qiCTO7KCtJI",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_22.mp3?versionId=0Ykqq9mS6aaptK9GM4Ws16oVCxx0Fwfp",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2322669,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "The well-kept Gardens of Babur, or Bagh-e Babur, contain the tomb of the first Mughal emperor Babur, but also serve as a peaceful respite in a war-torn city. The site is indicative of certain Mughal traditions, as many Mughal rulers would order that their final resting place be doubled as an area of leisure and recreation for the living.",
+    "imageCredits": "WAKIL KOHSAR / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_23.jpg?versionId=FjJ_TBTF1TpGQWCS.PL71i81usfGXHtW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_23.jpg?versionId=xMktUvONrDalH20WIcQRvloiR.B.sHR1",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_23.mp3?versionId=YTGm.wle_pPKVmWYQYECs3z9OK6aHSNB",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2322683,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Pulao is a common meal served among families and in restaurants alike, with origins in central Asia and the Indian subcontinent. Featuring spices such as cumin, cardamom, clove, and coriander, this tasty dish combines rice with broth and meat to create dynamic flavors out of simple ingredients. Kabuli pulao, a variation of the dish that includes lamb and mutton, is much celebrated as the national dish of Afghanistan!",
+    "imageCredits": "Robert Nickelsberg / Archive Photos / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_24.jpg?versionId=D4wG.wcP0D3dinqSICMhoEusIXogpPic",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_24.jpg?versionId=HiNH2GilQZboxamHOpdgxzsLuh95ujy0",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_24.mp3?versionId=tF9W2CwB0sspwsYk0Pnk5MQ4GCwpVD_f",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2322693,
+    "cultureContent": {
+    "imageLocation": "Bamiyan Province",
+    "imageDescription": "Residents of Fulladi Valley in Afghanistan’s Bamiyan province use mud and earth materials to build their homes, which sit snugly between snow-capped mountains. These mud homes provide superior insulation, locking in heat during the cold winter months and keeping cool during the hot summers. The flat roof of the home doubles as a workspace, where residents will dry their fruits and vegetables for later use.",
+    "imageCredits": "Alex Treadway / Stockbyte Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_25.jpg?versionId=L0Sxq2yv9z2Ptuum2falvRVnGT5yHHxq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_25.jpg?versionId=nULRx.3BsqqKkf9vavP3QNdRI.mlOaF7",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_25.mp3?versionId=IapzanEHxe9w_ZyDpFvpLnfID0QzMBQ4",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2322705,
+    "cultureContent": {
+    "imageLocation": "Helmand Province",
+    "imageDescription": "The imposing clay complex known as Qala-e-Kohna was once a winter home to sultans and other nobles from Islamic dynasties. The ancient citadel spans six miles, with origins going all the way back to the 10th century. In recent years, the site saw new life as a refuge for people fleeing Taliban violence.",
+    "imageCredits": "WAKIL KOHSAR / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_26.jpg?versionId=3ofapjR.YSBDHg22Y_R74Lr9746V5_GU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_26.jpg?versionId=Be_8K70rt18LVHvpqcMEkzI5eiwYAdw7",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_26.mp3?versionId=fsHUVI6E.oyUi_dMXqKssnNslOU0jZhS",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2322726,
+    "cultureContent": {
+    "imageLocation": "Bamiyan Province",
+    "imageDescription": "Band-e Amir National Park is home to some of Afghanistan’s most breathtaking natural wonders. Large lakes have formed naturally behind travertine walls created by mineral-rich water seeping from the earth. With its high cliffs and impossibly blue lakes, it’s no wonder that Band-e Amir has been nicknamed “The Great Canyon of Afghanistan” by visitors!",
+    "imageCredits": "Alison Wright / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_27.jpg?versionId=67cdgLGJpVEw1ZHSplwq.AYptRkOt4Zy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_27.jpg?versionId=y5P96ZcxaJNjvv8s7L_Jk7jbPcYatuVR",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_27.mp3?versionId=80ZfwLEmdkae88QZE0dQoDeLQmL2PqOL",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2322741,
+    "cultureContent": {
+    "imageLocation": "Haibak",
+    "imageDescription": "Carved entirely from bedrock in the 3rd century, the Stupa of Takht–e Rostam served as a Buddhist monastery prior to the Muslim conquest of Afghanistan. Following this religious shift, the stupa was redefined. No longer considered a Buddhist landmark, it was decided it would be a part of Persian mythology.",
+    "imageCredits": "Michael Runkel/robertharding / Collection Mix: Subjects / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_28.jpg?versionId=w8ajp6m0CFodNEg_QPS9eS4V68ahHkWX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_28.jpg?versionId=C_rGhwhAKIFWJ1RAR15FRgsmPj8UdRqv",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_28.mp3?versionId=xxb3sLsNGwPfWC6EynBDorWv3IUtjo0X",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2322753,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Buzkashi has been a traditional sport in Afghanistan for hundreds of years, with records of nomadic Asian tribes playing the sport in the 10th century. The sport consists of a group of players, mounted on horses, aiming to place the carcass of a goat into a goal. Though buzkashi is the form most commonly played in Afghanistan, other variations of the game such as kokpar and kupkari are played in neighboring countries.",
+    "imageCredits": "Xinhua News Agency / Xinhua News Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_29.jpg?versionId=YUbjefZxy1wh3T9EeIxWvvp1F1NyfYDD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_29.jpg?versionId=1cNUADGXW6x3SktAHF.iiBgWodNVG29b",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_29.mp3?versionId=oZ1iYaX0WHsZutUa7TPr00VeEODRW11e",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2322769,
+    "cultureContent": {
+    "imageLocation": "Kabul",
+    "imageDescription": "The Qargha Lake park was once a common leisure destination for locals and visitors alike. Guests could enjoy a view of the lake or sit down for lunch, with amusement park rides also available for both children and adults. Since the Taliban takeover in 2021 and severe economic sanctions placed on the government, the once popular attraction has seen visitor numbers drastically reduced. ",
+    "imageCredits": "Andrew Renneisen / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/full/DariPersian_1_9781797144436_M_30.jpg?versionId=abytDR4LIchwGSHbA709wMA6Lxl9SEnY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/lesson_photo/thumb/DariPersian_1_9781797144436_M_30.jpg?versionId=9O76kGJMoI7GDxMIM8cajsz50r6VIjx7",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/main_audio/9781442318762_Unit_30.mp3?versionId=wRLsRjztgbqaCe0U7.kwWLkFkLvEELu.",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2322782,
+    "cultureContent": {
+    "imageLocation": "Mazar-i-Sharif",
+    "imageDescription": "The Hazrat Ali Mazar mosque is heavily associated with Muslims who adhere to Sunni Islam, as it is recognized to house the tomb of Ali ibn Abi Talib. The shrine was first built in the 12th century, but was later destroyed or concealed during Genghis Khan’s invasion of the area. The mosque we know today was built on top of Ali’s tomb and completed in the late 15th century. Sunnis every year make a pilgrimage to the site during the Nowruz festival.",
+    "imageCredits": "mtcurado / E+ / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Dari Persian/Dari Persian Level 1 orig/asset/RL/DariPersian_1_9781797144436_Alpha.pdf?versionId=GRLL.gUwH9lJ0jWCxRTzETlROowl2qBs",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Dari Persian/Dari Persian Level 1 orig/asset/RL/DariPersian_1_9781797144436_Intro.pdf?versionId=4YmLfcSfDSF7hyK.9cjuIEYvEy22yrLN",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading01.mp3?versionId=fQf7evZi2roUG6hbxZGDJhBFuy0sOygm",
+    "mediaItemId": 2362099
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading02.mp3?versionId=Vtohj6l24Agd3mHGsAb1nrUs74FkKTZe",
+    "mediaItemId": 2362100
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading03.mp3?versionId=N939CzcR5gLcFIhS7h47gdw3d4qaKu5C",
+    "mediaItemId": 2362101
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading04.mp3?versionId=SR9xS1iC1mHfHsAizkslmfruIblDB5.x",
+    "mediaItemId": 2362103
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading05.mp3?versionId=IV7BhSO2OiAsBtVxntWUQGL4zq08Qzgy",
+    "mediaItemId": 2362102
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading06.mp3?versionId=Vho4KfovDvuPZ18KCwjXA5hOcn8Ao9x6",
+    "mediaItemId": 2362104
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading07.mp3?versionId=VA9Z.UZyVsjzSXNtbidqp_4nNbV.CXxD",
+    "mediaItemId": 2362105
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading08.mp3?versionId=P4yp9lRc06Q9tkW5tY6NuMFUzGsypbdk",
+    "mediaItemId": 2362106
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading09.mp3?versionId=tigQldCW9aMgTzXAuaV49OzABRGFh4eg",
+    "mediaItemId": 2362107
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading10.mp3?versionId=BXA77yHBhQIW3KvnAPvl3i4p.ZKOecNi",
+    "mediaItemId": 2362108
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading11.mp3?versionId=ccFyIfRHBdJ9emi3kwc_17dx0m9DP9DP",
+    "mediaItemId": 2362109
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading12.mp3?versionId=JnjogrO8BnA8w6ldMi9m.bsiUtz1V1w3",
+    "mediaItemId": 2362110
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading13.mp3?versionId=gAZLPJXm70ndhAb0Lw1MWgdVdCQ0jJsf",
+    "mediaItemId": 2362111
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading14.mp3?versionId=6lLAtdvngL36uZ9wa.CcVmm81NEG72i.",
+    "mediaItemId": 2362113
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading15.mp3?versionId=Fz2nZFE8nElOCbwScIQrlAj1MYF6Bope",
+    "mediaItemId": 2362112
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading16.mp3?versionId=g9qfA6ZEq6z8PtlK1D.XSSOOxw97aYWv",
+    "mediaItemId": 2362114
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading17.mp3?versionId=noY.YD_8TEWQyZj6ufVf1jYazd6qe17d",
+    "mediaItemId": 2362116
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Dari%20Persian/Dari%20Persian%20Level%201%20orig/asset/RL/DariPersian_1_9781442318762_Reading18.mp3?versionId=85kqxcJ7G8A1wY1UADQU4X4IOn0OeTBD",
+    "mediaItemId": 2362115
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797144436",
+    "level": 1,
+    "courseName": "Dari Persian Level 1 Premium",
+    "simpleCourseName": "Dari Persian Level 1",
+    "puArabic": true
+    }
+    ]

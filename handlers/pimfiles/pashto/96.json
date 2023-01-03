@@ -1,0 +1,583 @@
+[
+    {
+    "courseId": 3453,
+    "languageName": "ESL Arabic",
+    "languageId": 130,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_01.mp3?versionId=QRXtCTh.2mq643mDl09ZpPkCBLNsPoLr",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322929,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_02.mp3?versionId=.dybEaiP2ZuNlYCuN9Ocg0FBVmrLJs_z",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322943,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_03.mp3?versionId=rcciyZrKOyeCohcBD4U2RzDMd2lm34L4",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322954,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_04.mp3?versionId=QMmQqmH_OQCp2JA4CbGZ4srCRTL19Ql2",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322966,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_05.mp3?versionId=xctvL_rKhsoXFQscBO8jM8UOfOs7rOm5",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322977,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_06.mp3?versionId=BrQ80xOTn5Iu5I_tKQgPSGgLVXD8VjiG",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322988,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_07.mp3?versionId=ZOcKKyKurOnFmTZui1ZlnYeT95ZJKu6X",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323001,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_08.mp3?versionId=5Jd0ctxbWtu0PCEnKwrsMMndmlwI5aVs",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323010,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_09.mp3?versionId=2q98vk1IImB_lU1o4CLcZsFmwgsxvEiS",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323019,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_10.mp3?versionId=FaP3Kz7581pA4b00j2XmQW9iNbrpEMX.",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323025,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_11.mp3?versionId=.N9dXTRHXcColh0IS_cHInWOAyknkoEV",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323030,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_12.mp3?versionId=i1r882vzyOh8mrcIJLRR44ybT3WZnoBO",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323036,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_13.mp3?versionId=fbvX0LKkxLBylr0IoiFNrntZNy0Fq6My",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323044,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_14.mp3?versionId=OMOGGmnkyRM4cG.YGKtO4eWfZEIucNBA",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323048,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_15.mp3?versionId=Hqgqf79kJ6yEeTavq25F1Kr664zeqKaX",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323053,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_16.mp3?versionId=5TXoc6EV9knrfLzaoHqxVwtWxMyRfxNB",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323057,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_17.mp3?versionId=Kd5BHs9nyNjn9NELPUBoA7xWwF..bcD5",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323062,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_18.mp3?versionId=gQXvwzGrqHWmsNT0cJ9cDhKYwUbRlCy1",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323066,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_19.mp3?versionId=Qy.3PebKbPvjT8Yg9oxwcMVUvJT_OxsL",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323070,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_20.mp3?versionId=eqiYk3q.zPnd0MteCFsgz7xwCWjVPoWj",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323074,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_21.mp3?versionId=QITyy2m_o5KuWEaFJU1YX3PIyXkn.pyt",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323077,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_22.mp3?versionId=X1_exDGY5weTOA.Iau9woOo.ynwTjmyP",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323081,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_23.mp3?versionId=166vizBbSYvvbC6zv9rXwr59NyFt7uim",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323085,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_24.mp3?versionId=z0czHYBFzwjFvU_ER0E.2GTExSWfA3RF",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323088,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_25.mp3?versionId=SNE6WRsOOGIOApLJ_7Lc75daHeBXR3q5",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323091,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_26.mp3?versionId=6y_r7RpUOgszCndKrgGsk4SpQzCRkAfG",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323094,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_27.mp3?versionId=KNDh.657yzRD7T2pePZqeLcrmDhieJ2s",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323096,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_28.mp3?versionId=c0zDWAiVj0rD.8p9gmgFPSGpxgfS2R7X",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323098,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_29.mp3?versionId=VsSj.NWpTgrDn2pKHzw4pCVTAiA7Cobt",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323100,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/language_image.jpg?versionId=KTd5JJF97OuWSDQVNsVoXoRWq0nGEz6c",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/main_audio/9781442325296_Unit_30.mp3?versionId=kyF1H934gien_S_mxyh8QgCS.GvXmrmR",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323101,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_ESL_Arabic_1_Bklt.pdf?versionId=Kq17OPOc56xQWZlMAYvSIXoSubVZXBB4",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U01.mp3?versionId=lG.JCQkwMbVxGqYjPR8HqgHye4GQRdHF",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2224270
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U02.mp3?versionId=c9FAFcAqP0BGLl3oRZRvKN7JSnG421p0",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2224585
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U03.mp3?versionId=XEi0SJu6OuHlfvLIXmTq2oGYRHpUceI8",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2224986
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U04.mp3?versionId=ReipEn6H24ZOkSlGqPwWnOQRjzSQp4XN",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2228146
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U05.mp3?versionId=YGx0iWiskN3AdbkomuflRFpkaenR6zvG",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2233724
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U06.mp3?versionId=9vtgh0GN9e9_GOCEApeSnfDUCKxuwEVO",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2239392
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U07.mp3?versionId=4_BcdWMwLAesesfxzgAF_E6spOmqS01H",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2244415
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U08.mp3?versionId=koBzzN36BE9ENcu9Cv9Er7mmP6KBURat",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2249533
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U09.mp3?versionId=HtEFmkWugJkECWzs69GhZgSNzpx4_SuY",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2254378
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U10.mp3?versionId=ADCwo5qceS96o4SmIdzrhcZBIhi88xFc",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2259518
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U11.mp3?versionId=U2gl_yXKZL_LwKcULyOLQQaXAGLWNyyX",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2264813
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U12.mp3?versionId=mqkflKNBkaPczyYOD5sbt3UrJNEmLnI1",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2270050
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U13.mp3?versionId=gb0_MK0O_QNS_xyAwMO_DlF9FcdFy1CZ",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2274796
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U14.mp3?versionId=4Wc0qjh1aqD5McudWNPV7gg1xZw60ugQ",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2279891
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U15.mp3?versionId=nLVuJwzAREXlAZDme1VKze5kDGUdjsIm",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2285137
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U16.mp3?versionId=0MgNFFicKAjRcgbuG9nxsvanQ27.XEKl",
+    "startPage": 28,
+    "pageCount": 1,
+    "mediaItemId": 2289811
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U17.mp3?versionId=ELMjVohXseVuB4jFfKpypQsXSqYN8CO0",
+    "startPage": 29,
+    "pageCount": 1,
+    "mediaItemId": 2292755
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U18.mp3?versionId=YFQRrNMAz5SVVDoCq9lF0XWh1jZpNWfp",
+    "startPage": 30,
+    "pageCount": 1,
+    "mediaItemId": 2295428
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U19.mp3?versionId=KPvzQsciNqeuWnN6SxI462xuNlUFCuqt",
+    "startPage": 31,
+    "pageCount": 1,
+    "mediaItemId": 2297857
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U20.mp3?versionId=vlAKqvOTogIiKmVRZSvQ2ALkWfHJxKBD",
+    "startPage": 32,
+    "pageCount": 1,
+    "mediaItemId": 2300012
+    },
+    {
+    "order": 21,
+    "title": "Reading Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Arabic%20Speakers/English%20for%20Arabic%20Speakers%20Level%201%20orig/asset/standard_reading/9781442325296_Reading_U21.mp3?versionId=.pmfbnWGKvk8rE4mSmrRL_m.HiLBR83p",
+    "startPage": 33,
+    "pageCount": 1,
+    "mediaItemId": 2300686
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442325296",
+    "level": 1,
+    "courseName": "English for Arabic Speakers Level 1",
+    "simpleCourseName": "English for Arabic Speakers Level 1",
+    "puArabic": false
+    }
+    ]

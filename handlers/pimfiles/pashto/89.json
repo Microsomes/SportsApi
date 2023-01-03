@@ -1,0 +1,633 @@
+[
+    {
+    "courseId": 5712,
+    "languageName": "Swahili",
+    "languageId": 167,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_01.jpg?versionId=ZEJlRPQH_2KqvlUrQ_iIOI0EytJfSVSy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_01.jpg?versionId=8YqZNn1T5iMcjUryFYEK4mIYexPUKbVE",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_01.mp3?versionId=jt2RSJgzIzxf0OzfC8p.ok3ydty5o0HC",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323280,
+    "cultureContent": {
+    "imageLocation": "East African Culture",
+    "imageDescription": "Originating with Bantu peoples on the coast of East Africa, Swahili, also called Kiswahili, is an official language in Kenya, Democratic Republic of the Congo, Uganda, Rwanda, and Tanzania. The language has expanded to other regions of Africa and even to the Middle East, with some speakers in Yemen and Oman. It has been noted that Swahili has been influenced by Arabic, due to historic exchange with Arab traders on the East African coast.",
+    "imageCredits": "FG Trade / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_02.jpg?versionId=rF1VSuixSgbP7YGqt2RWiSrYfd5RJ6wg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_02.jpg?versionId=37CPg.jR7vD7zq_lQuPvC_pr4ghDW_lY",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_02.mp3?versionId=KM6uSwJqhu7USyEG.9sS5kGXzrOhy7Ai",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323287,
+    "cultureContent": {
+    "imageLocation": "Masai Mara National Reserve, Kenya",
+    "imageDescription": "Lying on the border between Kenya and Tanzania, the Masai Mara National Reserve is a protected area of land and the home of some of the African savannah’s most cherished big animals. Zebras, elephants, and lions roam free on the grasslands, which span over 600 square miles. The reserve is internationally recognized for its vast scenery and diverse array of wildlife, and is considered one of the Seven Natural Wonders of Africa.",
+    "imageCredits": "James Warwick / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_03.jpg?versionId=yhCcxXPhpkzCqL6t2wR7DRRbxBntaouT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_03.jpg?versionId=tvH4EzZAhybtJm7dMo1NPhz_W6J_q27y",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_03.mp3?versionId=dSJ6lzNkS3.gBcg7LpGv.ePn3v7yN.8N",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323294,
+    "cultureContent": {
+    "imageLocation": "Kenyan Culture",
+    "imageDescription": "Culture in Kenya can be described by the Swahili word “harambee,” meaning “to pull together.” This mindset encourages cooperation and family over individualistic beliefs, with tight-knit familial units being the norm. This may explain why over 80% of successful Kenyan businesses are family-owned!",
+    "imageCredits": "ivanmateev / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_04.jpg?versionId=.DbihZy8qfmLwzVkjhqteAroSHXjjscH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_04.jpg?versionId=DdxLNoxsaDH1jKRcFgCLKP2hSrOAX3cd",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_04.mp3?versionId=dnCC6M_6rjYqcIoQb8XinA_xG08yXNwf",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323305,
+    "cultureContent": {
+    "imageLocation": "Tanzania",
+    "imageDescription": "Surveying the Tanzanian savannah is the highest mountain in Africa, Mount Kilimanjaro. The mountain is a dormant volcano, with its last eruption occurring 300,000 years ago. Kilimanjaro’s highest point is a staggering 19,000 feet, with climbing routes available for experienced mountaineers.",
+    "imageCredits": "Ayzenstayn / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_05.jpg?versionId=YWCgEPjyrsYmzjJQRGxpa241aCzJmgPF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_05.jpg?versionId=U6N2efL1pQqqwG4q6geKyF29bPdg5ctA",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_05.mp3?versionId=0.BR0NFovYvQmT1TOOxDpnArYP7_UMBX",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323316,
+    "cultureContent": {
+    "imageLocation": "Athi River, Kenya",
+    "imageDescription": "Just outside of the Kenyan capital of Nairobi sits the African Heritage House, a structure built by American benefactor and African arts patron Alan Donovan. The house takes influence from various African architectural styles, with its interior holding art and artifacts from around the continent. Tourists can visit or book a homestay at Heritage House, with various amenities available.",
+    "imageCredits": "Barbara Davidson / Los Angeles Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_06.jpg?versionId=INeduhvOC2abc5Jas3YXXsatWApolMTp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_06.jpg?versionId=elm3xntaK97ZcgineuqJObq90QgPOaqe",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_06.mp3?versionId=nHQrXxjH045HTlQCbRE6YSAL_Nf8dyF0",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323326,
+    "cultureContent": {
+    "imageLocation": "East African Culture",
+    "imageDescription": "The Maasai people are an ethnic group who inhabit Kenya and Tanzania, and have gained international recognition for their impressive jumping skills! The jumping occurs during a ceremonial dance in which Maasai men showcase their athletic abilities in hope of gaining the attention of a potential wife. While the men are jumping the women interact with them through singing and dance, creating a lively and flirtatious atmosphere.",
+    "imageCredits": "Buena Vista Images / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_07.jpg?versionId=0crk8HosM2JID3p8aYpqioMcp7wSWXtA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_07.jpg?versionId=obWZaCVosrPDz3Z3wlwUZgjimrjGYo.K",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_07.mp3?versionId=gRjkGekCSTV7fT2wJZ9ZcbzAXMCG4OVJ",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323336,
+    "cultureContent": {
+    "imageLocation": "African Culture",
+    "imageDescription": "Held every odd-numbered year, the Africa Cup of Nations is the continent’s primary football competition. Twenty-four countries from across Africa participate in the tournament, with the winning team receiving the coveted gold trophy and the prestige that goes with it for the next two years.",
+    "imageCredits": "JAVIER SORIANO / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_08.jpg?versionId=Ppf5JCUwBDCu7CLrJTGZ2kBJCCBF3H9i",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_08.jpg?versionId=w7X0KUR_hC9cvQzDp5jtaXZumtcn48WT",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_08.mp3?versionId=rL85oiCv4dXbN1dP5A5zz1svmuK0Gp4O",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323346,
+    "cultureContent": {
+    "imageLocation": "African Culture",
+    "imageDescription": "Beads are a cornerstone of fashion and culture across the continent of Africa, with their meaning varying depending on the area as well as the individual. The beads can be worn around the neck, head, wrists, or waist, and are created out of various natural materials. Women of the Maasai and Samburu tribes wear beads as a symbol of social status and motherhood, while men use beads to express their varying achievements.",
+    "imageCredits": "micheldenijs / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_09.jpg?versionId=JAQefq_vJHpiKcQr0eNYH2uePW37t8hR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_09.jpg?versionId=egWY9QrVPNxjywzSoDixUKAB5Gq12SUW",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_09.mp3?versionId=MTwdiGK0IQ7xnbhOnpBx.Sjh9CqNtfbZ",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323357,
+    "cultureContent": {
+    "imageLocation": "Kenyan Culture",
+    "imageDescription": "Kenyan coffee is widely regarded as one of the most aromatic and high-quality coffees in the world. The high altitudes at which it is grown give the beans significantly more time to develop, resulting in coffee that is praised for its berry notes, complex flavor, acidity, and nutrients! Using varying growth and harvesting methods allows for several different flavor profiles, creating a wide range of coffees for consumers to choose from.",
+    "imageCredits": "hadynyah / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_10.jpg?versionId=zZ8ysJQZsgcmn0PAdq8D_hSf4sjkDJwi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_10.jpg?versionId=ulyiEBe75DVqAOuvOE5SD8tIPF14Atgw",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_10.mp3?versionId=c3__3.95RtuF6RAOqK8SWRoSDfKAPgTD",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323368,
+    "cultureContent": {
+    "imageLocation": "Masai Mara National Reserve, Kenya",
+    "imageDescription": "Not only is the Masai Mara home to some of the most beloved and endangered wild creatures on Earth, it also features some of the most spectacular scenery that nature has to offer. Meandering waterways divide the swathes of grassy land, allowing various plant species to grow and flourish along the riverbanks.",
+    "imageCredits": "Galen Rowell / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_11.jpg?versionId=UC30t1_Um3MDod1nmQbDCZhOZlIU_xbo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_11.jpg?versionId=rDaUYsTgYNXGOS_p5dFhkt5Cd4mfYr3g",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_11.mp3?versionId=AtKnz9r8IlvwD.A6FuQxPJsIV7WtCMHd",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323379,
+    "cultureContent": {
+    "imageLocation": "Nairobi, Kenya",
+    "imageDescription": "Jomo Kenyatta is Nairobi’s main airport, located in the suburbs of Kenya’s capital. The airport gets its name from Kenya’s first prime minister and serves flights coming from more than fifty countries. Kenya has maintained its status as a popular tourist destination over the years, with over two million tourists visiting annually.",
+    "imageCredits": "mtcurado / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_12.jpg?versionId=hpipI6AwMuqh6sXyB2e3V7Hf03TO4aJP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_12.jpg?versionId=rUFHjLdoyK6ALPA3GtwZdAmd6AwqaDhP",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_12.mp3?versionId=3go9W2UbQEzsVSP.93IL2pVojfX1HLRk",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323389,
+    "cultureContent": {
+    "imageLocation": "Kenyan Culture",
+    "imageDescription": "Kenya is the world's leading exporter of black tea. The country exported well over one billion dollars worth of it in 2021, making tea the country’s biggest export. The tea production process is a long and labor-intensive one because the plucking of tea leaves is mostly done by hand. After they have been harvested, the leaves are then dried, processed, and graded for export.",
+    "imageCredits": "Bartosz Hadyniak / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_13.jpg?versionId=vgNAChUVLiq.4h2WGSZNrLc9ZXNbuPrb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_13.jpg?versionId=1yYXrApsxYPSL3VkRqEzv5Qcc_kuVuRU",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_13.mp3?versionId=AI3dzllY1Pgv7erIOUjp71CtVDGN4bwv",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323399,
+    "cultureContent": {
+    "imageLocation": "Lamu, Kenya",
+    "imageDescription": "The annual Mauled festival is held on the small island of Lamu, Kenya, and celebrates the birth of the Prophet Mohammed. Muslim devotees from East Africa travel to Lamu to gather and celebrate, with various festivities and worship activities being held for a month-long period. Swimming competitions, henna artwork, and donkey races are some of the notable activities that occur in Lamu during the celebration!",
+    "imageCredits": "Eric Lafforgue/Art in All of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_14.jpg?versionId=vXNxJJObZoFHfudpDrXOT0DgajqhRIYE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_14.jpg?versionId=O_jTolSf.7R2zKRLcRh5IADP20srEi2D",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_14.mp3?versionId=JyaEnuCL9My2G8swUmtsnBG3APQmVM9H",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323408,
+    "cultureContent": {
+    "imageLocation": "Mombasa, Kenya",
+    "imageDescription": "The Mombasa Tusks are a longstanding landmark of Kenya’s second-largest city. Built in the 1950s by the British administration to commemorate Elizabeth II’s visit to the city, the tusks later became not only a symbol of British imperialism, but a reminder of the ongoing fight against poaching of endangered species in Kenya.",
+    "imageCredits": "Jacek_Sopotnicki / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_15.jpg?versionId=K4EH1ElrvHC30eyDswSo_M_v_X63_IR_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_15.jpg?versionId=UR0bcNHFfVzV1FmbNn0K7Y_toA48bwh9",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_15.mp3?versionId=l0Hya3VhYIRiNowR7R1NIPel6fEzQPVh",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323417,
+    "cultureContent": {
+    "imageLocation": "East African Culture",
+    "imageDescription": "The Maasai people are known for their pastoralist way of life, which often involves the herding of cattle. Men are responsible for watching over and protecting the cattle, while women do their part by milking them. Maasai families regard cattle as a representation of their social status, with larger herds symbolizing wealth and prosperity.",
+    "imageCredits": "Siegfried Modola / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_16.jpg?versionId=0jgfX1GGvB18Na3oLk0F7.GdTRPH5qry",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_16.jpg?versionId=rFm_ohJBT12dvvw2tlt3yQ4FY2GmjEuE",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_16.mp3?versionId=erI_rN.myN.b61wthNl3QHfiy1NqPjIJ",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323424,
+    "cultureContent": {
+    "imageLocation": "Nairobi, Kenya",
+    "imageDescription": "With an estimated 3.5 million residents, Nairobi is Kenya’s most populated city. High birth rates and immigrant populations are leading to rapid city growth, with experts predicting that the city will reach 5 million by 2025. The city stands at 5,500 feet above sea level, which contributes to its surprisingly cool summer temperatures.",
+    "imageCredits": "Jacek_Sopotnicki / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_17.jpg?versionId=AsmKpN0OpnfXwiFGrJanY4ENWGmhBR2n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_17.jpg?versionId=SfAW5ssj8hsWXM6GHUpUzFyQjJnGSKh6",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_17.mp3?versionId=7Qajaipdd1DOzlLiaLelKh.kTOvlBbd_",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323432,
+    "cultureContent": {
+    "imageLocation": "Kenya",
+    "imageDescription": "While Kenya may be known for its stunning views of the savannah, some of its hidden gems are the vast, sandy beaches that line its coast. Soft sand, blue skies, and crystal-clear waters await visitors searching for a peaceful getaway. The Kenyan coast is home to several protected water bodies, where coral reefs rich with marine life are safeguarded by the law.",
+    "imageCredits": "Matteo Tessarotto / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_18.jpg?versionId=l4uuyd39xymYj6xcEE.eZiCDr2I.suvq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_18.jpg?versionId=efY93_cdz_umMIcms1KCqYPQI5FihF46",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_18.mp3?versionId=S8A0OdEX2CtKHyq_rEv9zMBeeLV9Ukxi",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323441,
+    "cultureContent": {
+    "imageLocation": "African Culture",
+    "imageDescription": "Wildebeest are a bovid species native to southern Africa, traveling in great herds across the grasslands. The huge, lumbering creatures follow a predictable annual circuit, moving from the Serengeti plains west to Lake Victoria and back. This traveling pattern makes the wildebeest easy prey for predators like lions, cheetahs, and hyenas.",
+    "imageCredits": "Manoj Shah / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_19.jpg?versionId=7l2KtQYDhFqs6ZAJQUyT2hQ2RmFnuQ__",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_19.jpg?versionId=XQVOAnG4S3kCQTEzR89z19u4Ecuz4OWE",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_19.mp3?versionId=WIBxy9B0qNT2787ry7E1eM44rUCYEZQk",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323449,
+    "cultureContent": {
+    "imageLocation": "Kenyan Culture",
+    "imageDescription": "Islam is a minority religion in Kenya, with Muslims representing ten percent. The Muslim population began with Islamic traders who landed on the coast in the eighth century. Mosques like this one are found primarily in larger cities, where the ethnic and religious populations are more diverse.",
+    "imageCredits": "mtcurado / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_20.jpg?versionId=.7BwqhaU_FjY4WAOoIgOJ6oVMizLtnIt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_20.jpg?versionId=I3Jts476YGtEU3gMz.WIXZllf4hWIE7H",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_20.mp3?versionId=pv4ssv0rre_2x9CbXPmQHIuSp3hBAAwP",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323454,
+    "cultureContent": {
+    "imageLocation": "Masai Mara National Reserve, Kenya",
+    "imageDescription": "Those seeking a unique safari experience may wish to take part in a balloon safari, in which hot air balloons like this one travel across the Masai Mara. The balloons are built to weather the hot African sun, and some stand at over ten stories tall! Balloons usually take off in the early morning, giving tourists an unforgettable sky-high view of the grasslands painted by the rising sun.",
+    "imageCredits": "WLDavies / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_21.jpg?versionId=YFpHNeznAZxvIZGYmpDBBcMQ7fMV1RyN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_21.jpg?versionId=dzn4JeDBescTlJjyulUhWuJ51FyN66tb",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_21.mp3?versionId=0RZg2d6gjOamfV61c5TA5c.JOzeoNqpg",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323464,
+    "cultureContent": {
+    "imageLocation": "Kenyan Celebrity",
+    "imageDescription": "Activist Wangari Muta Maathai paved the way for change in Kenya and around the world. She founded the Green Belt Movement, which advocates for environmental conservation and women's rights. Maathai’s achievements led to her becoming the first African woman to win the Nobel Peace Prize.",
+    "imageCredits": "Ramin Talaie / Corbis Historical / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_22.jpg?versionId=rZpq52Lpk.ja3B8gq8tEG4x3BNRLhXIF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_22.jpg?versionId=snjN1xeOjhXjdVjxNsZFfNLqhtTs_MFB",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_22.mp3?versionId=N6FPsF7vePYTyGUYJW8HvMW.PMJuBukL",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323473,
+    "cultureContent": {
+    "imageLocation": "East African Culture",
+    "imageDescription": "The mother tongue of the Maasai people is Maa, also known as Maasai, a language related to those spoken by the Samburu and Il-Chamus tribes. In more recent years, most Maasai people speak Kenya’s official languages of Swahili and English, with educators teaching children spelling and grammar patterns during school hours.",
+    "imageCredits": "hadynyah / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_23.jpg?versionId=43kmj.aLB6ilIx.8WJUE1VvdCtca0ylL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_23.jpg?versionId=uwT_QSXcZbIeVxTXETSmYPd.rrYAVfkD",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_23.mp3?versionId=Wy0p1AsDWjIECnYzPMRazrJMYY68DznI",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323480,
+    "cultureContent": {
+    "imageLocation": "Kenyan Celebrity",
+    "imageDescription": "Eliud Kipchoge is widely regarded as one of the best runners in the world. Known for winning Olympic gold for his long-distance running at the 2016 and 2020 Games, Kipchoge also became the first human being to complete a marathon in under two hours! He achieved this long-desired feat during a 2019 marathon in Vienna, where he completed the race in one hour, fifty-nine minutes, and forty seconds.",
+    "imageCredits": "ALEX HALADA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_24.jpg?versionId=gER4LpYq8NdjbgHy4DkUlhs9bzPlccUB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_24.jpg?versionId=upKKaex7QPba1Uad1YZvIkmenXbjQf8t",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_24.mp3?versionId=ZRMMbUHG6xRfYWoC1G0fq3HRnF09RYGL",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323487,
+    "cultureContent": {
+    "imageLocation": "Kenyan Celebrity",
+    "imageDescription": "Lupita Nyong’o is one of the most recognizable names in the film industry today. She identifies as Kenyan-Mexican, having been born to Kenyan parents in Mexico. The Oscar-winner has starred in several successful movies, including the main role in the critically-acclaimed 2019 horror-thriller Us, as well as 2018's Black Panther.",
+    "imageCredits": "ANGELA WEISS / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_25.jpg?versionId=STe3DCK7zUfv1wOW_0gO_IrWGg4rejqh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_25.jpg?versionId=PKHn12Oh_aH3AVrmXeHsFXN_RaUYx9Fj",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_25.mp3?versionId=mnjS1pAtKAuGBrQnIjAnHuLZxJNU1zOF",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323494,
+    "cultureContent": {
+    "imageLocation": "Iten, Kenya",
+    "imageDescription": "Located north of Nairobi is the Rift Valley training ground of Iten, a small town where Kenyan runners can practice and improve their times with daily workout sessions. Iten is situated at an elevation of 8,000 feet above sea level, making it an ideal place for endurance athletes to build stamina. It has been nicknamed the “city of champions,” as a number of high-ranking runners were raised there.",
+    "imageCredits": "SIMON MAINA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_26.jpg?versionId=I8kWsTY8eJCk.QK5BpUF2Ukp8mivzuyK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_26.jpg?versionId=JIExMS4pVQLvz1O5XarSGNs7q6DYOyaE",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_26.mp3?versionId=jbu0Tbbovv9A_9er.XrJ4uApIru4qRxn",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323500,
+    "cultureContent": {
+    "imageLocation": "Dadaab, Kenya",
+    "imageDescription": "Lying on the Kenya-Somalia border, the Dadaab refugee complex is Kenya’s oldest and largest refugee camp. Established in 1991 and administered by the UN High Commissioner for Refugees, the camp still holds over 200,000 Somalis seeking a new life due to political unrest, famine, or climate change disaster. Despite the difficult circumstances, those inhabiting the camp continue to work (and play!) as they adjust to this new way of life.",
+    "imageCredits": "Yasuyoshi Chiba / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_27.jpg?versionId=RdomUOG8L_nx8D_qM0mdesLcqs7kcaK5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_27.jpg?versionId=AF94PdrRoDmmgAu65k4z0c.4IpPUxF1U",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_27.mp3?versionId=C7g5th1ogdewDsKbIBxXMwEvjL9p_Cyu",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323507,
+    "cultureContent": {
+    "imageLocation": "Nairobi, Kenya",
+    "imageDescription": "The Karen Blixen Museum, located in the Nairobi suburbs, serves as a reminder of Kenya’s history with European colonization. Once the centerpiece of a farm owned by Danish baroness Karen Blixen and her husband, the house now serves as a museum and is open to the public for visitation. Built in 1912, the house embodies the bungalow architectural style synonymous with the late 19th and early 20th centuries. Film buffs might recall Karen's story, as told in her autobiography Out of Africa, and on which the Academy Award-winning movie of the same name was based",
+    "imageCredits": "DEA / V. GIANNELLA / De Agostini / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_28.jpg?versionId=MonKed0XSwLHX4TOaXiEJC4h.OIs7s9T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_28.jpg?versionId=.Loy4gUMthVBTPeCKHcfFkUhsPBumDW1",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_28.mp3?versionId=bGhyqY8sbGpFa2ut0_oYrHKfkWID4buJ",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323516,
+    "cultureContent": {
+    "imageLocation": "Malindi, Kenya",
+    "imageDescription": "The Marafa Depression (nicknamed “Hell’s Kitchen”) is a breathtaking example of how wind and erosion can impact natural structures. With different shades of white, orange, and pink emanating from the sandstone, this beautifully haunting canyon is best viewed at sunrise or sunset. Local legend has cited the Marafa Depression as a place where visions and miracles happen, adding mystery to its luminous reputation.",
+    "imageCredits": "Lubo Ivanko / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_29.jpg?versionId=e_NDaqIkVDhTG7RTM1Pv4a0VLA8EAWnf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_29.jpg?versionId=haAWQVNRdiSNaEHj1QmB4.sHaIEMqmmR",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_29.mp3?versionId=VPsGCdDdV5TgZsuSuKo66yT8ezhgEtwi",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323523,
+    "cultureContent": {
+    "imageLocation": "East African Culture",
+    "imageDescription": "Bomas are traditional villages of the Maasai people. The huts within a Boma are created by combining mud, cow manure, and branches in a simple method to form a little house that is easy to maintain. The small huts block out harsh sunlight to provide a cool interior, and are usually surrounded by thorny bushes to ward off predators. While the Maasai tribe is no longer considered highly nomadic, these huts were built with a fast-moving lifestyle in mind.",
+    "imageCredits": "Jennifer Watson / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/full/Swahili_1_9781797140773_M_30.jpg?versionId=8etsdxru.3Bj_rktkFDCKtWwdaAsMs.Q",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/lesson_photo/thumb/Swahili_1_9781797140773_M_30.jpg?versionId=Rw3cjOLvfbPkDK9NlXikgyYBQV19lRza",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/main_audio/9781442350786_Unit_30.mp3?versionId=Y89X4ptjJ5ALdfCgTHX32sSgqMT2R_Mh",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323531,
+    "cultureContent": {
+    "imageLocation": "African Culture",
+    "imageDescription": "Giraffes are one among many endangered mammal species native to Africa. Now extinct in at least seven countries, conservation efforts have attempted to put a stop to poaching of these gentle giants. These odd and beautiful creatures are the tallest in the world, with newborn giraffes often standing taller than most humans.",
+    "imageCredits": "Manoj Shah / Stone / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili Level 1 orig/asset/RL/Swahili_1_9781797140773_Intro.pdf?versionId=aC5SQ8Ss9nPKv_UwVD8rg7X6GZ547xvf",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading11.mp3?versionId=TCV_ALB6zAN_dNzPm3TORuMUdSEGPBtX",
+    "mediaItemId": 2353150
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading12.mp3?versionId=EAB9.4Zvip4jL1verrx2gJcRt6BbyH2H",
+    "mediaItemId": 2353151
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading13.mp3?versionId=siTugNiNYjkWTsLuXHIvegeGXA2aLusW",
+    "mediaItemId": 2353153
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading14.mp3?versionId=61Mwe5GG2i7ZPC84DLgaFOM0MEo8kt2M",
+    "mediaItemId": 2353152
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading15.mp3?versionId=UUMJO7gO7ap1HH2e5BtuG5Jw0oKsdZC.",
+    "mediaItemId": 2353155
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading16.mp3?versionId=SgbXY0_mZ_0bNt2RakZO102Qym_5DUM3",
+    "mediaItemId": 2353154
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading17.mp3?versionId=AtRJGd.e5TIs19R0C0La7wH7KgmRMpVH",
+    "mediaItemId": 2353156
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading18.mp3?versionId=mV9tXoz.QjCnx5LJWtpUXSzEG_hyRgv3",
+    "mediaItemId": 2353157
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading19.mp3?versionId=TnfkOvNfYQsTpFumfWVscvKYe2kmbAdN",
+    "mediaItemId": 2353158
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading20.mp3?versionId=xPoDEOWOcTwUI8dAXs3I9XrWBtBUCG73",
+    "mediaItemId": 2353159
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading21.mp3?versionId=ldaHGO_cg5UFpF1LxTiLsiOD0Ix3vkkg",
+    "mediaItemId": 2353160
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading22.mp3?versionId=9_e0gW5PZ5ec7uaVVWbU_J00qp9_nipQ",
+    "mediaItemId": 2353161
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading23.mp3?versionId=G961Ek0dbwM9LMBinF0NCV42XS5tuynM",
+    "mediaItemId": 2353162
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading24.mp3?versionId=QWgF053OfVeoBBuf9RiqsdAdOA.QTxSA",
+    "mediaItemId": 2353164
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading25.mp3?versionId=GRloXOR0j9wk1nabhJTuB.lFCNhyESa8",
+    "mediaItemId": 2353163
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading26.mp3?versionId=AkVzxwHiwJAR8GWoh9R4PuUEmSf3gVRv",
+    "mediaItemId": 2353165
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading27.mp3?versionId=Kn4kvaBJtZCGMnPnYRW1RbXlATvLL9ww",
+    "mediaItemId": 2353166
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading28.mp3?versionId=z08hagTWgzSNcK7hiO1I5ppn83rK1oct",
+    "mediaItemId": 2353167
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading29.mp3?versionId=CUOI0YN5pnuOqok1FiSAuDqX4apP2qoo",
+    "mediaItemId": 2353168
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Swahili/Swahili%20Level%201%20orig/asset/RL/Swahili_1_9781442350786_Reading30.mp3?versionId=LYnDM3kUrKPpvqACaOJj0cvNJZk_c.0l",
+    "mediaItemId": 2353169
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797140773",
+    "level": 1,
+    "courseName": "Swahili Level 1 Premium",
+    "simpleCourseName": "Swahili Level 1",
+    "puArabic": false
+    }
+    ]

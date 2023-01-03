@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 10140,
+    "languageName": "Hindi",
+    "languageId": 151,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_01.jpg?versionId=sR3lpPWOsLLA3s_zfOTg8tZ_9ys6Ua7D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_01.jpg?versionId=91e4ziWgISh9HXBj9piPVaCSso1rMmku",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_01.mp3?versionId=QkuhdeFO0mS0yGGfNGbFBMDXMxlMtzK2",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2321479,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "India is the home of four major religions, including Hinduism, Buddhism, Jainism, and Sikhism. Over 80% of the country's population identifies as Hindu, however many other religions are prominent in India. Muslim, Jewish, and Christian practicing folks also reside in the nation that was created over 4,500 years ago.",
+    "imageCredits": "MStudioImages / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_02.jpg?versionId=.DAJU7d0zCuPim5edpM.8KWwGzepQcqH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_02.jpg?versionId=jY0tkfiYkMIF99vaUVKA4N3EiiGBO76N",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_02.mp3?versionId=XDOXPmovIY1V_kqtctVug0D3YNl6nMs4",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2321484,
+    "cultureContent": {
+    "imageLocation": "Agra, Uttar Pradesh, India",
+    "imageDescription": "Cricket is incredibly popular in India. Many professional cricket players got their start in the sport by playing pick-up games in the streets, and some of the best players in the sport come from India. Team India was established in 1972 and is heavily supported throughout the country.",
+    "imageCredits": "Adrian Pope / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_03.jpg?versionId=wk9FxgCaX.4zTmLOyHj6zkA6idPTo.AK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_03.jpg?versionId=Fqvid7ZPTFf2mWTQYt2KTT_EtVNgB1c2",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_03.mp3?versionId=XrlSdiKjPMED9W4c6Gdx9lITpwgJrG3V",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2321493,
+    "cultureContent": {
+    "imageLocation": "New Delhi, India",
+    "imageDescription": "Constructed in the sacred shape of a lotus flower, the Baha'i House of Worship is a popular religious site for visitors. In place of carvings and statues often found in Indian temples, the architect Fariborz Sahba used light and water as ornamental elements of the House of Worship. The white petals are made of concrete and marble, and form arches over the nine entrances. Inside are reflective pools and skylights creating space and decoration.",
+    "imageCredits": "Naveen0301 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_04.jpg?versionId=Gl7_H8iGOjUBpK.1aCfa39ZlusOBZmUj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_04.jpg?versionId=8hA2wgMrGLrpC6cEQ0ahGk9JEaqWoYEq",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_04.mp3?versionId=Gk0GUma814jI.MrId.RzrDdctxMwo.SM",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2321498,
+    "cultureContent": {
+    "imageLocation": "Allahabad, India",
+    "imageDescription": "Trans and LGBTQ+ rights activist Mahant Pavitra Nimbhorkar is an office-bearer of Kinnar Akhara, the Hindu religious order devoted to transgender saints. LGBTQ+ and trans rights have been restrictive for many years, but the establishment of Kinnar Akhara in 2019 promotes conversations surrounding Hinduism and the LGBTQ+ community. Nimbhorkar earned her degree in nursing and now manages three trusts that support sexual health and education within the LGBTQ+ community.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_05.jpg?versionId=ySkMKMp6JQLZjr5WNjyJ1vONl3Ymus.L",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_05.jpg?versionId=7o9SVEWmS6UUi_JNku0nCXmuOnJnbcM5",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_05.mp3?versionId=OxUsPS7ERkUDwnhrlCxNQBTEAe7SZOIq",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2321503,
+    "cultureContent": {
+    "imageLocation": "New Delhi, India",
+    "imageDescription": "The Seemanchal Express is a fast train with stops between Jogbani and Anand Vihar Terminal in India. Averaging 68mph and covering 868 miles in under 25 hours, the Seemanchal Express is often crowded with many passengers. In 2019 the train derailed in a tragic accident, killing six and injuring thirty people.",
+    "imageCredits": "PRAKASH SINGH / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_06.jpg?versionId=4ZwZ5.e_WWhZbemMjqtn8mcbBcL.oMKO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_06.jpg?versionId=VaDpn0LQ5B3MfcQqsg9B38STKpMiNKHd",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_06.mp3?versionId=pmaGXhZRG7CW8WAuWY_Oa95c5jQyp5Ve",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2321509,
+    "cultureContent": {
+    "imageLocation": "Kochi, Kerala, India",
+    "imageDescription": "The written history of the Cochin Jews dates to 1000 CE. The community once thrived in the Kochi region of Kerala, however only fifty Cochin Jews remain in the 21st century. Kochi is Kerala’s commercial, financial, and industrial hub, and its most densely populated region.",
+    "imageCredits": "Barry Lewis / In Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_07.jpg?versionId=FWdjDfQZIoFtRf32JlT7Nr28Bi4Z74ic",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_07.jpg?versionId=Zw.56vZo5ypJdUU6e59LFyR2GYVjxA8U",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_07.mp3?versionId=VnX4QdSqNPURWp3ieEOQyzDYCS3YDHuf",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2321515,
+    "cultureContent": {
+    "imageLocation": "Mumbai, India",
+    "imageDescription": "After ten years of construction the Bandra Worli Sea Link is Mumbai's eight-lane highway. Designed by Seshadri Srinivas, the cable-stayed freeway uses enough cables that the length of them would cover nearly the circumference of the earth. Construction of the Bandra Worli Sea Link was controversial and faced backlash from fisherman and environmentalists, as well as being delayed several years and going Rs 3.5 billion over budget.",
+    "imageCredits": "Jayesh Pawar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_08.jpg?versionId=lzeC.N1PDAXE7CCNhKM5BNm14.2u8KqK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_08.jpg?versionId=5OwLzTtcIESGO98euJAhBDOsnoEZoWoN",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_08.mp3?versionId=rgoQ238Un3gb95iLL8Jb8Xf4zqYw1eV4",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2321521,
+    "cultureContent": {
+    "imageLocation": "Maharashtra, India",
+    "imageDescription": "The Kailasa temple is carved from a single excavated stone and is one of the thirty-four Ellora Caves. Located in the region of Maharashtra, the Kailasa temple includes monuments from 600-1000 CE and is dedicated to the god Shiva. The construction of the intricately decorated temple is generally attributed to Rashtrakuta king Krishna I, though it is uncertain if that is fact.",
+    "imageCredits": "Photo by Baskhar Dutta / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_09.jpg?versionId=OT1fVAppk31EIEYb4kiLl51.kiuGzRsR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_09.jpg?versionId=OZLUw.8o.bm4RS8qV6Fqv5FhUn2SRCrh",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_09.mp3?versionId=Yi5i0ZZyBOeojsXQXtfx60OxnEKmzHWS",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2321527,
+    "cultureContent": {
+    "imageLocation": "Sikkim, India",
+    "imageDescription": "At 28,169 feet the world's largest mountain, Kanchenjunga is in the eastern Himalayas. The great mountain is comprised of stones from the Neoproterozoic to the Ordovician ages, making Kangchenjunga nearly 1 billion years old. In the early 20th century exploration of the summit lead to grave accidents, giving the mountain a reputation for disaster. Since then several people have reached the summit, including a group of explorers in 1979 who did not use supplemental oxygen.",
+    "imageCredits": "Saiko3p / Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_10.jpg?versionId=2Mwug_QTWyDxOjIAL_gcbzn9z2AUOTfQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_10.jpg?versionId=wfs.klr5sNWFF5DvUxua4StcuAfvN1pZ",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_10.mp3?versionId=wlLMkm8V2AvJJk.qz_3pSUsQkrPrYorR",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2321530,
+    "cultureContent": {
+    "imageLocation": "Mumbai, India",
+    "imageDescription": "In February each year, the Kala Ghoda Arts Festival takes place to honor the culture of South Mumbai. The festival is the largest in India and attracts visitors to the performances of theatre, comedy, visual arts, cinema, and more. The design and architecture portion of the festival focuses on how architecture and design are discussed and presented in conjunction with cities.",
+    "imageCredits": "Hindustan Times / Hindustan Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_11.jpg?versionId=h5jizHFOqWTb62jq88J9j8EinFiSFJOP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_11.jpg?versionId=6._LvBh93yPMYbavGfcJPTuXRC8HWp9R",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_11.mp3?versionId=_y2_KBBPwnZ4YnAlpOHcpKT3z1fq3QIG",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2321537,
+    "cultureContent": {
+    "imageLocation": "Bangalore, India",
+    "imageDescription": "Cricket superstar Mahendra Singh Dhoni may have played his last match in the devastating World Cup semifinal against New Zealand. Known for his hitting ability, Dhoni's fifteen year-long career has gained him much fame and popularity, along with a Bollywood hit biopic about his life. Dhoni will lead the Chennai Super Kings as captain in the April return of the Indian Premier League.",
+    "imageCredits": "DIBYANGSHU SARKAR / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_12.jpg?versionId=XAa1tQksBA8AGGyaPsBD2deS_8jTBHls",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_12.jpg?versionId=aBrBsEOh.M4gRwQvgrGOVUzjJNMN6iLa",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_12.mp3?versionId=4Nqx4g6QKl_Y4bT.PjOJYFhQsZ74T0Gp",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2321543,
+    "cultureContent": {
+    "imageLocation": "Amritsar, India",
+    "imageDescription": "Fateh Diwas is a two-day celebration in March commemorating the Sikh conquest of Delhi in 1783 from the Mughals. The celebration takes place at Red Fort, the site where the Nishan Sahib, a Sikh triangular flag made of cotton or silk cloth with a tassel at its end, was unfurled. The celebration includes activities and events depicting the cultural traditions of the Sikh community along with displays of Sikh martial art forms.",
+    "imageCredits": "NARINDER NANU / FP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_13.jpg?versionId=_uhMWoy9RwzlBoa9HJ2mza0AYaN0J9ST",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_13.jpg?versionId=ARNTUr4S8kjiZCoHA54BG5H39PZiidlM",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_13.mp3?versionId=XEOqYCiWmDmxaI9Kz_BJj3.rXPnE7cJ2",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2321547,
+    "cultureContent": {
+    "imageLocation": "Chandigarh, India",
+    "imageDescription": "Indian artist Nek Chand created a secret stone garden in the 1960s. In the evenings after work, Chand worked with recycled materials to create figures that covered several acres. When authorities discovered the garden the solution was to give Chand a salary he could put towards working on his art including funds to employ fifty laborers. Today the garden is considered one of the modern wonders of the world.",
+    "imageCredits": "Raphael GAILLARDE / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_14.jpg?versionId=gqSGjESJnJcFm6fDTczNvV2DKy9Nl7pJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_14.jpg?versionId=beNHrEVdoUhqTglUKUJcTySsZ9LPxxAQ",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_14.mp3?versionId=XR2YOWNimdUfygmv3cimO_4Kl3XJHU.b",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2321553,
+    "cultureContent": {
+    "imageLocation": "Kohima, Nagaland, India",
+    "imageDescription": "From the first to the tenth of December the Hornbill Festival of Nagaland celebrates the indigenous warrior tribes of Nagaland. The festival is celebrated by lots of food, singing, dancing, and honoring the different tribes' customs and heritage. In the evenings the Hornbill National Rock Concert is a boisterous attraction promoting inter-tribal harmony.",
+    "imageCredits": "Bertrand Linet / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_15.jpg?versionId=AoQ41IK9NeisAfI5s08cK.8wrkXblOHy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_15.jpg?versionId=WZ_BsrRx97o81hrDZROmijGDIy2RJ0Kb",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_15.mp3?versionId=kqtlQ76527cMT9_jAXM1QmJfSNo0pRxm",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2321559,
+    "cultureContent": {
+    "imageLocation": "New Delhi, India",
+    "imageDescription": "The large steel art installation in New Delhi designed by Vibhor Sogani is titled Sprouts. The piece is meant to represent India as a “world city” and a growing empire after over 60 years of independence. The forty-foot-high sprouts expand over six acres in the heart of the nation's capital.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_16.jpg?versionId=pLHVnCblShUVOGCPdSvX72B35aff9c9Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_16.jpg?versionId=QY2FQNEwJQwQimX1uk8i6sCX1Nfie5kk",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_16.mp3?versionId=5zv_6OvoTEenA9mAjOE3m4gs35wRCWhn",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2321563,
+    "cultureContent": {
+    "imageLocation": "Bangalore, India",
+    "imageDescription": "A town in Bangalore known as the Electronic City was established by the first chairman of Keonics R.K. Baliga in 1978. The urban hub was meant to be the Silicon Valley of India, and many information technology companies have their headquarters there. The Infosys office in Bangalore is an impressive glass structure which includes a swimming pool, a gym, and a library.",
+    "imageCredits": "AlexsI / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_17.jpg?versionId=v2A6rCSCcE_chzZb32cWp0GMEnBb6syn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_17.jpg?versionId=TKfr5jTPrCIunBmakmD9OrDd5VgMPa.d",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_17.mp3?versionId=Kjvev0NhdN_8T8zo5ZQPQdZFp0weXWTR",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2321569,
+    "cultureContent": {
+    "imageLocation": "Kasol, Himachal Pradesh, India",
+    "imageDescription": "On the banks of the Parvati River is the remote village of Kasol. Known as the little Israel of the Himalayas, Kasol is popular to tourists for its pristine mountain views. Handmade hashish derived from the cannabis plant is plentiful to the area.",
+    "imageCredits": "Puneet Dhakar / 500px / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_18.jpg?versionId=OwqoF9IbJfvJ3nwSAFJuD1NIsfXoM7wm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_18.jpg?versionId=RxFd_A9fFAnMS13C1Eskck5bdBw7aq6.",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_18.mp3?versionId=OLWtmll3yWyqShbawN4UKN9IwXEkL45Y",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2321574,
+    "cultureContent": {
+    "imageLocation": "Manipur, India",
+    "imageDescription": "The largest freshwater lake in northeast India is Loktak Lake. One of the unique parts of the lake are the several hundred floating islands known as \"phumdis\" made of vegetation, soil, and organic matter which dot the surface of the lake. During the dry season the roots of the spongy islands can reach Loktak's lakebed to absorb nutrients. Loktak is known as the \"lifeline of Manipur\" because it is an essential water and food source of the state.",
+    "imageCredits": "Kissor Meetei / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_19.jpg?versionId=vwukLUNh1_4XH1Z8_U9TtQE11Ase1XFN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_19.jpg?versionId=6M4jxoy4JGSCgFVtzwgWvVBUZ8aolhfO",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_19.mp3?versionId=SRhW2Z.2PbZgG.m09U_7Hf3.ApXKgxAt",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2321577,
+    "cultureContent": {
+    "imageLocation": "Puducherry, India",
+    "imageDescription": "The experimental town of Auroville invites all people of any country and religious or political background to live devoted to the unity of humans. Founded in February 1968 the idyllic city promotes self-sufficiency on the surrounding land, education free of the issues in western education, and a transformation in human consciousness. To join Auroville one must sign over their assets to the cause, then prove that they are able to work for their stay and livelihood within the community. Auroville is made up of roughly 3,000 inhabitants.",
+    "imageCredits": "Abhishek Vyas / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_20.jpg?versionId=ZCkyTPHCKQ.ADk.pfbF9rdEDQisH6UYF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_20.jpg?versionId=lF4v__M.7EV.rfun48ZZtbYnhwh17d5c",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_20.mp3?versionId=oCTN1DfSirbs8SYLiepiJG5gWxeNPRny",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2321583,
+    "cultureContent": {
+    "imageLocation": "Adalaj, India",
+    "imageDescription": "Descending five stories into the depths of the city, the Adalaj Stepwells were built in 1498 to provide water to people in the arid region. Built in sandstone, the stepwell is over five stories deep and during the summer the temperature can be 5 degrees cooler than outside.",
+    "imageCredits": "Cambuff / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_21.jpg?versionId=BjD0ZNmGRT9YdvU7C81sRmPAXQBhX0DF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_21.jpg?versionId=UCp9ZAtB12ChtLg7XTUzt2BBY2L7dQzU",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_21.mp3?versionId=8yWEaydWObPrH9gB.Lhe.yR4BlINKWuu",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2321585,
+    "cultureContent": {
+    "imageLocation": "Jaipur, India",
+    "imageDescription": "The deepest stepwell in India is Chand Baori. Sinking thirteen floors in perfect symmetry, the well was built in the 8th and 9th centuries for water harvesting, but the aesthetic of the construction is magnificent as it plays with light, shadow, and geometry. Not far from the city of Jaipur, visiting Chand Baori is an excellent day trip adventure.",
+    "imageCredits": "Becca Vogt / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_22.jpg?versionId=s0dZfm0VQMDQKq9QTnqfZB5NrAL2XQ25",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_22.jpg?versionId=OFcsIsHP8sIhHJ.suPUuyRts40TH4kYg",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_22.mp3?versionId=Dv6IHT7PdaWKMVhbdJ_Ag2Z.u6KeRHbN",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2321595,
+    "cultureContent": {
+    "imageLocation": "Udaipur, India",
+    "imageDescription": "City Palace is a historic structure that was designed as the new capital of the kingdom of Mewar. Overlooking Lake Pichola, the palace in Udaipur is exquisitely constructed in granite and marble and shows influences of Medieval, European, and Chinese architecture. Lake Pichola is an artificial lake created by a Banjara tribesman, Pichhu Banjara, and was originally used to transport grain.",
+    "imageCredits": "John Philip Harper / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_23.jpg?versionId=Q2J5UgEga1Ch06ERnSzN2CcPbxIoPcmT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_23.jpg?versionId=xyNotEisZ3QqCXiHdPilIHhAk_pifCqC",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_23.mp3?versionId=6m0r.C20PV7hOashXkkHJpJaA0G8zhgC",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2321599,
+    "cultureContent": {
+    "imageLocation": "Old Delhi, India",
+    "imageDescription": "The walled city of Old Delhi is known for the cuisine, produce, and spices sold in its markets and restaurants. The pungent smell of chili peppers wafts through the air in Garodia Market, where many spices used in Indian cuisine are bought and sold. Flowers such as jasmine, marigold, and lotus can be found in the flower merchant section.",
+    "imageCredits": "WestEnd 61 / WestEnd61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_24.jpg?versionId=8t05vPZkrntAkX_DjEV0.J7_P7nGaQq2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_24.jpg?versionId=U2itGzv1NoNCTNmlPS8pOhMcD_v9hXUe",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_24.mp3?versionId=RN0qHM_tqii0xbvFvBOIEzsvdZEKdLt2",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2321603,
+    "cultureContent": {
+    "imageLocation": "Tamil Nadu, India",
+    "imageDescription": "The Thiruchendur Murugan temple is the second temple of Lord Murugan who worshipped the god Shiva. The inner sanctum of the temple is a cave where a carved deity of Murugan is portrayed. The angular temple stands out against the sloping seashore on which it is perched.",
+    "imageCredits": "Muralinath / istock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_25.jpg?versionId=k6RLilT3nUulsG9b5.CbSgdAWYm0WVVw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_25.jpg?versionId=t4v1WiD3yLmHpUvy.XFy1.Gigdt8Wzs5",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_25.mp3?versionId=kTSG4hwqV1m8MGIaw_NRXSsPfsx3rPJ8",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2321607,
+    "cultureContent": {
+    "imageLocation": "Leh, India",
+    "imageDescription": "Founded by King Tashi Namgyal in the early 15th century, Namgyal Tsemo is a Buddhist monastery built into the side of the rugged Zanskar mountain range. The monastery is renowned for its three-story high Maitreya Buddha which is made of solid gold.",
+    "imageCredits": "Punnawit Suwuttananun / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_26.jpg?versionId=rGlJ6Ch4juKvsBFaeIXoylN.p11GuUsq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_26.jpg?versionId=rlmq41LZ0TpDCqSWU0zKvblM7ZPRw19O",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_26.mp3?versionId=n2NFl_tmPP8rgvOc_cDwjNAGH2vORNgt",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2321610,
+    "cultureContent": {
+    "imageLocation": "Jaipur, India",
+    "imageDescription": "Samrat Yantra is one of fourteen devices in Jantar Mantar used for calculating time and astrology. The device is the largest sundial in the world and measures time precisely within a two second margin. The shadows of the 27-meter-long stone structure face north to south, and is based on French mathematician Philippe de la Hire's astronomical tables.",
+    "imageCredits": "Glowimages / Glowimages / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_27.jpg?versionId=CeIYmZwBgz4a.Qo9W2VQ9MlV_L.vwzI7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_27.jpg?versionId=zNmdCuw.pDZ5ajC6kISpvHgAzI9vJXXb",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_27.mp3?versionId=G3fRaQzWMOu0oBAQq9nhMD7e1j82i16l",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2321613,
+    "cultureContent": {
+    "imageLocation": "Varanasi, India",
+    "imageDescription": "In Varanasi city along the holy waters of the Ganges river are nearly 100 ghats, which are steps descending into the riverbank. The river is used for bathing and blessings, and each of the ghats has its own story. The Dasaswamedh Ghat is one of the busiest, and every evening spectators gather to witness the Ganga Aarti where thousands of lanterns are dispersed in the waters.",
+    "imageCredits": "Tuul & Bruno Murandi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_28.jpg?versionId=Imm.KD2uF4ZQJpCG8YaGJh2jLLGKgFi2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_28.jpg?versionId=PnpCTdcehjtzFDZtNwg9QqYMXbSBFDUM",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_28.mp3?versionId=KMDulas5zuEWXENQN9Iju2BkinmKx9Mp",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2321616,
+    "cultureContent": {
+    "imageLocation": "Varanasi, India",
+    "imageDescription": "Varanasi is the holiest city of Hinduism, and the spiritual home to the holy men or sadhus. Sadhus refers to the fourth stage of life, and sadhus let go of all material possessions in pursuit of total liberation from unholy desires. There are many subgroups of sadhus, but there are broadly two groups, the Shaiva sadhus who are devoted to Shiva, and the Vaishnava sadhus who are devoted to the deity Vishnu.",
+    "imageCredits": "Jedraszak / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_29.jpg?versionId=epRsCC9M9IfcpJ7xIIfNQnDi2E5.AbHX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_29.jpg?versionId=kfnCDEZDawaWHFsHBII2e0Bk070wf6pv",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_29.mp3?versionId=q1MZOD75zhJDHO9ZS.Hzg3_SDZJqLWUi",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2321618,
+    "cultureContent": {
+    "imageLocation": "West Bengal, India",
+    "imageDescription": "The Kolkata Gate is a unique structure arching over the Biswa Bangla Sarani. The arches reach over fifty meters and are a recognizable monument representing Bengal. Inside the gate is a restaurant featuring panoramic views of the city.",
+    "imageCredits": "AROYBARMAN / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/full/Hindi_2_9781797139913_M_30.jpg?versionId=bDqOzJtoL5vYMVTXMmg1Q9WSaGYqqPJq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/lesson_photo/thumb/Hindi_2_9781797139913_M_30.jpg?versionId=pmxjg3yor9wzVAuSyyi66rGoi9OSbc7Z",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/main_audio/9781442398825_Unit_30.mp3?versionId=6p6GwYsMfIzf8tp2dQ8Y9u80kfufbWxX",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2321620,
+    "cultureContent": {
+    "imageLocation": "Murudeshwar, India",
+    "imageDescription": "Known for having the second largest Shiva statue, the Murudeshwar Temple overlooks the Arabian Sea. The name of the temple refers to the Lord Shiva, and in the mornings and evenings the light cast on the immense figure is magnificent. Murudeshwar is an underrated place to visit, with many attractions such as the Murudeshwar and Mirjan Forts, as well as much history associated with the temple.",
+    "imageCredits": "Amith Nag Photography / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi Level 2 orig/asset/RL/Hindi_2_9781797139913_Alpha.pdf?versionId=_lhIDzyWiOeubMDMfG2RxVD8gIANyogQ",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi Level 2 orig/asset/RL/Hindi_2_9781797139913_Intro.pdf?versionId=9iEkAEpyiLE4P4vReLqCq.2EDLnyyvCR",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading01.mp3?versionId=2Bqx9CR5Wyl8iiZQ2_1KO.i.eAfakt6Z",
+    "mediaItemId": 2341566
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading02.mp3?versionId=sLqaq6_AE.pOIbYqSjQT401eHkFEP4tY",
+    "mediaItemId": 2341567
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading03.mp3?versionId=7DTjKU5mzdAMT4hxvmj1jYu0W1IX5LVX",
+    "mediaItemId": 2341568
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading04.mp3?versionId=UjiyimIH_wXKtoQ8MhJckExdgjsIkYpX",
+    "mediaItemId": 2341569
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading05.mp3?versionId=5XslDSIYq6264mzSdpMLctetL73qlXW1",
+    "mediaItemId": 2341570
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading06.mp3?versionId=EtlR.b6imHoJmX6zhbR85CebFXFD5peZ",
+    "mediaItemId": 2341571
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading07.mp3?versionId=yUh4Z6enlYH2Cx7sO03P20XDaYptu4m8",
+    "mediaItemId": 2341572
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading08.mp3?versionId=dRtvgKXnrXFX7NVkKatzZdWxTG4TMSS1",
+    "mediaItemId": 2341573
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading09.mp3?versionId=aMeuLNU9vs3UuhPJDX.3UBO8TC9M4zHt",
+    "mediaItemId": 2341574
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading10.mp3?versionId=MH0XzyZWR.Aq85HHEgE6iOap7Llu_WvF",
+    "mediaItemId": 2341575
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading11.mp3?versionId=z8G8YKvHhvGsQcJh9j_F__rkAA1X_TLK",
+    "mediaItemId": 2341576
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading12.mp3?versionId=wnN0bBi8UO1nD3coQ1AmF.fn5oEeDmL5",
+    "mediaItemId": 2341577
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading13.mp3?versionId=ZHH05t74Pb_m8at2vN5oErA.W2hHAnch",
+    "mediaItemId": 2341578
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading14.mp3?versionId=kguF_ubCieFnyJHqu7fBi6TBWgT1vGF8",
+    "mediaItemId": 2341579
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading15.mp3?versionId=F6mCfJjUTm7yuInFjWpjvGHSqkmgiLIf",
+    "mediaItemId": 2341580
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading16.mp3?versionId=tTn7HHe6iyvW.3JRKAOauSFsNcxXlnSp",
+    "mediaItemId": 2341581
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading17.mp3?versionId=dW_YzwdVvG57TUydOoluL3NJ.RhmBMd2",
+    "mediaItemId": 2341582
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading18.mp3?versionId=q94Cmr3aR_5_woXYwmY3myepNFdrQlOW",
+    "mediaItemId": 2341583
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading19.mp3?versionId=XUiWkpcN5zKYO5JG9jdZ_G6nyQzjgYhi",
+    "mediaItemId": 2341584
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hindi/Hindi%20Level%202%20orig/asset/RL/Hindi_2_9781442398825_Reading20.mp3?versionId=qivaOIvnN3RFIG0ZDDQHALpuqnXmiZc8",
+    "mediaItemId": 2341585
+    }
+    ]
+    },
+    "languageCode": "hi-IN",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797139913",
+    "level": 2,
+    "courseName": "Hindi Level 2 Premium",
+    "simpleCourseName": "Hindi Level 2",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 50030,
+    "languageName": "Korean",
+    "languageId": 157,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_01.jpg?versionId=w3iGOEz8vnh3ZcvouXra3K.x9mjFFU_l",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_01.jpg?versionId=.09Szj8YjKXoF.lFMVwoWA3w9IESVt0r",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_01.mp3?versionId=zdYg1fAZTZDikbD_eXnjuCaAqIswLBs1",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2291968,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Hallyu, or “Korean Wave” represents the increase in popularity of Korean culture globally. Bolstered by digital technologies and social media, Korean culture continues to influence the music, film, television, and video game industries throughout the world.",
+    "imageCredits": "Leo Patrizi / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_02.jpg?versionId=jemg0azyL653U2PQAap8YoOYoQNTrlEo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_02.jpg?versionId=x7hdPJbzL.vd_njo2UL9vdTdWHuNtV2w",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_02.mp3?versionId=RicY9WPVn_dLgcnxe47ya8ZJRYF4ybBQ",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2292337,
+    "cultureContent": {
+    "imageLocation": "Dongdaemun Design Plaza, Seoul",
+    "imageDescription": "A culture hub in the historic district of Seoul, the Dongdaemun Design Plaza (DDP) features seven levels of diverse public spaces, and serves as an incubator for South Korean creative and cultural industries.",
+    "imageCredits": "View Pictures / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_03.jpg?versionId=VHOgVotgsjVqVeDRTLf9SFNh4opue1bC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_03.jpg?versionId=I6TqO22A0ruUXNN9cibDU_OupRXgkDIm",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_03.mp3?versionId=Xg8NOhPTOxszuOFZujjhSdcwspPQDDYm",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2292631,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Born in South Gyeongsang Province, social activist and minimalist artist Lee Ufan is a member of a group of artists known as the Mono-ha, or “School of Things.” Their work explores the interaction between natural materials, such as wood and stone, with industrial materials such as glass and steel.",
+    "imageCredits": "Chesnot / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_04.jpg?versionId=lKi7uCz2FG5dkjh4WJjwxaSO6qq8Fn3b",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_04.jpg?versionId=6zO1ixCcYXX1U8iYg8RAAO2yCUzJ2.cw",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_04.mp3?versionId=Orjm4gIl7hFCUK9OhkT9.pK5JqtVcQHc",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2292864,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Popularized by South Korean musical artist Psy, “Gangnam Style” refers to the trendy and extravagant lifestyle of residents of the Gangnam District in Korea’s capital city of Seoul.",
+    "imageCredits": "Eric Lafforgue / Art in All of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_05.jpg?versionId=dKTJjWv3NnNFJ4AE0c8jGWSgHzwU2OIS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_05.jpg?versionId=WGMVwwEEht7jRZ73EGIfPtog6up7kD_O",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_05.mp3?versionId=4pe3yNOBkibqjxKXSi4BH9qkk4guNhuN",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2293104,
+    "cultureContent": {
+    "imageLocation": "Gangnam District, Seoul",
+    "imageDescription": "The Gangnam District is the third largest district in Seoul and is known for its posh style of living. Rent for an average apartment in the district is over $10,000 per month.",
+    "imageCredits": "Maremagnum"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_06.jpg?versionId=RSt_3bpsmTQn7OkREVrkpl4Ng33ipwZD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_06.jpg?versionId=W_LG4.OQU30do1n9tpiPV_DQns17WBBD",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_06.mp3?versionId=CgiWBh4N_8uNViqf8cg0AgZCQ5vwUa21",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2293337,
+    "cultureContent": {
+    "imageLocation": "Daegu",
+    "imageDescription": "The International Bodypainting Festival is an annual celebration of face, body, and nail art. In 2018 the event was held in Daegu, South Korea, and sixty-eight teams from several countries gathered to compete. The artists attempt to get a better understanding of their competitors’ cultural experiences by comparing and contrasting the different styles of bodypainting.",
+    "imageCredits": "Chung Sung-Jun / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_07.jpg?versionId=D.qryq0xRvrn.5dUMziFc8dfhtI3DCbF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_07.jpg?versionId=9Nw9Zv.J0febjHkhtUvFHLQOqI82i1gJ",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_07.mp3?versionId=fqZ7_aQq93vMtJkOTEQ4HTxtZPUYXu5O",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2293615,
+    "cultureContent": {
+    "imageLocation": "Gumi",
+    "imageDescription": "The city of Gumi is known as the “Silicon Valley” of South Korea. Gumi is an industrial center as well as home to Guemosan Provincial Park. Within the park is Guemo Mountain, standing over 3,000 feet tall and open to hikers.",
+    "imageCredits": "Tawatchaiprakobkit / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_08.jpg?versionId=kE0MO9.eVFSV9c7LpVKAXOKil3guTntZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_08.jpg?versionId=.YAqXN6qT6WYD9xZGGeun3huRKX5uM10",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_08.mp3?versionId=oXRy5f3GNdpOmwsk2e8Rckk7PaHJDhIo",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2293833,
+    "cultureContent": {
+    "imageLocation": "Busan",
+    "imageDescription": "The Haedong Yonggung Temple in Busan dates to 1376. The original temple, known as Bomun Temple, was destroyed during the 16th-century Japanese invasions of Korea. It was refurbished in the 1930s with careful attention paid to the colors and details of the original structure, and in 1974 the building was renamed Haedong Yonggung.",
+    "imageCredits": "CJNattanai / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_09.jpg?versionId=XCvsF7SapnBRMcyTM1LBntY7JUVtw98N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_09.jpg?versionId=bmuwd79gRg.wimtmjxUnCdYS2.Rve0X3",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_09.mp3?versionId=Rzfxi2c.NLEH2M47TmjoijTLgwcePgkO",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2294052,
+    "cultureContent": {
+    "imageLocation": "Yangbaeksan",
+    "imageDescription": "Korea has a mountainous landscape; mountains cover roughly seventy percent of both North and South Korea. The climate differs significantly from the north to the south. The south is fairly warm and wet whereas the north is much colder with a more inland climate. Both Koreas are affected by East Asian Monsoon, which is caused by temperature shifts in the Pacific and Indian Oceans.",
+    "imageCredits": "Time, Life, Enjoy... / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_10.jpg?versionId=nKx8_d_nxXOok8D9BIT5k_PO9R_.Anf5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_10.jpg?versionId=vogdKoHoJ7RU86Id3LQhU1_jriYpeLfB",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_10.mp3?versionId=62owm57K9Skqo7LcpYZy5KvPlv44EB9S",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2294332,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Korean calligraphy dates back centuries, and there are five main styles of the script. The original style of the written letters was more angular, but around the 14th century, it became more rounded and similar to Chinese calligraphy. Kim Jeong-hui is known for revolutionizing Korean calligraphy in the 19th century under many pen names.",
+    "imageCredits": "James Tye / Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_11.jpg?versionId=X3HWExNLqdiZwFhDb5pxqwt5CygvySkP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_11.jpg?versionId=U1iBsmDhGR1ykFNRLPjS2oKozYHM6idu",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_11.mp3?versionId=0dpxHdmm2E3GwR_3ys_6yKMevw0gB.J5",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2294560,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "The Samsung Museum of Art exhibits both historical and contemporary art in two separate sections. Museum 1 was built by Swiss architect Mario Botta and includes a rotunda that extends into the ground like a spiral staircase.",
+    "imageCredits": "Bruno PEROUSSE / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_12.jpg?versionId=U.mpjgEFx3bG1u1GH_eWj1UcFM16jpVc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_12.jpg?versionId=dZ_UPyckCWBJqF7AWPVFC4Wj2nspKvBO",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_12.mp3?versionId=UEul6zmtz2hhJh22r3gvK5c8nl0JhlwQ",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2294822,
+    "cultureContent": {
+    "imageLocation": "Incheon International Airport, Seoul",
+    "imageDescription": "LG Corporation, a large Korean conglomerate, is a pioneer in the field of artificial intelligence. In July of 2017 Incheon International Airport implemented LG guide robots to assist travelers. The robots recognize English, Korean, Chinese and Japanese and will respond in the language that is spoken to them.",
+    "imageCredits": "Jonas Gratzer / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_13.jpg?versionId=TgHSzBnKcBs3JgQ6fSu423CHPpXssIqt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_13.jpg?versionId=lqafV9E_F1l7hZWL.edrvwT0CbaAYoOO",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_13.mp3?versionId=8TlxAalUSokDMERi6PxDWZqMSxBviyDE",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2295066,
+    "cultureContent": {
+    "imageLocation": "Gyeonju",
+    "imageDescription": "Cheomseongdae is an astronomical observatory built in the 7th century. The tower stands thirty feet tall and is the oldest astronomical observation tower in Asia. In 1962 it was named South Korea’s 31st national treasure.",
+    "imageCredits": "Nunawwoofy / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_14.jpg?versionId=n93uRqp3dBw3hayfqGlN7LOEiFlm6LyX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_14.jpg?versionId=T7MyAt2R_6lK9pHqA.V9K4gn11KQkaFR",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_14.mp3?versionId=kGYG1MIqB9JZqdlsUqej6HNcfgol.XxV",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2295343,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Seoul is officially known as the Special City, and is the largest city in South Korea. Known for its fast internet speeds, technological advancement, and economic success, Seoul is a popular place to visit and live. Following the Korean War, “The Miracle in Han River” was an economic boom period that saw the city transformed into the fourth largest metropolitan area after Tokyo, New York City, and Los Angeles.",
+    "imageCredits": "Loop Images / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_15.jpg?versionId=iF2DNy18z__gbh3hizTc4ks8RT0OAEq9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_15.jpg?versionId=0y5AKKTjg458Zw9AY_rRE0X8ySFQi3wg",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_15.mp3?versionId=ROkzIQoyjPbjmwt5GsMEdOq02Xxis8BV",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2295618,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Myeongdong Cathedral is a symbol of Roman Catholicism in Korea. In 1877 the emperor threatened to seize the land in order to stop construction of the cathedral and the spread of Catholicism in Korea. The cathedral is now recognized as a historic site and is a popular site for protests.",
+    "imageCredits": "suntill / Imazins / ImaZinS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_16.jpg?versionId=G8qmZe.SGg6i3YwdNvtJwcUBiZOgcOwm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_16.jpg?versionId=R3bTu52EcJpeC6r97xjhm32cVQJSNmo1",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_16.mp3?versionId=55.KET1K.VM6JFkyl0IpuiQRS.otiYOc",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2295869,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Byung-hun Lee is an actor from Seoul, South Korea. He never considered acting until a friend suggested he give it a try, and since then he has starred in several Korean Broadcasting System Television series. His debut in Hollywood was a feature role in “G.I. Joe: Rise of the Cobra,” and he has held several starring roles in feature films since.",
+    "imageCredits": "Gregg DeGuire / WireImage / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_17.jpg?versionId=0JYuuIeS_uMrfNuu9MUvFi8dSKqtHRgi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_17.jpg?versionId=m0rYOTkwbMSFWYcDf.Qr6IHuP2f4BnP3",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_17.mp3?versionId=4sTdX.eh_3UUtXScy8v3yo40rIK7D9CD",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2296177,
+    "cultureContent": {
+    "imageLocation": "Pyongyang, North Korea",
+    "imageDescription": "Juche Tower is a monument in North Korea, located in the capital city of Pyongyang. The stone architecture of the tower symbolizes the stone pagodas of premodern Korea, and atop the tower is a torch that is always lit. The tower was built to commemorate the 70th birthday of the country’s first leader, Kim Il-sung, and was named Juche after Kim’s ideology of the same name.",
+    "imageCredits": "Alexander Hassenstein / Getty Image News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_18.jpg?versionId=iLYUy5dBuAPYRqkYIM7RBERHZssg01rk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_18.jpg?versionId=IsLs5gRKGDjpe3r_uztABcWMcoQkyPmO",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_18.mp3?versionId=LnXa5GMFlzV2yad1L___iOjACjH3YoxG",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2296447,
+    "cultureContent": {
+    "imageLocation": "Pyeongchang",
+    "imageDescription": "The opening ceremony of the 2018 Winter Olympics was held in the specially built pentagonal Pyeongchang Olympic Stadium. The message of the ceremony focused on harmony, peace, convergence, and passion, and featured displays of 5G and augmented reality technologies.",
+    "imageCredits": "Pool / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_19.jpg?versionId=YoMs.MxT1ZdncZ.KvmQT9JWd9gGsajq7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_19.jpg?versionId=KRgHJJvHfckThz0ZRHEZWgFbh65EMOVT",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_19.mp3?versionId=0GVQT94nweCISPrW05UBzDrhLIPzZqWm",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2296683,
+    "cultureContent": {
+    "imageLocation": "Jeju Island",
+    "imageDescription": "“Sunrise Peak” is the result of volcanic activity roughly 5,000 years ago. The landmass is located on Jeju Island and stands 300 feet above sea level as a volcanic crater.",
+    "imageCredits": "NATA_0101 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_20.jpg?versionId=iiSooi8TEQqsekHzcvOgl4Fkmdb.eY.1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_20.jpg?versionId=F3apDMOdGeNwKDj24DAtaXNLWlqUhCsl",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_20.mp3?versionId=neklTk.NdyDV4izSgTMH9ApQ2apjqs8Y",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2296881,
+    "cultureContent": {
+    "imageLocation": "Daewangam Park, Ulsan",
+    "imageDescription": "Daewangam Park is a nature sanctuary located on the east coast of South Korea by the city of Ulsan. The forest contains cherry, forsythia, apricot, magnolia, and pine trees, and there are massive boulders that form an island. The park is famous for its lighthouse, which emits a neon light at night, making the island appear to be glowing.",
+    "imageCredits": "Insung Jeon / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_21.jpg?versionId=JeyXAuyEQL4SNfYNStZYubsIVaFkhaSX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_21.jpg?versionId=3tpGh6sxp_9IGZ9W2jYcL41VY9J3S4k0",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_21.mp3?versionId=QerVn5pwcnXOGKPXqFCfTqWGDJXzAX6Z",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2297098,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "Traffic can be very heavy during Seoul’s rush hour, but public transportation is very accessible. Seoul’s transportation network is set up so that the bus and subway systems are connected to optimize efficiency.",
+    "imageCredits": "Sungjin Kim / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_22.jpg?versionId=A9lB.4mMkipd5uDRf.adtj0eiRFTXKtB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_22.jpg?versionId=rJu6qYV33xeu4ZsL3dtmtRuhSPN2wL1v",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_22.mp3?versionId=npLrMv27vpCEHXgufLPgKICAewzeT0tr",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2297346,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "It is becoming more popular for dog lovers to clone their pups in Korea. Laboratories are able to produce a clone of a deceased dog, but the new technology has raised ethical concerns because many of the cloned animals are born with physical abnormalities.",
+    "imageCredits": "Jung Yeon-Je / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_23.jpg?versionId=T.MZ0uh5oN.cZ56nqMpvuV3d8tFvSHLb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_23.jpg?versionId=a5dGs0XkvxKlJCanD.4htZmC3aiJia2I",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_23.mp3?versionId=pnXy7P2o_pyBWSjrsHhXaDJoQYPfP54D",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2297590,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Shaved ice, bingsu, is a popular Korean dessert. Traditionally the frozen dessert was topped with red bean paste, but now it is common to top the ice with fruit, whipped cream, and syrups. The dish originated during the time when Korea was under Japanese rule.",
+    "imageCredits": "Hearttoheart0225 / iStock / Gety Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_24.jpg?versionId=zlA_HhxCmI7cny3qyC2RPpL5_sGDKhOM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_24.jpg?versionId=yfq2z1jq8QMvw_CqBmu_dXb4Ndl7cjIp",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_24.mp3?versionId=20WiwEskSPGUfvTOqc5DlxJ2FPlRPVDn",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2297877,
+    "cultureContent": {
+    "imageLocation": "Suncheon, Jeonnam",
+    "imageDescription": "Suncheon Bay is a natural coastal wetland which attracts many migratory birds. The salt marsh naturally removes toxins and pollutants from the water.",
+    "imageCredits": "Insung Jeon / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_25.jpg?versionId=haJs1f2ezE4iBkG_awCc6nzwANpYbCz4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_25.jpg?versionId=xsJVUUNRxQZodIgS9OKiYpmfdMSf9qr5",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_25.mp3?versionId=f6AlbH0mXbaSDEMfiulPA91.OscSnAmA",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2298253,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "The Namsan Tower is a communications tower located in central Seoul. It was built in 1969 and was Korea’s first general wave signal tower for broadcasting radio and TV.",
+    "imageCredits": "Purbella / Imazins / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_26.jpg?versionId=vKFNPsXCvIAfWZnHQ3S04zI7Ctu0a3EF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_26.jpg?versionId=iDyjtd_8nCTVNoA20mYcf1VlcyPLxrNp",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_26.mp3?versionId=yplPC8OZv8agRCkqLIOYU5EX80MqrhgA",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2298500,
+    "cultureContent": {
+    "imageLocation": "Amur River",
+    "imageDescription": "The Amur leopard is a native big cat of southeast China and Russia. It is a critically endangered animal, and has been considered the rarest cat in the world. The leopard crosses between North Korea, Russia and China by the Tumen River, despite the high fence dividing the countries.",
+    "imageCredits": "Michael Durham / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_27.jpg?versionId=8QZqkR3m8M4dgOoI4nvYHyhuJrWpRtUR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_27.jpg?versionId=MfPfvLOJCoowdQjm9TNhXuWSMIQdt9ko",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_27.mp3?versionId=s7EL8HnHKdtLMew4NwHbwjQI_0joNYC_",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2298714,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Doenjang is a fermented bean paste made from soybeans and brine. This distinctive condiment is eaten as a spread or dip, and is also used to season soups and vegetables. It is also an important component of a sauce called ssamjang. Doenjang is nutritional and is thought to be an anticarcinogenic food.",
+    "imageCredits": "Martin Moos / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_28.jpg?versionId=1z8RC_iu5taQz4iLYgc5oVRJ6273zb_o",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_28.jpg?versionId=LDiCGMASW9FjWFao3xJfV0az6Nkjm5Rr",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_28.mp3?versionId=VLP48NvWOjhxuRD.0HKvKo85T_oedvyA",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2298939,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Gwamegi is a seasonal winter seafood in Korean cuisine, mostly eaten in the east coast region, especially in the city of Pohang, which has an annual festival to celebrate this local specialty. Pacific herring or saury are hung outdoors on the beach to freeze at night and thaw during the day. This process continues until the fish becomes partially dry.",
+    "imageCredits": "daecheol / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_29.jpg?versionId=HobYNoPu_5PvowyNJ83MWVMY3XUbhthx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_29.jpg?versionId=z.rcx2nlPTQUxNwmLtOZzAxHDZK9OuTh",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_29.mp3?versionId=9g6ndQkqronmjg.gBKm7LX8NKAeTBG..",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2299179,
+    "cultureContent": {
+    "imageLocation": "Seoul",
+    "imageDescription": "The Yoido Full Gospel Church in Seoul is the largest Pentecostal congregation in the world, boasting 800,000 members. The main building seats 12,000, while overflow crowds watch the service on TV in nearby buildings. This massive congregation is just one of seventeen megachurch congregations (meaning at least 2,000 in weekly attendance) in the Korean capital alone.",
+    "imageCredits": "Godong / robertharding / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/full/KO_3_M_30.jpg?versionId=8Ap3nYDeNpMBRdbJ98myEKKY1YBNwPlA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/lesson_photo/thumb/KO_3_M_30.jpg?versionId=JEwFybuG8x1J1qb028JiIAvoLhkIORha",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/main_audio/9781508298229_Korean_3_Lesson_30.mp3?versionId=8h5sdMWGtH1fPJh7p6UyZir5K7JTuABc",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2299472,
+    "cultureContent": {
+    "imageLocation": "Namhansanseong Fortress, Gyeongghi Province",
+    "imageDescription": "Traditional Korean homes are built with particular design elements intended to promote a life of harmony and comfort. In a special way of painting called dancheong, the eaves, ceilings and pillars are covered in vivid colors in exquisite designs to ward off evil spirits, emphasize the authority of the resident, and ensure happiness in the afterlife, among other things.",
+    "imageCredits": "shene / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean Level 3 orig/asset/RL/9781508298229_Korean_3_Alpha.pdf?versionId=qbUKpCC6LFOYsQk0YALmJ5oljAdkib3h",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean Level 3 orig/asset/RL/9781508298229_Korean_3_Intro.pdf?versionId=fwaDbztxxoGA7JV_lurVBrzrWRyT9wR_",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_01.mp3?versionId=omCSOtLCCEQe0v8IWC_fpJxDE2Fv_teD",
+    "mediaItemId": 2223917
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_02.mp3?versionId=ua_wLKZ5xeHWfRu9nuFEOYQ7oYceyUWc",
+    "mediaItemId": 2224118
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_03.mp3?versionId=t.d08YDewvOQ4DrNaGbj_WbtbtVgmSn5",
+    "mediaItemId": 2224269
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_04.mp3?versionId=1ergz5yj36tL7500QprhJFKwKfTFEY9_",
+    "mediaItemId": 2224452
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_05.mp3?versionId=UpsW6Fh0K.NJ1Ldmouc0Tjtxw6m2qz0N",
+    "mediaItemId": 2224637
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_06.mp3?versionId=jssTEPOeisvVDjAFKsIF4lQS_086CEhy",
+    "mediaItemId": 2224754
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_07.mp3?versionId=shWbDpvPG.H0s9O2FZHaHOWzkoGZ8ngC",
+    "mediaItemId": 2225417
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_08.mp3?versionId=yHF2p0HYxfU2Ov6A.r8h5_OafR9bPJaL",
+    "mediaItemId": 2227371
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_09.mp3?versionId=jdwUGcA1pD4FrW2bMS7Cn.HLkdQNyOK1",
+    "mediaItemId": 2230200
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_10.mp3?versionId=DVi.eYmhtFkWTnNyPAk0A44Zz.zCPmYX",
+    "mediaItemId": 2233757
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_11.mp3?versionId=ul9UrnRbAd9N.ux9PYwdYKKT_JH_Meyt",
+    "mediaItemId": 2237103
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_12.mp3?versionId=VLQi6liFJFBP_6x_N0Iup54I.4exApOQ",
+    "mediaItemId": 2240614
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_13.mp3?versionId=YMXrtOOMjNfWdGa4iG9Fbw5MCZBml7LY",
+    "mediaItemId": 2243564
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_14.mp3?versionId=GoIAZ92E4KLI.mrgeOqgeU27UCVF1Ols",
+    "mediaItemId": 2246845
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_15.mp3?versionId=OZmERfIFb7dqLLuvTjqvev2RmgT.CvOM",
+    "mediaItemId": 2249795
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_16.mp3?versionId=MHhwuTSn.CS4a1qxqoxnsrJu_ba9Lffb",
+    "mediaItemId": 2252784
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_17.mp3?versionId=gOH7qw2YwY5IAnYWR_jxc6UY17GX3265",
+    "mediaItemId": 2255632
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_18.mp3?versionId=WuZjo0GA7v_9plPcA5H2F2.SAh1fUL.V",
+    "mediaItemId": 2258391
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_19.mp3?versionId=CV4Dr2bReJF5136eI6L2McCsADM5C82D",
+    "mediaItemId": 2261154
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Korean/Korean%20Level%203%20orig/asset/RL/9781508298229_Korean_3_Reading_Lesson_20.mp3?versionId=fw3eyWB95TJ76lZKfru2uc5CNki.Mmli",
+    "mediaItemId": 2263513
+    }
+    ]
+    },
+    "languageCode": "ko-KR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508298229",
+    "level": 3,
+    "courseName": "Korean Level 3 Premium",
+    "simpleCourseName": "Korean Level 3",
+    "puArabic": false
+    }
+    ]

@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 4292,
+    "languageName": "German",
+    "languageId": 147,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_01.jpg?versionId=_tRFQmod_8n.w9ooBw_oETXfphj_s9Db",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_01.jpg?versionId=UMjK6xVMENko8A5vlvCgAJBbCWVujfDe",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U01_Lesson.mp3?versionId=vQBVipMe2skginh1ZGjxr0Pz5gIWJw6M",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2291255,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Berlin is the largest city in Germany with approximately 3.45 million residents.  It is nine times bigger than Paris and has 1,700 bridges, 4 times more than Venice, known as ‘the City of Bridges’.  As of 2010, some 13% of residents are of foreign nationality and Berlin has the largest Turkish community in the world outside of Turkey.  ",
+    "imageCredits": "Westend61 / Westend 61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_02.jpg?versionId=kT0hwSN.Oa1s98cF2dr1EbPosU5PRsWB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_02.jpg?versionId=EruCeo.BoNHoc4nnSGMijnfpVxxlG01G",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U02_Lesson.mp3?versionId=jkfAh2BEoKEsTBOzsOVYiv8nx2xSckyj",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2291499,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Exhibition Hall of the German Historical Museum was designed by I. M. Pei, who also designed The John Fitzgerald Kennedy Library in Boston and the Rock and Roll Hall of Fame in Cleveland.  It is a museum dedicated to German History located on the avenue Unter den Linden.",
+    "imageCredits": "H. & D. Zielske / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_03.jpg?versionId=7o7fIUASxLFQ8sOz38am9m7EU4EotxhG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_03.jpg?versionId=4ZbVEB_wTOJq71vyK_mNSuxD6neYzp6d",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U03_Lesson.mp3?versionId=TO8Kbn8iJZKdSMy0tR3xwRJxTBrKTulW",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2291745,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Bebeplatz is a public square in Berlin.  It is also the site of the infamous Nazi book burning ceremony held on May 10, 1933, instigated by the Propaganda Minister Joseph Goebbels, and carried out by members of the SA (‘brownshirts’), Nazi students, SS, and Hitler Youth groups.  Today there is a memorial of empty bookcases commemorating the book burning.  In 2010 an exhibition of ‘United Buddy Bears’ was held in Bebeplatz of more than 180 bear sculptures, each two meters high and designed by a different artist.",
+    "imageCredits": "David Peevers / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_04.jpg?versionId=UXZZVda7oz6qqGh3TGO.7trIvl8I7qSF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_04.jpg?versionId=bXPCpKaIC_HdLJOTiptNCD0x0bxEAfpL",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U04_Lesson.mp3?versionId=52c2l5MCRI.EHspJ1OKEA8XhCkGVQNHw",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2291980,
+    "cultureContent": {
+    "imageLocation": "Berchtesdagen National Park, Bavaria, Germany",
+    "imageDescription": "Berchtesdagen National Park is in southeast Germany and borders Salzburg, Austria.  The coldest temperatures in Germany have been recorded at Lake Funten, -50.6F.",
+    "imageCredits": "Feargus Cooney / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_05.jpg?versionId=cASYf1nBVgaZs_ikyk0vF3W2w8MeguVe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_05.jpg?versionId=8Pa4BqOFQ30NvIz8TerZbLreav3Dw..v",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U05_Lesson.mp3?versionId=Rcp6lYLEqiR5aBfekZqVFpeEb7o6XV_h",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2292207,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "The Reichstag building incorporates ‘green’ architecture and is sometimes hailed as the ‘greenest parliament building’ in the world.  The building uses bio-fuel (rapeseed oil), and stores excess heat in an aquifer 300 meters below ground.  Cold water is stored during the winter and used to cool the building in the summer.  A core light sculpture reflects light into the aquifer chamber during the day, capturing heat and becoming a beacon at night.  All this has resulted in a 94% reduction in carbon emissions.",
+    "imageCredits": "Rainer Martini / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_06.jpg?versionId=QAPOZUW16tWX2CobLWdGxhShRD0ukYKe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_06.jpg?versionId=hySX3yh9wJRxfh7mxgGngZxJTS94dpWf",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U06_Lesson.mp3?versionId=SeBYFgFmIUT5vG1SFyIDTuJMNTEdm4Jk",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2292588,
+    "cultureContent": {
+    "imageLocation": "Leipzig, Saxony, Germany",
+    "imageDescription": "Johann Sebastian Bach worked as a cantor at St. Thomas Church in Leipzig from 1723 to1750.  Bach died in 1750 and was buried in an unmarked grave at Old St. John's Cemetery in Leipzig.  In 1894 his coffin was discovered and he was reburied in a vault in Old St. John's church.  After World War II bombings, his remains were taken to St. Thomas Church.  ",
+    "imageCredits": "Roetting / Pollex / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_07.jpg?versionId=n4uW.s74zeozDqRbstZNwuhroPAK.Vu6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_07.jpg?versionId=E3IzbTaaqheMBgmquWZqdhemK2Mz7Ggc",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U07_Lesson.mp3?versionId=FWqMAGhcM9CGAtUmB7RVsWgBuK0m7VJ8",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2292867,
+    "cultureContent": {
+    "imageLocation": "Munich, Germany",
+    "imageDescription": "The Alliance Arena Stadium in northern Munich is illuminated in red when Bayern Munich plays, in blue when 1860 Munich plays, and in white when in use by the German National Team. The arena holds up to 69,900 spectators and includes three day-care centers.",
+    "imageCredits": "WIN-Initiative / WIN-Initiative / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_08.jpg?versionId=3eLF8IVBPpEMLV5.R7VubVmI45kn.qkJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_08.jpg?versionId=AAwdbpE7hkhQvjHIm6zWF7.KlSgi8.bR",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U08_Lesson.mp3?versionId=dxofLpMdTcUNE0S6ZrvaayxejP9R79zD",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2293092,
+    "cultureContent": {
+    "imageLocation": "Styria, Austria",
+    "imageDescription": "German is Austria's official language and is spoken by approximately 88% of the population.  The official German spoken in Austria is mostly identical to the German spoken in Germany, however, Bavarian is more commonly spoken.  There are also a considerable number of Turkish, Serbian, Croatian, Hungarian, and other Slavic language minorities.",
+    "imageCredits": "Lasting Images / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_09.jpg?versionId=Ovv6wRdj__qcKvmWJtMgIFcgDT7R4Fmi",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_09.jpg?versionId=SWPiHc7oAan_sfuygXp0.tHFqPB4vmZ6",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U09_Lesson.mp3?versionId=L54aQSLEE0TfkTvHRSxUP41zEAo0h7v8",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2293308,
+    "cultureContent": {
+    "imageLocation": "Sellin, Rügen Island, Germany",
+    "imageDescription": "Wicker covered seats at Sellin resort, Rügen Island on the Baltic coast. The Strandkörbe (literally, beach baskets) are specially designed beach chairs (two seaters) that offer protection from wind, sun, and rain and include arm and foot rests and a storage space.",
+    "imageCredits": "Peter Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_10.jpg?versionId=biQQhDkbRAJ_05gVRIrBAB9P8jAAorPI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_10.jpg?versionId=GcMWHFR_c.s3bieMF7nQfFptcffarySD",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U10_Lesson.mp3?versionId=WwN8cWNbek5GSEppfkOcvMs8U7bSox3C",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2293617,
+    "cultureContent": {
+    "imageLocation": "Bacharach, Rhineland-Palatinate, Germany",
+    "imageDescription": "In 1794, Bacharach was occupied by French Revolutionary troops and the town temporarily became French.  Timber-frame houses such as those in this photograph can be seen throughout the town.",
+    "imageCredits": "Douglas Pearson / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_11.jpg?versionId=NoEQ8K7BluaM3i8xIwARC.BIZoSlB6Zg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_11.jpg?versionId=UC5KOZZfDu8Ox5EYi.0uiwR1zAygIbvK",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U11_Lesson.mp3?versionId=dQDZ5jt3KPOBrLq.gMxANzrHqc.vPZ0L",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2293834,
+    "cultureContent": {
+    "imageLocation": "Düsseldorf, North Rhine-Westphalia, Germany",
+    "imageDescription": "Flossis figures adorn the Roggendorf house in Media Harbor, Düsseldorf.  These 29 figures were created by Stuttgart-based Rosalie and are fashioned from resin.  They appear to be on a race to the top.",
+    "imageCredits": "Michael Zegers / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_12.jpg?versionId=YvpXC_DLC.B.vQd0TkxPV7SgTGIwgX.Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_12.jpg?versionId=PEE6Kp7bgoEg73P60Qaho49.GPIocr_F",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U12_Lesson.mp3?versionId=1Cu5mv3ZVZKWMw00Krr5MkgdHX0JgY8g",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2294103,
+    "cultureContent": {
+    "imageLocation": "Grand Duchy of Luxembourg",
+    "imageDescription": "There are three official languages spoken in Luxembourg:  French, German, and Luxembourgish.  Luxembourgish is a German language and the language spoken between Luxembourgers.  German is usually the first language taught in school and is the language of much of the media and churches.  The Philharmonie in Luxembourg is one of Europe's most important concert halls.  It was designed by Christian de Portzamparc who is also responsible for The City of Music in Paris and the Hergé Museum (The Adventures of Tintin) in Belgium.",
+    "imageCredits": "Christian Kober / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_13.jpg?versionId=04PsMv_WuqMWu0cPcET4ATJ5_AhRipS5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_13.jpg?versionId=Xl20XqZ6ifPwvlOCGyYd6bg_jEEQo8iW",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U13_Lesson.mp3?versionId=RrK0Y5C4x7uIrCNR00xOTvZyFIsQd4qU",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2294389,
+    "cultureContent": {
+    "imageLocation": "Chiemgau, Upper Bavaria, Germany",
+    "imageDescription": "Lake Chiemsee is sometimes called the Bavarian Sea and is a famous recreation area.   An island on the lake, Herrenchiemsee, has a castle built by King Ludwig II, which was planned to be a replica of the Palace of Versailles, but never completed.",
+    "imageCredits": "Andreas Strauss / LOOK / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_14.jpg?versionId=dlQwiJ7g4L9f_KgqL0zkU6rt7DxW4CQt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_14.jpg?versionId=oBkZneQwcSEKVzlgpiOOtanQCy7x3Glx",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U14_Lesson.mp3?versionId=BiTzd3mOidpeCnOc0yvpOE.tyXsWTYzy",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2294633,
+    "cultureContent": {
+    "imageLocation": "Bavaria, Germany",
+    "imageDescription": "Bavaria is an important agricultural state and the largest producer of food in Germany.  More than a quarter of the milk in Germany comes from Bavarian cows. ",
+    "imageCredits": "Lasting Images / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_15.jpg?versionId=PPQaos3ktqjZkf.X86qo9VhgptDWA6wc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_15.jpg?versionId=N9bFBRHyOa7c6rsBLWDmWNj0b_9iIRwn",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U15_Lesson.mp3?versionId=HvHCFn23AvTgdwFMO_hJPHgK.rlyhTp.",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2294891,
+    "cultureContent": {
+    "imageLocation": "Liechtenstein",
+    "imageDescription": "Illuminated Vaduz Castle and mountains at night in Liechtenstein.  Liechtenstein is a principality and bordered by Switzerland and Austria.  The official language of Liechtenstein is German.  Its population is estimated to be around 35,000.  ",
+    "imageCredits": "Walter Bibikow / Taxi / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_16.jpg?versionId=a7nNA3ijfAi4GKOP1r4W1HCAtnXJn9Em",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_16.jpg?versionId=PLPsyxwo0Axp6fU1KTYmi96oX7mFc2tU",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U16_Lesson.mp3?versionId=oJMLHp05H2UZYiexWLvipuIr.RMi.xq_",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2295101,
+    "cultureContent": {
+    "imageLocation": "Bonn, Germany",
+    "imageDescription": "Bonn was the capital of West Germany from 1949 until 1990.  After German reunification, Berlin once again became the capital of reunited Germany.  Bonn, however, remains a center of politics and administration.  Ludwig van Beethoven was born in Bonn am Rhein in 1770.",
+    "imageCredits": "Thomas Lottermoser / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_17.jpg?versionId=zz_H.ygqPGlwf0Kc4ubDJTWsirJJj.Fo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_17.jpg?versionId=kN0bAQ9ZcPKm4P3ggxvb6pRgnhmsHb2D",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U17_Lesson.mp3?versionId=BDD7zJ_KKm73BzPPk5jeI3FhOXxSoIAG",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2295351,
+    "cultureContent": {
+    "imageLocation": "Potsdam, Germany",
+    "imageDescription": "Marble statue, Sans Souci gardens in Potsdam, near Berlin.  The statue in the garden is a part of the summer palace of Frederick the Great, King of Prussia. The palace was designed as a place for relaxation and the name was taken from the French term meaning ‘without worries.’",
+    "imageCredits": "Elfi Kluck / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_18.jpg?versionId=Et80s1NeniQkhVgakaICSEoTcLzBgDxF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_18.jpg?versionId=ulA1X7xkUerrBV.g3J2vt2crX7Jj2XQI",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U18_Lesson.mp3?versionId=uVXmldSUSWAukUAYXsyZhi_8jP3XoTuL",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2295632,
+    "cultureContent": {
+    "imageLocation": "Hamburg, Germany",
+    "imageDescription": "Johannes Brahms was born in Hamburg in 1833, and while the Beatles were not from Hamburg, the city is famous for kicking off their musical career in the early 1960s. It is in Hamburg that the three original Beatles met and played for the first time with Ringo Starr.",
+    "imageCredits": "Travel Ink / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_19.jpg?versionId=hMxrWDns96f1SkMFIYw5x24yZ8YzB0Q.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_19.jpg?versionId=PUX.ddjF0N1_vMZ2iIrTTiZMNZcLC4Wv",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U19_Lesson.mp3?versionId=1RTiElkVVfU7E5NTM9XyFrED3jPq52z.",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2295881,
+    "cultureContent": {
+    "imageLocation": "Bonn, Germany",
+    "imageDescription": "Sankt Martin Day is celebrated in most areas of Germany and Austria on the evening of November 11.   Children go through the streets with paper lanterns and candles, and sing songs about Saint Martin. In Germany it is also customary to have a bonfire called Martinsfeuer.",
+    "imageCredits": "Thomas Soddemann, freier / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_20.jpg?versionId=.EHRepiiGADazjrMgJd3inKLT34PEQoG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_20.jpg?versionId=H_Tu0hW.3SfYGoMURO6lDzFxt3e7t1zY",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U20_Lesson.mp3?versionId=eYukgOkmHNI3HCWQSKdQ29yV460C3Ehk",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2296116,
+    "cultureContent": {
+    "imageLocation": "Berchtesgaden, Bavaria, Germany",
+    "imageDescription": "Berchtesgaden is host to one of Germany's last working salt mines.  The Salt Time Journey is an innovative multimedia tour of the mine, which includes original wooden slides, a mini railroad system, and a raft tour of ‘mirror lake’.",
+    "imageCredits": "Doug Armand / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_21.jpg?versionId=Y58v2whMewMbvC4bXylO80GvEpvdksK1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_21.jpg?versionId=II5NsGILQvqAYLKrC4dbqC2lqMtiTcR4",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U21_Lesson.mp3?versionId=TgYoCRiEIhwmhoC58BTptVtaeLRrbvhJ",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2296352,
+    "cultureContent": {
+    "imageLocation": "Vienna, Austria",
+    "imageDescription": "In 1683, Vienna came under siege by the Turkish army.  Franz Georg Kolschitzky, a young Pole, who had lived in Istanbul and spoke Turkish, dressed in disguise, slipped through enemy lines and gathered information that eventually led the Austrian troops to crush the Turks.  In their hasty retreat, they left many valuables and many bags of coffee beans behind.  The Viennese assumed the beans were camel food and started burning them.  Franz pleaded for them to stop and to be given the remaining bags.  The new hero was given Austrian nationality and allowed to open the first Viennese coffee shop. ",
+    "imageCredits": "DOELAN Yann / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_22.jpg?versionId=y.mLwbVXTYE_ck74gOUx5znu9mO9SdeF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_22.jpg?versionId=CywMVH6n4xviuxn.1P_hCHKksrsGfOTx",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U22_Lesson.mp3?versionId=DW5a3Vys5LZzsUojRw_WAHZ5iZvuQZsG",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2296600,
+    "cultureContent": {
+    "imageLocation": "Grossweil, Bavaria, Germany",
+    "imageDescription": "Grossweil is located in the Bavarian Alps and includes Zugspitze, the highest peak in Germany (9,700 feet).  The Winter Olympics in 1936 took place in this region.",
+    "imageCredits": "Frank Krahmer / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_23.jpg?versionId=53mlm7XQYL45P9RbpVCprl0elfgTaxPO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_23.jpg?versionId=LsaXTifDG2OVnne4eyTVvIbmEJop07PG",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U23_Lesson.mp3?versionId=OhkvZUvp36LOHnyrQC0B70pIsYI6i4W4",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2296869,
+    "cultureContent": {
+    "imageLocation": "Unterach, Austria",
+    "imageDescription": "Gustav Klimt is one of Austria's most famous and polarizing painters. (He was often criticized for being too erotic, for the times, in his depiction of the female body.)  He became known for his use of gold and silver paint, metal, and ceramics.  His painting, ‘The Kiss,’ is considered a masterpiece of the early modern period.",
+    "imageCredits": "Wolfgang Weinhaeupl / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_24.jpg?versionId=xhCg7WrNHhvEXrHYk1uQLyPjaAFel8gb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_24.jpg?versionId=qRrBIcJsF6X77V1Pv68bfAR0Tp3JkXzz",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U24_Lesson.mp3?versionId=GZqkHyWWCKbjv5EUxq4r7gqs0N4rmwvj",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2297093,
+    "cultureContent": {
+    "imageLocation": "Munich, Bavaria, Germany",
+    "imageDescription": "Each year Oktoberfest serves over 6,900,000 liters of beer.  People who pass out from the alcohol are called Bierleichen (beer corpses).",
+    "imageCredits": "Crocodile Images / F1online / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_25.jpg?versionId=UNwWnA.UwxVpmGMdKaK.mAoIB58JAYWK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_25.jpg?versionId=wMBT1AX8be16z9y7QdghR3ZnDrcADQZi",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U25_Lesson.mp3?versionId=I5QFC_U8Zdx3ufTPW7UBZAQR69xyAp_j",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2297333,
+    "cultureContent": {
+    "imageLocation": "Wadden Sea National Park, Hamburg, Germany",
+    "imageDescription": "The Wadden Sea is the largest area of mudflats in the world and provides a natural habitat for 3,200 animal species.  The Hamburg Wadden Sea National Park is a UNESCO World Heritage site.",
+    "imageCredits": "Matthias Haker Photography / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_26.jpg?versionId=FoWXhmBkYc3NXyad0BmSf1J8FSGQc5xD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_26.jpg?versionId=ytC18VJLQDTxNB8BJCfTp0KszqFuO5eo",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U26_Lesson.mp3?versionId=PmTzOjYlBzmvLpFpwE.LLObA.PbO7f8_",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2297579,
+    "cultureContent": {
+    "imageLocation": "Vienna, Austria",
+    "imageDescription": "Hundertwasser haus is an apartment complex reaction to urbanism, which integrates nature in its design.  Shrubs and trees are integrated into the roof and walls' designs.  Tenants are allowed to resurface and paint any surface within arms reach as they lean out of any window in their apartment.  ",
+    "imageCredits": "Paul Trummer / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_27.jpg?versionId=dl6JChCAGDA.eHqajfQ11FmNU1rqmwsA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_27.jpg?versionId=Rm1CHCRU9ebUOMyqVe2IZc8DNSItoceL",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U27_Lesson.mp3?versionId=9FqejCHr47QV6DmN.IdlqG0oGj26aOR0",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2297901,
+    "cultureContent": {
+    "imageLocation": "Berlin, Germany",
+    "imageDescription": "Charlottenburg Palace is the largest palace in Berlin.  It was completely destroyed by a fire caused during a bombing raid in 1943. Reconstruction was finished in 1970.",
+    "imageCredits": "Dietrich Bojko / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_28.jpg?versionId=sRBYFgQ5JNo91UYUn.Ql_MuNhk1gNqGI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_28.jpg?versionId=LkCLDMQNafVEodKt62meHAMjQcd.wvzq",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U28_Lesson.mp3?versionId=IY2cnxvwA_KC7tuufZbR7xuh67N14Oji",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2298295,
+    "cultureContent": {
+    "imageLocation": "Allgäu, Bavaria, Germany",
+    "imageDescription": "Bavaria's Allgäu region is the heart of German cheese making, where Germany’s famous Allgäuer Emmentaler is produced.  Allgäu cheeses are made from the milk of soft brown Allgäu cattle which feed on alpine pastures.",
+    "imageCredits": "Gunter Ziesler / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_29.jpg?versionId=_IAZ2AKceiRyePLqr0KeurxD6VdWvU_k",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_29.jpg?versionId=RgkuwicesTEadldYUU9efjVcwL_9yGoK",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U29_Lesson.mp3?versionId=guAY4EEZWy.gfcj2HrmhfsfuJS_rVIdu",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2298532,
+    "cultureContent": {
+    "imageLocation": "Vienna, Austria",
+    "imageDescription": "The Gasometers are four former municipal gas tanks that, after having been decommissioned, were converted into mixed-use buildings (residential, office, and retail space).  Architects Jean Nouvel, Coop Himmelblau, Manfred Wehdorn, and Wilhelm Holzbauer each remodeled one of these gas tanks.",
+    "imageCredits": "Jean Brooks / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/full/GR_3_M_30.jpg?versionId=AF5f6Vskimuw8qFN4dPdnswqY7hqrVel",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/lesson_photo/thumb/GR_3_M_30.jpg?versionId=d7Raot0smFERqVdgdC0CC3W4CPtjmD1V",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/main_audio/9781442350359_German3_U30_Lesson.mp3?versionId=JmHQ5EcOk2_2p32V8hHfVe5XQn9Rry3W",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2298778,
+    "cultureContent": {
+    "imageLocation": "Baden-Württemberg, Germany",
+    "imageDescription": "The wealthy state of Baden-Württemberg leads the way in Europe, in terms of innovation, and invests more money in Research and Development than anywhere else in Europe. The Statistical Agency of the EU has established the state as the center of Europe´s high-tech industry.  Its residents apply for more patent applications than in any other region in Europe.  Some famous innovators from this region include Carl Benz, Graf Zeppelin, and Robert Bosch.",
+    "imageCredits": "Otto Stadler / Workbook Stock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/German/German Level 3 orig/asset/RL/9781442350359_German_3_Intro.pdf?versionId=W6DoFddxsFAUWYLSarnTXpuI.w9hVvdx",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit01_Reading.mp3?versionId=D.gxCxrdsYZt4alYesM6fosG2L1XlUXo",
+    "mediaItemId": 2223737
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit02_Reading.mp3?versionId=IWKu3S5CdAs5zlHQSVgC0r.jDPdY1Kdp",
+    "mediaItemId": 2223855
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit03_Reading.mp3?versionId=Qaw8g166TcC2nJ9IpqIRoK.ZiOuJCIwa",
+    "mediaItemId": 2224060
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit04_Reading.mp3?versionId=.bLL7HeRky87mEfe.ARV8hwHqIRKqkfq",
+    "mediaItemId": 2224193
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit05_Reading.mp3?versionId=n5CNGFhpze85SZRNra7flj38TWS6KQuU",
+    "mediaItemId": 2224401
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit06_Reading.mp3?versionId=8pcjhL_xhWhZoLTmi8asoZko2vYGUugC",
+    "mediaItemId": 2224562
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit07_Reading.mp3?versionId=Q1nqSftnhnaXiy.8aOkMcgv1p5uDAqF9",
+    "mediaItemId": 2224732
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit08_Reading.mp3?versionId=Txbq8tXymuDF9_pVYFcd6i2gWClLJ8Mk",
+    "mediaItemId": 2225109
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit09_Reading.mp3?versionId=5MPXMEyYQttfBkscfNz7fhxcbdOg3hyW",
+    "mediaItemId": 2226730
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit10_Reading.mp3?versionId=NSHXQKcStdast8m9TK1NjFwvRNhEerw_",
+    "mediaItemId": 2229571
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit11_Reading.mp3?versionId=Yc6swa.rYd.QgR07fanuEMzfcHPS7yJa",
+    "mediaItemId": 2232972
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit12_Reading.mp3?versionId=NPs9SzW8ZXZi3nC5xDPk0N.6vo0ZKBjo",
+    "mediaItemId": 2236606
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit13_Reading.mp3?versionId=510Zkj41BvPtGivp_29T0RY9yafvwQsp",
+    "mediaItemId": 2239891
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit14_Reading.mp3?versionId=pjNOwKKEdqWCh1GwfQEPhPNcCKwqebkB",
+    "mediaItemId": 2243023
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit15_Reading.mp3?versionId=RI_LTRsTzomG8bHyVQV_j0pd0zUfV.6_",
+    "mediaItemId": 2246144
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit16_Reading.mp3?versionId=cYooXcJG5sPl8b0WkCihqoEJwaG_XIFx",
+    "mediaItemId": 2249024
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit17_Reading.mp3?versionId=QnVpwsAC_0fHegStVAmnfz9jSHlP96T.",
+    "mediaItemId": 2251977
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit18_Reading.mp3?versionId=wecPf3dqQGF8d2.9iEimuvUzvPTsJyDR",
+    "mediaItemId": 2254841
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit19_Reading.mp3?versionId=O_GkyQep0osfUdAK.lqRZxEyF.p6j0Qt",
+    "mediaItemId": 2257736
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/German/German%20Level%203%20orig/asset/RL/9781442350359_German3_Unit20_Reading.mp3?versionId=Q7Vk_.8EO0FFWKG5WHERcFI95lhX0Yz6",
+    "mediaItemId": 2260397
+    }
+    ]
+    },
+    "languageCode": "de-DE",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442350359",
+    "level": 3,
+    "courseName": "German Level 3 Premium",
+    "simpleCourseName": "German Level 3",
+    "puArabic": false
+    }
+    ]

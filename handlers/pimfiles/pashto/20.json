@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 3329,
+    "languageName": "Czech",
+    "languageId": 127,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_01.jpg?versionId=AL72RdtqwweQUwa3317Q.c1wn1L9YZtJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_01.jpg?versionId=uohzlf5kqXb6ypIloZ_5KgXh0LsHOlO_",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_01.mp3?versionId=tt8UfiPKCvv25rRzoJm5QKV6MkfnJKYU",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321471,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "With its rich history and beautiful scenery, the Czech Republic has become a sought-after destination for international students. Higher education at public institutions is free for students of all nationalities who wish to study in the Czech language, with programs in English also widely available.",
+    "imageCredits": "Daniel Fér / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_02.jpg?versionId=ajs2A4aGoIhg4ivYkc9kPWbvkc0PbkR3",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_02.jpg?versionId=7F9CnqFAcK_xPixGISMR_PaxhZL9pGJ_",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_02.mp3?versionId=thrdDharkThu.sNvQO7heY2DOS.dLPce",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321475,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "The Czech Republic uses a parliamentary system, with a president serving as head of state and a prime minister as head of parliament. Established with the new Czech constitution in 1993, the parliament is divided into two sections: the Senate and the Chamber of Deputies. The Wallenstein Palace houses the Senate and is occasionally open to the public.",
+    "imageCredits": "VitalyEdush / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_03.jpg?versionId=bzVTI72UPPMV_aTS90DCsxuIDn4Xp99J",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_03.jpg?versionId=qP7gn.kBFr8dEGGzu06Ldw63FKelTkpt",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_03.mp3?versionId=p0GcCT7gnULkVkysLS4h4iJROdg0OY1s",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321486,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Installed in 1410, the Prague astronomical clock is the oldest astronomical clock still in operation today. Parts have been added and many repairs have taken place over centuries to this historic landmark. At the top of the hour, visitors are treated to the Procession of the Apostles, in which intricate statues reveal themselves to the city below.",
+    "imageCredits": "Olga_Gavrilova / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_04.jpg?versionId=aKA0OzB8O.8phT8TsQqBmyBv_Km8KUTs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_04.jpg?versionId=opv5GGFSaYwV8ODt4.HI6sIdncwxIfsw",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_04.mp3?versionId=1RtBc8Q9_JDTA2gCaGYsY5Us1l7hGw9T",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321491,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Home to the famous Smetana Hall, the Municipal House is one of Prague’s most recognized structures. The building was constructed from 1905 to 1911 and embodies the Art Nouveau movement of the early 20th century. Fans of the popular band INXS may recognize the roof of the Municipal House, which was used as a backdrop in the music video for their smash-hit “New Sensation.”",
+    "imageCredits": "PytyCzech / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_05.jpg?versionId=X9XCkFNYswbDU86V197TReSTasFYm_TC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_05.jpg?versionId=OStWLpP1JQKPAFrUL.K4lmO2BFoKAf.3",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_05.mp3?versionId=8JVHmp0Ecjsije2.ehFa5oJvl.peGbth",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321497,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Construction for the Charles Bridge began in the mid-1300s, making it one of many medieval structures still standing in Prague today. The bridge has stood strong for centuries, but increased traffic in the 20th century led to demand for its refurbishment. Although repairs on the bridge were performed from 2008 to 2010, conservation enthusiasts were quick to criticize the restoration, as many of the original medieval structures were compromised. Only pedestrian traffic has been allowed since the 1970s.",
+    "imageCredits": "Eloi_Omella / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_06.jpg?versionId=XT0gS8ztZzZDuqoWoaZZHOgK_YgX1RNc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_06.jpg?versionId=rGZH2FzpUD7TH9.YVpe8brpvnnto5C4K",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_06.mp3?versionId=psbbtjsVEGZPuydsZ3WGhPva63al9lmY",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321505,
+    "cultureContent": {
+    "imageLocation": "Moravia Region",
+    "imageDescription": "Green fields and rolling hills make the Czech countryside a must-visit for those who wish to escape the hustle and bustle of the city. Windmills like this one can be seen along the horizon, standing out against the acres of otherwise undisturbed farmland. Many of the windmills are no longer operational but serve as a recognizable symbol of Czech rural life.",
+    "imageCredits": "SimonSkafar / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_07.jpg?versionId=IF7pQnn37VA2e_6SDRzM1Xg8cfjC24WT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_07.jpg?versionId=uh27mrQU1OchbYJxTvwLFIjo3xXC4PsA",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_07.mp3?versionId=Wjp0NGoeuja8bWTpy1URV8IxwlwMM95J",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321511,
+    "cultureContent": {
+    "imageLocation": "Solenice",
+    "imageDescription": "The distinctive horseshoe shape of the Vltava River bend makes for one of the most spectacular vistas in the Czech Republic. The bend is located near Solenice, a small village tucked into lush forest and gently rolling fields.",
+    "imageCredits": "DaLiu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_08.jpg?versionId=1EWF0bXRJC_XSPibN1WNy9WzW5KtXd4v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_08.jpg?versionId=.o3XGr8ZDYQsLDsMTvClEWuWvShNG5hJ",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_08.mp3?versionId=wea6Nlu69xaA.eEbThAogZNOhPrU2.bi",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321517,
+    "cultureContent": {
+    "imageLocation": "Northeast Bohemia",
+    "imageDescription": "Near the Polish border lies the Adršpach-Teplice Rocks Nature Reserve, a national park that features towering rock formations and several walkable trails. Visitors can amble through the massive gorges and make their way to the higher points of the park, treating themselves to views of the scenery below. Waterfalls and mossy rock faces make for a peaceful and atmospheric hiking experience.",
+    "imageCredits": "ewg3D / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_09.jpg?versionId=jBFi4dCavD7CeEkty5fje._gCyYfPfrU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_09.jpg?versionId=YxMmT83j_hRCu.1Vh4wo1hRVaEQMySi5",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_09.mp3?versionId=tpeEIFLFoTmV8waU3AFKDLdVP3qNmBEe",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321522,
+    "cultureContent": {
+    "imageLocation": "Liberec",
+    "imageDescription": "Located near the city of Liberec, the Ještěd Tower is a television transmitter built to withstand the harsh weather conditions of the Jested mountain. Interestingly, the tower functions not only as a transmitter, but as an accommodation for curious tourists, with a hotel built into the bottom half of the structure. Standing 300 feet tall, the Jested Tower sports an unusual hyperboloid shape, which was intentionally employed to follow the curve of the summit's peak.",
+    "imageCredits": "PytyCzech / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_10.jpg?versionId=sSXnf_aEugUxzPV92oTbYDHpLMrlklkY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_10.jpg?versionId=RX9kE6X.mKstIVIucaZxqdH3fjP242Xk",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_10.mp3?versionId=p.U8R0FEuPJ.TD6ItSMpy2Nzaj2gqPkR",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321528,
+    "cultureContent": {
+    "imageLocation": "Ostrava",
+    "imageDescription": "Towering above the city of Ostrava is the Bolt Tower, a structure that was built on top of a former metallurgical plant. From the observation deck visitors can peer through telescopes to view the city below. The building was opened to the public in 2015 and is named Bolt both for bolt, a metal bar, and Olympic track champion Usain Bolt who officially lent his name to the project upon its inauguration.",
+    "imageCredits": "brunocoelhopt / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_11.jpg?versionId=vFGJVXB3_CXOFUeSMVGAww.JOxukPees",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_11.jpg?versionId=8kplLgyUe3nccHAVmTcClIhwFqnlXUPT",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_11.mp3?versionId=V4jCrt8kMw6gSr86ocMXwe2q4fck_gr8",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2321534,
+    "cultureContent": {
+    "imageLocation": "Plzeň",
+    "imageDescription": "Boasting enormous stainless-steel tanks and a thoroughly modernized bottling plant, the Pilsner Urquell beer brewery is among the most high-tech of its kind. Despite its modern design, some techniques for creating the famous pale lager, or pilsner, have not changed since the company’s foundation 180 years ago. Guided tours usually conclude with a beer tasting, allowing visitors to taste the fruits of the brewing process.",
+    "imageCredits": "Kirillm / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_12.jpg?versionId=4HjYwsclEfNJ.TPfminJGMAGf48AnQkN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_12.jpg?versionId=CjczY7vWSuWd9A0JO4.4FT.BS8x9L9ep",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_12.mp3?versionId=IAl4SuTFFJJqRFMGPoDu4jor8YVh05BG",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2321540,
+    "cultureContent": {
+    "imageLocation": "Pardubice Region",
+    "imageDescription": "Those seeking a thrill are encouraged to visit the Sky Walk, a tower that stands over the Czech Republic’s Krkonose Mountains and Morava River. The winding ramp was constructed with nearly four hundred tons of steel, and can resist winds of up to 125 miles an hour. The dizzying apparatus features a section of mesh flooring to step out onto and a 300-foot slide that plummets back down to the bottom, for those who dare.",
+    "imageCredits": "RYSZARD FILIPOWICZ / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_13.jpg?versionId=_0wndGVvcUMg0gZuyh7gPJukT2.d1zhY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_13.jpg?versionId=USJoX5PrvRazeexq4kPuTB3UxZX2.g07",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_13.mp3?versionId=AKY2R2rfYVysFSt_i1GCbS4qn43MVR3N",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2321546,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Every October sees the beginning of Prague’s Signal Festival, a four-day event that celebrates light art and technology. Illuminated structures are placed all around the city, creating eye-catching displays. American artist Janet Echelman’s piece ‘1.26’ was featured at the Signal Festival in 2015, encouraging guests to think about the juxtaposition between the softness of nature and the harshness of contemporary technology.",
+    "imageCredits": "Matej Divizna / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_14.jpg?versionId=pxT.k.IoiqYm5eqkrXw0mH2tDeNHzPXu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_14.jpg?versionId=aFRli95nSsodzmmAzil5UeDbTxQRS6KZ",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_14.mp3?versionId=3N5tCj.J2lSMZlqKjozblYp_NepbPWTc",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2321551,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "During the Saint Nicholas Day parade in December, people dress in traditional costumes that depict a devil, an angel, and Nicholas himself. The masks donned are often passed down within families for generations. During the parade, the characters roam the streets and hand out candies and small toys to the children.",
+    "imageCredits": "Anadolu Agency / Anadolu Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_15.jpg?versionId=JEEjHD5u.PN0zbaADLuX4GTiQb_6ZYKV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_15.jpg?versionId=4i21YH4XJPHTk8L7PPsO.fICNE6YAuFg",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_15.mp3?versionId=RRQsKNKsHvlW.GAqJ.bPs.HJJwXg1Z3Z",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2321557,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "On the annual Walpurgis Night, or Čarodejnice, huge bonfires burn, set by igniting effigies of witches that are made especially for the occasion. The festival is celebrated at the end of April in countries in northern and central Europe, ushers in the spring, and wards off evil spirits. Actors dressed as witches reenact the pleas made by those convicted of witchcraft, creating an eerie and emotional atmosphere.",
+    "imageCredits": "Matej Divizna / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_16.jpg?versionId=m_0xEAByN0hUFf9E0UW8LJ7hGRXCJSs4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_16.jpg?versionId=tS3BQhFiKPaj9D7c33AFN3LRvCMRnvEc",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_16.mp3?versionId=riqSp6ILLjz1S8LPfmXcJfTBhYStPr4t",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2321564,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Czech artist David Černý was commissioned by the Czech Olympic Committee to create “London Booster,” which depicts a traditional London double-decker bus with large mechanical arms. The piece was created as a playful way to inspire the Czech Olympic team to perform their best during the London 2012 Olympic Games. After the games’ conclusion, the statue took permanent residence in the Prague neighborhood of Chodov.",
+    "imageCredits": "AFP / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_17.jpg?versionId=Firj0mT1jxWcjj2A57Qm1bDExOXKv0Sl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_17.jpg?versionId=ct66e1kaYJzfG3UDGphzIA3lFGh.bfVB",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_17.mp3?versionId=IEnSKm055oFQm9DGF_SuIRj81B..dVCN",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2321570,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Flowers and candles are placed at the Velvet Revolution Memorial in Prague in memory of the famous 1989 peaceful regime change. In November of that year, on International Students Day, students took part in an annual march. Shortly the march became a protest against the communist government in what was then Czechoslovakia. Then ensued an eleven-day rebellion which eventually saw 500,000 citizens in the streets of Prague. The result was the dissolution of the one-party government and the establishment of a parliamentary republic.",
+    "imageCredits": "SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_18.jpg?versionId=zUjJOCNeh9nvp3jeoGkITr.2PxHQSLD9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_18.jpg?versionId=T9xtnDYjUT79xZycNm8wrk8DlGRt7QtQ",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_18.mp3?versionId=dDCnwTVncnOgkRtYHBOMrjBilMiLk2YZ",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2321575,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Football has been a popular sport in what was then Bohemia since the late 1800s, with the first known match taking place in 1892. Pictured here is Czech midfielder Tomas Soucek, who scored the first goal against Wales at an international friendly match.",
+    "imageCredits": "Michael Steele / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_19.jpg?versionId=MqJ1m8VZwYoEPDkqJaTbwbwT73cf5wl0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_19.jpg?versionId=uJA137GPRQLFL1Lh_lOBUoUj_.oz8M_Q",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_19.mp3?versionId=jiLeq2oYqAhp8aF3qgfV59rE6IX_WObP",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2321580,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "What appears to be a zeppelin crashing onto the roof is actually a work of art! The Gulliver Airship, constructed from wood and steel, is an installation that is permanently fastened to Prague’s DOX Centre for Contemporary Art. The airship-shaped structure is intended to embody the spirit of adventure, and inside it is a giant reading room. It can also be rented for meetings or conferences.",
+    "imageCredits": "Matej Divizna / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_20.jpg?versionId=_BhsjHVK839h9Fjl86yv186DozcpYQuO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_20.jpg?versionId=vTatZnNkKmbZTCgm1Fty3IHOTWpkdwrn",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_20.mp3?versionId=W9xIrtGL6qecWH_lTdj_sqLrcKfWv5K4",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2321584,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Standing out among the other, more demure architecture, the building affectionately known as the Dancing House makes a statement. Designed by Frank Gehry and Vlado Milunić and completed in 1996, the building is home to retail space, offices, and a restaurant. Two floors of the Dancing House were converted into a hotel and apartments in 2016, offering guests a unique lodging experience.",
+    "imageCredits": "Frank Bienewald / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_21.jpg?versionId=UtPa8nxCThCSrjb6K3c0W2w0mKYqY_Ad",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_21.jpg?versionId=nHW__CBlSYKkrVp0sEbT.iJe0Dl8_Px.",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_21.mp3?versionId=zthj_7rXbWSrXbYuJ2lAGJL1qgfbIV4Z",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2321589,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Created to commemorate the acclaimed Bohemian writer, “The Head of Franz Kafka” stands 36 feet tall and features mirrored, rotating plates that move independently of one another. The kinetic sculpture stands outside the Quadrio shopping center in Prague, greeting guests as they enter and exit the building.",
+    "imageCredits": "picture alliance / picture alliance / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_22.jpg?versionId=.trSqI0C9IobggCe2q7kRPfjO4jCsaqs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_22.jpg?versionId=fNJF6BFza1.WSrGRGOGy4s7H5ENaKC9k",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_22.mp3?versionId=YnjXSaDs0zUsUXkC_ygrCVJ.x3NnnnpX",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2321592,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "The Prague Main Station (or Praha hlavní nádraží ) is the city’s largest railway station, serving passengers since its first iteration in 1871. From 1945 to 1948 it was known as Wilson Station, named after United States president Woodrow Wilson. This striking Art-Nouveau edifice served over 200,000 trains and 53,000,000 passengers in 2014, accommodating both domestic and international travelers.",
+    "imageCredits": "PytyCzech / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_23.jpg?versionId=_Vcs5g4G_2atFOvnhOSnWM7x49KEiNSB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_23.jpg?versionId=W.GOxb0G5EBgDpiRk1MVQZ9TMV7PNvZG",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_23.mp3?versionId=M7YH.yV4Pw3Vu7vnG_cKxMr0c6rJ2n3j",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2321597,
+    "cultureContent": {
+    "imageLocation": "Jizera Mountains",
+    "imageDescription": "The Jizera Mountains lie on the border between the Czech Republic and Poland, with their highest peak standing at 3,600 feet above sea level. The mountains located on the Czech side are protected, with large swathes undisturbed from air and light pollution. The mountains are also home to some of the country’s most exciting ski and snowboarding pistes, with enthusiasts flocking to the slopes in the wintertime.",
+    "imageCredits": "Michal Balada / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_24.jpg?versionId=qmamWDGhOVKpAx9FFdSbD3x0MAvNK3wT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_24.jpg?versionId=pNr7Tinp5xvNXFwhUJ1YzHCVw.dIehbA",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_24.mp3?versionId=M1_7MRKGF5Ln3HmVJmCQYkMfEopUZEYy",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2321601,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Making a colorful and bold statement within Prague’s cityscape is the Jubilee Synagogue, a building that encompasses the Moorish Revival style associated with the Art Nouveau era. Named for the silver Jubilee of Emperor Franz Joseph I of Austria in 1906, the building features a charmingly colorful exterior and an ornately decorated interior. Although the synagogue was closed to the public for a long period of time, it reopened for regular services in 2008, allowing guests and devotees alike to enjoy the beauty of the building in its entirety.",
+    "imageCredits": "PytyCzech / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_25.jpg?versionId=BvyBpzSywHmlATxoqduPsRxI.emUQ1Xe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_25.jpg?versionId=B8WxXsHlbsEbC8..edeO9i9i5rQlUkxN",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_25.mp3?versionId=x_J6w8LPkESNXPFyaNbeRpPxzOtZhKnU",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2321609,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Say hello to the world’s best study spot! Prague is home to one of the most beautiful libraries in the world, known as the Clementinum. The building’s origin dates back to the eleventh century, when it began as a chapel dedicated to Saint Clement. The building later became a Jesuit college, until Empress Maria Theresa converted it into a library in the 1700s.",
+    "imageCredits": "Nikada / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_26.jpg?versionId=Vp.qOw600z4x1.855hahhmGy0ow9_PeF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_26.jpg?versionId=Mbnjq6mdSawwRqHjTJ4CET.KOg4cv2ZB",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_26.mp3?versionId=8SmjktPdYsQgjARZK.YRHd_45P5QCzV0",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2321612,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "The Bohemian Carnival, or Mala Strana Masopust, is Prague's Mardi Gras, which takes place in the spring before the beginning of Lent. Festivalgoers don extravagant costumes and makeup for the event, which marks the end of a period of celebration that occurs after Three Kings Day in January. Traditional costumes include the bear, the harlequin, and the mare – although dressing up as unpopular politicians has also become popular!",
+    "imageCredits": "MICHAL CIZEK / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_27.jpg?versionId=I.CT.zc4MuIK9ap5iLvRvBMrmf1oq2LA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_27.jpg?versionId=5ZlcXfdgXf_8emsY8eFQGvvL_itUoTZj",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_27.mp3?versionId=GuTcVAW.wU7ssAH5XkwEHJwgoS2LGT2L",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2321614,
+    "cultureContent": {
+    "imageLocation": "Pardubice Region",
+    "imageDescription": "Adventurous tourists can hike or take the lift up to the Sky Walk, a wooden and steel structure perched on a mountaintop in the Pardubice Region along the Polish border. The winding ramp ascends 180 feet. Intrepid types can step out onto a section of suspended mesh flooring and glide down a 300-foot slide that plummets back to the bottom. This attraction now also features the Sky Bridge 721, the world's longest suspension footbridge.",
+    "imageCredits": "RADEK MICA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_28.jpg?versionId=WGRpFSGcmYTx2UFY.LHbQ.9XJR4NtIO0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_28.jpg?versionId=Gqokl4htBNulKjWr4FrEdyOVql2MjEeM",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_28.mp3?versionId=WR1q0N3G_cjsIpEGmKySia4hsb9Btncx",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2321617,
+    "cultureContent": {
+    "imageLocation": "Hradec Králové Region",
+    "imageDescription": "Towering over the lush forests of the Krkonose Mountains is the Pancava Waterfall – the highest falls in the Czech Republic. The water cascades to the ground below from a height of 500 feet, creating a wondrous piece of natural scenery. The best time to visit the Pancava is in the spring months, as the falls are most turgid from the melting winter ice.",
+    "imageCredits": "TomasSereda / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_29.jpg?versionId=jT8bvNREL8zgM5pKkwh2Z0TP2qBJ2oAP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_29.jpg?versionId=qPIk37Ew8pHHbcKWrrShpIVYvang1Nje",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_29.mp3?versionId=DXyfHKwAwdr4MJ5aGhXvKLfqCpRTaZ8F",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2321619,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "While it may appear to be a natural formation, the Grotto at Prague's Wallenstein Palace is a manmade collection of walls decorated by a process known as dripstone. The palace's gardens were created alongside the historic building in the 1600s, embodying the grandeur of the early Baroque era. Alongside the eerie walls the gardens contain well-maintained fountains and performance venues for summer concerts.",
+    "imageCredits": "Wolfgang Kaehler / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/full/Czech_1_9781797147062_M_30.jpg?versionId=KSFYUsXfUP4KBbbeckpQwtM865TUxRfA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/lesson_photo/thumb/Czech_1_9781797147062_M_30.jpg?versionId=uci874RBANS5F1lg6ofooaI6xOZ0Q6PL",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/main_audio/9781442318397_Unit_30.mp3?versionId=2Au.7tD2.7.d55BQq0Y5qFE78IxPKxnK",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2321621,
+    "cultureContent": {
+    "imageLocation": "Prague",
+    "imageDescription": "Prague might best be known for its historic architecture, but contemporary structures like the Troja Bridge offer a bold and modern twist to the cityscape! Getting its name from the district in which it's situated, the bridge connects Troja to the northern part of the Holesovice district. At night the bridge is illuminated, bathing the river Vltava below in a warm yellow light.",
+    "imageCredits": "Murmakova / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech Level 1 orig/asset/RL/Czech_1_9781797147062_Alpha.pdf?versionId=JaFSo825Twk_NyDn86XZN10lfTQ4ZFEJ",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech Level 1 orig/asset/RL/Czech_1_9781797147062_Intro.pdf?versionId=I4L5meSM47gq5r1FGWJQOVFoEya4.DAW",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading01.mp3?versionId=DQBkw3W_YiYkfoWgwu5ZLTmnMLat3S9T",
+    "mediaItemId": 2357286
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading02.mp3?versionId=z5ANuQp6JCv12cCrd_bE1v9PJrrFJaBW",
+    "mediaItemId": 2357287
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading03.mp3?versionId=EF46T6EmoTOfg8J3x93dBp70vLuFFP7W",
+    "mediaItemId": 2357288
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading04.mp3?versionId=_0ENFEy3a53iwfiWBSpbZG.iCYYKr4vZ",
+    "mediaItemId": 2357290
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading05.mp3?versionId=m7Dqg3PSP8Q9TZMxAV0coP6AINY1glzB",
+    "mediaItemId": 2357289
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading06.mp3?versionId=PcGfOSHcjCxKXWyVXhQKF03BsFDk3ykb",
+    "mediaItemId": 2357291
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading07.mp3?versionId=tLH.ont7i6Wd4FYVjWSbGnUGF98x9IlA",
+    "mediaItemId": 2357292
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading08.mp3?versionId=EfduTu0fmt2V3mGZN6E3IPlXCm2wX3B8",
+    "mediaItemId": 2357293
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading09.mp3?versionId=YibtworkSbsiD9evLiKjFNBjhaF0_jlW",
+    "mediaItemId": 2357294
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading10.mp3?versionId=wzIwKiZ0sHkIhpFm97F0xxFz1xoJJTkx",
+    "mediaItemId": 2357295
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading11.mp3?versionId=8MPwGC74s_yQOPoPi07ist.cLa49umU4",
+    "mediaItemId": 2357296
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading12.mp3?versionId=vVW2bn6Y3a8Zrx2EJBNwIJFt94aqYMhX",
+    "mediaItemId": 2357297
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading13.mp3?versionId=ofjss97_kC1vbiMHIa9dxDk9z2n_NDbz",
+    "mediaItemId": 2357298
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading14.mp3?versionId=FfH6JTN8xq56HLeXkHBNVg2VhQZXqNNt",
+    "mediaItemId": 2357299
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading15.mp3?versionId=sZCcREARLqwBGFiYOAavRG08Z7xEHKWG",
+    "mediaItemId": 2357300
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading16.mp3?versionId=CMGcscB6jhKQF.i5pOZCxLS1UXrRZTzF",
+    "mediaItemId": 2357301
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading17.mp3?versionId=aQL6BWr0wzGFbWDVyP5reUYNwwOBZfPE",
+    "mediaItemId": 2357302
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading18.mp3?versionId=VCViuNtOtczlXCiAEFlcGTGOSRjKCPrz",
+    "mediaItemId": 2357303
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading19.mp3?versionId=skO1TSZHu_Rj_3QM12xCjazcxfG_ISxw",
+    "mediaItemId": 2357304
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Czech/Czech%20Level%201%20orig/asset/RL/Czech_1_9781442318397_Reading20.mp3?versionId=JK78GTYOhGLeo_jpfCJD7gMq1YF8w.yD",
+    "mediaItemId": 2357305
+    }
+    ]
+    },
+    "languageCode": "cs-CZ",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797147062",
+    "level": 1,
+    "courseName": "Czech Level 1 Premium",
+    "simpleCourseName": "Czech Level 1",
+    "puArabic": false
+    }
+    ]

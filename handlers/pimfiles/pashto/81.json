@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 5315,
+    "languageName": "Russian",
+    "languageId": 165,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_01.jpg?versionId=ghL87Gmb36r7U_4NLOu.ZOSt6JhB2j.R",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_01.jpg?versionId=z9pe2eEYb6aRS2bZBteMKwgzynN2q97g",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U01_Lesson.mp3?versionId=d_Yp0nwrNbOQB1x0oT5H6wsvnV7AsrKB",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2311317,
+    "cultureContent": {
+    "imageLocation": "Nenets Autonomous Okrug, Russia",
+    "imageDescription": "The nomadic Nenets tribe lives in the West Siberian arctic in much the same way they have lived for thousands of years.  Ten thousand of them move 300,000 reindeer from summer to winter pastures and back again, over 600 miles across the Yamal Peninsula in temperatures ranging from 95°F above zero to 58°F below zero.",
+    "imageCredits": "Hans Neleman / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_02.jpg?versionId=GAAB7WZ6anDjEDNyGa9NskuJFOqoQLik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_02.jpg?versionId=62E3iwFncAYcD_VewgH_II4yXSMio089",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U02_Lesson.mp3?versionId=nOXeo6Fh1pj8yD6Qq4Z_hW6hq8umSprO",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2311505,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "In the early 18th century, Czar Peter the Great’s Italian architect, Domenico Trezinni, advocated baroque architecture and a canal system for this new seaport on the Gulf of Finland. Though only partially completed, the canal system caused the city to be called the “Venice of the North”.",
+    "imageCredits": "Michael Fellner / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_03.jpg?versionId=1yebhF4DMSW9lqV.6eGjkvDT0RsVfsS7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_03.jpg?versionId=e.iQZ97pfzabvqQeEy_lAQSedXoJFX6L",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U03_Lesson.mp3?versionId=oVI0a3BkNGZMINx0c1FQ8Fhn9sSMkNhs",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2311666,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Imperial School of Ballet was founded in St. Petersburg in 1740.  It set the standard for ballet training and performance in the entire world, and still flourishes.  The Bolshoi Ballet’s theater has the second largest theater stage in Europe.",
+    "imageCredits": "Ken Scicluna / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_04.jpg?versionId=a6g5YeoZOZAdI3PbyW.5q745IPcb5sl.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_04.jpg?versionId=gd4IQLh4zvI27rGy4gbicf92wLp.igre",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U04_Lesson.mp3?versionId=ZLH45zqt1Lnjmb4nGsfdfJn6WwLiG_q2",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2311852,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The Trans-Siberian Railway connects eastern Russia and Moscow to the Pacific port of Vladivostok and the nations of China, Japan and Mongolia. The longest railway in the world, its plans were drawn up in the 1870s, but building the main line to the Pacific did not begin until the 1890s, and was not completed until 1916.",
+    "imageCredits": "Richard I’Anson / Lonely Planet / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_05.jpg?versionId=Qp.51Xt3tmzCyLRCddjQyhHzcxOij7Jj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_05.jpg?versionId=MHMFhYmF9bzrnzjqYGdrU_98QiYQyTH3",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U05_Lesson.mp3?versionId=lIgBCGtbZrRgYIoDkX7_JJky2SBHA673",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2312025,
+    "cultureContent": {
+    "imageLocation": "Olkhon Island, Siberia, Russia",
+    "imageDescription": "Olkhon Island is the largest island in southeastern Siberia’s Lake Baikal, the world’s largest freshwater lake.  On its eastern side, there are high mountains and a steep strait separates it from the lake’s eastern shore.  It is mainly inhabited by Buryats, aborigines who consider its rock formations to be holy places.",
+    "imageCredits": "ROBERT jean / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_06.jpg?versionId=0HJkgxa2Ul_TDHh9D3GsbNzWCcYLW62R",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_06.jpg?versionId=eAAuEFbl5CKCx0yG6wB8iQOfD3y3.eag",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U06_Lesson.mp3?versionId=TmQtb7Pe_fF1UVJvgYSf.gqzC3AsQt7t",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2312224,
+    "cultureContent": {
+    "imageLocation": "Chukotka, Siberia, Russia",
+    "imageDescription": "Wrangel Island, isolated 88 miles off of Russia’s northeastern coast, was uninhabited until the 20th century.   This is the last place in the world where wooly mammoths lived, though a dwarf species survived here until 1700 BC.  Today it’s a nature preserve where as many as 400 polar bears come ashore to bear and raise their young each year.",
+    "imageCredits": "Gabrielle & Michel Therin-Weise / Robert HardingWorld Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_07.jpg?versionId=DQ2OxezmREk5zrEi5N2sMaqbPo7tI8OB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_07.jpg?versionId=OnCq51KJgyAl7HmSuZ6dHewZTaAPBMFD",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U07_Lesson.mp3?versionId=ZnQmkjvz6jXz3EgZGAyBADS9cAn_UBH.",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2312387,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "Caviar, a delicacy eaten as a spread or garnish, traditionally only refers to the roe of wild sturgeon from the Caspian and Black Seas.   Wild caviar production was suspended in Russia between 2008 and 2011 to allow stocks to replenish.",
+    "imageCredits": "Holger Leue / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_08.jpg?versionId=T0BqnwNxKYKD4omB9l30hsSppsQljcP0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_08.jpg?versionId=a3KpU79kcn1wp12yirM9UtfbiksmPyNI",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U08_Lesson.mp3?versionId=9Ggn_a2o_UUrfrj1IedSBpPUoZumWBst",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2312547,
+    "cultureContent": {
+    "imageLocation": "Barvikha, Russia",
+    "imageDescription": "Barvikha is home to the health resort and medical facility of the President of Russia, providing deluxe accommodations and highest-quality medical services.  It’s also a popular location for the dachas of wealthy Moscow residents.",
+    "imageCredits": "Tim E. White / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_09.jpg?versionId=cdQM7ffJ6Zbsnnxam0FM3fJrnA8EKxSs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_09.jpg?versionId=h3Tv_DjeDPmgqAdWoeS.6.qO1T8DPoLC",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U09_Lesson.mp3?versionId=.BNrWOjRn6n9cMDQbdyo0HhQRdoNGpH_",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2312722,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "Czar Alexander II, who had lowered restrictions on Jews, gave permission to construct St. Petersburg’s Grand Choral Synagogue in 1869.  Built in a combination of neo-Byzantine and Moorish styles, it served as a hospital for wounded servicemen during both world wars and was bombed during the Siege of Leningrad.",
+    "imageCredits": "Yvan Travert / Photononstop / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_10.jpg?versionId=H2fqe53zyKP8iyLGT_l5ksdx_ynZyb8l",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_10.jpg?versionId=3APSPoA2XmTjZGyuItyCOn3pjImk4xDm",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U10_Lesson.mp3?versionId=V97giJZScytnqRoV.7cKR.AXjfRTd83H",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2312923,
+    "cultureContent": {
+    "imageLocation": "Yaroslavl, Russia",
+    "imageDescription": "Located on the Volga northeast of Moscow, Yaroslavl is famous for its churches built in the 16th and 17th centuries, and for its neoclassical architecture.  The Church of Elijah the Prophet is known for particularly well-preserved icons in the traditional Orthodox style.",
+    "imageCredits": "Michael Runkel / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_11.jpg?versionId=8btzbXW3yWYHchjsO47kt2KcHYADKV.R",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_11.jpg?versionId=qIbI1FxIqLcAzujlx6T183Hk3_Vmx3_Q",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U11_Lesson.mp3?versionId=RhrI7CjpeMVf60YXdWwVR41ScgAjMByL",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2313149,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The GUM luxury department store was built in the neorussian style in 1893 on what is now Red Square.  The flagship location has three floors and an arched glass roof and sells international merchandise.  Smaller GUM branches can be found throughout Russia.",
+    "imageCredits": "Ludovic MAISANT / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_12.jpg?versionId=nJ5_6JzKPRaWpThpmXdNa65R3LL4mErj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_12.jpg?versionId=9IXRKSYNX6E9vdPjSgIq_1YVaOUPuEP5",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U12_Lesson.mp3?versionId=Uxv7DmnY.6uR9ouMTLw8rxqPBUmLu4yE",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2313504,
+    "cultureContent": {
+    "imageLocation": "Naryn Province, Kyrgyzstan",
+    "imageDescription": "Many residents of mountainous Kyrgyzstan have settled down and live in towns.  However, those who live high in the mountains or in rural areas still follow the lifestyle of semi-nomadic herders.  Traditional skills such as riding and hunting are still vital. Horseback games and horse racing take place at Horse Games Festivals.  Falconers, who train hawks, falcons, and eagles, have their popular contests, too.",
+    "imageCredits": "Patrick ESCUDERO / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_13.jpg?versionId=VzS_iLa6.tz6jeSjAUeIqFaHdy2yfPiD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_13.jpg?versionId=328OF73ufJyJN5CsV3sZBhImmzFTm3ha",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U13_Lesson.mp3?versionId=MvlsjdwaYiD72j1WijMzqIMai35VjJA3",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2313683,
+    "cultureContent": {
+    "imageLocation": "Murmansk, Russia",
+    "imageDescription": "The Alyosha Statue, which portrays a 30-meter tall soldier on guard, is a World War II memorial.  During the war, Allied convoys on the “Murmansk Run” delivered vital supplies and weapons there and suffered very heavy losses.  Today, this arctic city is Russia’s most important submarine base.",
+    "imageCredits": "Travel Ink / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_14.jpg?versionId=jzETXpSnZIQvZFkozdJHS208qVRER0.K",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_14.jpg?versionId=FLx4AbA0_wrxIrijSDHW3C63fiFhe8T.",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U14_Lesson.mp3?versionId=PZi_CbCqFnsWsVicL_Io7DGI7XIzVN3B",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2313860,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The “Chesme Church,” designed for Catherine the Great by court architect Yury Felten was completed in 1780.  It commemorates the victory of the Russian Navy over the Turks at Chesme Bay.  Its official name is the Church of the Nativity of John the Baptist, whose birthday marked the victory.",
+    "imageCredits": "\"Boris, SV / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_15.jpg?versionId=Ctjtk2S2sEwXbqZMPMHn3rQUOY45c0XA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_15.jpg?versionId=Hcp.3KzVR8mqexCoPTUFzN6yK9D65yXz",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U15_Lesson.mp3?versionId=E_142MCwmCCOHif4fRuuuAy61hLt9Aho",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2314024,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "There are two Rostral columns at the edge of Vasilevsky Island, where the Neva splits into two channels.  They are painted red to serve as navigational beacons and sometimes lit at night.",
+    "imageCredits": "Jonathan Smith / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_16.jpg?versionId=v4ol68FW.wiGFgjAv6ylJDLISVK22DAC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_16.jpg?versionId=KNUEUJpLjW4u8EfpyzFxJhTrc_oFblQK",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U16_Lesson.mp3?versionId=DZ0xWPrBZro7b1vcY9nkakxUKUCgcUG8",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2314195,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The “Scarlet Sails” holiday honors students who have graduated from high school and includes a laser-enhanced Tall Ships show, which takes place at night on the Neva River.",
+    "imageCredits": "Kirill Kudryavtsev / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_17.jpg?versionId=g9CkQIQBiZNDTjoA6P0b7iQxjfgeebqX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_17.jpg?versionId=a8_ogj85cgPYQDRE9aax1XKDBxJif5oS",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U17_Lesson.mp3?versionId=zuGOS54xc9gilJnL2dpF7KuY89FagEMw",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2314395,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The Day of St. Petersburg, celebrated annually on May 27, is the city’s birthday and a city holiday.  All public offices are closed and many stores are, too.",
+    "imageCredits": "Lou Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_18.jpg?versionId=wzFFJWIPfi3ItMeSwsuLuvrIOl0NQubd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_18.jpg?versionId=dzqNJ5GBWeUm56CqdOWXI4fV_M_j7L40",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U18_Lesson.mp3?versionId=F9Tya1zPAEBzPG7fKFFLo1SuPSQeklvl",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2314584,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Cathedral of Christ the Savior, situated along the Moskva River, is the tallest Orthodox church in the world.  It was completed in 1883, but completely destroyed on orders from Stalin in 1931 to make way for a proposed Palace of Soviets, which was never built.  After the fall of the Soviet Union, it was rebuilt, complete with an observation platform, which gives a panoramic view of Moscow.",
+    "imageCredits": "mikie11 / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_19.jpg?versionId=uoFlTDWorn6DPnpJRF9vz3chgAYGOIGZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_19.jpg?versionId=SucJE7YMhGxqd83hzT0AK9rPXSJoDH_c",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U19_Lesson.mp3?versionId=5PiVlWPZwoe9gJYWHOsxfdOJZJhixGKB",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2314758,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Today, Tsaritsyno Park and Estates is a delightful public park with gardens, ponds, pavilions, arbors, fountains, waterfalls, and several modern museums and restaurants.  Once Catherine the Great appropriated land and built a palace there during the 18th century, other nobles followed suit.",
+    "imageCredits": "Max Ryazanov / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_20.jpg?versionId=1Gjo057vACz2lUGhxr5EfT0o.vgosBc1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_20.jpg?versionId=kouxCxnE7xRAXgSUiwKWIk8xwsHcFraZ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U20_Lesson.mp3?versionId=i6A7byiODxqcn9nepQH3pLnXddqWfVRX",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2314919,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The baroque Winter Palace, located on the Neva River, is full of gilded and sculpted wood, marble floors, and columns carved out of semi-precious stones.  Today, some of its rooms may be seen during tours of the State Hermitage Museum, housed in the Winter Palace.  The extensive art collection at the Hermitage includes masterpieces collected by the royal family starting with Catherine the Great.",
+    "imageCredits": "Massimo Pizzotti / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_21.jpg?versionId=D7bjKB8PNwAtPIvml.6YRwar.0il.CCv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_21.jpg?versionId=9Jp0NYScIvNe1__QwoFpU1d07qJOTtNs",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U21_Lesson.mp3?versionId=YsooXfpMCihfxIBaaZxJxTlfl53s.IXU",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2315101,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The dining car is clearly identified on this train arriving at Kievskiy Station.",
+    "imageCredits": "Demetrio Carrasco / Dorling Kindersley"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_22.jpg?versionId=ylRGXyJABFcp_GJmFvESSof9f5YSLCLO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_22.jpg?versionId=e4Y5j_bKF381hszqbIBnF2pj5YgiqeoX",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U22_Lesson.mp3?versionId=iC8BxbTaCVuyd9StH7JRXD9UQvOhifzb",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2315327,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Along the Moscow River, an upscale condo During the time of the czars, no building was to be built higher than the Winter Palace without the personal permission of the Czar himself.",
+    "imageCredits": "Travelif / Photographer’s Choice RF"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_23.jpg?versionId=_3dSd7jsbldrTCG4kg.5.0s8GH4qCWCI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_23.jpg?versionId=oaAiK3cccXkts6uI.EQ1NFeQhLqE_nEK",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U23_Lesson.mp3?versionId=3h.MVEs5Azf0NiwNaWcjmzuQKCsP1W2W",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2315568,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Hermitage Bridge is the oldest stone bridge in the city.  Next to the Winter Palace,  it crosses over the small Winter Channel which flows into the Neva River.",
+    "imageCredits": "Steven L. Raymer / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_24.jpg?versionId=l394dcjHXLVptbErIdrOXHf_681IsaAD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_24.jpg?versionId=3JNX.RA9bh6grvY93ZSZOZqEMkTUNoP4",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U24_Lesson.mp3?versionId=x4ARTulZpKXC3O0M.0rO5Ho4bvLZ.Xjl",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2315749,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Luzhkov Bridge over the Moscow River is known as the Wedding Bridge or the Kissing Bridge.  People in love hang small padocks along the bridge as a pledge of their love.",
+    "imageCredits": "Huw Jones / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_25.jpg?versionId=M28yADltjDN9QIWWcjc5YcWSv3exQmds",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_25.jpg?versionId=6czcSVhtZyp4sn9J5m.9d3hR2h43XSpu",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U25_Lesson.mp3?versionId=d7pCQPus3a33_KkC.U7XI5VqRxGFP2vB",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2316004,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Moscow’s mixture of striking new multi-storied buildings co-exists with very old buildings, such as one the towers of the Kremlin, which is pictured.",
+    "imageCredits": "mordolff / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_26.jpg?versionId=t989ETwcWioXvajqjrC.R5JcQ2wrAvIc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_26.jpg?versionId=tMMq4vm_yecfbJemjjqhtwkMBL0j_vaz",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U26_Lesson.mp3?versionId=ZEGBdf9aqWQlSgYO3.q9grD6Q69l6paR",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2316171,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "The triumphal arch above Palace Square joins two separate buildings across from the Winter Palace.  The Chariot of Victory and the arch which it crowns commemorate Russia’s victories over Napoleon in the War of 1812 and campaigns in 1813-14.  The memorial was completed in 1829.",
+    "imageCredits": "Renaud Visage / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_27.jpg?versionId=oXa7AgyqHHJPXbQuhogyoXENNK_nbIzK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_27.jpg?versionId=3DcUbNSot5hDxqlQ6g98st72C4JBTGYY",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U27_Lesson.mp3?versionId=F_ffhbYSl7E2SkLxzVTJ7nuJEe9Fm5.b",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2316331,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Monument to the Conquerors of Space was dedicated on the seventh anniversary of Sputnik’s launch, October  4, 1964.  Located outside the All-Russia Exhibition Centre in northeast Moscow, the titanium-clad monument depicts a rising rocket at the top of a 350 ft. tall spreading contrail.",
+    "imageCredits": "My Loupe / UIG / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_28.jpg?versionId=TGxmRirEvpxpz8Eur1E3rH5nZUYkpaMo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_28.jpg?versionId=006SptVxScIuFmCYhYRnoxJs0.66N7ko",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U28_Lesson.mp3?versionId=xrUT_gso8iNMDaiReHO.AByrlsj5WdJb",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2316502,
+    "cultureContent": {
+    "imageLocation": "Anadyr, Siberia, Russia",
+    "imageDescription": "In 1919, two young Bolsheviks came to Anadyr to set up an underground organization to overthrow the capitalist merchant class.  This modern statue portrays members of the first RevCom, many of whom are buried here.",
+    "imageCredits": "Gabrielle & Michel Therin-Weise / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_29.jpg?versionId=rkIk_bbAFnkjnYBohB333lliZCD5AXXs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_29.jpg?versionId=qCTRv4i3SlnQF.4gLH750meqOCbu6FyY",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U29_Lesson.mp3?versionId=0VpK2tVwj_hXu8sCB2iZt9fvVrDVngxd",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2316688,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "In 1917, after the Bolshevik Revolution, this yellow brick building was seized and became the headquarters of the secret police.  The Federal Security Service (FSB), the successor to the KGB, is located there today, along with the Border Guards Service, a museum and the Lubyanka prison.",
+    "imageCredits": "demetrio carrasco / Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/full/RU_3_M_30.jpg?versionId=S3krS2Nby9FWNYK3fW4_vyxe8tLy.XYd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/lesson_photo/thumb/RU_3_M_30.jpg?versionId=3.21F4tX4v8jhn.uLGdSTXG2Scfiy6vE",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/main_audio/9781442384293_Russian3_U30_Lesson.mp3?versionId=i4p4NDonBpKBqTAgrn23dDt6vZ6ZeJkg",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2316854,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "This statue of Czar Peter the Great was commissioned by Empress Catherine the Great as a memorial to the ruler who opened Russia to the West and the modern world after centuries of isolation.",
+    "imageCredits": "Martin Child / Photodisc / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 3 orig/asset/RL/9781442384293_Russian_3_Alpha.pdf?versionId=RxTsQN52adaAEUqb9xTCs7ODZ15F5bH0",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 3 orig/asset/RL/9781442384293_Russian_3_Intro.pdf?versionId=T34dd4qF3x3nSorUHcpM7GPWtX6ph7tF",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit01_Reading.mp3?versionId=r4xS70rpUXBcP8rD_fpvXq45Fh3iAtqX",
+    "mediaItemId": 2223813
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit02_Reading.mp3?versionId=m_GiK5ldQNCcsP1Tp_PcUw5cjL5vCQ8R",
+    "mediaItemId": 2223973
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit03_Reading.mp3?versionId=ID_FhnH4bycMEs9yugZqVr1ItPcykW1f",
+    "mediaItemId": 2224155
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit04_Reading.mp3?versionId=S2QysXwuA_nQrI7_eO2ptKbNexYY6E9w",
+    "mediaItemId": 2224351
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit05_Reading.mp3?versionId=khD64DaQUhjMsJ.M1c92OzheQ32pI4kS",
+    "mediaItemId": 2224489
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit06_Reading.mp3?versionId=MrGriZj9BRhaOZA7Yix1A4tNBWZg_79g",
+    "mediaItemId": 2224682
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit07_Reading.mp3?versionId=bYbSqVlY4i.2y85ywRCZKtR0lTZAn7XJ",
+    "mediaItemId": 2224778
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit08_Reading.mp3?versionId=toKMfc_EkB1fKdYXo3wxq2gciLnzpUcq",
+    "mediaItemId": 2225878
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit09_Reading.mp3?versionId=.tkM5zz0uxUi4ZjkubO114SXJWREMHo_",
+    "mediaItemId": 2228252
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit10_Reading.mp3?versionId=3XkGl8dScqajlsSDa0WYv6Gc0WeZBRM4",
+    "mediaItemId": 2231733
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit11_Reading.mp3?versionId=JCeLBXEVGCW_gl6BK9msVLHF569v7ztc",
+    "mediaItemId": 2235176
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit12_Reading.mp3?versionId=Onrzpcxv.tdf3mcBIH5XIs7JMMHY.nSC",
+    "mediaItemId": 2238544
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit13_Reading.mp3?versionId=SFDXPIs.Ua2hogYr4Yr.fhAbWd7z_gZD",
+    "mediaItemId": 2241776
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit14_Reading.mp3?versionId=jawMS1QPwjgKu6vyUCliMq5YhfB55pUJ",
+    "mediaItemId": 2244902
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit15_Reading.mp3?versionId=zKsa0Gvh7QWExrMMWm666lBkZPuMbgSD",
+    "mediaItemId": 2247770
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit16_Reading.mp3?versionId=rPgeZASodeIRK80U1dDG6rVnXUJpKnuk",
+    "mediaItemId": 2250765
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit17_Reading.mp3?versionId=vpJE5GtlVK9SJGa0n9J7trlTtfzhP3Os",
+    "mediaItemId": 2253681
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit18_Reading.mp3?versionId=ZdK0R8SP8Q22RVNdDHAwtpDf1nKWjQV2",
+    "mediaItemId": 2256415
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit19_Reading.mp3?versionId=z8UdQwgUA5DO18tqM_qTYEhzuHkYA.vF",
+    "mediaItemId": 2259330
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%203%20orig/asset/RL/9781442384293_Russian3_Unit20_Reading.mp3?versionId=XNU810TzwD9lRIB_4E3FT7TEkJ_gloaA",
+    "mediaItemId": 2261877
+    }
+    ]
+    },
+    "languageCode": "ru-RU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442384293",
+    "level": 3,
+    "courseName": "Russian Level 3 Premium",
+    "simpleCourseName": "Russian Level 3",
+    "puArabic": false
+    }
+    ]

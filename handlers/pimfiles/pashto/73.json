@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 30252,
+    "languageName": "Portuguese Brazilian",
+    "languageId": 163,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_01.jpg?versionId=BrD8Su7Pl6KoF7PaJ0FNHA3f2bLOlSbK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_01.jpg?versionId=NlpxIdP3hXb27WDBzwE3KuzamHMDr3P7",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U01_Lesson.mp3?versionId=q.kXTUAG6.rZMEkMq7JJussCLw966HkD",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2225518,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Intense migration from Portugal between the 16th and18th centuries resulted in Brazil’s adoption of Portuguese as its official language.  However centuries of colonization from every part of Europe makes the country today a true cultural melting pot.",
+    "imageCredits": "DMEPhotography / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_02.jpg?versionId=Ev7nxktt90bA8k.K2vOd5eKGY5pTgq75",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_02.jpg?versionId=J8unXis3XaZan1nRq7QXqLKxEDqjxYlo",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U02_Lesson.mp3?versionId=.SWnQ8bOK1HNWxxe8XNYwcEopHi8WAY.",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2225696,
+    "cultureContent": {
+    "imageLocation": "Mato Grosso, Brazil ",
+    "imageDescription": "At nearly 180,000 square miles, the Pantanal region of Brazil is the largest tropical wetland area in the world.  Since much of it is covered by water during the rainy season, it’s the perfect habitat for the yacare caiman, a small crocodile native to South America.",
+    "imageCredits": "Mark Hannaford / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_03.jpg?versionId=Y7quhrVzN.j0n7aua_mZC6xFr5lEud3t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_03.jpg?versionId=RMSVfeCOEm6jiMsr2ABb5nt0dtm2Pqw4",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U03_Lesson.mp3?versionId=3EQ.4baOnwfMWBoZ8OyTC3J.xB9D8qQZ",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2225847,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "At the peak of summer each year, Rio de Janeiro celebrates Carnival, kicked off with a pre-Carnival parade at Ipanema Beach.  Festivities can last up to four weeks, featuring street festivals, parades, live performances, and dance parties.",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_04.jpg?versionId=l.7EiKVvbz.CRffxRQc4mUo8yKMm2pFt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_04.jpg?versionId=Yt0wQfZQz4LEnfqQtJssBL4c0a2xvXiB",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U04_Lesson.mp3?versionId=fFml.5kYbrmw1zEEtu8lDLDfhrjxpdYS",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2226038,
+    "cultureContent": {
+    "imageLocation": "Salvador, Brazil",
+    "imageDescription": "Roughly 80% of the population of Brazil is Roman Catholic due to Portuguese colonization. Arriving in Salvador in 1587, the Franciscan Order built the São Francisco Church, which is known for its sculpted gilt woodwork, azulejo panels imported from Lisbon, and its extravagant paintings. ",
+    "imageCredits": "Grafissimo / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_05.jpg?versionId=mSNE4_EIQIQGje87pwLXPsOydVJ9GehB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_05.jpg?versionId=2Y2m9Jg77QF52CF57NH5KcTtOQwkG1Rc",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U05_Lesson.mp3?versionId=mgwWTPRR09clQn4ZjXp4VtvaJIg7xU2r",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2226301,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Brazil's coastline measures over 4,600 miles, and includes Praia do Cassino beach, which, at an estimated 150 miles, is the longest continuous beach in the country, and thought to be one of the longest in the world. ",
+    "imageCredits": "Dabldy /iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_06.jpg?versionId=7qegSxasuRgb0yCsytqQ4KYMBJS8aeHJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_06.jpg?versionId=mDgyudskqaONr2q92WAmLCX7qDr_EO42",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U06_Lesson.mp3?versionId=qlJyrjmbPZNpWP4fPjVDDnRFdkzjgPkT",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2226553,
+    "cultureContent": {
+    "imageLocation": "Sao Paulo, Brazil",
+    "imageDescription": "Paraisópolis, the second largest favela in São Paulo is home to an estimated 90,000 residents.  One of them, Estevano Silva da Conceicao built his with stone, bricks and ceramic objects to create a fabulous dwelling compared to those by Catalan architect Antonio Gaudi.  ",
+    "imageCredits": "MAURICIO LIMA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_07.jpg?versionId=L8Uz7BuUrV9tx4XWI8wqiiVjC9IEGgOc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_07.jpg?versionId=l1hqQzQ8BqAW5DqqGd7dqHn19Szj6Q56",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U07_Lesson.mp3?versionId=sGferdAb6U4npqEHgtUs08rWdVhdS2z9",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2226847,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Rio de Janeiro hosted the 2016 Summer Olympics, with a focus on sustainability and environmental protection. The bronze and silver Olympic medals were made from recycled materials, and the Olympic cauldron utilized a kinetic sculpture to enhance the look while reducing emissions from the flames.",
+    "imageCredits": "Mario Tama / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_08.jpg?versionId=bveEoeg6eiL8tfRTdxLJgwuYFtIrc6hs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_08.jpg?versionId=d6QdZHlpq2MAHHe.RJJmIoM8K3u1QpqH",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U08_Lesson.mp3?versionId=3XVsOlzo.kseOkG6MUI.YvEiR7NNMf64",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2227148,
+    "cultureContent": {
+    "imageLocation": "Santa Rita do Sapucai, Brazil",
+    "imageDescription": "A pioneering initiative at the Santa Rita do Sapucai prison allows model inmates to shorten their sentences by one day for every sixteen hours they spend pedaling stationary bikes.  The pedaling charges batteries that power streetlamps in a local park, giving inmates a way to contribute to the community, and providing local residents with a safe place to walk at night. ",
+    "imageCredits": "Michael Robinson Chavez / Los Angeles Times / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_09.jpg?versionId=eiz4g61tLFAG_uSQHr7fpFY0QYrNna.Z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_09.jpg?versionId=cQwrqviIQu0RbMqShLpfNh.qfaVYAVnb",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U09_Lesson.mp3?versionId=naRgS60bAUzS27TziBK80PLiK4kYHv3V",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2227434,
+    "cultureContent": {
+    "imageLocation": "Fortaleza, Ceara, Brazil",
+    "imageDescription": "In addition to this iconic catwalk, the Centro Dragão do Mar is home to a contemporary art museum, a public library, a theater, a planetarium, and more. It was named in honor of Francisco José do Nascimento, known as “the Sea Dragon” for his work to abolish slavery in Brazil in the 1880s. ",
+    "imageCredits": "Phaelnogueira / iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_10.jpg?versionId=xpzO20KwxGzw0kFaO047t2MGLXXUsjKW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_10.jpg?versionId=qwBslGXPsEKnFQw4mw99YFchkZf7fat8",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U10_Lesson.mp3?versionId=eZvSyWDYo6PfvA4gSa942R_5q3aPk5OJ",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2227894,
+    "cultureContent": {
+    "imageLocation": "Manaus, Amazonas, Brazil",
+    "imageDescription": "Home of the Amazonas Philharmonic, the Teatro Amazonas is an opera house located in the heart of the Amazon rainforest. Inaugurated in 1896, the theatre includes a dome covered in 36,000 ceramic tiles painted in the colors of the Brazilian flag. ",
+    "imageCredits": "Brazil Photos / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_11.jpg?versionId=bAD.K8esPQBu8xwfG4sgYXeeFXgS4g_8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_11.jpg?versionId=lDAYFG.1ficNuUA00vC2_zwq8i5XDEhI",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U11_Lesson.mp3?versionId=fEVelb_4juIanIhBjrBnBEPHfdjLO7yj",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2228229,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Connecting the cities of Rio de Janeiro and Niterói across Guanabara Bay, the Rio-Niterói Bridge is the longest bridge in the southern hemisphere, and connects tourists to iconic sites in the area including the statue of Christ the Redeemer on Corcovado mountain, Sugarloaf mountain, and the beaches of Ipanema, Copacabana, and Leblon. ",
+    "imageCredits": "Eduardo Garcia / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_12.jpg?versionId=apruKlO5D_1zmVijBLWV7meeRUZhRqfg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_12.jpg?versionId=c9pP.U4pGlNZL1st9ey1mhYc8oYbSz.L",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U12_Lesson.mp3?versionId=T6cqUpyz7pQ3gUzP7zkvTIbpM9OPfkhg",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2228635,
+    "cultureContent": {
+    "imageLocation": "São Paulo, Brazil",
+    "imageDescription": "Samba schools compete in an enormous Carnival parade by choosing themes inspired by history or cultural and political movements. They construct carros alegòricos (allegorical cars), which are decorated in each school's chosen theme.",
+    "imageCredits": "Andrea Pistolesi / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_13.jpg?versionId=57aFviRFyrGR3kr_IO47zzG9ZGWWDaBM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_13.jpg?versionId=eGHn6YJQtqFdoS79P6G0AqXG9VI4alks",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U13_Lesson.mp3?versionId=25N0EWzIkWiGFkHkehc94VDePge_Wl4M",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2229051,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Nearly a third of all coffee in the world is produced in Brazil, with coffee plantations covering over 10,000 square miles, mostly in the southeastern states. Coffee is harvested in Brazil from June to September, and dried in the sun for 8-10 days before being packaged.",
+    "imageCredits": "David Evans / National Geographic Magazines / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_14.jpg?versionId=GP36Ba1frzFO.ApXv8ANiP3YcmA_CxM_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_14.jpg?versionId=BMflBWiRPfjv0ysHqnj5AAcfG1QXmf9e",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U14_Lesson.mp3?versionId=kHn9WpxUf4GDa1YxkoI2uccaKAB_zEAj",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2229436,
+    "cultureContent": {
+    "imageLocation": "Recife, Brazil ",
+    "imageDescription": "Brazilian sculptor Francisco Brennand is responsible for many of the sculptures in the Parque das esculturas in the old town of Recife. His studio was formerly a ceramic roofing tile factory owned by his father, and tiles are often featured in his sculptures.",
+    "imageCredits": "EVARISTO SA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_15.jpg?versionId=MlT_Qb.g_3dGf0yHDi7oDo6YrCrKEW3_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_15.jpg?versionId=E6u7GitM4ZSM7_.VOFfSsAgxJzLgahI9",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U15_Lesson.mp3?versionId=2VNFG_ZnAegN_tyqHQPKtfnSOUZQevqe",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2229802,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Featured on popular TV show Chef's Table, Brazilian born Alex Atala runs the D.O.M. restaurant in São Paulo, rated the 4th best restaurant in the world. His cuisine blends his love and respect for the native ingredients of traditional Amazonian food with classical French and Italian techniques.",
+    "imageCredits": "NELSON ALMEIDA/ AFP/ Getty Image"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_16.jpg?versionId=cx6QlwqhegLPTY48iFt5m56a4HL46GkZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_16.jpg?versionId=xYIhJy.nxAlx3jrl5uUZ104xA4J2GFGL",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U16_Lesson.mp3?versionId=2kpQGsHm6YD3FttjZGI8vV.pEJ9Vwfb5",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2230189,
+    "cultureContent": {
+    "imageLocation": "Bonito, Mato Grosso, Brazil",
+    "imageDescription": "The Aquário Natural is part of the Bonito Bay Ecological Reserve. Guests to the aquarium can view the diverse flora and fauna from a glass-bottom boat, or grab some gear and snorkel down the river for a one-of-a-kind close up view. ",
+    "imageCredits": "FernandoQuevedo / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_17.jpg?versionId=RynMbIIPwMSW_X2r4OgZmUM.BZCErdvv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_17.jpg?versionId=PEmahd4VGz5qlcbnRday8JaqJFv_FOoe",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U17_Lesson.mp3?versionId=vaD4KrVDwid8yCBE9RLaLtki2WqU0iuz",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2230599,
+    "cultureContent": {
+    "imageLocation": "Fernando de Noronha Archipelago, Pernambuco, Brazil",
+    "imageDescription": "The Fernando de Noronha archipelago is the visible part of a range of 21 underwater mountains of volcanic origin. Visited by Charles Darwin in 1832, the islands are home to many species of birds, reptiles, rodents, and plants, which are found in no other place on earth.",
+    "imageCredits": "Gonzalo Azumendi / Stockbyte / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_18.jpg?versionId=RybQJolBpEUV0gxVCgGAWfIwYf2_qm8_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_18.jpg?versionId=H5RP71bEA0cvci9xLLxX.R2UCV._TAW2",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U18_Lesson.mp3?versionId=dn0rOI7pG6F0mekaiW1qsFasHZzjOqRF",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2231066,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "The Aquário Marinho do Rio de Janeiro is the largest aquarium in South America. Home to over 350 different species, the aquarium features a 3.3-million-liter main tank with a glass tunnel for an intimate view. ",
+    "imageCredits": "VANDERLEI ALMEIDA/ AFP/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_19.jpg?versionId=lxkt1AORF1U0eo3AvZcn6Vhq4BJjedZe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_19.jpg?versionId=QgcwPqlEJ6Qrq0Adrlzvu8_tmDkox4x_",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U19_Lesson.mp3?versionId=zo1.d4rpmcu3TkorV4vSnRgK4yY7uiUF",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2231498,
+    "cultureContent": {
+    "imageLocation": "Vale dos Vinhedos - Bento Gonçalves - Brazil",
+    "imageDescription": "Known as \"little Europe,\" the Vale dos Vinhedos was settled by Italian and German immigrants in the late 1800s, and features one of the greatest wine destinations in the world. Many of the Italian elders in the region speak a rare dialect of Venetian mixed with Portuguese.",
+    "imageCredits": "Dircinha Welter / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_20.jpg?versionId=eAF3qn_S0KAZJ5fJ2_7KnNAG_wBtdpPk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_20.jpg?versionId=BvJ0_vEtqKtWFbc4RRI5mu83eOhL4JXV",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U20_Lesson.mp3?versionId=1drNFGB8Aocx5NqRtoFz39qzVLVafpHI",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2231888,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Introduced by the Portuguese in 1530, the orange is one of Brazil's major exports, contributing 35% of all oranges in the world. Of the many varieties grown in Brazil, the Bahianinha orange makes up about 30% of the citrus crop and is mainly grown around São Paulo.",
+    "imageCredits": "Sergio Sade / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_21.jpg?versionId=miytr4suhzPTOiH5N9Zsxa_F.USTI_5z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_21.jpg?versionId=iheAuxQb6yK7viXABG40dwkUHqaLfOYd",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U21_Lesson.mp3?versionId=zdIIN2x9VXLylP1vsUFqXFr6Hqc98oc3",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2232429,
+    "cultureContent": {
+    "imageLocation": "Mato Grosso do Sul, Brazil",
+    "imageDescription": "Imported to Brazil in the early 20th century, Zebu cattle tolerate extreme heat and thrive in the 2500 fazendas (plantations) throughout the Panatal region. ",
+    "imageCredits": "Yann Arthus-Bertrand / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_22.jpg?versionId=joCi9jzQp_lEYRQ32msir2QznMihZtyN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_22.jpg?versionId=XYAumWgQgq_l09OrDR1utneOmyz8uKYb",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U22_Lesson.mp3?versionId=ZHUUNGm2du_E_ijT9QOx9QkY8NcgtEQO",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2232826,
+    "cultureContent": {
+    "imageLocation": "Morro Branco, Ceara, Brazil",
+    "imageDescription": "Located on the northeastern Atlantic coast, Ceará is known for it's dry climate, extensive coastline, and the Morro Branco cliffs shown here. Formed by the erosion of an ancient sandstone plateau, the windswept coast nearby provides some of the best kite surfing in the world.",
+    "imageCredits": "Alex Robinson / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_23.jpg?versionId=PI8K4n5qCjuH35qAjNb2wy6SXAcYpKVE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_23.jpg?versionId=npkSaR9CIlxhpAHRd.RcgUUNnsZqGZZl",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U23_Lesson.mp3?versionId=SPeZh7bfuVKtdh4pd1j2aKJep8cU56FZ",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2233314,
+    "cultureContent": {
+    "imageLocation": "Lencois Marahenses National Park, Maranhão, Brazil ",
+    "imageDescription": "Over 1.5 million motorcycle licenses are issued each year in Brazil. Motorcycle tours offer a way to experience the sights and sounds of the countryside with some added adventure on the side.",
+    "imageCredits": "Nisa and Ulli Maier Photography / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_24.jpg?versionId=9P7pKQ.t74jgi12CA2in0Fm2ZydlOuYI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_24.jpg?versionId=4dOJIvCCHm.LEl7v78FcNnWGZ8nkM9hn",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U24_Lesson.mp3?versionId=7wcpGqZ81PwoDUFiZg_bsvn1HipVDPcR",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2233763,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "The Brazilian Congada is a ritual processional folk dance blending elements of Roman Catholicism, Latin and African tradition. Each region has its own version, with specific clothing and adornment.",
+    "imageCredits": "Juvenal Pereira / SambaPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_25.jpg?versionId=zySK_pCchkufCsCYtJHYX0ncm8ylyAFd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_25.jpg?versionId=u32kzyHLKzrrbCVvfqiNZOGfeG3ogsAM",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U25_Lesson.mp3?versionId=YnbNlvXscFFiWody05Tki6AV8Wjo.uh3",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2234213,
+    "cultureContent": {
+    "imageLocation": "Tavares Bastos favela, Rio de Janeiro, Brazil",
+    "imageDescription": "Football (soccer in the US) is by far the most popular sport in Brazil and plays a huge role in the culture. The World Cup may as well be a national holiday, and many employers have been known to set up TVs for employees to watch the matches. ",
+    "imageCredits": "YASUYOSHI CHIBA/ AFP/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_26.jpg?versionId=HTMHTCcjpsr6G2Na3qiRwXjk9AyzN7ZZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_26.jpg?versionId=sHN1vtnSfTenmBgNRAAxSe84gvld2pnF",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U26_Lesson.mp3?versionId=WtXOxvgepgv7Oh0oMWw4R78ifgBegcAN",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2234588,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "Rich in anti-oxidants and proteins, the baru nut is native to the Cerrado savannah. Their flavor, once roasted, is described as a blend of peanuts, sesame seeds, and cashews. Baru trees grow over 80 feet high and can live for up to 60 years. ",
+    "imageCredits": "Fernando Podolski / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_27.jpg?versionId=Y5c3rYV0ePemGI3PK7wrk2NVoKE0bOm2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_27.jpg?versionId=Mhl0yqdJ3E9SQ0iJ9dODYe8ik.RpKGwp",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U27_Lesson.mp3?versionId=VXoY_1LF.UGfbCe4OJqDTQzg3ewcbYRt",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2234994,
+    "cultureContent": {
+    "imageLocation": "Sao Paulo, Brazil",
+    "imageDescription": "Since Rio hosted the 2016 Olympic Games, running has increased in popularity in Brazil. The 15-kilometer Saint Silvester Road Race is the oldest road race in Brazil and is held annually in São Paulo, attracting runners from all over the world.",
+    "imageCredits": "Fabricio Bomjardim/ Brazil Photo Press/ LatinContent/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_28.jpg?versionId=LfopS6j.QpCbdb4tw6ZeVqDxAbwWXqsv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_28.jpg?versionId=Tl.PSkgTpolyobN1fWJyb8Mky6cCffqb",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U28_Lesson.mp3?versionId=sW3PXOG4.Y1UF6NrHt8daMwohXOkdcEt",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2235456,
+    "cultureContent": {
+    "imageLocation": "Rio de Janeiro, Brazil",
+    "imageDescription": "Arpoador Rock, located between Ipanema and Copacabana is considered one of the best surf spots in the country. During the Summer Solstice, visitors can watch the sun setting over the ocean from the eastward-facing Brazilian coast. ",
+    "imageCredits": "Eduardo Rubiano / National Geographic Magazines / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_29.jpg?versionId=UEdFK1MU02pXglQLgis_ZQ9IWgysy3q9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_29.jpg?versionId=cFDyIj61J_cFVmF5giG2Q9vn8669pTaR",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U29_Lesson.mp3?versionId=5mXysBb_aJrP8gjflR6QRhF6a4EHVslq",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2236354,
+    "cultureContent": {
+    "imageLocation": "Pedra Furada, Jericoacoara, Brazil",
+    "imageDescription": "Jericoacoara is considered to be one of the most beautiful beaches in the world. Its name comes from the extinct Tupi language and means \"lair of the sea turtles.\" Among other attractions is this 16’ pedra furada, or \"pierced rock\" at the water's edge.",
+    "imageCredits": "Rudimencial / iStock"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/full/BP_4_M_30.jpg?versionId=k.9pu6QMmDtMIzrWn8JzxOIRY78KghGn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/lesson_photo/thumb/BP_4_M_30.jpg?versionId=NbWd_M1.EWrVed28_7lLrCjFusF9UEfG",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/main_audio/9781508235842_Brazilian_Portuguese4_U30_Lesson.mp3?versionId=HC0JkxPgUA4OIQUs3xJGJn8jFp7t2Oes",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2236836,
+    "cultureContent": {
+    "imageLocation": "Brazilian Culture",
+    "imageDescription": "The Pantanal, the world’s largest tropical wetland, encompasses between 54,000 and 75,000 square miles, most of it in Brazil.  It is home to an estimated 10 million jacaré caiman, as well as, giant anteaters, jaguar, tapirs, capybaras and black howler monkeys. ",
+    "imageCredits": "Westend61 / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese (Brazilian)/Portuguese (Brazilian) Level 4 orig/asset/RL/9781508235842_Brazilian_Portuguese_4_Intro.pdf?versionId=TDkb4y_ckSpizgHqaTCmC6fCrU1KJ1sC",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit01_Reading.mp3?versionId=ko.R2JQyxJda6RKWomJnrhN9Mcipm2lg",
+    "mediaItemId": 2223889
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit02_Reading.mp3?versionId=ZecDsPB6zNhHFBUSI4DZo6efsPfmZ_b5",
+    "mediaItemId": 2224096
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit03_Reading.mp3?versionId=idPi1N1WL8WE8BNyFY4GOHagsUZi9yXm",
+    "mediaItemId": 2224236
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit04_Reading.mp3?versionId=_a15sPmSEGBzarKKxeewF1nweUESr36c",
+    "mediaItemId": 2224432
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit05_Reading.mp3?versionId=0m1mPmVvieZEZlBaOU6S4jYTTjYuCdud",
+    "mediaItemId": 2224571
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit06_Reading.mp3?versionId=avT42jZcp77Hu7s2s8goUIcQaEx8Ysuo",
+    "mediaItemId": 2224735
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit07_Reading.mp3?versionId=tnjVR7Uz27qfObVANwFWNZ1ruMG_ST_X",
+    "mediaItemId": 2225146
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit08_Reading.mp3?versionId=uiZdhfVOSkF__iaz2zHVRzt9uHTKZkbL",
+    "mediaItemId": 2226764
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit09_Reading.mp3?versionId=QdFWPE24QSoU6fWPCaEQjz4LHDhKGe9j",
+    "mediaItemId": 2229677
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit10_Reading.mp3?versionId=qFAGy74Hk6wRTdSvRZ3XEdehx0qts_lt",
+    "mediaItemId": 2233071
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit11_Reading.mp3?versionId=x94sCjviLsbomshpSDvVhc8HEujMK_8e",
+    "mediaItemId": 2236672
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit12_Reading.mp3?versionId=s4o_G2QfC0Tb.JI1wOJl3lY2j3j7F91A",
+    "mediaItemId": 2240122
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit13_Reading.mp3?versionId=hbxYuHOtadTwa2Msv_48boAZbP4BirGE",
+    "mediaItemId": 2243085
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit14_Reading.mp3?versionId=HSwqiddi1KRjXIMF2SSHvW5dtNlA2LNs",
+    "mediaItemId": 2246161
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit15_Reading.mp3?versionId=48qS1P3z7bn.AhxsamFdVdjxA7V9l4sD",
+    "mediaItemId": 2249051
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit16_Reading.mp3?versionId=p0Yy9QvrIW0v1a5PKlcpU_m6KOzELj7O",
+    "mediaItemId": 2252121
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit17_Reading.mp3?versionId=P6WKhWMe5kjrfqqk8DHBuUmzNRfdZIrY",
+    "mediaItemId": 2255081
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit18_Reading.mp3?versionId=U2Jlfz1W_NR22eQMkIBSxKIpYL7G4gvt",
+    "mediaItemId": 2257850
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit19_Reading.mp3?versionId=u1zylkvVY9qVfvoCIwVWzSb9CGTlzGaB",
+    "mediaItemId": 2260607
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Portuguese%20%28Brazilian%29/Portuguese%20%28Brazilian%29%20Level%204%20orig/asset/RL/9781508235842_Brazilian_Portuguese4_Unit20_Reading.mp3?versionId=EuudICcNDv_e4sLKvsxQE90EWxBY0BZ9",
+    "mediaItemId": 2263236
+    }
+    ]
+    },
+    "languageCode": "pt-BR",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508235842",
+    "level": 4,
+    "courseName": "Portuguese (Brazilian) Level 4 Premium",
+    "simpleCourseName": "Portuguese (Brazilian) Level 4",
+    "puArabic": false
+    }
+    ]

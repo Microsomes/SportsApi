@@ -1,0 +1,639 @@
+[
+    {
+    "courseId": 3944,
+    "languageName": "ESL Spanish",
+    "languageId": 143,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_01.jpg?versionId=1Bf8chO7Zm1SKkwedBjLsMdhwmdULypf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_01.jpg?versionId=jIDy5iSWAn3DHdk9LrDeRMyBlSMRf07L",
+    "credits": null
+    },
+    "name": "Lección 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U01_Lesson.mp3?versionId=.tU0Jvh0Bzlc0f3KMnTZmAKfNOirYv9d",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2225706,
+    "cultureContent": {
+    "imageLocation": "",
+    "imageDescription": "Los hispanos son el segmento de la población de adultos mayores de mayor crecimiento, y se proyecta que alcanzarán los 13.8 millones para el 2050.",
+    "imageCredits": "Ronnie Kaufman / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_02.jpg?versionId=ewTKfKKEOj.oZ.xRmAKqkI8s659s1kZq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_02.jpg?versionId=jP8EdyB3oU9wuIOMyl2lu432bFXdWdBV",
+    "credits": null
+    },
+    "name": "Lección 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U02_Lesson.mp3?versionId=XlijoRlJHSaZu4MIsm6bQQ1SmzZYcqmv",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2225862,
+    "cultureContent": {
+    "imageLocation": "Costa Norte, Oahu, Hawái, USA",
+    "imageDescription": "El oleoducto de Banzai, en la Costa Norte de Oahu, tiene una una geografía única que produce algunas de las olas más altas del mundo. Allí se filmó Blue Crush, la clásica película de culto sobre surfing de 2002.",
+    "imageCredits": "Warren Bolster / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_03.jpg?versionId=xRkyLt2KpOTk2Rbm3oOAes85lkOYkT2v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_03.jpg?versionId=s3IWX4BlVtmOV71X9M0ZGy.SNRiNitzS",
+    "credits": null
+    },
+    "name": "Lección 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U03_Lesson.mp3?versionId=snj1S05jgxLjLskclHLRr0WNaB1pvjqr",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2226019,
+    "cultureContent": {
+    "imageLocation": "Estadio Fenway Park, Boston, MA, USA",
+    "imageDescription": "El histórico estadio Fenway Park comenzó a funcionar hace más de un siglo, en 1912. El primer partido que se jugó allí fue el de los Medias Rojas de Boston contra los Highlanders de Nueva York  (a los cuales se les llamó luego los Yankees de Nueva York) lo cual fue el comienzo de una famosa rivalidad que llegó a su clímax en el momento en que se rompió la maldición del Bambino en 2004, cuando después de 86 años de derrotas los Medias Rojas finalmente ganaron la Serie Mundial.",
+    "imageCredits": "Billie Weiss / Boston Red Sox  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_04.jpg?versionId=HEK30v_El6lEfyYVDvalPgDgG6MxnDsW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_04.jpg?versionId=hbeOuh2OhvklEksoCYdcRwYuc6yCykuj",
+    "credits": null
+    },
+    "name": "Lección 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U04_Lesson.mp3?versionId=N0q_x6l6lD0s.50K2W6UnOlfYg6ckUkD",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2226207,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "Debido a la escasez de metales livianos después de la SEgunda Guerra Mundial, los automóviles que se fabricaban eran más pesados, más bajos, más largos y más anchos. En la década de 1940 un automóvil nuevo costaba alrededor de $1.000 y se podía comprar un galón de gasolina por 18 centavos.",
+    "imageCredits": "Car Culture, Inc. / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_05.jpg?versionId=EioHnvxzRBmEqTgY2Xi4iA29GpmsbH.2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_05.jpg?versionId=QG7QfEpwrkb3Q2rqATA0nUm2YS1Stj0D",
+    "credits": null
+    },
+    "name": "Lección 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U05_Lesson.mp3?versionId=86.2LWNekAHiJZoyqE6AUQ2bbYSoTPo4",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2226453,
+    "cultureContent": {
+    "imageLocation": "Arrecife Lighthouse, Belice",
+    "imageDescription": "El Blue Hole, parte del sistema de arrecifes Lighthouse es un  un cenote de cal de aproximadamente 300 pies de diámetro y 400 pies de profundidad. Este famoso lugar de buceo es realmente la entrada a un sistema de cuevas y pasadizos escondidos dentro de una montaña submarina.",
+    "imageCredits": "Norbert Wu / Minden Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_06.jpg?versionId=LUgoMspqY0VmVOA37CsfXrn0jaFnE6iP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_06.jpg?versionId=gE0JNhaX543fR5.Vm5dScGZ319XmKU8W",
+    "credits": null
+    },
+    "name": "Lección 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U06_Lesson.mp3?versionId=Dj2F47c05ZCf7vit5rNc7hKAHoo0BIgC",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2226920,
+    "cultureContent": {
+    "imageLocation": "Londres, Inglaterra",
+    "imageDescription": "El puente Millennium es un puente peatonal que atraviesa el río Thames. En la sexta película de Harry Potter salió una escena lograda con efectos especiales donde se mostraba el derrumbe del puente, a pesar de que la película salió dos años antes de que realmente empezara la construcción del puente.",
+    "imageCredits": "TomasSereda / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_07.jpg?versionId=c7tCQa6j8Td9VMbuCE7aRn94BklSvSnZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_07.jpg?versionId=BT_1wWeMJqgF22zWGu07O33xGmYGXHok",
+    "credits": null
+    },
+    "name": "Lección 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U07_Lesson.mp3?versionId=lxzDjB5DY__adWDGbIMj15y716h26hIO",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2227164,
+    "cultureContent": {
+    "imageLocation": "Mount Washington, New Hampshire, USA",
+    "imageDescription": "Con una altura de 6.228 pies, Mount Washington es el punto más alto en el noroeste de los Estados Unidos. El clima en la cima es muy duro, con temperaturas que bajan hasta -47 grgrados F. En 1934, el observatorio midió ráfagas de vientos de   de 231mph, lo que estableció un récord mundial.",
+    "imageCredits": "Mike Theiss / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_08.jpg?versionId=cj4yjlKMHx6vIVLyI.CC4GxTlbp52CMR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_08.jpg?versionId=1TqWSrE3GD.X2FHUUoUkWV7kUqF.Y8SR",
+    "credits": null
+    },
+    "name": "Lección 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U08_Lesson.mp3?versionId=aua_U8j6N7XRJiVs5mMAD0vM2ckg75tW",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2227449,
+    "cultureContent": {
+    "imageLocation": "Wilmette, Illinois, USA",
+    "imageDescription": "La Casa de Oración de la religión Bahá'í es el más antiguo de los nueve templos continentales que todavía quedan en el mundo.   La fe Bahá'í establece que todas las religiones del mundo son manifestaciones de la misma, y sus templos dan la bienvenida a todos los que quieran rezar allí.",
+    "imageCredits": "FierceAbin / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_09.jpg?versionId=I00hxvwEJXrq12Wr7Yl4lJYSwSkZmi2a",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_09.jpg?versionId=R25X7WGaiwIVdescskoxAdP_yENzHoTE",
+    "credits": null
+    },
+    "name": "Lección 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U09_Lesson.mp3?versionId=Y4jXwkwEUvat98PhnI92u9aAG6ubJwV4",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2227708,
+    "cultureContent": {
+    "imageLocation": "Manley Hot Springs, Alaska, USA",
+    "imageDescription": "La carrera de trineos tirados por perros tiene una larga historia en Alaska, incluyendo una famosa carrera de relevos desde Alaska hasta Nome en 1925, en la que los equipos llevaron a los doctores suero  para salvar vidas en Nome, cuando esta se hallaba amenazada por un brote de difteria. En la carrera más famosa, la Iditarod, cada marzo corren aproximadamente 1000 millas desde Anchorage hasta Nome.",
+    "imageCredits": "Jeff Schultz / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_10.jpg?versionId=lSaumgpl0EM6tGKfxtsEKmau.giIVnuO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_10.jpg?versionId=Zp3A5a5fOef9ChYdD5c35bjXVrplw5bR",
+    "credits": null
+    },
+    "name": "Lección 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U10_Lesson.mp3?versionId=fO1yKDfZ9MrLl94RtGUQZankCVAuyYYN",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2227991,
+    "cultureContent": {
+    "imageLocation": "Washington D.C., USA",
+    "imageDescription": "Nombrada en honor al primer presidente de los Estados Unidos, en Washington D.C. se encuentran mucho sitios de interés cultural como el Monumento a Washington, el Lincoln Memorial, la Casa Blanca y los museos Smithsonian.",
+    "imageCredits": "Pgiam / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_11.jpg?versionId=Z.WsL6q0GFn_0OB_mWXOKhzpj29DVju9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_11.jpg?versionId=FEDRHl7_oiyawwRbo58kzBD.9HYFTRJS",
+    "credits": null
+    },
+    "name": "Lección 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U11_Lesson.mp3?versionId=bJjZmHz9aBriPLe1cik2QU5_lCSSM7fM",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2228310,
+    "cultureContent": {
+    "imageLocation": "Manhattan, Nueva York, NY, USA",
+    "imageDescription": "Aproximadamente 1 de cada 38 personas que vive en los Estados Unidos reside en la Ciudad de Nueva York. Más de 2.4 millones de hispanos viven en la Ciudad de Nueva York. De hecho, Nueva York tiene más portorriqueños que cualquier otra ciudad en el mundo.",
+    "imageCredits": "fotog / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_12.jpg?versionId=s5Nctxvng09x2ba300ZJLRrc3Xt1DUg7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_12.jpg?versionId=9odsg1ZxAClP6tLYaaMnVbbfQo4th.zh",
+    "credits": null
+    },
+    "name": "Lección 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U12_Lesson.mp3?versionId=sQWmywYBuySthupvnbmQB20UAsJqUbBV",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2228767,
+    "cultureContent": {
+    "imageLocation": "Indio, California, USA",
+    "imageDescription": "Los Estados Unidos cuenta con algunos de los festivales de de música y arte más populares del mundo, como el Coachella en California. Otros incluyen el Bonnaroo en Tennessee, el Burning Man en Nevada, South by Southwest en Texas, el Newport Folk Festival en Rhode Island y el Festival de Jazz y de la Herencia de Nueva Orleans en Luisiana.",
+    "imageCredits": "Karl Walter / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_13.jpg?versionId=wq1W6EmI3eZfZ6WXMhoql4urZZ4SucVg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_13.jpg?versionId=RlhPHk0ohLykR2hQOqC2CMWU42zNysmz",
+    "credits": null
+    },
+    "name": "Lección 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U13_Lesson.mp3?versionId=Hy0xnUhct6IUQ.CJDYCrQQzcfxkFZZaB",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2229094,
+    "cultureContent": {
+    "imageLocation": "Pebble Beach, California, USA",
+    "imageDescription": "Actualmente un estimado de 26 millones de personas juegan regularmente al golf, que se originó en el siglo XV en Escocia. El Pebble Beach Club en California a menudo encabeza las listas de los mejores clubes de golf en el mundo.",
+    "imageCredits": "Ezra Shaw / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_14.jpg?versionId=aLIjk.KNtkxGvdxoDDso_zN753mfc0dM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_14.jpg?versionId=37LHAWq3SyODmCG2c4i8uy8p.J27z95i",
+    "credits": null
+    },
+    "name": "Lección 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U14_Lesson.mp3?versionId=Ad02RxZgrpu1i7n4Cu3vtA3etulfKMCQ",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2229461,
+    "cultureContent": {
+    "imageLocation": "Ciudad de Singapur, Singapur",
+    "imageDescription": "Singapur tiene 4 idiomas oficiales: malayo, mandarín, tamil e inglés. Muchas familias regularmente usan 3 o más idiomas en la casa, siendo el inglés el que más se usa.",
+    "imageCredits": "fiftymm99 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_15.jpg?versionId=aQcH.749jXh0p8gvkRvJofnJO6vdktfP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_15.jpg?versionId=iOi0oSmLuGo8RZGnU.Z6yHZMLcqFrsUw",
+    "credits": null
+    },
+    "name": "Lección 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U15_Lesson.mp3?versionId=c1DKYiLJsbacrDWtozEv_olcsJFx8BHG",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2229814,
+    "cultureContent": {
+    "imageLocation": "Miami, Florida, USA",
+    "imageDescription": "El Distrito de Art Deco de South Beach, en Miami, Florida, es el primer vecindario en ser reconocido  por Registro Nacional de Lugares Históricos. Más de 800 estructuras fueron construidas entre 1923 y 1943, las que se caracterizan por motivos deco de arte clásico con un estilo costero.",
+    "imageCredits": "pidjoe / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_16.jpg?versionId=cjnZq2lmq7mHYPyRsOBXqL3j2w8c905w",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_16.jpg?versionId=VTELXcHsMQdcHMYRAKL0KE8xFd.uh99_",
+    "credits": null
+    },
+    "name": "Lección 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U16_Lesson.mp3?versionId=omnVW_KZO2UNT3gHljG9_ZjRr3mtdVO8",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2230150,
+    "cultureContent": {
+    "imageLocation": "Kansas City, Missouri, USA",
+    "imageDescription": "El Centro Kauffman para las Artes Escénicas abrió sus puertas en 2011, después de 10 años de planeación de la investigación y diseño. La ciudad de Kansas es famosa por sus espectáculos de jazz y por su barbacoa ahumada y dulce",
+    "imageCredits": "Henryk Sadura / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_17.jpg?versionId=DhGphJTlVQRUs8EFy2VpOzgbNVN4xzHF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_17.jpg?versionId=tRidXY_pQSRpfDLebGtYVjuiKTZBd7rU",
+    "credits": null
+    },
+    "name": "Lección 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U17_Lesson.mp3?versionId=X21gz4eMQKr3tm5BEdOtfZWdiH5vaENU",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2230534,
+    "cultureContent": {
+    "imageLocation": "Las Vegas, Nevada, USA",
+    "imageDescription": "Los rodeos profesionales en los que se montan toros están diseñados para poner a prueba las destrezas y velocidad tanto de  los atletas humanos como la de los bovinos. Los jinetes deben permanecer montados en el toro un mínimo de 8 segundos y tanto al jinete como al toro se le asignan puntos por control, ritmo, agilidad y velocidad.",
+    "imageCredits": "Donald Miralle / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_18.jpg?versionId=bLBAteIvx3GtoJjhJ4VLeSanrbvzIzgI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_18.jpg?versionId=.6I4ybFzcfhEHHsZbUWCUsn4X66m0Uxo",
+    "credits": null
+    },
+    "name": "Lección 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U18_Lesson.mp3?versionId=aruimMX6o_5OypQXDpIstbZbq4wRw0Us",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2230964,
+    "cultureContent": {
+    "imageLocation": "Parque Nacional de Mesa Verde, Colorado, USA",
+    "imageDescription": "A los Puebloans ancestrales del suroeste de Estados Unidos se les conoce más que todo por el tejido de canastas, cerámica decorativa y sus extraordinarias viviendas en acantilados, que fueron construidas en el siglo XII. Se cree que el Templo del Sol en el Parque Nacional de Mesa Verde en Colorado fue un antiguo observatorio astronómico.",
+    "imageCredits": "snoofek / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_19.jpg?versionId=MPDY4jqrpgWBJcWYSG8KkE42KepcC5Mb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_19.jpg?versionId=J3p5ZPRzuBC.Q.SgplhsaPX_Y9w3_paQ",
+    "credits": null
+    },
+    "name": "Lección 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U19_Lesson.mp3?versionId=V5z1QfHqZ1ppmGc7qF9gBrJNykb76jzF",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2231357,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "Los Proms son bailes semi formales de la escuela secundaria que a menudo se consideran como un rito que marca el inicio de otra etapa de la vida. Con frecuencia los títulos de Rey y Reina  se les otorga a estudiantes que son escogidos por su popularidad y participación en las actividades escolares.",
+    "imageCredits": "Jupiterimages / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_20.jpg?versionId=BlJKDjDqM2aYSK4bOizSXCkxtReMkl3V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_20.jpg?versionId=5lTGy9oXTMJ8Ilyo4KMcfjIMhxlW2ylF",
+    "credits": null
+    },
+    "name": "Lección 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U20_Lesson.mp3?versionId=dDcWRdJO60MGFKS5Q90a1IxQ9y6RFmHj",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2231745,
+    "cultureContent": {
+    "imageLocation": "Orlando, Florida, US",
+    "imageDescription": "Walt Disney World Resort es el parque de atracciones con más visitantes en el mundo. Cubre un área de un poco más de 30.500 acres, aproximadamente el área de San Francisco. El Castillo de la Cenicienta es la estructura más alta en el parque Magic Kingdom con una altura de 189 pies.",
+    "imageCredits": "Dan Anderson / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_21.jpg?versionId=1XduMVxPzkCT2pAyx2itsq0FHUbKo0r6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_21.jpg?versionId=m4MlUj6149avDKjkeY1V3h7Vqer2L4K1",
+    "credits": null
+    },
+    "name": "Lección 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U21_Lesson.mp3?versionId=.DwB_5WVemCHlwhDq7zi91P6ENgG0aS8",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2232271,
+    "cultureContent": {
+    "imageLocation": "Manhattan, Nueva York, US",
+    "imageDescription": "La Semana de la Moda en Nueva York, un evento bianual que que se celebró por primera vez en 1993, muestra el trabajo de diseñadores internacionales. En la actualidad la Semana de la Moda se celebra en 40 ciudades en el mundo, entre las que se encuentran Berlín, Londres, Milán y París.",
+    "imageCredits": "Thomas Concordia / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_22.jpg?versionId=EKgh2uunva3EjsVs.JBKBqcoUs9EGq6h",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_22.jpg?versionId=0t7yd2IhaY9dqmLc3Q7Qo9TpmGKnTX6N",
+    "credits": null
+    },
+    "name": "Lección 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U22_Lesson.mp3?versionId=lcKRbm.U5rwACtLRiGOag1b8XPpQZ78p",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2232690,
+    "cultureContent": {
+    "imageLocation": "Parque Nacional Lake Clark, Cook Inlet, Alaska, US",
+    "imageDescription": "El Parque Nacional Lake Clark en Alaska contiene una gran variedad de ecosistemas. El salmón rojo abunda en el parque lo que atrae un gran número de osos pardos. En todos los Estados Unidos existen 58 parques nacionales que cubren 51 millones de acres que garantizan el acceso y la preservación para las futuras generaciones.",
+    "imageCredits": "Enrique R Aguirre Aves / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_23.jpg?versionId=JTPfM4PG_6mAtTEeJ8.pEEw.xEFKtEPd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_23.jpg?versionId=024pdVp9jrSDyUlsmAOhcX9_f2ZzNvn2",
+    "credits": null
+    },
+    "name": "Lección 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U23_Lesson.mp3?versionId=.kE0KOsU0E7V7w8xGT5pENZyH7CXHLtC",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2233140,
+    "cultureContent": {
+    "imageLocation": "Idaho, US",
+    "imageDescription": "La raíz de la planta floreciente camasia fue una fuente importante de alimento para los habitantes nativos de América del Norte y para los antiguos colonizadores del Oeste.  Los bulbos se asaban o se hervían y se dice que su sabor es similar al de las batatas. También se secaban y se molían para obtener harina con el que hacían pan. Existen varias praderas de camasia en el Oeste de los Estados Unidos, en Idaho, Montana, Oregón y Washington.",
+    "imageCredits": "Steve Bly / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_24.jpg?versionId=afa3_HFaLWaYJa3ikiVybCfyIS2AdHfW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_24.jpg?versionId=CdX3U9RQHROkuRmiP.C9pu.7oj6LhvXh",
+    "credits": null
+    },
+    "name": "Lección 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U24_Lesson.mp3?versionId=rWCkxylGH9WpnvMLwVCTipNC7.FsqkkJ",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2233610,
+    "cultureContent": {
+    "imageLocation": "Gatlinburg, Tennessee, US",
+    "imageDescription": "Las Smoky Mountains recibieron su nombre por la neblina que siempre flotaba encima de esas montañas en todas las épocas del año. El punto más alto de la cordillera es Clingmans Dome, que se llama así gracias a Thomas Clingman, un político de la época de la Guerra Civil que más tarde fue explorador y topógrafo.",
+    "imageCredits": "WerksMedia / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_25.jpg?versionId=cicqBBxmaoS_lHKPS0btfmBADDAtNz23",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_25.jpg?versionId=c1AjjFEonPIRWE12lwUzF6Sg.x7SqQPK",
+    "credits": null
+    },
+    "name": "Lección 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U25_Lesson.mp3?versionId=Qtd2r8prVVAZI.a_9.WLInCVPQtVnUAi",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2233995,
+    "cultureContent": {
+    "imageLocation": "Florida, US",
+    "imageDescription": "El puente Seven Mile Bridge, que es parte de la Overseas Highway (Autopista de Ultramar) en los Cayos de Florida, conecta al Cayo Knight’s Key con el Cayo Duck Key. El puente más antiguo, construido entre 1909 y 1912, es usado ahora sólo por ciclistas y peatones. El puente más moderno se abrió al tráfico de automóviles en en 1982. Es uno de los puentes largos más grandes del mundo.",
+    "imageCredits": "Hiroyuki Matsumoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_26.jpg?versionId=0yhKqa2gj7V8JpRuonYPqJevzQ5EsRa.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_26.jpg?versionId=3mV5EIKcxJP_XHt_oARfvYVa_qIjjlT0",
+    "credits": null
+    },
+    "name": "Lección 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U26_Lesson.mp3?versionId=11vsl40SVvrR2dcRSm65GR3ZncAR9.bH",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2234356,
+    "cultureContent": {
+    "imageLocation": "Savannah, Georgia, US",
+    "imageDescription": "Los robles son árboles que pueden vivir varios cientos de años. El Southern Live Oak es el árbol representativo del estado de Georgia. Crece en abundancia por todo el Sur y brinda gran cantidad de sombra durante los calurosos veranos.",
+    "imageCredits": "Danita Delimont / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_27.jpg?versionId=bbefM.yjDsSDkro9WVC2hSkvPYvm2yTg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_27.jpg?versionId=gYSlgfGQgVIQ0UPH7zwYgKvOqbDfGSLn",
+    "credits": null
+    },
+    "name": "Lección 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U27_Lesson.mp3?versionId=1DSuxrYmX8lfFRCy445C_8rixfTGkrAe",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2234739,
+    "cultureContent": {
+    "imageLocation": "Polperro, Cornwall,  Inglaterra, Reino Unido",
+    "imageDescription": "La antigua ciudad de Cornih Village de Polperro en el Sudoeste de Inglaterra atrae a los turistas en el verano debido a sus pintorescas casas de pescadores y su costa salvaje y rocosa. Su herencia cultural data del Siglo XII.",
+    "imageCredits": "RolfSt / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_28.jpg?versionId=3FXJqR1MuXZrlBD3XYnCykxJKBOp8MBz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_28.jpg?versionId=mn6S93CC_TIEKa8P6dBZgKTruE.erTeD",
+    "credits": null
+    },
+    "name": "Lección 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U28_Lesson.mp3?versionId=oC0RqewyCzs35FZPoSAVSms8ic_B53xK",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2235144,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "En el Sur de los Estados Unidos, cada región tiene una especialidad de barbacoa, de acuerdo con la salsa usada para acompañar la carne. La salsa barbacoa en Carolina del Norte tiene como base el vinagre, mientras que en Carolina del Sur se prefiere una salsa de mostaza. En Memphis y en San Luis la salsa hecha con tomates dulces es popular. En Alabama se hace la salsa blanca usando mayonesa, pero en la Cuidad de Kansas dominan el kétchup y las molasas.",
+    "imageCredits": "Marianna Massey / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_29.jpg?versionId=MZjVaOpX89zhA8VgR6ALFqexj.xTTGZM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_29.jpg?versionId=fgPjhAy6Pk_wkfONlSGgf7gtXUcIwZd4",
+    "credits": null
+    },
+    "name": "Lección 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U29_Lesson.mp3?versionId=OhU9vin1nUS1qJlm74QypoPWuiQzh7Xk",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2235525,
+    "cultureContent": {
+    "imageLocation": "Nueva Orleans, Luisiana, US",
+    "imageDescription": "Nueva Orleans se extiende a ambos lados del río Mississippi, en el sudeste de Luisiana, y es una de las ciudades más visitadas en los Estados Unidos. La ciudad es famosa por su comida y música vibrantes, su historia y por su encanto sureño.",
+    "imageCredits": "Kylie McLaughlin / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/full/ESL_SP_2_M_30.jpg?versionId=Ive_jqec.vv1G1xvX.JIHn0JH76.WV8Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/lesson_photo/thumb/ESL_SP_2_M_30.jpg?versionId=NFClqqD08jTHEisfA8jYzF0IkTUSFeNg",
+    "credits": null
+    },
+    "name": "Lección 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/main_audio/9781508235934_ESL_Spanish2_U30_Lesson.mp3?versionId=zkFlC10mwOANyLXEFrdpXt468b.iYg8q",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2235947,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "Desde 1932, el día después del Día de Acción de Gracias has sido bautizado como el “Viernes Negro”, y ha marcado el comienzo de la época de las compras de Navidad en los Estados Unidos. A  menudo es el día del año en el que más compradores salen a comprar en las tiendas, y los comerciantes ofrecen gangas y descuentos para atraer a millones de consumidores.",
+    "imageCredits": "JUSTIN TALLIS / Stringer / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/English for Spanish Speakers/English for Spanish Speakers Level 2 orig/asset/RL/9781508235934_ESL Spanish_2_Intro.pdf?versionId=NP7USflS2BRKbACfizh7BPuS5PuvSvw5",
+    "audios": [
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit10_Reading.mp3?versionId=W.6lhwXrRMt02HTfZdBSN2ovmt9nIT_O",
+    "mediaItemId": 2223704
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit11_Reading.mp3?versionId=IexIxxExSYtf.yakNt.StMyOdj69erw8",
+    "mediaItemId": 2223820
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit12_Reading.mp3?versionId=AWzYXEOOfIN9.rSb.mmPjr3uT0xsCNbA",
+    "mediaItemId": 2223995
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit13_Reading.mp3?versionId=7Afpm_vu9Ztg.rPfkX6RThsew5J5itxt",
+    "mediaItemId": 2224161
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit14_Reading.mp3?versionId=YDHZisQAUSfpubQPzCqBwVP1hGTKxGRC",
+    "mediaItemId": 2224362
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit15_Reading.mp3?versionId=.8zQE_OzNGl52k92xmeT4rLOh.qlAXLA",
+    "mediaItemId": 2224494
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit16_Reading.mp3?versionId=24dhhwvyFEi5hnc6fyIhmTU7wvebnHA.",
+    "mediaItemId": 2224690
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit17_Reading.mp3?versionId=ag1Qi8a.Wk.p81jAGc788mu7ZVc1.14s",
+    "mediaItemId": 2224795
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit18_Reading.mp3?versionId=nBtYt8.qJTWxO.nbuuBpWEBmsG8o0EG0",
+    "mediaItemId": 2225955
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit19_Reading.mp3?versionId=LbApoiz_ENN2nsPOKXJjVSdMwxL7hD9V",
+    "mediaItemId": 2228263
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit20_Reading.mp3?versionId=86QnBKW0kvVrWDn3rGc5yvdJojzzdc5F",
+    "mediaItemId": 2231691
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit21_Reading.mp3?versionId=Qok5Z3AOrKn..9U.f3F69S1HTwkbwwKE",
+    "mediaItemId": 2235148
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit22_Reading.mp3?versionId=2jaz2FQmgH94SgJk0u.iAAzFZH.N5.4M",
+    "mediaItemId": 2238450
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit23_Reading.mp3?versionId=wJSyBnomx.c7RaTL_5lv8CAdtU84KYt6",
+    "mediaItemId": 2241604
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit24_Reading.mp3?versionId=u.rWKRYUZcZWm21PmGQpETiw7kBz569i",
+    "mediaItemId": 2244689
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit25_Reading.mp3?versionId=woIE36xaCZeczmUIoA3HD8OgaQxrSghE",
+    "mediaItemId": 2247532
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit26_Reading.mp3?versionId=E5gHmpjii0TxldFDg40jpasvqJzJ2AGI",
+    "mediaItemId": 2250636
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit27_Reading.mp3?versionId=txaUO3_P3o2swCH.VkF0yBfVCRgcpwar",
+    "mediaItemId": 2253604
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit28_Reading.mp3?versionId=_lD388wG8GV9jPwn2sgHTHRqK2p2Gi85",
+    "mediaItemId": 2256483
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit29_Reading.mp3?versionId=Jr2AZz.KUR3WUDXWjRXgLybHNmIQz7BS",
+    "mediaItemId": 2259375
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%202%20orig/asset/RL/9781508235934_ESL_Spanish2_Unit30_Reading.mp3?versionId=cTcPQdQpBl73Wn0rlrQfgdl4wwAYFuCc",
+    "mediaItemId": 2261851
+    }
+    ]
+    },
+    "languageCode": "en-US",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508235934",
+    "level": 2,
+    "courseName": "English for Spanish Level 2 Premium",
+    "simpleCourseName": "English for Spanish Speakers Level 2",
+    "puArabic": false
+    }
+    ]

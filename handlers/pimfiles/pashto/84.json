@@ -1,0 +1,679 @@
+[
+    {
+    "courseId": 51006,
+    "languageName": "Spanish",
+    "languageId": 166,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_01.jpg?versionId=QdF3_J7h57w9ZS_DmUS0T82xcEiDOlr9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_01.jpg?versionId=Wuj1GZXcagi1KskzOAJ4Fi54JQ.t7eH9",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U01_Lesson.mp3?versionId=7pObE_CyeaIbcCSaz8o14S6LmQm9EkxF",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2293409,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "Spanish is the official language of 19 Latin American countries, Cuba, the Dominican Republic and Spain.",
+    "imageCredits": "ColorBlind Images / Blend Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_02.jpg?versionId=G95M2CWzK_1fPOx9nK61snYLHxSmGiSd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_02.jpg?versionId=W1A16BmdVQBOEurOLuFCE5rC2TlN0Sp6",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U02_Lesson.mp3?versionId=.WbKLRXrPczYFbZC2oRJvXBo3w1Z3dAa",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2293783,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "Soccer is the premier sport and passion of Argentinians. Soccer legend, Diego Maradona played 5 seasons as part of the Boca Juniors. La Boca neighborhood is one of the oldest neighborhoods in Buenos Aires built by Italian immigrants.",
+    "imageCredits": "Herve Hughes / hemis.fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_03.jpg?versionId=KqD3yd9igut3yJ9KXZ_6ojUuY3peQLQP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_03.jpg?versionId=RpcbQrj6hIzLSNSCaz3MnDgHNNa8ACq7",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U03_Lesson.mp3?versionId=AXAmeuVp1r95yjfpQvsxk5.PPP.IdC6Z",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2294062,
+    "cultureContent": {
+    "imageLocation": "Chichen Itza, Mexico",
+    "imageDescription": "On March 21 and September 21, the sunlight bathes the western balustrade of El Castillo's main stairway causing seven triangles to form, and imitating the body of a serpent.",
+    "imageCredits": "Steve Elmore / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_04.jpg?versionId=F37XA71Qrfa_TPdYoO.JYzpZ8aNdgJQM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_04.jpg?versionId=cjZuINz6TfSjdX7LUb2.3mlhbWsTOM0z",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U04_Lesson.mp3?versionId=2SCLRLs9i4KqFsV.M6cZUHvhwFxVcaqj",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2294300,
+    "cultureContent": {
+    "imageLocation": "Ollantaytambo, Peru",
+    "imageDescription": "This town and Inca archaeological site approximately 60 kilometers northwest of Cusco was conquered, razed, and rebuilt in the mid-15th century by the Inca emperor Pachacuti. Today it's is a common starting point for the Inca Trail.",
+    "imageCredits": "Danita Delimont /Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_05.jpg?versionId=JPbIJPNqhwNCb7.Kz0EOQIVag2RHTPTY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_05.jpg?versionId=WQdamaTQ9JrTP7Vzv_GjWTiEsgzUI6ES",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U05_Lesson.mp3?versionId=a6L1A2dGhQxHjbzeSn8esjvEsPPBfT_H",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2294534,
+    "cultureContent": {
+    "imageLocation": "Torres Del Paine National Park, Chile",
+    "imageDescription": "Lady Dixie, a Scottish traveler, war correspondent, writer, and feminist, was the first westerner to visit and write about the Pantagonian region in 1880. It was established as a national park in 1959, and designated a Biosphere Reserve by UNESCO in 1978.",
+    "imageCredits": "Enrique R. Aguirre Aves / Photographer's Choice  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_06.jpg?versionId=m6y03e739fKHHharh0dTmT9CJn1vrxXo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_06.jpg?versionId=wB4ffGvdY0e59OPxJJYn7wx4w3YR.7b.",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U06_Lesson.mp3?versionId=vtFi6rImuazei.3XGHu_aTCoImyHtB7X",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2294767,
+    "cultureContent": {
+    "imageLocation": "Urubamba Valley, Peru",
+    "imageDescription": "The buildings of Machu Picchu were made of hand carved stones that fitted perfectly without the use of mortar.",
+    "imageCredits": "Kelly Cheng Travel / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_07.jpg?versionId=9n9dM42fjjJkc..FcdxE1zIfHzGSBFgC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_07.jpg?versionId=.OakHiowyPHJwe_Ha.gdTggnOKRh4crX",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U07_Lesson.mp3?versionId=XTebVQafNlaSVZ.o4HdOjaDeo7bvitZ2",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2295047,
+    "cultureContent": {
+    "imageLocation": "Cusco, Peru",
+    "imageDescription": "Quyllur Rit'i or Star Snow Festival is held every year in the shadow of 21,000 foot Ausangate Mountain. An estimated 90,000 Quero indigenous people from eight nations gather for a religious celebration lasting over 24 hours and including over 100 different dances.",
+    "imageCredits": "Juan Vita / SOPA Images / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_08.jpg?versionId=.vgLW.2nG5RXE1bXdWBeXQzZtNkoG7_M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_08.jpg?versionId=5zRKvaPsjNFaW6JpNMCmd_diekL40X8.",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U08_Lesson.mp3?versionId=yjkJQkSYfRk.zptEJ3TRIY9pqzZmr_9Y",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2295349,
+    "cultureContent": {
+    "imageLocation": "Guadalupe, Mexico",
+    "imageDescription": "The longest living species of lizard in the world is the Mexican beaded lizard, which can live up to 33 years.",
+    "imageCredits": "ICHIRO / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_09.jpg?versionId=Ok.cnu299neG352CDqXOXn.wpTFZL4Fy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_09.jpg?versionId=WMEfNLJHTooxHHfLcZwcR6Lgmle0BKGx",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U09_Lesson.mp3?versionId=9ZPwX3jQTXWgsXJiSI8LYDHGFJONJwYj",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2295703,
+    "cultureContent": {
+    "imageLocation": "Oaxaca, Mexico",
+    "imageDescription": "Churros originated in Spain and are credited to Spanish shepherds who found them an easy substitute for baked goods. They're available in cafes and from street vendors throughout the Latin world.",
+    "imageCredits": "John & Lisa Merrill / FoodPix / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_10.jpg?versionId=wLyiGGaDftoV0mARFsVsTNcawIeLE3DS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_10.jpg?versionId=H5tVXAhAWKiGrGyP2pCpvkfEkAeKMRDM",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U10_Lesson.mp3?versionId=Rs6V3KdmervWmCqATQP4A26Acowj4uZ4",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2296041,
+    "cultureContent": {
+    "imageLocation": "Santiago, Chile",
+    "imageDescription": "Though the Plaza de Armas was originally laid out in 1541 by Spanish colonists, the heritage buildings and landscaping seen today were mostly built during the 18th and 19th centuries.",
+    "imageCredits": "Henryk Sadura / Tetra Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_11.jpg?versionId=EEG.qZuavE1Ed6um4vu3Hu7hoa2n3ICl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_11.jpg?versionId=aHtEimkLitc2lUXzBzk8_R5FWDSaex4Q",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U11_Lesson.mp3?versionId=Q364kC6._TTVg.iGpLauJYwuGjot6eMg",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2296310,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "The Obelisk of Buenos Aires was modeled on the Washington Monument and was built in 31 days by 157 workers in 1936.",
+    "imageCredits": "Laurie Noble / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_12.jpg?versionId=sYLIM1OaXL.qKaF3fTaHhCfc4jbBqIip",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_12.jpg?versionId=vgFoK.nJfOE1lxcPHXMvrBD8QQdxp4z.",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U12_Lesson.mp3?versionId=rPOe2cxhjO1ykiFFBc8p2nFGJGIq2Xgs",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2296590,
+    "cultureContent": {
+    "imageLocation": "Galapagos Islands, Ecuador",
+    "imageDescription": "The whale shark is the largest known fish in the world.  Native to tropical waters, they typically swim close to the surface, and feed on plankton.",
+    "imageCredits": "Lindsey Dougherty / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_13.jpg?versionId=k3t6nbvYDrIVbbWtNckSv9vkFK0T37Pp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_13.jpg?versionId=ghYLCJLJjLD5rf5psCT3eTj53Z0twxqc",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U13_Lesson.mp3?versionId=YZCHc_lLgZS8eX6ruPcM0FTAia2u6jb1",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2296832,
+    "cultureContent": {
+    "imageLocation": "Guanajuato, Mexico",
+    "imageDescription": "Guanajuato was the site of the first battle of the Mexican War of Independence in 1810.",
+    "imageCredits": "Jeremy Woodhouse / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_14.jpg?versionId=lmIsXok3Ecq0wsajsZt__qU9YMWdOCEX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_14.jpg?versionId=Q1Tkz4BSY1r3pt5PHGgUil2mDI.iR6A4",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U14_Lesson.mp3?versionId=uNb19lrA64jv5jPWo9zhXwK1ekiw07fX",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2297087,
+    "cultureContent": {
+    "imageLocation": "Ponce, Puerto Rico",
+    "imageDescription": "The Ponce Festival lasts for the 7 days ending on the day before Ash Wednesday.  One of the traditions of the festival are the vejigantes, which are devil-like costumed characters.  A vejigantes costume includes a mask, cape, and suit, and vejigas (inflated cow bladders), which are used to make sounds and 'whack' people in the procession.",
+    "imageCredits": "Wolfgang Kaehler/LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_15.jpg?versionId=.h7iLhmznun5XZ7wN6dl0K9_ZGWPgZXA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_15.jpg?versionId=N4MmirD6QOTPvO7TfayeXlmwN.E1NLZA",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U15_Lesson.mp3?versionId=C7LYDG5wl0dMVXWKcGdzROfEa_U0IsKH",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2297322,
+    "cultureContent": {
+    "imageLocation": "Puerto Rico",
+    "imageDescription": "The Jesús Izcoa Moure Bridge is a cable-stayed bridge that crosses the La Plata River in Puerto Rico.  The bridge is 703 meters long.",
+    "imageCredits": "TexPhoto / Vetta / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_16.jpg?versionId=hUD.qH_ivAekcnUWS_7U9qcL_PL6IWmg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_16.jpg?versionId=wNk3CCD15XxKaCGJjI0E2fTRX5Go9K23",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U16_Lesson.mp3?versionId=vhY7kFvolOvV3.LCJavEPZpXKLt9yLC9",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2297580,
+    "cultureContent": {
+    "imageLocation": "Patagonia, Argentina",
+    "imageDescription": "Lago Belgrano is located in the Perito Moreno National Park.  Argentina’s Perito Moreno Glacier is one of just two glaciers in all of South America that is growing which puzzles the scientific community.",
+    "imageCredits": "David H. Collier / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_17.jpg?versionId=TJ1YhFwPlMmIePbKtNr7MwQBD.GLI3Id",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_17.jpg?versionId=mtMi7hbe9bK6an_xgS.XleKoYnwjVgO5",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U17_Lesson.mp3?versionId=usrbqPKkCcnjQ.pTm_C2C25.4agK1OQy",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2297866,
+    "cultureContent": {
+    "imageLocation": "Macha, Bolivia",
+    "imageDescription": "Participants at the Tinku Festival  traditionally worked out grievances from the year by engaging in hand-to-hand combat, with the belief that the resulting peace would improve the harvest. Today, the festival is far tamer, but still attracts over 50,000 visitors to this southern highland town each year.",
+    "imageCredits": "Tim Clayton / Corbis / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_18.jpg?versionId=SXw_bJ7zg7J2kwqkKmCMmBvzxIkg5Jtj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_18.jpg?versionId=c16AigSAX.FZMrBqN19D_ZThLePjDs9V",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U18_Lesson.mp3?versionId=IR8l4P_fF2jV_ccJx7dYyN9__z.SEN79",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2298139,
+    "cultureContent": {
+    "imageLocation": "Spanish Culture",
+    "imageDescription": "The agave, a succulent also known as the century plant, is native to and commonly found in Mexico. Each plant produces several pounds of edible flowers and stalks, and agave nectar which are processed to create an alternative to sugar or honey.",
+    "imageCredits": "Francesca Yorke / Dorling Kindersley / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_19.jpg?versionId=HM6UfGc940fagYG8WZAvzzVG1GLak.2y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_19.jpg?versionId=vvMZrANixEVnELSby2Rh8mKc08lvlntq",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U19_Lesson.mp3?versionId=moYDBQclvZ.0F2WOxF7mv62nR56JyFDT",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2298375,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "Floralis Generica is an 18-ton stainless steel and aluminum sculpture, 23 meters in diameter and situated in the United Nations Plaza. Its petals open at sunrise and close at sunset.",
+    "imageCredits": "Cuan Hansen / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_20.jpg?versionId=xq1KSs1Clu5d7DWNKoKyPu2fxT5h8MSx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_20.jpg?versionId=ijrgUb6938R5yyOBgRf64W4WJyudHla4",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U20_Lesson.mp3?versionId=vxpe0YtXdeQmteVFdp9VZLaBollzu0wA",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2298600,
+    "cultureContent": {
+    "imageLocation": "Izamal, Mexico",
+    "imageDescription": "Izamal has an important Pre-Columbian Mayan archeological site, which includes huge pyramids and temples but is also home to the Convent of San Antonio De Padua.  The Mayan language is still heard along with Spanish and most signs are in both Spanish and Mayan.",
+    "imageCredits": "Tuul / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_21.jpg?versionId=.QIg1gzZIyjuy2Dh5LES.DzXdSCkb3gl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_21.jpg?versionId=2rwyUv6Y6lM1i4vKVMU7nNiCvyy3AOGE",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U21_Lesson.mp3?versionId=qUZ26D_aFRu3wHw0q_QXh2WKQZr9HbaA",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2298823,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "Argentina's Facundo Gomez Cross and Paola Palavecino Florence Sanz dance after winning the Tango Salon category at the Tango World Championship.",
+    "imageCredits": "Daniel Garcia / AFP / GettyImages"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_22.jpg?versionId=b3ApG3bO2qdvJXSLdYVbi2f5JsvoTy8t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_22.jpg?versionId=nwiCpKdgi6XAvzaKAYSkv_VCB2UXLQy3",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U22_Lesson.mp3?versionId=OM8TfZdPVqrmI30I_rKxWAhuTLXdX3YM",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2299061,
+    "cultureContent": {
+    "imageLocation": "Oaxaca, Mexico",
+    "imageDescription": "Templo de Santo Domingo de Guzmán consists of a complex of buildings including a sanctuary, cloisters, courtyards, and a museum.  Construction on the church and monastery spanned a 200-year period beginning in 1570.",
+    "imageCredits": "Image Source / Image Source / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_23.jpg?versionId=Po2zFeVBvhuUukpoY7pkquznaUlDF.hJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_23.jpg?versionId=_USatEmpQGPRGU_36CemBU7qAbURXHTI",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U23_Lesson.mp3?versionId=nepSf3qOW4oe3in9R2.hrNRumJ61ChEZ",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2299271,
+    "cultureContent": {
+    "imageLocation": "Oaxaca, Mexico",
+    "imageDescription": "Nicknamed the Land of the Seven Moles, the ethnic diversity of the Oaxaca population is reflected in its cooking.  Each of the state's seven regions produces a variation of the spicy sauce.",
+    "imageCredits": "Chris Caldicott / Axiom Photographic Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_24.jpg?versionId=X74MU4YkkXU8DzHltkOI0DEFX9ROsOnK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_24.jpg?versionId=d5ZM80CwYuXHgW3xtMu_zaKpm1G5vxnw",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U24_Lesson.mp3?versionId=RT1p257hCdW3thiv3zujkpMA8nCCRDBj",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2299501,
+    "cultureContent": {
+    "imageLocation": "Ciudad Bolívar, Venezuela",
+    "imageDescription": "The capital of the Bolivar State lies on the Orinoco River.  Many buildings in the old town date to the Spanish colonial period.",
+    "imageCredits": "Jane Sweeney / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_25.jpg?versionId=SKiT6azdRA2BHhLo4yh5yOzSgC7l4Q.A",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_25.jpg?versionId=K71lC5vCkXhXsMllqHzAIHndznTr2h3z",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U25_Lesson.mp3?versionId=Qi962rzhKkMeawCak.qTnlpH2n_znsDN",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2299806,
+    "cultureContent": {
+    "imageLocation": "Parque Nacional Los Glaciares, Argentina",
+    "imageDescription": "Ice covers 30% of Glacier National park in Patagonia.  The ice cap is the largest outside of Greenland and Antarctica.",
+    "imageCredits": "Natphotos  / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_26.jpg?versionId=sp.HVywDEwEdrQ9J1ZN9IUEiSg3CjobT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_26.jpg?versionId=1ZnVG9um8IvHPcisFkAkwhYlfZgx1gJ_",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U26_Lesson.mp3?versionId=h.uGDcyuqdjHpSbRTSd6ls2v45g5SUN0",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2300026,
+    "cultureContent": {
+    "imageLocation": "Salar de Uyuni, Bolivia",
+    "imageDescription": "Salar de Uyuni is the largest salt flat in the world at approximately 4,086 square miles.  It lies at an elevation of 11,995 feet.  The flats are covered by a few meters of salt crust and are a major source of the world's lithium reserves.",
+    "imageCredits": "Prisma by Dukas / UIG /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_27.jpg?versionId=_kfCa4qmuf.ofIrOvSeHvDOaZzA6.LXN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_27.jpg?versionId=R93P9gBBs51pPCXmPP3V8QfFUp2yaE4l",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U27_Lesson.mp3?versionId=9.4DX4FcP3JE5LwSGbngjeJhH8m8d0Rc",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2300464,
+    "cultureContent": {
+    "imageLocation": "Margarita Island, Venezuela",
+    "imageDescription": "Isla de Margarita is the largest of the Nueva Esparta state, situated in the Caribbean Sea. Often called the 'Pearl Island' because of harvests shipped back to Spain, the island successfully battled for its independence from Spain in 1814 and became the first permanently free territory in Venezuela.",
+    "imageCredits": "Apomares / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_28.jpg?versionId=1zcgha8364oAbA1P7Vfk4YEruoj6k.Hf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_28.jpg?versionId=OdBZ6iAYGLtloblATvQOpuxe1OCxyzrw",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U28_Lesson.mp3?versionId=jnCdVpi.e7__JSYMPI4J9Q5VEhG0SJLs",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2300642,
+    "cultureContent": {
+    "imageLocation": "El Calafate, Argentina",
+    "imageDescription": "Ice trekking on glacier Perito Moreno is a popular pastime in the Parque Nacional Los Glaciares, though a less athletic approach might be a boat tour on Lago Argentino, colored a curious grey-green due to the sediment from melting glaciers.  It is the largest lake in Argentina.",
+    "imageCredits": "Marco Del Pozzo / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_29.jpg?versionId=Z28xsLAmmYaxaon_eRajYgeUDYNy0zpF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_29.jpg?versionId=iV0VOxLiLdUMpeEFIMIIGRzEhj5i5y8e",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U29_Lesson.mp3?versionId=hxkbWEWGevnrkUBZxFOJl3WswV3fzZZF",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2300792,
+    "cultureContent": {
+    "imageLocation": "Cuenca, Ecuador",
+    "imageDescription": "The striking blue tiles used in the domes of the Cathedral of the Immaculate Conception are from Czechoslovakia, and the floor is covered in pink marble, brought from Carrara, Italy.",
+    "imageCredits": "Peter Adams / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/full/SP_1_M_30.jpg?versionId=EVExUlT.3jOZjXv_nwNGtu.I.aprLfoe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/lesson_photo/thumb/SP_1_M_30.jpg?versionId=UW4q3oXKxPggoTqtkV75IivyZfPqzKIc",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/main_audio/9781508281085_Spanish1_U30_Lesson.mp3?versionId=UDtKUY61wbPYOCWUvTD_K_M63cZvCJ6w",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2300935,
+    "cultureContent": {
+    "imageLocation": "Casares, Spain",
+    "imageDescription": "Built by the Moors in the 12th century, Casares is known as one of two towns that Napoleonic troops were unable to conquer.",
+    "imageCredits": "Veronica Jones / Taxi / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish Level 1 2018/asset/RL/9781508281085_Spanish_1_Intro.pdf?versionId=6vDSGI3lFkgJcYVPwDZY6ymjlJAIz1Xx",
+    "audios": [
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U02_Reading.mp3?versionId=_hEi0JxFw9ilgIw1Nh2poE1oZNdlDTBC",
+    "mediaItemId": 2223919
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U03_Reading.mp3?versionId=QF3Rvb1J225ayBcoOIIkMYUiFyujemGb",
+    "mediaItemId": 2224123
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U04_Reading.mp3?versionId=CWf2oDvH6i8cIJHCO8l62hRvtutRAupt",
+    "mediaItemId": 2224272
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U05_Reading.mp3?versionId=08VqRHg87cHZwb.v7bDgC8Jtlb8YYPx.",
+    "mediaItemId": 2224449
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U06_Reading.mp3?versionId=stX201PrG3G5temSHcvU_CI9ly8hJ_mp",
+    "mediaItemId": 2224622
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U07_Reading.mp3?versionId=Uh_BngRWaWEEZTF0SiGVft_WYULAUhnM",
+    "mediaItemId": 2224749
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U08_Reading.mp3?versionId=VRr_gMpsgz8tTbIb7zARCLOY9d.hE8vi",
+    "mediaItemId": 2225323
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U09_Reading.mp3?versionId=U.4OBjbFWzeqwrEhhl0ZzjpkgDyqFiIc",
+    "mediaItemId": 2227135
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U10_Reading.mp3?versionId=9gUGHlF1ME17cC7APc4RPOoAE9CF3XTR",
+    "mediaItemId": 2229971
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U11_Reading.mp3?versionId=1p4xhKKf80iwhW79V9dfSrLleiA89VKd",
+    "mediaItemId": 2233460
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U12_Reading.mp3?versionId=typUsGJWNy.JVVnEtnm1g5BXvvMkzIvm",
+    "mediaItemId": 2236891
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U13_Reading.mp3?versionId=_6Kou78GIWMbeEi534SaBJZ0RYWC4MZw",
+    "mediaItemId": 2240380
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U14_Reading.mp3?versionId=K8X7XKhJfrfjsqhe2q8os0khtaSdBYhz",
+    "mediaItemId": 2243205
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U15_Reading.mp3?versionId=2j5hMtE9nCGt_oD3EVoOJZM8dyOT7whw",
+    "mediaItemId": 2246396
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U16_Reading.mp3?versionId=7uEirKV76taERna7GJv51CphIIYfpV1X",
+    "mediaItemId": 2249310
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U17_Reading.mp3?versionId=chsF1eNnz6rwg4lzObI03oo3QlvLnUu4",
+    "mediaItemId": 2252366
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U18_Reading.mp3?versionId=QIKkHsMEesCtOVHyeRvooJKHR0zUZM8B",
+    "mediaItemId": 2255109
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U19_Reading.mp3?versionId=WLCBcfHQjDWcvRTyI8oqNb8PRHkXcOFi",
+    "mediaItemId": 2257910
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U20_Reading.mp3?versionId=9anLzzw.wR8CThmuzwqc1CskM2zSYbE6",
+    "mediaItemId": 2260621
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U21_Reading.mp3?versionId=M0k04oj3nYmXaiRjX6nNLE432N8t7FSr",
+    "mediaItemId": 2263040
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U22_Reading.mp3?versionId=AA9MVOnmRRr67k_eytYJZ4ktrfoP1tgA",
+    "mediaItemId": 2264831
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U23_Reading.mp3?versionId=dNC1.sCVKJfhXjpDl.6RqrHIbH.bKxNv",
+    "mediaItemId": 2265969
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U24_Reading.mp3?versionId=AgvihwQsx8WeRC_htw3_SdbsPYe6us68",
+    "mediaItemId": 2266490
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U25_Reading.mp3?versionId=aOQ5jO7gODZe5zvx7n7U8PvXaHc90PZC",
+    "mediaItemId": 2266976
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U26_Reading.mp3?versionId=GNG86lmwgeMzK38Pi6w1YjsfaPkgdCG7",
+    "mediaItemId": 2267348
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U27_Reading.mp3?versionId=byMeeKipGzVWpV8fqW9LD4f8npfR8yoM",
+    "mediaItemId": 2267863
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U28_Reading.mp3?versionId=Tq57R5x57EzsOqNEBwEtTz66z48N4tRL",
+    "mediaItemId": 2268272
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U29_Reading.mp3?versionId=HlkQn9IdOAE5WTNJhdJdib6qJ2xEwCdU",
+    "mediaItemId": 2268730
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%201%202018/asset/RL/9781508281085_Spanish1_U30_Reading.mp3?versionId=n.AGoKaFC6m7NpdwtsGN_AwSQ40Gwpz4",
+    "mediaItemId": 2269234
+    }
+    ]
+    },
+    "languageCode": "es-MX",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781508281085",
+    "level": 1,
+    "courseName": "Spanish Level 1 Premium",
+    "simpleCourseName": "Spanish Level 1",
+    "puArabic": false
+    }
+    ]

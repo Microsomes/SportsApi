@@ -1,0 +1,575 @@
+[
+    {
+    "courseId": 6427,
+    "languageName": "ESL Hindi",
+    "languageId": 137,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_01.mp3?versionId=h0.zH_n5eCUpz_OlXdL_xtWuU5u5q4_k",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323667,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_02.mp3?versionId=TmZmXL9C9PDBZR3tvLwfV649lX5XlCsy",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323671,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_03.mp3?versionId=fHP.CGD4vt8uiRaSRNlkiJWZpP0LGMeB",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323672,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_04.mp3?versionId=vWoaJ0RTxSCJ9b0fLuhLb06xjxeZCaoX",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323675,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_05.mp3?versionId=nqOqPhiGh7_AjJFdU54WSJ6FQ8Yg.snU",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323678,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_06.mp3?versionId=.xTAgN5R0n8_YJwCQbbT1mbgtGj3zQAX",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323681,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_07.mp3?versionId=pIC4p09Hct8BZ6MbYFr49tzp28C5Y2wR",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323684,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_08.mp3?versionId=1PGs6GKw1W89bPpfkvoCXyekJHkSEkDH",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323687,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_09.mp3?versionId=2cC0xmNWxRvy6Zvl5w8WlmKgl6Nb5Mob",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323691,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_10.mp3?versionId=wrgMGTmoI0zS9n0yfSoE.T.rAKI74LxN",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323693,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_11.mp3?versionId=cGfj.fQdsqFCAjqGrIPiFDj5PDfKow48",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323696,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_12.mp3?versionId=.jJhkJ5WzlSMRsZVUE0oXG_moiCxyQm4",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323699,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_13.mp3?versionId=_ogO6Is70zuVOo8ftwmTQtmucVZ0q0O8",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323703,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_14.mp3?versionId=H.f2VJEAttFaq0_s3gBfiCs4jwYUQx5N",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323708,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_15.mp3?versionId=NiBFkhUxqV2vN7J0bPWtMUzaneuxqIMn",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323712,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_16.mp3?versionId=cVLnz0l9gDjZOJ500i6XYUjI8HBDrsmt",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323717,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_17.mp3?versionId=759i5722zOXzfRLj8tkkGceVsT7w6cDR",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323719,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_18.mp3?versionId=N2xrrxgvUZzY1lT0BDcwFoTCfd7DRh07",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323722,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_19.mp3?versionId=9wJVR_OrEc5Qd7hDui1GrgtNB.T6gGAK",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323725,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_20.mp3?versionId=nMSL4Pepx3kUzvROYrr.IHXl3XHsp_f_",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323728,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_21.mp3?versionId=8ETWQRW2zj01bpv7vcbrpyML.HkKyhaJ",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323731,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_22.mp3?versionId=TrDtQMA_h6kLoGAqRvZs8txSxga_BNWA",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323733,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_23.mp3?versionId=xMJF_zEwENf.SoPKLW_L45aneldMwXgZ",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323736,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_24.mp3?versionId=UMXuPloVHhwACZ4IkvgXlBxXUoCbA1Gz",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323737,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_25.mp3?versionId=0KqPj7kA29GekV65ORnRLsm.UzXijwxQ",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323739,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_26.mp3?versionId=G2JRoA26zoiDWcPlvf.QULkpGEfZ5GOX",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323741,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_27.mp3?versionId=1lkQItcOreCtOuMiWKSif.mDkx8teyz3",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323743,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_28.mp3?versionId=AoajYYZFrgdQPsww7qzx7wECP1hIqYkH",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323744,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_29.mp3?versionId=DQhE3N7Lh7XutEZlzYr5OzTctthc80wY",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323746,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/language_image.jpg?versionId=RoZbBiN_Y9KozvXXjq8KG5Pc328Fn1Qz",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/main_audio/9781442373471_Unit_30.mp3?versionId=KNNYNqj4p2inVUFh0n2S8Qmo2Ciud3LH",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323747,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_ESL_Hindi_1_Bklt.pdf?versionId=k1uG63JYlyqd7zKRyYox6OEsNT79cKjH",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U01.mp3?versionId=K02yeIXH2TORyGZZg9AjtAZXGskeXEeJ",
+    "startPage": 7,
+    "pageCount": 1,
+    "mediaItemId": 2224191
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U02.mp3?versionId=2HMNKCblRMlvqRRLoYZLpemNkZEkIk5l",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2224504
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U03.mp3?versionId=fgRfAd.f0CwIu3B0m3sSNEk8VdbNOIrl",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2224767
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U04.mp3?versionId=o9vrqvrKktBIbaC5ebppb3NAoS_kQsVF",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2227305
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U05.mp3?versionId=PpvoB1u5xvYgXu9C_S5RgrgfNX1L_WA1",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2232712
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U06.mp3?versionId=YGp8zgCkg__Eyn13wZo3i5d8__J7uoNe",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2238582
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U07.mp3?versionId=6figQHv6vMUg0b2NGlFruso7q0NM.auV",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2243685
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U08.mp3?versionId=PHJPOIWJt1fPX0JBH7aOW2Ombf69OCWs",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2248711
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U09.mp3?versionId=0jlkOEYXnPbAaoCuKQDmIFfDxj6RPLs1",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2253697
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U10.mp3?versionId=_kS2oOjre0o65Yh4A0WjWMem1wWfLkY9",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2258759
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U11.mp3?versionId=UFwLRhV6ev0FVeedD4HTGeWvkj41iZOD",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2264068
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U12.mp3?versionId=4ixZDF2FxcJouXz.vVdpSpjD83G16Rag",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2269421
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U13.mp3?versionId=kXsUbGdCHyc_bms3IPqzZtdqFtwMNu8Y",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2274233
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U14.mp3?versionId=qau7rw3k2uTm8PiUGFKojC9ZGOYphuun",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2279321
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U15.mp3?versionId=BVFei478ysk5opGukKa4YZYQDFOtphHF",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2284467
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U16.mp3?versionId=b1Dhtd6JBXMnJxn5P904YBeFU4RUis63",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2289213
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U17.mp3?versionId=yue25RVHIixaWDtoQsOQnYgAuMoLzhlx",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2292518
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U18.mp3?versionId=2ANCqyVHE_f9T53ThBJusc04E4nPaIMB",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2295187
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U19.mp3?versionId=S7UoA7O1jovxTqT8GuGCGOLtqg0QCDAi",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2297673
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Hindi%20Speakers/English%20for%20Hindi%20Speakers%20Level%201%20orig/asset/standard_reading/9781442373471_Reading_U20.mp3?versionId=IO2C37Kc7UNevLXyIVJZkecFjoLn4PYU",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2299907
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442373471",
+    "level": 1,
+    "courseName": "English for Hindi Speakers Level 1",
+    "simpleCourseName": "English for Hindi Speakers Level 1",
+    "puArabic": false
+    }
+    ]

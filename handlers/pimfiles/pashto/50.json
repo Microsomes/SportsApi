@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 4505,
+    "languageName": "Hebrew",
+    "languageId": 150,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_01.jpg?versionId=Z7fueR_ijD6_K19okAWNeDY1Ek1_g9od",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_01.jpg?versionId=Zi.f37k93sg.laV5fWIaqWhBRR1Z_hcJ",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_01.mp3?versionId=PZfW7Om3.byISoWp3Jh0Kk8pZFJMvhmG",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2294586,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Israel is filled with entrepreneurs and has a high rate of college graduation. It has been referred to as \"Startup Nation\" because of all the successful tech startups launched there. The mobile navigation app Waze was founded in Israel and was eventually bought out by Google. Waze started the tech revolution in Israel and lots of other tech startups began popping up after that.",
+    "imageCredits": "NDStock / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_02.jpg?versionId=h_RG9n8Ftoqb7o6dgsuUjBWHMdmqkG8H",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_02.jpg?versionId=bXla9q0Y0YLxwNPUCthW9nNrOGW0oMLk",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_02.mp3?versionId=aT.RBnWqZwqOojBPfp8YKxm7bwUt7qCE",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2294825,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Abbey of the Dormition is recognized as the site of the death, also called the dormition, or the assumption, of the Virgin Mary. The basilica, built by a German Holy Land organization in the early 20th century, is located in Jerusalem atop Mount Zion. The building is circular with many altars inside, and two staircases lead to the crypt that is said to be the very site of the Dormition of Mary.",
+    "imageCredits": "Denis Kabanov / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_03.jpg?versionId=uWa0KpFK8mSEim8Yg4F8Vdbw9JeRzYrm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_03.jpg?versionId=FidF2lLEv6HGYnuyf09Xo1gfLXcd1wJH",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_03.mp3?versionId=YEF3B5.OTg9ToP5mbGtS0s_ikOCfBuBt",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2295103,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Western Wall, sometimes called the Wailing Wall, is the most holy prayer site in Judaism. The wall, or Kotel in Hebrew, is the only structure still standing from the compound of the ancient Second Temple.  A popular tradition is to take forty days of devoted prayer at the wall and in return be granted good fortune. The site is open year round and tours guide visitors along and below the Western Wall.",
+    "imageCredits": "picturejohn / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_04.jpg?versionId=4zwQCVbWlrzKML74VX_IxaFPJxYfdp.N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_04.jpg?versionId=8pfo7p8254zKQyTQCUq6A44J2s_0Zdh_",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_04.mp3?versionId=5uha4sC3lrFH6ImKXyjHURp3OD.EpUhp",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2295524,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "Thousands of visitors come to Jerusalem each summer to behold the international arts celebration known as Israel Festival. Dance, classical music, and theatrical performances are shown by world renowned artists. The massive arts showcase prides itself on being a space that provides a platform for inter-cultural encounters and dialogue.",
+    "imageCredits": "GALI TIBBON / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_05.jpg?versionId=3vQjOlTpr8qepetncghsvprZ66xxZuzJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_05.jpg?versionId=v.i_GJrl2pT_4YETwNrQ9xp5.wKxyd4K",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_05.mp3?versionId=DJIjmgW9_VKXw.82CnQryyGIYDCSbGCC",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2295816,
+    "cultureContent": {
+    "imageLocation": "Rosh Hanikra",
+    "imageDescription": "The seaside caves of Rosh Hanikra offer a spectacular view. From the top of the geological formation one can take a steep cable car down the side of the cliff to where the Mediterranean Sea crashes on the rocky shore. Down here are the grottoes, marine caves where people can see the water glowing bright blue from underwater apertures where the daylight is streaming in.",
+    "imageCredits": "vblinov / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_06.jpg?versionId=UI9i674J9jgM_6hqZ4ndQ1Z1rsVE1VHb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_06.jpg?versionId=E5130GFeJwEf8zSd1F0EF6qOI4.u5PC3",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_06.mp3?versionId=lh2U61flR8N.vwFLWgKM8onHJJllDhPD",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2296067,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Montefiore Windmill is a historic landmark outside of the walls of the Old City. Built in 1857, the flour mill was established to enable self-sufficiency in the Yishuv community of the Land of Israel, the Jewish residents prior to the establishment of the State of Israel.  Refurbished in 2012, the windmill no longer grinds wheat, but stands as a symbol of the Yishuv.",
+    "imageCredits": "RasikaSekhara / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_07.jpg?versionId=7Iqf1UZMiN6kFEzXjC1vZOeAQ9Wawr.S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_07.jpg?versionId=gEE46vtUJshUHSD58Vkkqkh9NfT7GsW_",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_07.mp3?versionId=pdHc1cZUNVEwwzOJcG_UYQTH2j2GTFEU",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2296377,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "The ToHa Towers in Tel Aviv are designed to make a minimal footprint on the land while providing extensive interior space for offices. The buildings take advantage of the bright Israeli sun to make solar power for lighting and heat, and a unique knit pattern on the exterior surfaces catches the wind to make natural ventilation.  The towers rise from the ground on slim, leg-like supports surrounded by open, tree-lined green spaces that the public can enjoy.",
+    "imageCredits": "Michael Jacobs/Art in All of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_08.jpg?versionId=v69BkNzQrRsPUD4lwWFNhjYBxSFAd4SW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_08.jpg?versionId=VCLm6FK_J0porelLxsdduHgga2mdKVzf",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_08.mp3?versionId=nEE11Bik5Gl3z6jIsHN0VNAPouw9QxF8",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2296637,
+    "cultureContent": {
+    "imageLocation": "Eilat",
+    "imageDescription": "The Israman Triathlon is held in a sparkling holiday resort on the Red Sea. The race offers full and half iron-distance triathlons. Participants must swim through the pristine waters of the Gulf of Eilat, bike through the nearby wind-swept desert hills, and run through the resort town of Eilat.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_09.jpg?versionId=ikSL9en_EO0tnWoGolKA1scwnyh4rN0t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_09.jpg?versionId=cQfAosWb7BhRMWATlGT6Uxl8iPTFX083",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_09.mp3?versionId=ujEksEIFyhxfCrxbPdIpy7oNWEqocnl2",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2296866,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Tel Aviv's minimalist Habima Square, designed by Israeli artist Dani Karavan, was completed in 2010.  The square hosts a number of cultural institutions, including Habima Theatre, the Helena Rubinstein Pavilion of Contemporary Art, and Jacob's Garden.  The plaza itself first looks like a vast, empty space, but an observer will notice the more intimate sunken garden and reflecting pool.",
+    "imageCredits": "Alexander Fansworth / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_10.jpg?versionId=N.ZGRt1ZsdhgQa_QQAOZ1P8P6n8Ogb_H",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_10.jpg?versionId=y5_Flu6Zkl13KeGOgaOzl1nq7EZbXYf6",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_10.mp3?versionId=xWGyTRO3bDtrKIzxTHVIGdHsxQOI2XZA",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2297213,
+    "cultureContent": {
+    "imageLocation": "Desert Ashram, Israel",
+    "imageDescription": "The Sufi Festival is a unique event that celebrates the mystical Sufism tradition of Islam. It takes place in an outpost in the southern desert called Desert Ashram, where there are by turns musical performances, workshops, meditation, vegetarian food, and delicious desert silence during the three-day event. The festival shares the music, dance and wisdom of Sufism that has been passed down from one generation to the next for centuries.",
+    "imageCredits": "Pacific Press / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_11.jpg?versionId=iiu8eaRVFyichk6B6AeLOdA0Xi.SlWFK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_11.jpg?versionId=NOUedDa.mcxG59yVPasr6t7jVZl6E4fE",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_11.mp3?versionId=ro9rwVGd_fIhumxvrfgfmKfYLoZt4stl",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2297455,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "The Reisfeld House is one of the many Bauhaus style buildings in Tel Aviv. Designed in 1935 by Pinchas Bijonsky, the elegant white residence was once home to wealthy tenants. It fell into decay in the 1980s but was resurrected in 2009. The rounded white exterior adheres to the Bauhaus principle \"less is more\" while creating a geometric spectacle with its symmetrical design.",
+    "imageCredits": "THOMAS COEX / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_12.jpg?versionId=hJE62zawidGemeIE3yuinlPyXdvMsG1S",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_12.jpg?versionId=ZL7ZUP.G9tY.uRgU_YaOh_dLeOO1yrY6",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_12.mp3?versionId=xzAHSNiYldmGlEp1F1dm9zGTN2xAjgDQ",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2297719,
+    "cultureContent": {
+    "imageLocation": "Golan Heights",
+    "imageDescription": "In Israel, one can travel two hours from sunny beach to snowy mountains. Mount Hermon ski resort is located in the northern part of Israel, a few miles from the Purple Line in the occupied Golan Heights, a place where the borders of Israel, Syria and Lebanon converge.  It is covered with snow during the winter season. When the conditions are not good for skiing visitors can mountain bike or ride the chairlifts to the top of the mountain.",
+    "imageCredits": "zepperwing / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_13.jpg?versionId=_vl.bhQfadRfoFBtIPpK8wslvb97uyuc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_13.jpg?versionId=zF1M1nP8t6LnnO_wE8pXTb4C77x3pbOS",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_13.mp3?versionId=PPMtbATVN5COBlrwwLLnuTGXaJdJx0sP",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2298004,
+    "cultureContent": {
+    "imageLocation": "Dead Sea",
+    "imageDescription": "The high salt content of the Dead Sea creates unique mineral formations protruding from the bright turquoise water. The salt crystals take different shapes based on the time of day and the weather conditions. The formations can look by turns like icebergs floating in the water or giant mushrooms sprouting on the surface of the sea.",
+    "imageCredits": "Ido Meirovich / 500px Prime / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_14.jpg?versionId=CKFIZBXQfMKQKd_HgeuqSX9ZEup7tVrE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_14.jpg?versionId=NaVnFBkCcfUIaNRLVgGRhCioq1sTN.ex",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_14.mp3?versionId=UgyAi16oVflZ5Agm.h9KqT88Gq14wSx4",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2298286,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Architecture in Tel Aviv is a striking blend of the old Bauhaus buildings and modern skyscrapers. While Tel Aviv is called the \"The White City\" for all the classic International and Bauhaus style white buildings, the current architecture styles bring color to the city.",
+    "imageCredits": "trabantos / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_15.jpg?versionId=eLJm2xAdMfKzUnkJ0iLbSDPVigYkwkTk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_15.jpg?versionId=xrWDrFZds.HCTsMo8kzrixsOefSFEskr",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_15.mp3?versionId=SMID8I9xmgSgX7B9APEFoAlrRoe9doqA",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2298541,
+    "cultureContent": {
+    "imageLocation": "Dead Sea",
+    "imageDescription": "Mud from the Dead Sea has a variety of benefits for health. The mud is filled with healthful minerals such as magnesium, sodium and calcium. Applying the mud topically to the body is thought to rejuvenate the skin and reduce inflammation.",
+    "imageCredits": "Sisse Brimberg/Cotton Coulson/Keenpress / National Geographic Image Collection / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_16.jpg?versionId=tQPIHlFvlqkPGNwgH737VFOZKEe1wubn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_16.jpg?versionId=UB4mDwTmVUXh7U1sNJLJQDTmAFiGhxSd",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_16.mp3?versionId=bGF3kYLzqRDCCmKZGvfI_FUjh5Mm1We0",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2298757,
+    "cultureContent": {
+    "imageLocation": "Ein Gedi, Israel",
+    "imageDescription": "Nubian ibex is a species of wild goats that live in the deserts of the Middle East and Northern Africa. These ibexes are characterized by their long curved horns and shiny tan pelts that reflect sunlight to keep them cool, as well as to camouflage them against the desert rocks. Hunted for years, now the species is considered to be in decline and is in conservation status.",
+    "imageCredits": "Nick Brundle Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_17.jpg?versionId=XzE8Isaa.7qOo.F4h7GM_J_AqOCRQbTP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_17.jpg?versionId=PwPJ623__4FdrDe4mwj5wzJpNCxizrGj",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_17.mp3?versionId=iKthJNbwuMXiB1zVZDL0mt_XJLV5bu5n",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2298987,
+    "cultureContent": {
+    "imageLocation": "Beer-Sheva, Israel",
+    "imageDescription": "An important World War One battle known as the Battle of Beersheba saw the taking of the heavily fortified town from the Ottoman Empire by Australian and New Zealander mounted troops. To mark the 100-year anniversary of the Allies' victory a reenactment was held in 2017.  Hundreds of Australian equestrians came to Israel to memorialize the largely overlooked historic event.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_18.jpg?versionId=Nl1dItXRRQ72_JnTeQE_H_cHTKizmAEe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_18.jpg?versionId=k5CzLgMDtl5r1UKQx62t2104EmPPOoJN",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_18.mp3?versionId=gg3mL.7hdMvFEAOWOZRtw8V0kVLl.aNN",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2299222,
+    "cultureContent": {
+    "imageLocation": "Gilboa, Israel",
+    "imageDescription": "The International Hot Air Balloon Festival makes use of the sweeping landscape of Mount Gilboa as the colorful balloons rise into the sky. Balloons of different shapes, and even some characters from popular culture, are exhibited at the event. Visitors can stand by all around and gaze as balloon pilots from around the world perform aerial maneuvers.",
+    "imageCredits": "MENAHEM KAHANA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_19.jpg?versionId=SBoNB1jshlgDCVnh_7yMcasspXcmtRNF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_19.jpg?versionId=cCVYYwoUVkT9eWxeN.B6RwJQnBRd8fk2",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_19.mp3?versionId=taQ_2PAcFmm8W.eyK.jvPEzEHm12z9RW",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2299488,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Maccabiah Games, also known as the Jewish Olympics, are held in the year after the summer Olympic Games. The first Maccabiah Games were held in 1932 at the first sports stadium in Tel Aviv.  The competition is open to Jews from around the world as well as Israeli citizens of any ethnicity or creed. The athletes compete in events such as swimming, track and field, and soccer.",
+    "imageCredits": "Michael Jacobs/Art in All of Us / Corbis News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_20.jpg?versionId=bUVRVKQgcPaANTPhLtkctMz08wsEg17o",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_20.jpg?versionId=c5Zk0Iz5Wtu60I4Uq97S0TrA4R2tJTjm",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_20.mp3?versionId=QRWlAWEOqENXIai8wugBl_Eewkwk0YQ2",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2299686,
+    "cultureContent": {
+    "imageLocation": "Eilat",
+    "imageDescription": "Eilat is a warm, sunny resort town nestled on the Red Sea on the southern tip of Israel. A pretty marina and also a working port provide access to the pure blue waters of the Gulf of Eilat and the Red Sea itself.  Eilat shares this spot with the Jordanian port of Aqaba, just across the border to the east, while Egypt lies just to the west.",
+    "imageCredits": "efesenko / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_21.jpg?versionId=N5dFtoxAgq1JeitGrXKt_gKOelen4PHB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_21.jpg?versionId=jPnl1afLs5iv41A7p0YxwiRu6k.G7j3t",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_21.mp3?versionId=t0cWAedr0DUIEVYy9gw9YiXNznN3EY8w",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2299897,
+    "cultureContent": {
+    "imageLocation": "Mitzpe Ramon, Negev",
+    "imageDescription": "Overlooking the desert and the Ramon Crater, the posh Beresheet Hotel offers a luxurious getaway in a unique geographical area. The hotel features full-service spas and crystal blue swimming pools complete with a spectacular vista. The architecture of the hotel is eye-catching, and Beresheet offers exclusive villas nestled into the hillside.",
+    "imageCredits": "Blaine Harrington III / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_22.jpg?versionId=kZnSvZkKvpP_1oMf6fHRG.To4ZJUmiKM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_22.jpg?versionId=MWaYraOVj_3jMx4KsW8DQ9TSyS7wPe57",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_22.mp3?versionId=MWajat0kmUYIsb7gR_hpHfHaGwxtTuw8",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2300142,
+    "cultureContent": {
+    "imageLocation": "Jaffa",
+    "imageDescription": "The beach in the old town in Jaffa has a laid-back feel.  There are no wave breaks, making it a good place for surfing on windy days.  After the beach, one can head into the old town for a seemingly endless variety of crave-worthy Mediterranean foods and fresh seafood that Jaffa is famous for.",
+    "imageCredits": "justinfoster / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_23.jpg?versionId=G2ujAIcq0D_9PSUa1u6Znyx_r0qsK3SI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_23.jpg?versionId=mds_K7Qlnpl0BSVNc4dqWTyKNrZ_tttd",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_23.mp3?versionId=6uLg.ai8GHxwxDfpushk6G.rxFuOiDx7",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2300323,
+    "cultureContent": {
+    "imageLocation": "Jaffa",
+    "imageDescription": "Jaffa, also known as Yafo, is the tourist hub of Tel Aviv. Restaurants, boutiques, and galleries line the ancient byways. Amidst the unique architecture you will find cafes serving famously delicious food, including world-class hummus and a traditional Israeli breakfast dish called shakshuka.",
+    "imageCredits": "anouchka / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_24.jpg?versionId=9vbYWyguerr2IRImtSzdEsX1IE9wwjHG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_24.jpg?versionId=Yv25GkDiDe2EN7KHVz664WB2i6qtIuvQ",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_24.mp3?versionId=i40ao_qWOM2Rzg_YRU7BUUJsNmr.4a1A",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2300471,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The famous bell tower and three archways make the YMCA of Jerusalem one of the most recognizable landmarks in Israel.  Definitely not your typical Y, it has a restaurant and a hotel, as well as a concert hall, bilingual preschool, and other educational institutions. The Y strives to encompass all religions while offering athletic, cultural and educational opportunities.",
+    "imageCredits": "Barry Winiker / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_25.jpg?versionId=vmNvDzP5fvb0NomjHtHq5l83fU3.KTYH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_25.jpg?versionId=eX8D0kUL3ZYI7D6aaIYYfRTftVepq4mv",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_25.mp3?versionId=B542ofNUq0nNm7nZ1ac49cDL6HZbdGt9",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2300679,
+    "cultureContent": {
+    "imageLocation": "Acre",
+    "imageDescription": "The northern port city of Acre, or Akko, has a tumultuous history, being ruled in turns by seemingly every nation in the ancient Orient, including  Persians, Greeks, Romans, Jews, Byzantines, Crusaders, and Ottomans. It has served as an important Levantine waypoint through the ages, and is now recognized as a UNESCO World Heritage Site.  Today it has a rich mix of faiths; Jews, Muslims, and Christians alike, and is actually the holiest city in the Bahá'i faith.  People can take a day cruise from the city's marina and check out the old city walls.",
+    "imageCredits": "RuslanDashinsky / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_26.jpg?versionId=jedmWwGFR0bb8P2lkiUPmhsPNRO4_daT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_26.jpg?versionId=r8qhT9T8FMhGe5Ldr7PoIaOjMoA4ZB89",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_26.mp3?versionId=yDd04hsDh5a5W0FA5Rxuqucb6O2FY6jr",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2300897,
+    "cultureContent": {
+    "imageLocation": "Haifa",
+    "imageDescription": "Israel's only subway, and one of the word's smallest, is located in Haifa. Called the Carmelit, it is actually a funicular railway, meaning that it goes up a steep incline using a cable. It takes passengers up through Mount Carmel, with stops at tourist attractions and a hospital along the route. The little train was built in the 1950s, at the time serving the city's population center.  But the population center of Haifa has since shifted, and ridership on the Carmelit is today is rather low.",
+    "imageCredits": "Hanan Isachar / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_27.jpg?versionId=Dw0eK5AJKRFqImR.cll1U71ESET4..yI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_27.jpg?versionId=Lfu7F4DRT62esbn2lbGPRDuiO0aZhLNC",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_27.mp3?versionId=7pZl.riLNbvv44Ky1xa54zsHe0KKGb5j",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2301014,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Tel Aviv is Israel's biggest, most modern city, as well as its financial center.  This status is reflected in its skyline, which is full of stunning glass skyscrapers. The first one was constructed in 1965, and it also was the first skyscraper in the Middle East.  Construction of such towers in Tel Aviv continues at a good clip in the 21st century.",
+    "imageCredits": "EnginKorkmaz / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_28.jpg?versionId=rk57CykVoXSdFV0nc8xXJA4bvOqnvjss",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_28.jpg?versionId=Uq9l34y2TxfxWALbQ1xFP5.cAsTM1h1j",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_28.mp3?versionId=YIJdiPFubnSUdIpdqnqsPKiFDNiVo6KX",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2301128,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Located at a busy intersection in Tel Aviv is Habima Square. The cultural hub is an oasis designed in a minimalist style that showcases the refurbished Habima Theatre. Ha bima translates to \"the stage\" in Hebrew, and the Habima is considered the national theater of Israel.  Begun actually in Belarus in 1912, it moved to Tel Aviv during the Palestine Mandate period, serving an important function in the preservation of Jewish language and culture.  The original theater went through an extensive renovation and reopened in 2012, in the minimalist style that characterizes the square.",
+    "imageCredits": "Alexander Farnsworth / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_29.jpg?versionId=W6PRZoJRVHSaLDbFo3.ZV1nvDiQq_ZwX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_29.jpg?versionId=zi0wsA6Sq9CHix1jAKket0jWczd3s11V",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_29.mp3?versionId=rT2FkZ2.lPs3U6mDnXenPi3RHek6EcVV",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2301224,
+    "cultureContent": {
+    "imageLocation": "Tel Aviv",
+    "imageDescription": "Ben Gurion airport, named after Israel's first prime minister, is located on the outskirts of Tel Aviv and is Israel's main international airport. Because the airport is visited by travelers from all over the Middle East, Ben Gurion is known for its high security and police presence. The airport is conveniently located between Tel Aviv and Jerusalem, and ground transportation in both directions is plentiful.",
+    "imageCredits": "Alexander Farnsworth / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/full/HE_3_M_30.jpg?versionId=UKMu7HDba8oi9rEAh9KtpjuGVy.8Bx5U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/lesson_photo/thumb/HE_3_M_30.jpg?versionId=xps7VDjLe8g.7xxcwvnnwUqgyKQPgqwv",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/main_audio/9781797114552_Hebrew_3_Lesson_30.mp3?versionId=v1cPDXwMDsjBp_geRxtohZueZ2FdGJmR",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2301350,
+    "cultureContent": {
+    "imageLocation": "Jerusalem",
+    "imageDescription": "The Shrine of the Book complex at the Israel Museum, Jerusalem houses the famous Dead Sea Scrolls. The unique dome shape of the building represents the lids of the jars in which these precious scriptures were discovered.  The writings on these scrolls serve as invaluable evidence of the Hebrew Bible, which in turn has informed the doctrines of Christianity and Islam. Visitors may go inside the building to view the scrolls that were found in the desert at Qumran in 1947.",
+    "imageCredits": "Glow Images / Glowimages / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew Level 3 orig/asset/RL/9781797114552_Hebrew_3_Alpha.pdf?versionId=01U9_W_VF2asM.lz.nJQNjm62nkZJ35_",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew Level 3 orig/asset/RL/9781797114552_Hebrew_3_Intro.pdf?versionId=ECSRfA0pY8fKkjYL2Y0r4E6YyErpE_X3",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_01.mp3?versionId=SJMxMHQIvS0Q2Q7ClimO_c7r8z3mAlxH",
+    "mediaItemId": 2223769
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_02.mp3?versionId=C1aYK7AZ6W2lEm_poNO1FN.Da3gZLEKW",
+    "mediaItemId": 2223867
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_03.mp3?versionId=Kaiy6ZEmCfvQk_KBthrGSk3iXQYhbqfX",
+    "mediaItemId": 2224078
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_04.mp3?versionId=G1mb.UjgBKsNCAP6nHY5ASjGMBFTkTMF",
+    "mediaItemId": 2224210
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_05.mp3?versionId=.uHFf7WCRo.EbVZH3zUbsqC7_O_mCybj",
+    "mediaItemId": 2224414
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_06.mp3?versionId=GANbm.uHVbwubQrQt6bUwi66xxq2iMD0",
+    "mediaItemId": 2224549
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_07.mp3?versionId=45mb5YAXGIJgBVDCgjQu_t.wgrMPAXEP",
+    "mediaItemId": 2224726
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_08.mp3?versionId=VytneUCmFCe734hnD7brsUSPlb4CX9t2",
+    "mediaItemId": 2225057
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_09.mp3?versionId=uS8swQl2rZ6QHaVFLSXcVLaJSyixJLbi",
+    "mediaItemId": 2226651
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_10.mp3?versionId=2Q8C9fIEcDiJ.wy99Ln9BIWmGVSDbfEu",
+    "mediaItemId": 2229379
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_11.mp3?versionId=exiDkJ8Glf1SP1VCTLHtsv31N3eM1AiF",
+    "mediaItemId": 2232762
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_12.mp3?versionId=Rpxv6v3_bpphwRITmK49yvxqvFGH_DHi",
+    "mediaItemId": 2236489
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_13.mp3?versionId=wgl2HhlryfIMpM.U_Tdqtlb5HQgCpXrY",
+    "mediaItemId": 2239735
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_14.mp3?versionId=wKh00j_y3FTXLF8gO5.TlbMQyBVvHXro",
+    "mediaItemId": 2242743
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_15.mp3?versionId=GGoyDt_1uydNq_mFZKgEw4E_sxxM95jF",
+    "mediaItemId": 2245879
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_16.mp3?versionId=P7vLWhg8u4ffKdyn6dbEjin.BhWhRYoN",
+    "mediaItemId": 2248775
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_17.mp3?versionId=qDWKT8pjjlKKPOmsFtHPSU07kGcDUNIr",
+    "mediaItemId": 2251769
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_18.mp3?versionId=XJn4SV2jsLgzNB89nUDXFsBdsYkIdZAq",
+    "mediaItemId": 2254605
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_19.mp3?versionId=lXwRZl6HGzL659Mq.8197qu9qEgEXS1q",
+    "mediaItemId": 2257398
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Hebrew/Hebrew%20Level%203%20orig/asset/RL/9781797114552_Hebrew_3_Reading_Lesson_20.mp3?versionId=w6TitObXROkihs6jc_kpck4jZQtpmqtg",
+    "mediaItemId": 2260159
+    }
+    ]
+    },
+    "languageCode": "iw-IL",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797114552",
+    "level": 3,
+    "courseName": "Hebrew Level 3 Premium",
+    "simpleCourseName": "Hebrew Level 3",
+    "puArabic": true
+    }
+    ]

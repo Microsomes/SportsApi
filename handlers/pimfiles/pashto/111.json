@@ -1,0 +1,625 @@
+[
+    {
+    "courseId": 3981,
+    "languageName": "ESL Spanish",
+    "languageId": 143,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_01.jpg?versionId=NwiYTeQ13RImg_CpOHGpMgrv0Ri0nVd8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_01.jpg?versionId=tc87F9AtARJQVqpski7MAs7cN6LYHKht",
+    "credits": null
+    },
+    "name": "Lección 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U01_Lesson.mp3?versionId=R82Bbjnfa9nOeTT8EaSs9XehZ.td4s9U",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2225854,
+    "cultureContent": {
+    "imageLocation": "Jersey City, New Jersey, USA",
+    "imageDescription": "En los Estados Unidos, siete de cada 10 mujeres de los 16 a los 34 años trabajan fuera de la casa, y aproximadamente 30% del total de mujeres tienen grado universitario.",
+    "imageCredits": "Tetra Images / Brand X Pictures / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_02.jpg?versionId=F5mtVL0HpXp_8iUNLGFtMyY8AKgeZOI5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_02.jpg?versionId=VSZDRUtnOjpruJE6jyG284FLV3CKdZXW",
+    "credits": null
+    },
+    "name": "Lección 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U02_Lesson.mp3?versionId=26EWy1ScuYbTUhs.tHIybTZ90iyhQL7v",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2226014,
+    "cultureContent": {
+    "imageLocation": "Desierto Black Rock, Nevada, USA",
+    "imageDescription": "El géiser Fly se creó cuando en 1964 un grupo de trabajadores perforó un pozo en un terreno de propiedad privada.   Las aguas termales se filtraron por las grietas del pozo, arrastrando minerales disueltos que se acumularon para formar el montículo travertino. Chorros de agua salen constantemente y alcanzan una altura de 5 pies en el aire. Las algas, que crecen en abundancia en ese clima cálido y húmedo, le dan al agua sus brillantes colores.",
+    "imageCredits": "Ropelato Photography; Earthscapes / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_03.jpg?versionId=KhGgWMsWD6JNCrbznIKXYbt6.C3gzEz4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_03.jpg?versionId=dQmyR_PDR2X03SEBYuF4FqDug5VS0a9W",
+    "credits": null
+    },
+    "name": "Lección 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U03_Lesson.mp3?versionId=gK_hMxFBikrF2Tn8ZKyN5mZyYVKlRBxR",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2226191,
+    "cultureContent": {
+    "imageLocation": "Boston, Massachusetts, USA",
+    "imageDescription": "La celebración de los fuegos artificiales del 4 de julio de los Boston Pops, comenzó en 1974 en Massachusetts. Todavía, después de más de 40 años, casi medio millón de personas se reúnen a las orillas del río Charles para oír a la orquesta de los Boston Pops y ver los fuegos artificiales.",
+    "imageCredits": "Rick Friedman / Corbis Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_04.jpg?versionId=1it1AC62P93gViS_5WkqLGDw8jtiHqxd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_04.jpg?versionId=98DPkGmHoXuRkUjxg2hT892lRxtL.n10",
+    "credits": null
+    },
+    "name": "Lección 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U04_Lesson.mp3?versionId=9EDaCpI5EUIQ5zMydA7lL17ztaZLoPTe",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2226433,
+    "cultureContent": {
+    "imageLocation": "Milford Sound, Nueva Zelanda",
+    "imageDescription": "Milford Sound es un fiordo ubicado en el suroeste de la isla Sur de Nueva Zelanda. No se le prestó mucha atención hasta los años 1800s; al fiordo se le ha considerado como la mayor atracción turística en el mundo y como la Octava Maravilla del Mundo. A pesar de que se encuentra en una región remota y de difícil acceso, es uno de los destinos más populares de Nueva Zelanda.",
+    "imageCredits": "Wnjay_wootthisak / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_05.jpg?versionId=f7HFGvveRUoiJq8K9mAICi.H00FFLRXp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_05.jpg?versionId=bxkyJL1gqS7TIWy0k_4r4nVSKqOZ7j9p",
+    "credits": null
+    },
+    "name": "Lección 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U05_Lesson.mp3?versionId=rfam5JjGOmLZGBWaVn9EtoAoKRkAeB5T",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2226706,
+    "cultureContent": {
+    "imageLocation": "Nugget Point, Nueva Zelanda",
+    "imageDescription": "El faro en Nugget Point se alza por encima de “The Nuggets” (Las pepitas), rocas grandes erosionadas por las olas, diseminadas por el terreno y que sirven de hogar a todo tipo de animales, desde pingüinos hasta  focas. Se  pueden ver delfines y ballenas en las aguas cercanas.",
+    "imageCredits": "Nathan Kaso Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_06.jpg?versionId=DC90laNLxrkZVsFM8Jdd03RgjzFWWJyD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_06.jpg?versionId=voD4RyT9JYsDpD.l6o0zLLUCHNKFCTUZ",
+    "credits": null
+    },
+    "name": "Lección 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U06_Lesson.mp3?versionId=0hTTxiwj9euEOBNNEjw8DwTBkvqJvhMl",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2226990,
+    "cultureContent": {
+    "imageLocation": "Boston, Massachusetts, USA",
+    "imageDescription": "Esculpido por Cyrus Edwin Dallin, el monumento a Paul Revere muestra a Revere en su famosa cabalgata de medianoche durante la Guerra revolucionaria de los Estados Unidos. En la cercana iglesia Old North fue donde Revere proclamó la famosa frase: “Una si vienen por tierra, dos si vienen por agua”. El sacristán de la iglesia debía señalar a los colonos si las fuerzas enemigas venían por tierra, colocando una linterna en la ventana de la iglesia, o dos linternas si venían por agua, cruzando el río Charles.",
+    "imageCredits": "Exies / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_07.jpg?versionId=ZyU16L9nXkLdoOL5Ig9Iwo18Ym.LasY8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_07.jpg?versionId=o5ChqyyUVsa6.O2q_LTNpSS5mbvyjpCG",
+    "credits": null
+    },
+    "name": "Lección 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U07_Lesson.mp3?versionId=JjLjsN1vlgrQgVXxF5mB6kOSp1m_rbzK",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2227334,
+    "cultureContent": {
+    "imageLocation": "Steamboat Springs, Colorado, USA",
+    "imageDescription": "A pesar de que es conocida como “La ciudad del esquí USA” (Ski Town USA), Steamboat Springs también es famosa por su red de caminos de montañas y ciclovías. Situada en la cordillera Northwest Rocky Mountain, es el lugar perfecto para ver los majestuosos Árboles de Aspen, que crecen muy bien en el clima de la montaña.",
+    "imageCredits": "David Epperson / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_08.jpg?versionId=yyij71gfbgDTHckefplzVXlhkDvrV45U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_08.jpg?versionId=ehKz6VOl.PSOTGTCwx8QXG4NIC0aKhEP",
+    "credits": null
+    },
+    "name": "Lección 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U08_Lesson.mp3?versionId=OpAMbaacPgC05E5iUd3bHmC125.r2IFx",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2227566,
+    "cultureContent": {
+    "imageLocation": "San Antonio, Texas, USA",
+    "imageDescription": "El Álamo es el sitio donde en 1836 se libró una batalla entre los colonos de Texas y las fuerzas mexicanas que querían retomar la tierra.Aunque la batalla duró sólo 90 minutos, fue la culminación de un asedio de 13 días y es la batalla más celebrada en la lucha de Texas por su independencia. Las tropas mexicanas superaban en número a las de Texas pero estos decidieron quedarse y luchar, a pesar de que los esperaba una muerte casi segura. El Álamo, ahora un monumento nacional, es un símbolo perdurable de la libertad y valentía de los Estados Unidos.",
+    "imageCredits": "Dean_Fikar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_09.jpg?versionId=3tZ3DWiJJTaWPg7Da8zoeHLV7cx7SXIr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_09.jpg?versionId=5RBJqGSfu_ONsaGNm3lM_grtY7TEVhxJ",
+    "credits": null
+    },
+    "name": "Lección 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U09_Lesson.mp3?versionId=Wh7lxRBPsB0.eRoQpkPz1Q3nrQvU8CHx",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2227825,
+    "cultureContent": {
+    "imageLocation": "Isla de Skye, Escocia",
+    "imageDescription": "A la luz del atardecer, un camino serpentea a través de la zona de derrumbe Quiraing, El movimiento del terreno ha creado altos acantilados, mesetas escondidas y pináculos de roca, con nombres como La prisión, La aguja, La mesa; se dice que fue aquí donde los habitantes del área escondieron sus ovejas de los vikingos.",
+    "imageCredits": "Sara_winter / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_10.jpg?versionId=NFbMZnm2ukSNBopZ2HbY7fpj5C3sdgwt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_10.jpg?versionId=BrBDtD61_fRV5sWBHSH_WtueoFPT8xRJ",
+    "credits": null
+    },
+    "name": "Lección 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U10_Lesson.mp3?versionId=YKsKcv_JUfr1NGwq1cutbjmznCbH8KVy",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2228382,
+    "cultureContent": {
+    "imageLocation": "Represa Hoover, Nevada, USA",
+    "imageDescription": "Ubicada en la frontera entre Nevada y Arizona, la represa Hoover tiene una altura de 726.4 pies y una longitud de 1.244 pies. En 1928, el Congreso autorizo el proyecto con el fin de contener al río Colorado, y así controlar las inundaciones, brindar irrigación y producir energía hidroeléctrica. Durante la Gran Depresión, miles llegaron al cañón Black y por cinco años construyeron, lo que en su tiempo fue la estructura de concreto más grande del mundo. El proyecto se terminó en 1936 y desde entonces se ha convertido en una gran atracción turística, con casi un millón de visitantes por año.",
+    "imageCredits": "Bob Stefko / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_11.jpg?versionId=QVR980NR4VzIzFd0wrfKhjhnmdU2k1CJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_11.jpg?versionId=81IjnBqytqods4N4rj_7uLaFc30exrVO",
+    "credits": null
+    },
+    "name": "Lección 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U11_Lesson.mp3?versionId=l82SbgPkWLDTh3JA4Nw7p56hIIHHlT0t",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2228730,
+    "cultureContent": {
+    "imageLocation": "Cañón de Antílope, Arizona, USA",
+    "imageDescription": "El cañón de Antílope, en territorio navajo, es uno de los cañones estrechos más fotografiados en los Estados Unidos. El área es propensa a inundaciones, y con el tiempo las rápidas corrientes de agua gastaron la roca de arenisca, creando un pasaje estrecho y profundo lleno de patrones y formas espectaculares.",
+    "imageCredits": "Mint Images - Frans Lanting / Mint Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_12.jpg?versionId=wVk60JwoAaacljZ7hqcMkmqMh4yRfdel",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_12.jpg?versionId=RFZ3FZ0g0nsl8sx1X4y_ZFWiABJzxZIe",
+    "credits": null
+    },
+    "name": "Lección 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U12_Lesson.mp3?versionId=V0NOz20.kHdJ6vp7vFfpH4DXkGhSdmv.",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2229148,
+    "cultureContent": {
+    "imageLocation": "Sierra Nevada, California, USA",
+    "imageDescription": "En el parque nacional Sequoia, los árboles se alzan muy por encima de los visitantes. Dentro de los 404.064 acres del parque está el Giant Forest, (Bosque gigante) donde se encuentran cinco de los diez árboles más altos del mundo. Aquí se incluye el General Sherman, árbol que mide 275 pies de altura; es el más alto del mundo.",
+    "imageCredits": "Neale Clark / Robertharding / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_13.jpg?versionId=yp8k7gaUtvZQp8eWYbAHIiMLMQ8NI2ld",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_13.jpg?versionId=uisackZwCThl06YQ3BGa_zkw5XfGRQZD",
+    "credits": null
+    },
+    "name": "Lección 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U13_Lesson.mp3?versionId=aiUhW.etmepUR7EZxkpnSmGFAZ_l5pL3",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2229483,
+    "cultureContent": {
+    "imageLocation": "Seattle, Washington, USA",
+    "imageDescription": "Desde Kerry Park, la escultura de acero “Changing Form” (Forma cambiante) enmarca el monte Rainier. La montaña no es sólo la más alta del estado de Washington sino que también es un volcán activo, considerado como uno de los más peligrosos del mundo.",
+    "imageCredits": "David Hogan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_14.jpg?versionId=KpK9Qq5eIRYMd52VGBDfEy_RyvPw8MEW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_14.jpg?versionId=Es8rN907K2kuXK3uYw0nL1VA15felbei",
+    "credits": null
+    },
+    "name": "Lección 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U14_Lesson.mp3?versionId=kvgsLTvnPCSp6rOa3j5LnOG8Bu5Kcb32",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2229827,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "B-boying o breakdancing es una danza atlética que posiblemente tiene raíces en la gimnasia y las artes marciales. El “breaking” se desarrolló en Nueva York, pero esta tradición del hip-hop se regó por todo el mundo.",
+    "imageCredits": "Dream Pictures/Jensen Walker / Blend Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_15.jpg?versionId=26iIzBpJ8YLPwQmx_IoGr0V0syXO6QkW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_15.jpg?versionId=twC_wS1.0fzp7hTzGJNGxP6UTx8tQsEb",
+    "credits": null
+    },
+    "name": "Lección 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U15_Lesson.mp3?versionId=SbZ.NcxSyz8X5l51T3CLw9XLk6Ds619U",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2230135,
+    "cultureContent": {
+    "imageLocation": "Port Clyde, Maine, USA",
+    "imageDescription": "El faro y museo Marshall Point, que se construyó por primera vez en 1832, atrae a miles de visitantes cada año. Salió en la película Forest Gump.",
+    "imageCredits": "Compassandcamera / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_16.jpg?versionId=o3gM0bSHAWxuO1_npM9Cg5jisEyYKqb2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_16.jpg?versionId=0zFIrsw4_7lBmaDDoi1S3WBwYsyMdXk8",
+    "credits": null
+    },
+    "name": "Lección 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U16_Lesson.mp3?versionId=Z5bw9E0b3MZMfqckEsXI4Gm1oDOAbTft",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2230531,
+    "cultureContent": {
+    "imageLocation": "30 Plaza Rockefeller, Ciudad de Nueva York, Nueva York, USA",
+    "imageDescription": "En el simbólico rascacielos de 70  pisos conocido como 30 Rock se encuentran los estudios de NBC, desde donde se  transmiten programas muy populares de la televisión como “Tonight Show” y “Saturday Night Live”. La plaza de abajo cuenta con una pista de patinaje y en la Navidad se exhibe un enorme árbol muy decorado.",
+    "imageCredits": "Mike Kirk / Loop Images/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_17.jpg?versionId=tBA.XguEgVV6TgwhLKSrFYU6R51faTNs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_17.jpg?versionId=9ZkESi839wpUp8Fr4FiEQPnN022uD8Ag",
+    "credits": null
+    },
+    "name": "Lección 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U17_Lesson.mp3?versionId=fQbIfD_VZm7g2UENNFePTZ1HyemM20FV",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2230970,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "En 1891, para lograr que sus estudiantes se mantuvieran en forma durante los largos inviernos de Nueva Inglaterra, un instructor de educación física en Springfield, Massachusetts, inventó el básquetbol. Hoy día el básquetbol se juega en todos los países del mundo, pero es más popular en los Estados Unidos, en Filipinas y en Australia.",
+    "imageCredits": "Harry How - Staff
+    Editorial / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_18.jpg?versionId=EovlRi7R1Fumo1h0r4tN6S47Kx1CllrS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_18.jpg?versionId=O3H400DmVvWZ1gA9aoxyjujpql95ASlc",
+    "credits": null
+    },
+    "name": "Lección 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U18_Lesson.mp3?versionId=iw727dNcee1.UTMApGxZY59z.YuVqpBq",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2231371,
+    "cultureContent": {
+    "imageLocation": "Jardín de los dioses, Colorado, USA",
+    "imageDescription": "En Colorado se encuentran 114 lugares de áreas naturales federales protegidas, incluyendo cuatro parques nacionales, ocho monumentos nacionales y 42 reservas de zonas vírgenes. El Garden of the Gods (El jardín de los dioses) es un lugar de referencia que está incluido en el registro nacional y es un sitio popular para escalar rocas.",
+    "imageCredits": "Keith Ladzinski / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_19.jpg?versionId=XCTbDlCgIAeOD6kJkEIQqbaaZxGXIsKF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_19.jpg?versionId=Fe.yvB2PrgBTASM9JLQzMRALLebURId6",
+    "credits": null
+    },
+    "name": "Lección 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U19_Lesson.mp3?versionId=cNJlcofhiluBNuqB.J4DAV5HHt6Kyi_s",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2231725,
+    "cultureContent": {
+    "imageLocation": "Puente High Trestle Trail, Des Moines, Iowa, USA",
+    "imageDescription": "El río Des Moines tiene una longitud de más de 525 millas y cuenta con más de 300 puentes, como el High Trestle Trail Bridge, un puente de media milla para el tráfico de peatones y bicicletas. Se terminó en el 2011 y fue designado por la BBC como uno de los ocho puentes peatonales más increíbles del mundo.",
+    "imageCredits": "Eddie Brady / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_20.jpg?versionId=ioYv5C8FiQjS8qmCdR.O8Pj8Vk54M1dI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_20.jpg?versionId=_LvMOaLt4ibxvEsGov6EiDcasmC8bSGH",
+    "credits": null
+    },
+    "name": "Lección 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U20_Lesson.mp3?versionId=ht4MFaleHibMyn2kVUoaRVBdKqUyGTiX",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2232090,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "La música bluegrass nació en Appalachia a finales de 1940, y tiene sus raíces en la música de Irlanda, Escocia, Inglaterra y la música tradicional de África. Esta música usa instrumentos como el violín, el banjo, la guitarra, la mandolina, el contrabajo vertical y a menudo una armónica para crear un sonido único.",
+    "imageCredits": "Owen Franken / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_21.jpg?versionId=Wd.7xXJNG8yyXJZKXQ.8DXogBztaELx5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_21.jpg?versionId=oGzsRA6G8HklHooaBat8ZpXgGZlq.BSj",
+    "credits": null
+    },
+    "name": "Lección 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U21_Lesson.mp3?versionId=Kc6Re91P1AZKpMJ7IjOF.DhD2WicsJ0H",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2232630,
+    "cultureContent": {
+    "imageLocation": "Parque Ute Mountain Tribal, Colorado, USA",
+    "imageDescription": "Desde tiempos prehistóricos, el hombre ha vivido y ha visitado el parque Ute Mountain Tribal Park, en Colorado. Los petroglifos tallados en las rocas y las pictografías que se han pintado sobre ellos se han atribuido al pueblo ute, cuyas tradiciones orales contienen relatos de la creación de su pueblo entre las rocas enérgicamente formadas.",
+    "imageCredits": "John Elk III / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_22.jpg?versionId=760Vekyz1uIYP_apgFWf._DM_PLW4SSP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_22.jpg?versionId=2eX9nw8nUCsmFJr5i5W3tp_ITgl.zZ3A",
+    "credits": null
+    },
+    "name": "Lección 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U22_Lesson.mp3?versionId=mCwrNr1LnGJPAKkwduzqb3Xn_R1AzI_V",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2232993,
+    "cultureContent": {
+    "imageLocation": "Las Ramblas, en San Antonio, Texas, USA",
+    "imageDescription": "A  San Antonio Riverwalk ( Las Ramblas de San Antonio) se le ha llamado “La Venecia de América”.  Las dos aceras paralelas se extienden por debajo del nivel de la calle y allí se encuentran restaurantes, museos, tiendas y parques. El Riverwalk también lo llevará a las cinco misiones españolas, que son parte del Patrimonio de la Humanidad. Cada cierto número de años el río se drena con el fin de limpiarlo y se celebra un Festival del barro, donde se corona a un rey y a una reina del barro.",
+    "imageCredits": "Adam Jones / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_23.jpg?versionId=kGEz7woy5SurpPmCxp.yvTKIJZpkn5eq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_23.jpg?versionId=P1ObrniKu9B7vqiS4liwRTLPkD1sBlUM",
+    "credits": null
+    },
+    "name": "Lección 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U23_Lesson.mp3?versionId=tvlWe_rF_YfE61391N_se1wGOcg1xd7D",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2233412,
+    "cultureContent": {
+    "imageLocation": "Minneapolis, Minnesota, USA",
+    "imageDescription": "El Museo de arte Weisman es un museo con fines educativos en la Universidad de Minnesota. Este museo tiene de todo, desde cerámica de los indígenas americanos hasta muebles de Corea. El edificio tiene dos fachadas diferentes, dependiendo de cómo uno las mire. En una de ellas el ladrillo y la piedra combinan bien con los otros edificios a su alrededor. En la otra, los bloques en acero inoxidable representan una cascada y un pez.",
+    "imageCredits": "russellkord.com / age fotostock / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_24.jpg?versionId=lyqeJVGrGy2izJGLSIiYOR0qn7b3LWSa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_24.jpg?versionId=Ti03ySXzu5UNBMagc2ooWT_RFZDAJn8U",
+    "credits": null
+    },
+    "name": "Lección 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U24_Lesson.mp3?versionId=rlMli0eyl7.vEz0lfV85u37wddlPpXIR",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2233971,
+    "cultureContent": {
+    "imageLocation": "Cultura de los Estados Unidos",
+    "imageDescription": "La estatua en homenaje a Martin Luther King Jr. Cerca al National Mall en Washington, DC conmemora la vida de este clérigo y activista de los derechos civiles, que luchó por la igualdad y fomentó la resistencia pacífica.",
+    "imageCredits": "Joe Raedle / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_25.jpg?versionId=5mT2xpxN6WbsSLKIo21Q_jx79tsAoVqk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_25.jpg?versionId=7Qr.BAyKDPabAAKI.7lo8pepysQsbx7o",
+    "credits": null
+    },
+    "name": "Lección 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U25_Lesson.mp3?versionId=1YMzHFAvJoETxPHBB_f9.odofAM7mpID",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2234343,
+    "cultureContent": {
+    "imageLocation": "El Memorial Afromericano de la Guerra Civil, Washington DC, USA",
+    "imageDescription": "El Memorial afromericano de la Guerra Civil, “The Spirit of Freedom” (El Espíritu de la libertad), conmemora los cientos de miles de soldados que formaron parte de las Tropas de color estadounidenses (United States Colored Troops) (USCT). Los regimientos estaban formados por soldados afroamericanos, indígenas estadounidenses, asiáticos-americanos, soldados nativos de Polinesia y otros. Hacia el final de la guerra, estos regimientos constituían aproximadamente una décima parte del Ejército de la Unión.",
+    "imageCredits": "Stephen St. John / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_26.jpg?versionId=QDaRZZQSrvJUVTCfY8zfT3ApJcNzK1OQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_26.jpg?versionId=KRCYBmaGwYA7HpDZ5E8vVq.SJmbo47Aj",
+    "credits": null
+    },
+    "name": "Lección 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U26_Lesson.mp3?versionId=QfaYWEARzMd6FERziqPqHvq8dgQK.5y2",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2234721,
+    "cultureContent": {
+    "imageLocation": "Capilla en honor a Mildred B. Cooper, Bella Vista, Arkansas, USA",
+    "imageDescription": "La capilla en honor a Mildred B. Cooper (The Mildred B. Cooper Memorial Chapel) es un sitio sereno y espiritual, perfecto para entrar en comunión con la naturaleza.  La vista entre los Arcos Góticos anima a los visitantes a que se conecten con el mundo a su alrededor.  La familia de Mildred Cooper construyó la capilla para celebrar la vida de esta simple  mujer, administradora de correos y propietaria de una tienda, que participó mucho en su comunidad.",
+    "imageCredits": "Eddie Brady / Lonely Planet Images/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_27.jpg?versionId=KX4zxbIv2D_3DmTeCE2_nY5BSI8kGiik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_27.jpg?versionId=f2H0lnp1YZyrU1z0G0CuJoBiWpCNIwjd",
+    "credits": null
+    },
+    "name": "Lección 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U27_Lesson.mp3?versionId=buhTWMMG3F.eFKO99Ri_n4Gr9.BLi45n",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2235117,
+    "cultureContent": {
+    "imageLocation": "Biblioteca Pública de Seattle, Seattle, Washington, USA",
+    "imageDescription": "La  atractiva forma de la biblioteca pública de Seattle se diseñó para que fuera visualmente interesante y para brindar un ambiente agradable a los usuarios. La distribución interna en forma de espiral permite que los visitantes se muevan con facilidad entre los diferentes niveles, a medida que disfrutan de la colección de más de 1.5 millones de libros y de otros materiales.",
+    "imageCredits": "joe daniel price / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_28.jpg?versionId=I3tnagsc6S0aCOqAJOPl3s4vV4ZtT6Wa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_28.jpg?versionId=X7wcTm3n77FQp1N2IWTaFiy7YES83Wue",
+    "credits": null
+    },
+    "name": "Lección 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U28_Lesson.mp3?versionId=Kf_qGkCwtZWGABCo9ugbMzUJ7rKMoJsR",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2235577,
+    "cultureContent": {
+    "imageLocation": "Mansión Rosecliff, Newport, Rhode Island, USA",
+    "imageDescription": "La mansión Rosecliff es una de las once propiedades históricas manejadas por la Sociedad de Preservación de Newport. En 1989, Theresa Fair Oelrichs, la heredera de una gran fortuna gracias a las minas de plata de su familia, mandó a construir la mansión que fue una copia de los jardines de los reyes franceses en Versalles.",
+    "imageCredits": "Danita Delimont / Gallo Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_29.jpg?versionId=B33NNLJk6gLqXVHXHsRA2xud6Xd9FCof",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_29.jpg?versionId=9F9EoRgcpAEC9jmKhGDgjSsjbizVSun0",
+    "credits": null
+    },
+    "name": "Lección 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U29_Lesson.mp3?versionId=DWScqTHzjoVx22XbEcw6KCmi9tdS408a",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2235920,
+    "cultureContent": {
+    "imageLocation": "Montañas Chugach, Anchorage, Alaska, USA",
+    "imageDescription": "Las luces de la aurora boreal iluminan el cielo encima de las  montañas Chugach, donde en el pasado se celebró el Campeonato mundial de ski extremo.  En 1867, los Estados Unidos le compraron Alaska  al Imperio Ruso por 7.2 millones de dólares.",
+    "imageCredits": "Design Pics Inc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/full/ESL_SP_3_M_30.jpg?versionId=avE3_bNT3cyAGNi1FHdbYy8vJtuMCwEk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/lesson_photo/thumb/ESL_SP_3_M_30.jpg?versionId=w3acV1gBje2D.y6TStN9LoyViId2GIE0",
+    "credits": null
+    },
+    "name": "Lección 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/main_audio/9781508235941_ESL_Spanish3_U30_Lesson.mp3?versionId=qlX.FDYj1Sao5chtJWUELbW_pVEUIFrJ",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2236380,
+    "cultureContent": {
+    "imageLocation": "Edificio de la Corte Suprema de los Eastados Unidos, Washington DC, USA",
+    "imageDescription": "El lugar donde se encuentra la corte federal  más alta de los Estados Unidos, el Edificio de la Corte Suprema, es el sitio de trabajo del Presidente del Tribunal Supremo de los Estados Unidos y de ocho jueces asesores. La Corte Suprema interpreta de manera final las leyes constitucionales federales. En 2002, un zorro salvaje se metió al edificio y eludió captura por más de un día.",
+    "imageCredits": "DanBrandenburg / E+ / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/English for Spanish Speakers/English for Spanish Speakers Level 3 orig/asset/RL/9781508235941_ESL Spanish_3_Intro.pdf?versionId=OxOm4sHOll7B6jfzamcOfX0STRwJgYeJ",
+    "audios": [
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit01_Reading.mp3?versionId=sgekUc9NT4wKJJpSD1sTA3BzyuMI4hx.",
+    "mediaItemId": 2223713
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit02_Reading.mp3?versionId=g5opjw5jKDyIdFx0YBZi6rZnoomE.Jmu",
+    "mediaItemId": 2223825
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit03_Reading.mp3?versionId=0X47D0eXSy87biIoavZn7693H7ZaBmzb",
+    "mediaItemId": 2223996
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit04_Reading.mp3?versionId=ARwOF_iikYusnmNx_KnuW.Vcov0JqCBx",
+    "mediaItemId": 2224163
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit05_Reading.mp3?versionId=WM38hXeWc1ZGrchiCkbrsTOnFfXLSQne",
+    "mediaItemId": 2224363
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit06_Reading.mp3?versionId=w.Yk6WDTC_I7_e1cOTG3634Pc_OkgDnt",
+    "mediaItemId": 2224495
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit07_Reading.mp3?versionId=gCUWconaNlRKbBT2FPAlpdHC0GsbS4dg",
+    "mediaItemId": 2224691
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit08_Reading.mp3?versionId=H.JRRTuYJEuFMIsgoCP22D6vrttsxGKu",
+    "mediaItemId": 2224799
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit09_Reading.mp3?versionId=1U_9X4nQLEUtSB49Wqp5S_6LNLgKkuZ8",
+    "mediaItemId": 2225971
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit10_Reading.mp3?versionId=koF7sPA9Iyktf2cQxhGV4ILSn_t5JDuZ",
+    "mediaItemId": 2228355
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit11_Reading.mp3?versionId=v7.iB_bbtQioLI280PHdr2cUerw_KC52",
+    "mediaItemId": 2231606
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit12_Reading.mp3?versionId=RZaaqTyYI2_Acom3A8ynL5hpumVIDFcL",
+    "mediaItemId": 2234929
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit13_Reading.mp3?versionId=5kWuo9BBUpiEn1oxKSar9QmPzU8Alw3w",
+    "mediaItemId": 2238142
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit14_Reading.mp3?versionId=XOdOsDcLSI4499ucCjwCA2zGxufhh6a7",
+    "mediaItemId": 2241252
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit15_Reading.mp3?versionId=PP803eI5YnFzAGCRuUgFPWImhU4v4xvZ",
+    "mediaItemId": 2244119
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit16_Reading.mp3?versionId=lgya.SAArD5lJnuqJ3Ld8RC5wo3vjhG8",
+    "mediaItemId": 2247347
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit17_Reading.mp3?versionId=p0Kiy76sU2PoS.efgxSEj9yOrGLy_tBj",
+    "mediaItemId": 2250384
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Spanish%20Speakers/English%20for%20Spanish%20Speakers%20Level%203%20orig/asset/RL/9781508235941_ESL_Spanish3_Unit18_Reading.mp3?versionId=2LLkiHEgQVl1JMhz12EYS9cmnI1dVdHB",
+    "mediaItemId": 2253374
+    }
+    ]
+    },
+    "languageCode": "en-US",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508235941",
+    "level": 3,
+    "courseName": "English for Spanish Level 3 Premium",
+    "simpleCourseName": "English for Spanish Speakers Level 3",
+    "puArabic": false
+    }
+    ]

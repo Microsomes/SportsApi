@@ -1,0 +1,687 @@
+[
+    {
+    "courseId": 51800,
+    "languageName": "Spanish",
+    "languageId": 166,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_01.jpg?versionId=eIFyukj0.y3mu8VicjlPKI9Sl9vXESa8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_01.jpg?versionId=x2zvI0cV9mAeTMtnHmbnH_aWdZrs16Aw",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_01.mp3?versionId=dPoRvmpv4qvK3JDBem8b4Ve0e2xVkRRI",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2311333,
+    "cultureContent": {
+    "imageLocation": "Cuzco, Peru",
+    "imageDescription": "Tourism in Peru is the nation’s third largest industry behind fishing and mining. Visits to pre-Columbian sites and colonial cities is popular, as is ecotourism.  Peru has a higher percentage of protected land than any other country in South America.",
+    "imageCredits": "Frank Gaglione / Stone  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_02.jpg?versionId=dm4RV0MCt5IbILFr25ifAhvUC2cZzdeb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_02.jpg?versionId=rT_BtqsXwnLe5jIE1MY4B81tbIM80GNf",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_02.mp3?versionId=dUN6NEU00fx8gLQnqG43z1IPCxpKUXAX",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2311524,
+    "cultureContent": {
+    "imageLocation": "Easter Island, Chile",
+    "imageDescription": "One of the world’s most isolated inhabited islands, Easter Island got its name from a Dutch explorer who first visited on Easter in 1722. This Polynesian Island is a special territory of Chile. The island features 887 moai or statues, carved between 1250 and 1500.  The largest is 33 feet high and weighs 82 tons.",
+    "imageCredits": "Mlenny / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_03.jpg?versionId=shq1fiDlUV9xLmEZf6WN4nvTZAVexPg5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_03.jpg?versionId=db.MLWbwGGWUuIqZ14c_a793N2K.diyi",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_03.mp3?versionId=LeL7PV5xMvm5SdqMjR9MnAPRrFxxumXZ",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2311699,
+    "cultureContent": {
+    "imageLocation": "Laguna Colorada, Bolivia",
+    "imageDescription": "Llamas strolling through Laguna Colorada (Red Lagoon), a shallow salt lake in southwest Bolivia which gains its unusual color from algae and minerals.",
+    "imageCredits": "Barborakupcova Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_04.jpg?versionId=fzo6WtJjJflVK9.WYqYGtYRQp9q6.9LB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_04.jpg?versionId=nyDORyFDQ7osiPOKuPnHsl5awDvQgRkB",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_04.mp3?versionId=jmmvq7lPImSzKr3Q874OASzQ7FRB09ah",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2311882,
+    "cultureContent": {
+    "imageLocation": "Colonia del Sacramento, Uruguay",
+    "imageDescription": "The historic district of Colonia del Sacramento has been named a UNESCO World Heritage Site.  The town is thought to be the oldest in Uruguay.",
+    "imageCredits": "Ricardo Ceppi / Contributor / Getty Images News"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_05.jpg?versionId=gwD4bIRFTKkWMUJPUmoYHHZO5ojmlnXH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_05.jpg?versionId=kFZ6p1AYKGIbcEP0XEzi1JB4dleHiZJY",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_05.mp3?versionId=11L_tpInMyMhavm2wyvaeoyreNxhxIO6",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2312094,
+    "cultureContent": {
+    "imageLocation": "Paris, France",
+    "imageDescription": "Smuggled terracotta artifacts belonging to the pre-Columbian Chancay and Chimu civilizations dating from 1100 - 1450 AD were intercepted at Paris' Charles De Gaulle airport and repatriated to the Peruvian Embassy.",
+    "imageCredits": "GEOFFROY VAN DER HASSELT / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_06.jpg?versionId=DI8mONNK3hHqMJFVdXpIB8mLot8zcysa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_06.jpg?versionId=PC_1ClJt_nA_PhJkM39kJThUa.zfOMK0",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_06.mp3?versionId=XMQ.yEdUnBy32BhAJlAoTjBQQSxsRVwR",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2312292,
+    "cultureContent": {
+    "imageLocation": "Santiago, Cuba",
+    "imageDescription": "This sculpture memorializes Antonio Maceo, second-in-command of the Cuban Army of Independence.  He is honored for his work as a political strategist, a military planner, and a statesman; he lived from 1845 to 1896.",
+    "imageCredits": "Buena Vista Images / Photodisc / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_07.jpg?versionId=PFffr3R6IW1KYuHAmRDMA9BliYuH1sKx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_07.jpg?versionId=ylOiHha4ejx6PbjjFjK2zYOK4bAUIl88",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_07.mp3?versionId=vhKprE_YBzg24re.2ZnRv3FUEArpKVkU",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2312435,
+    "cultureContent": {
+    "imageLocation": "Punta Cana, Dominican Republic",
+    "imageDescription": "Punta Cana on the eastern coast of the Dominican Republic, is a popular tourist destination, with12 professional golf courses, 28,000 hotel rooms, and 35 hotels, which by law cannot be taller than a palm tree.",
+    "imageCredits": "Valio84sl / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_08.jpg?versionId=hyblUlIjlFWqxctnFaTZHjESHIQw_tqT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_08.jpg?versionId=A25BDFh0YB0Uwe7cM9mbS81XarmQRyB2",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_08.mp3?versionId=OveP85mgW4Zu3X3Z3vwGDwc.BOfCM0mH",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2312602,
+    "cultureContent": {
+    "imageLocation": "Costa Rica",
+    "imageDescription": "The Costa Rican rain forest is one of the most biodiverse places in the world, containing more than a half-million different species, including 900 species of birds, 250 species of mammals, and 200 species of amphibians.  This red-eyed tree frog has three eyelids and sticky pads on its toes.",
+    "imageCredits": "Daniel Parent / 500px / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_09.jpg?versionId=BOzMci0yEVr7GYoy8q7FvN4L2h7ZVZQF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_09.jpg?versionId=J9uBY6p2VOj9hQOk3FPEGbBOcKYEd2KD",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_09.mp3?versionId=aZhouJUaH5jSoQ3a5aPrvzd2E25RVFgs",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2312774,
+    "cultureContent": {
+    "imageLocation": "San Miguel de Allende, Mexico",
+    "imageDescription": "Pads of the prickly pear cactus are peeled and the spines removed to make a vegetable called nopales, commonly used in Mexican cuisine.  They can be purple or green and are rich in vitamins and minerals.",
+    "imageCredits": "Bdsklo / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_10.jpg?versionId=GMEZvSFYFsYdn6S4uEzNw38w4xZsqbGS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_10.jpg?versionId=itmBX5IaeE_Y.y0xBx.XoTsmIIY8VErq",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_10.mp3?versionId=ioGE4axEsR92HZUFa3A_Py2lH3VRZ6ro",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2312969,
+    "cultureContent": {
+    "imageLocation": "Antigua, Guatemala",
+    "imageDescription": "Although Spanish is the official language of Guatemala, many indigenous languages are still commonly spoken as well. An estimated 50% of the population is descended from indigenous peoples.",
+    "imageCredits": "Kryssia Campos / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_11.jpg?versionId=qf6ZOfWyN.4BiRNumJtTqpAJcUuv2FA.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_11.jpg?versionId=Z7VMFjSfgQRlak1I7Mq6YaCfW_pnqW5E",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_11.mp3?versionId=uXr2A0qjKvWILNT5YAcYzfMUQ48hFZTC",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2313190,
+    "cultureContent": {
+    "imageLocation": "Sierra Chincua, Mexico",
+    "imageDescription": "Each September, an estimated 100 million monarch butterflies migrate thousands of miles from all over North America to Mexico.  In 1986 Mexico created a Monarch Biosphere Reserve to protect the butterflies from the effects of deforestation.",
+    "imageCredits": "Sylvain Cordier / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_12.jpg?versionId=sS4l.ZLWkkDvmkBRhcEkJSSPFqZhDaTw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_12.jpg?versionId=UVYQDdkM4vIot0w5X48xVP4W4EyFZ8Eg",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_12.mp3?versionId=CqNU_ITrfjQkYQVlQAKMX6HqOUMKKHRj",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2313527,
+    "cultureContent": {
+    "imageLocation": "Quito, Ecuador",
+    "imageDescription": "Quito’s annual Fiesta de la Luz (Festival of Light) commemorates Ecuador’s independence from Spain. Here, French artist Laurent Langlois' work \"Heritage\" illuminates the San Francisco church in the city's historical center.",
+    "imageCredits": "RODRIGO BUENDIA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_13.jpg?versionId=io0xeZEWMZG31A10dKQiEAwMbxfvp0MC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_13.jpg?versionId=PMQl3dZJU6XhAWkkhPO.F0yJVdkSdOSt",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_13.mp3?versionId=R9TMw.bhuyXzGBEWEuFh3nat7gLwVt8D",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2313695,
+    "cultureContent": {
+    "imageLocation": "Port of Spain, Trinidad",
+    "imageDescription": "Port of Spain is known for its year-round festivals, including Carnival, Emancipation celebrations, and an Independence Day festival.  The pre-Lenten Carnival highlighted here is the city’s main annual cultural festival and tourist attraction.",
+    "imageCredits": "Sean Drakes / LatinContent Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_14.jpg?versionId=n5z_LoZzBr3rsO7ILgBeejLALdufO3Lo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_14.jpg?versionId=Oy_5_EIo.Sxbkr86SXlmhNGG6E8JIp1X",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_14.mp3?versionId=PaqDLphTNGKp5brrihYwDRBEuP67VtJK",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2313916,
+    "cultureContent": {
+    "imageLocation": "Punta del Este, Uruguay",
+    "imageDescription": "The striking Nuestra Señora de la Candelaria church dates to the mid-20th century. According to legend, in 1392 two goatherds discovered a statue of the Virgin Mary washed up on the shores of Tenerife Island in Spain. The statue was said to have miraculous powers, and is commemorated by shrines and churches throughout the Latin world.   ",
+    "imageCredits": "Zoroasto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_15.jpg?versionId=KGMEAMT3NxzqWe8fdJvABJ3iN4LBiROq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_15.jpg?versionId=KN6CJyEb9GFDOsAJQcC8ZmJbMWQlL4k.",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_15.mp3?versionId=B41aZWQM3fEoBPK92s31TYMDTO3Cl8X5",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2314073,
+    "cultureContent": {
+    "imageLocation": "Santa Catalina, Colombia",
+    "imageDescription": "El Totumo Mud Volcano, located in northern Colombia, is popular for its healing mud baths.  Visitors must climb a 50-meter staircase to reach the crater.  Afterward, visitors can bathe in a nearby lagoon.",
+    "imageCredits": "Krzysztof Dydynski / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_16.jpg?versionId=nIKkgDssTAPMu1niah4GksISSslsGfIC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_16.jpg?versionId=NU94meZo9o8RzsysGmbTtNBizXa34dTL",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_16.mp3?versionId=AuCd8mYqHwF4rw0CEXaA.Br33itAHXAx",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2314271,
+    "cultureContent": {
+    "imageLocation": "Amazonas, Peru",
+    "imageDescription": "Members of the Huarayo, Quechua, and Amara tribes are the only humans permitted to live in Tambopata-Candamo National Park, where they live by hunting, fishing, and foraging.  The limited human presence is believed to have contributed to maintaining the park’s biodiversity.",
+    "imageCredits": "Alfredo Maiquez / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_17.jpg?versionId=k_NdrvTSTsZqX7t5HL5p8I_UprpnxOUS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_17.jpg?versionId=VcOtlpe90y6tfsLx88QCLpZvx.jQhRpT",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_17.mp3?versionId=XfSgAFO9ej82Q55lB53xHPEaK93Ii5or",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2314480,
+    "cultureContent": {
+    "imageLocation": "Buenos Aires, Argentina",
+    "imageDescription": "The South American Pampas, or \"Plains\" cover almost 290,000 square miles in parts of Argentina, Uruguay, and Brazil.  The Argentinean Pampas are the home of the Gaucho, the original South American cowboy.",
+    "imageCredits": "Christopher Pillitz / Hulton Archive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_18.jpg?versionId=6hKEw9nFfTyFor93yCPCm4ZuftNAXB88",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_18.jpg?versionId=FjQOFRunGx5YaXVuvJWLuVl9MSZwiUFj",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_18.mp3?versionId=OyqNBM25zxJ9OLtKumAaatP5LHFSojNM",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2314672,
+    "cultureContent": {
+    "imageLocation": "Patagonia, Argentina",
+    "imageDescription": "Cueva de las Manos (Cave of the Hands) can be found in the Patagonian community of Santa Cruz, Argentina. These stenciled outlines of human hands were made by indigenous people more than 10 thousand years ago.",
+    "imageCredits": "Alex Treadway / 
+    National Geographic Image Collection / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_19.jpg?versionId=ZobhpSqsUfzD70n4YJC_DOytJSZS2sn4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_19.jpg?versionId=rqr2iximQU7wDIOKi_qqDdcJOdFhSp79",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_19.mp3?versionId=tPs7mtFuruspzA3jeUvYx8VGmg9k3r_w",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2314850,
+    "cultureContent": {
+    "imageLocation": "Chiquian, Peru",
+    "imageDescription": "Considered one of the 10 best hiking treks in the world, the Cordillera Huayhuash Circuit is a physically challenging, yet breathtaking 81-mile trek through high altitude passes, towering snowcapped peaks, thermal springs, and turquoise lakes.",
+    "imageCredits": "Kesterhu / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_20.jpg?versionId=m7Tch9skIXcKvbmwwpMC3Ih4AthnMUvG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_20.jpg?versionId=isro5LmbuWAL2cjDjH28zpYyxBRp5w1.",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_20.mp3?versionId=sntWtrKn5z3aq5X99lmXpB3oWBBkyH4g",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2315185,
+    "cultureContent": {
+    "imageLocation": "Sucre, Bolivia",
+    "imageDescription": "Sucre is the judicial capital of Bolivia and home of the Bolivian supreme court.  It is famous for its well-preserved downtown with buildings dating to the 18th and 19th centuries.",
+    "imageCredits": "Tina Bizaj / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_21.jpg?versionId=cqB11I5a5zsYrPXAA6.mOu4z0fdZRXFQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_21.jpg?versionId=oeIVzaoOkHHCVjEpHlP8VL3SEOLEqGzO",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_21.mp3?versionId=NSehRGl4Y6blL64uD4j_SbRkUTk_tbEw",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2315390,
+    "cultureContent": {
+    "imageLocation": "Galapagos Islands, Ecuador ",
+    "imageDescription": "Although there are no indigenous peoples living on the Galapagos, four of the seventeen islands are inhabited, and the total population of the islands is just over 25,000.  These Sally Lightfoot crabs can be found all along the Pacific coast of Mexico, Central and South America.",
+    "imageCredits": "Vicki Smith / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_22.jpg?versionId=JRWw2cwWjT.EuSK.XygkaOe0Yoyv39c4",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_22.jpg?versionId=irOm4Bzm3_wjfC7mBwKA1v7eNR_3jVp1",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_22.mp3?versionId=hEREYVwcAnxSi1fVExaJ7iY28kNXJif3",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2315612,
+    "cultureContent": {
+    "imageLocation": "Cocos Island, Costa Rica",
+    "imageDescription": "Cocos Island in Costa Rica is home to many legends involving buried pirate treasure. Despite hundreds of attempts to find the treasure, nothing but six gold coins has ever been found.",
+    "imageCredits": "Rodrigo Friscione / 
+    Cultura/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_23.jpg?versionId=JLBN_sNhcKcaCpWpz8syLHn4Saba9bRZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_23.jpg?versionId=Ra1hCmpHf3cSEXqnaHfRPeITiz3_ztXT",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_23.mp3?versionId=HnoZVwOOM_uyUJZAH9Oh.Y3LrYnQ2tnd",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2315859,
+    "cultureContent": {
+    "imageLocation": "Cabo San Lucas, Baja California Sur, Mexico",
+    "imageDescription": "At the southernmost tip of the Mexican state of Baja California Sur, where the Pacific Ocean meets the Sea of Cortez lie the Arches of Cabo San Lucas.  Every few years, depending on the tides, the water level below the arches drops low enough to walk underneath.",
+    "imageCredits": "sorincolac / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_24.jpg?versionId=Kj2mO3097TKkj7sD3aTe7j_8iOWBObow",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_24.jpg?versionId=zsb.uxCiHqmMRJeo2b2luL0FfyGNfg2F",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_24.mp3?versionId=0R6e7p02WC4RRsaJsoE_qHrlisF8NOLo",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2316063,
+    "cultureContent": {
+    "imageLocation": "Lima, Peru",
+    "imageDescription": "Bones from human remains are stacked in catacombs at the Santo Domingo Cathedral. The catacombs below the monastery were in use until 1808 and were later “discovered” in 1943. Approximately 70,000 souls are buried here.",
+    "imageCredits": "MSelcukOner / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_25.jpg?versionId=5vGeLU5THsQ5iqvNdAV5KbNlY2qx7uUV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_25.jpg?versionId=pm4v_dPfMJkFmRxRasY0pggI_JuYtSK4",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_25.mp3?versionId=CBmK4DoiVWdPq_i13s2CGg7fik4_EMNU",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2316238,
+    "cultureContent": {
+    "imageLocation": "Panama City, Panama",
+    "imageDescription": "The view from Casco Viejo, the old town, built after the city was pillaged and set ablaze by the privateer Henry Morgan in 1671. With its mix of Caribbean, Art Deco, French, and Colonial architecture, it reflects Panama’s cultural diversity.",
+    "imageCredits": "L. Toshio Kishiyama / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_26.jpg?versionId=Jk3Z81.2Zi5myRTdYEAHoUb9IL9wh9FN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_26.jpg?versionId=OKsjQaqgcYDvlQRAb8atyPAR116bmGD1",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_26.mp3?versionId=TYKoGWit1D6MuKJLgtpvRfRVc043yK_z",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2316396,
+    "cultureContent": {
+    "imageLocation": "Mexico City, Mexico",
+    "imageDescription": "Paseo de la Reforma, which cuts diagonally across the city, is home to many monuments to important people and historical events in Mexican history. El Ángel de la Independencia is visible here.  ",
+    "imageCredits": "Vincent_St_Thomas / 
+    iStock / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_27.jpg?versionId=JG2hcUcNCbKOAkdpnNZfOQxuF3ZUPWyW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_27.jpg?versionId=bU79ROY3hJhEw1NIuUPHfvPc_yIbkBpe",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_27.mp3?versionId=cgHgPXw8o5SFKPPAos82EVGAL7CtO5Hz",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2316557,
+    "cultureContent": {
+    "imageLocation": "Puerto Vallarta, Mexico",
+    "imageDescription": "Puerto Vallarta is on the Pacific Ocean on the largest natural bay in Mexico.  El Malecón, the boardwalk, is known for its Sunday night festivals, which include food vendors, street performers and music.",
+    "imageCredits": "Frank Fell / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_28.jpg?versionId=zcu.wHUsgOTthXrrVWncqarZg1rJa8cX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_28.jpg?versionId=0lMVDSX2yvthTfabJ9RpCz6_v2RBHO1P",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_28.mp3?versionId=Co3LfGte7dKTzBAae4Jwyff1UNpzolN6",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2316743,
+    "cultureContent": {
+    "imageLocation": "Salar de Uyuni, Bolivia",
+    "imageDescription": "Stretching more than 4,000 square miles, Salar de Uyuni is the world’s largest salt flat formed by evaporated prehistoric lakes. Its cacti-studded, otherworldly terrain is austere yet harbors rare hummingbirds and flocks of pink flamingos.",
+    "imageCredits": "R.M. Nunes / iStock / Getty"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_29.jpg?versionId=zAIZaIF0qi_r46xKG_K7Q3DYsPGb2Cph",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_29.jpg?versionId=03eGPJWMCrFvGTchbjC9OGVaEH1y4Di6",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_29.mp3?versionId=kqwCTRfYmFVc1SgoQvEo6oVAz_lrboVQ",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2316911,
+    "cultureContent": {
+    "imageLocation": "Madre de Dios, Peru",
+    "imageDescription": "The Amazon is home to the largest rainforest in the world, covering more than 2 million square miles.  It includes parts of Brazil, Peru, Colombia, Venezuela, Ecuador, Bolivia, Guyana, Suriname, and French Guiana.",
+    "imageCredits": "Dominic Cram / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/full/SP_3_M_30.jpg?versionId=yBb9wmwDSUJ8poLVAWaP..ZYkrBojlOO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/lesson_photo/thumb/SP_3_M_30.jpg?versionId=arubwtk01BVdX98U2iPyWWkS3GD8a3TU",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/main_audio/9781797109848_Spanish_3_Lesson_30.mp3?versionId=.6Cl2fUBFJBeKsA.j.sgTrMk0zEUi1Xb",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2317061,
+    "cultureContent": {
+    "imageLocation": "Amazonas, Peru",
+    "imageDescription": "Boasting some of the richest biodiversity on Earth, Madidi National Park is a dream destination for both botanists and animal lovers. This jungle paradise is home to thousands of exotic Amazonian plant, bird and animal species, including jaguars, capybara, and pink river dolphins.",
+    "imageCredits": "DC_Columbia / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish Level 3 2021/asset/RL/9781797109848_Spanish_3_3rd_Intro.pdf?versionId=aC73frPaw7KD2hhNQuTOHPstDUkzCv0Q",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_01.mp3?versionId=7ddk.hjhU2PqkDQue7U5RWroozhKX4iu",
+    "mediaItemId": 2223934
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_02.mp3?versionId=b9W4t5K2fL5V3uIdb7Z9TU2O.7RS0sm9",
+    "mediaItemId": 2224137
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_03.mp3?versionId=2u4wIp4d2yCCW8GhvaKzpZoLT9un00FY",
+    "mediaItemId": 2224321
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_04.mp3?versionId=xMjcL1GjQM52QKusx03iuTm5edQt2fwl",
+    "mediaItemId": 2224471
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_05.mp3?versionId=AAJEBAejMBNpXBNs_xn70_EKvXJA6miW",
+    "mediaItemId": 2224669
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_06.mp3?versionId=DthLOH0WvVj._E0gw67VGVK3dpPfEiKU",
+    "mediaItemId": 2224763
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_07.mp3?versionId=Ctf2R2Ex7Caw1Ml9UBSJpcpQAGEW85k_",
+    "mediaItemId": 2225705
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_08.mp3?versionId=qY32.ANjLeN3nmuGVOqqR10qx.zgs4hz",
+    "mediaItemId": 2227791
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_09.mp3?versionId=ZddA_.J..2UYx0_e0qbht.oTkZGOteLf",
+    "mediaItemId": 2231073
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_10.mp3?versionId=pBrT9beXH4x1Pks5hHfPIYN965cSOtuz",
+    "mediaItemId": 2234715
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_11.mp3?versionId=cIMccYmzsZzsKWwv.I3A5_5hBjZYh18b",
+    "mediaItemId": 2237912
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_12.mp3?versionId=Un2UAjUHF4FXtJxfXhWUZDPfxtSXN.S4",
+    "mediaItemId": 2241222
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_13.mp3?versionId=FRDDmWrbHEnKHH8pJ86oqRAmhEhIXNv.",
+    "mediaItemId": 2244098
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_14.mp3?versionId=t0CgQKkJ_Cb57J2IhZpj1a.JC7LNIlu7",
+    "mediaItemId": 2247222
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_15.mp3?versionId=jm6BEELmZNSbPRQ.tbhNiS6asE2xdKJq",
+    "mediaItemId": 2250219
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_16.mp3?versionId=8vexTyRSUt.xK3RarwO1LvVPmswLVgmg",
+    "mediaItemId": 2253229
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_17.mp3?versionId=lIwDy7hKcbXzUw5_HZVon4n5vSE4.hUS",
+    "mediaItemId": 2255921
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_18.mp3?versionId=EbRONPvQlgfl5BgeMamwVQHHwSyTKbKj",
+    "mediaItemId": 2258691
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_19.mp3?versionId=PsBHkWAxXjMmt_zJQ4ikEYb1FMjtK56M",
+    "mediaItemId": 2261367
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_20.mp3?versionId=lfo7wBvQBqAU2CMjmV5L0P3yPL2rwsJf",
+    "mediaItemId": 2263804
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_21.mp3?versionId=Qm.qOCL8UFGB2HXa9tEehKXV__y8tnWO",
+    "mediaItemId": 2265321
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_22.mp3?versionId=lcoCL4H0XXt15A50ka8_BEBBHTiYCzhi",
+    "mediaItemId": 2266214
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_23.mp3?versionId=scmVDdlKrDH__b4sPP92QuAenyEKjFnx",
+    "mediaItemId": 2266620
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_24.mp3?versionId=sHozqq3SV85jPTq5OjWi63o6SGxQ8HYY",
+    "mediaItemId": 2267052
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_25.mp3?versionId=H7N_Ok4zvCN6SvfrNbYCasoYNDi_vGWn",
+    "mediaItemId": 2267410
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_26.mp3?versionId=vXi0J7hn4RxV8dpHj8F6bVua77QAf7Xl",
+    "mediaItemId": 2267943
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_27.mp3?versionId=NU35mK6pP9vbvk6bXr5NxTVsIWNh2SUL",
+    "mediaItemId": 2268344
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_28.mp3?versionId=6G.NHm0x7LrTo1wvHEVDwtfOQzurSUoA",
+    "mediaItemId": 2268799
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_29.mp3?versionId=XCa6_pkiM17.c50CAJaSBnnraAsSDw46",
+    "mediaItemId": 2269175
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Spanish/Spanish%20Level%203%202021/asset/RL/9781797109848_Spanish_3_Reading_Lesson_30.mp3?versionId=rK9uw9crHY4oolHAeduZrjIUlqnXcSbm",
+    "mediaItemId": 2269632
+    }
+    ]
+    },
+    "languageCode": "es-MX",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781797110219",
+    "level": 3,
+    "courseName": "Spanish Level 3 Premium",
+    "simpleCourseName": "Spanish Level 3",
+    "puArabic": false
+    }
+    ]

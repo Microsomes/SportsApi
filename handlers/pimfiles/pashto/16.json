@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 3254,
+    "languageName": "Chinese Mandarin",
+    "languageId": 125,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_01.jpg?versionId=BEJFBpSWISLEkwcTbug2jiu3hU0bTAnQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_01.jpg?versionId=3HKX2KdSxsobc6M_MZznrd5E57olMvsD",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U01_Lesson.mp3?versionId=L4JGZeWlRAIHbPj1WzVakaZIsrF_klKn",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2225384,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "The Beijing subway is the world's busiest, averaging nearly 9.75 million trips per day - more than twice as many as New York's MTA. It has a total of 232 stations and almost 300 miles of track, with 235 miles added just in the past decade. The city plans to double the size and capacity by 2020.",
+    "imageCredits": "PhotoTalk / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_02.jpg?versionId=LAmX2dEJt6ZOrxuXJJapKaO2UArBo2VD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_02.jpg?versionId=kaySK4EeIjxdP8ggJB1CvIfp3ctQdH2L",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U02_Lesson.mp3?versionId=WCDbaHDRP68Q1MkTcVvP.w3c60pK3D0E",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2225554,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "One of the larger temple complexes in Hong Kong, the Bamboo Forest (Chuk Lam Sim) Monastery was completed in 1932. Slips of paper are hung by pilgrims praying to the Buddha for success in their business ventures, good health, and long life.",
+    "imageCredits": "Andrew Watson / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_03.jpg?versionId=1kzG3e4LsYlq.6Xl9ozIoydyCZMmJ2rb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_03.jpg?versionId=BMwFAtMEF1HvlxZlMqTvsg.4FVRqcy4i",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U03_Lesson.mp3?versionId=N0JcHOEuWFnkKYU0g00G9cA1pDPh1JnJ",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2225717,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "According to myth, Mahjong was invented by Confucius around 500 B.C.E.  Modern Mahjong actually originated in Shanghai in the early 1800s.  This rummy-like game of strategy and chance, outlawed as capitalist gambling by Mao Zedong in the 1940s, is once-again legal, and is enjoying resurgence in both China and America.",
+    "imageCredits": "Will Robb / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_04.jpg?versionId=QuJyZMOXWaxCReoY93_5kfPOfqwkiEKu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_04.jpg?versionId=6Z0X.NgRJ9OnqVKrKXzodMl8dJdJgaCN",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U04_Lesson.mp3?versionId=CAEee_PSFmAunHuGX9itrc8Fdw0MTIyh",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2225904,
+    "cultureContent": {
+    "imageLocation": "Guangdong, Guangzhou Province, China",
+    "imageDescription": "The 1,480-foot Canton Tower in Guangzhou, nicknamed “Xiao Man's waist” in reference to a famously slender Tang dynasty entertainer, has the world’s highest Ferris wheel on top of it. The wheel has 16 transparent pods which circle around an elliptical track on the tower's edge, and was built to withstand earthquakes and typhoons.",
+    "imageCredits": "Tuul and Bruno Morandi / Photonica World / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_05.jpg?versionId=KZJJGu3u6AWAlcSb0puzvETWIaB2Olmk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_05.jpg?versionId=CST7Na0CSEKYginy4_bKDxYrOBQytnEK",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U05_Lesson.mp3?versionId=zoN4wK2LoFlExI0ta_e0QJFau3Kzmja2",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2226092,
+    "cultureContent": {
+    "imageLocation": "Kaohsiung, Taiwan",
+    "imageDescription": "The “Dome of Light” glass sculpture in Taiwan’s Formosa Boulevard Transit Station took four years to complete, with each piece of colored glass shipped from Germany. The sculpture commemorates the Formosa Incident, a 1979 event that galvanized the Taiwanese community into political action, eventually leading to the island’s development of a democratic form of government.",
+    "imageCredits": "Pai-Shih Lee / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_06.jpg?versionId=OzMIZsoaGyzuu0RnorerUJyJbsxDVEct",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_06.jpg?versionId=fndQ4V517N19KMNf45ONyYvFMuF96py0",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U06_Lesson.mp3?versionId=Vjiu4ZgZ0JUKZdNGtBXbyC.5H2iyliuS",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2226295,
+    "cultureContent": {
+    "imageLocation": "Jiayuguan, Gansu Province, China",
+    "imageDescription": "The Jiayu Pass is the first pass at the western end of the Great Wall of China. Jiayuguan was traditionally the point of departure for those exiled by the emperor. Disgraced officials and criminals were sent west into the Gobi Desert, usually never to return.",
+    "imageCredits": "José Fuste Raga / age fotostock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_07.jpg?versionId=mLe0y0mbaSjgoLnzdQy6g5ciRphm.bKB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_07.jpg?versionId=vOljWaQ2hHUTmCAU9XszsVnzlPgVPQbc",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U07_Lesson.mp3?versionId=7C2rRMuAPpjTpUl7M4iWrYLVjqHO.Zaw",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2226565,
+    "cultureContent": {
+    "imageLocation": "Chiayi City, Taiwan",
+    "imageDescription": "This is one of many markers in Taiwan for the Tropic of Cancer (latitude 23.5 N), the furthest point from the Equator in the Northern Hemisphere at which the sun can appear to be directly overhead.",
+    "imageCredits": "IMAGEMORE Co, Ltd. / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_08.jpg?versionId=nxlcmApW8wTXxCJhT.appbzo2azLkZtg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_08.jpg?versionId=8x51q3YWG2OcZ8mOSGsD_83ejwJldWV1",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U08_Lesson.mp3?versionId=R4le0nBSqY._nOEoPKuMVlUxfnlAu56e",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2226815,
+    "cultureContent": {
+    "imageLocation": "Harbin, Heilongjiang Province, China",
+    "imageDescription": "The Harbin Ice and Snow Sculpture Festival is a two-month-long celebration of winter in China's northernmost major city.  Full-sized buildings are created out of blocks of ice two to three feet thick, which have been cut from the Songhua River.  The structures are often lit at night with multi-colored lights.",
+    "imageCredits": "Walter Bibikow / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_09.jpg?versionId=0DCvoksWxQBUMl1sUqGHqTvN0abdfYU8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_09.jpg?versionId=rCm0HN.lJVlg_prAsG8Wa0ixRf9OP9o8",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U09_Lesson.mp3?versionId=SMJFbyEi.eyfBt_q8qAYziMrKwkUasMp",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2227153,
+    "cultureContent": {
+    "imageLocation": "Harbin, Heilongjiang Province, China",
+    "imageDescription": "Founded in 1897 as a camp for Russian engineers surveying the Trans-Siberian Railway, Harbin is infamous for it's frigid winters, where the cold Siberian winds can send temperatures plummeting to -40°F. Visitors to the annual Ice and Snow Sculpture festival will find a winter wonderland filled with dramatic ice sculptures, carnivals, ice and snow sculpture competitions, ice-skating, winter swimming, and ice hotels.",
+    "imageCredits": "Walter Bibikow / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_10.jpg?versionId=Anv6atMFKPAX.HwBWgLme0F30Eomr0ri",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_10.jpg?versionId=Bbk1.3l.eYYiOQ5vwQhlRy8L9hjU64Cz",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U10_Lesson.mp3?versionId=YVyMhJ.1ad7DlpbvVUsGEicgIKnm81QL",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2227521,
+    "cultureContent": {
+    "imageLocation": "Yangliang, Guangdong Province, China",
+    "imageDescription": "The Nanhai 1 sank just off Hailing Island at the end of the 10th century.  Today, it is housed in an underwater tank in the Maritime Silk Route Museum, where visitors can watch as archeologists examine the wreck, which is still covered by silt.  It is thought to have contained between 60,000 and 80,000 pieces of cargo.",
+    "imageCredits": "Huoguangliang / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_11.jpg?versionId=80_qkAPs6qPKVzQRlg7nC2MgLYjAJihg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_11.jpg?versionId=BCOLkxVJyFjW24bZg9_0ZNjfs0_PAfbw",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U11_Lesson.mp3?versionId=C2WrMi9tDjwvbl77VEWrxgiQo4ib.QW4",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2227812,
+    "cultureContent": {
+    "imageLocation": "Luòyáng, Hénán Province, China",
+    "imageDescription": "The Longmen Grottos are thought to house up to 110,000 carvings of the Buddha in 2,300 caves on both sides of the Yi River. The figures, some originally painted, were carved into the limestone cliffs, and range from one inch to 57 feet in height.",
+    "imageCredits": "Andrea Cavallini / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_12.jpg?versionId=RS8F0mUPpvwn7PDEGgZ0xu7HGSNdXnYm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_12.jpg?versionId=GMo4ZPIR7LzOISRZcK1MLBQNB_EqOLn3",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U12_Lesson.mp3?versionId=lKpf6IyCkoMMCAxHqB.ye8lb3ml.81P1",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2228102,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "Chinese fishermen have used cormorants to catch fish since at least the Tang dynasty (between the 7th - 9th centuries AD.)   Today, it is now practiced as a performance for tourists. The government has designated cormorant fishing an Intangible Cultural Heritage occupation, a designation providing benefits and protection to the families who earn their living in this way.",
+    "imageCredits": "Ed Freeman / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_13.jpg?versionId=e6dgpr.PtIp5Fu4pjB7tEDGrCbbIaZhW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_13.jpg?versionId=fpRyZs.MeF9eUVpZ17avK5dglsPgNzyh",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U13_Lesson.mp3?versionId=r5KxpBNJH5fRLbBKy90cOc8YEB9sJdGr",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2228467,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "As well as being an everyday beverage, Chinese tea is used in traditional Chinese medicine and cuisine, and there are tea-making implements in virtually every home. A visitor is typically expected to sit and chat over tea, as standing during such a visit is considered impolite.",
+    "imageCredits": "Leren Lu / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_14.jpg?versionId=EWqDs6TxhWag3YOjaqKdtzDfrXSAB1J1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_14.jpg?versionId=vAR.WiKnQaq4pOkCVpPKkEAJMwhDISY5",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U14_Lesson.mp3?versionId=.7uNb1_FouDNvnowIiqXnOL9eNoDxChF",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2228807,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "The National Center for the Performing Arts is surrounded by an artificial lake that is integral to its design. Visitors enter through a hallway that goes through a tunnel beneath the lake.  The Center seats over 5,400 people in three halls – one designed for opera, one for music, and one for theater.",
+    "imageCredits": "Nutexzles / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_15.jpg?versionId=xA15SwzbuIpLCjPhAZjh5D99v0Stc5Bt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_15.jpg?versionId=8Z63BB054U3WKq0eZim_BagiYV1Gs7I7",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U15_Lesson.mp3?versionId=Ed.w3ZEGt__lYKWQQQ_cerwSbCFc394U",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2229135,
+    "cultureContent": {
+    "imageLocation": "Shanghai, China",
+    "imageDescription": "The Jin Mao Tower (literally, “golden prosperity building”) is an 88 story-skyscraper in Shanghai. The barrel-vaulted atrium has a view from the 88th floor down to the 56th making it one of the tallest atria in the world at 377 feet. In 2007, Frenchman Alain Robert made an unauthorized ascent and descent of the outside of the building while wearing a Spider-man costume. He was arrested, jailed for 5 days, and expelled from China.",
+    "imageCredits": "Thomas Saupe / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_16.jpg?versionId=rvnnfaQQ_kcV0o8zbZDLwn8jzHwvVcJl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_16.jpg?versionId=2KMdokhkKGcXPpcct2nspvWJX6._Ikl7",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U16_Lesson.mp3?versionId=5KHSM4Ujby_pNNgIVbyCqVItpoSlcL5o",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2229516,
+    "cultureContent": {
+    "imageLocation": "Shanghai, China",
+    "imageDescription": "When it was completed in 1994, the Oriental Pearl Tower in Shanghai was the tallest structure in China (1,535 feet) until 2007 when the Shanghai World Financial Center was opened. The Oriental Pearl has fifteen observatory levels; the highest at 1,148 feet features an outside area with a glass floor.",
+    "imageCredits": "Alan Copson / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_17.jpg?versionId=P3ZkTktZUD03MhISSrAxjMYYjTq3DvUT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_17.jpg?versionId=vAVQ1e3P2vmttFHDzPv5YTLPm49AMNc7",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U17_Lesson.mp3?versionId=HrDXsFHCpHTkyHeVt5QCH9hDjdPFnuW7",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2229869,
+    "cultureContent": {
+    "imageLocation": "Singapore",
+    "imageDescription": "The Marina Bay Sands is a highlight of the Singapore skyline. The three 57-story towers are connected at the 23rd floor and again at the top, where the three-acre Skypark (the size of three football fields) provides stunning views of the city. The park also contains an infinity pool nearly 500 feet long. An estimated forty million people visit the resort every year.",
+    "imageCredits": "TERADAT SANTIVIVUT / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_18.jpg?versionId=wj5FaMyEmkretIRSlrJEdyaG1FhPmRLI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_18.jpg?versionId=FtmSbJd1wHtzvt97eIMepjqM2dvvaWHM",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U18_Lesson.mp3?versionId=w.y7McTTB9aIOqk.CAkogbmtSSQANrZw",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2230214,
+    "cultureContent": {
+    "imageLocation": "Shenzhen, China",
+    "imageDescription": "With a sweeping roof designed to look like a bird in flight, the Shenzhen Civic Center adds modern drama to the city’s skyline. It contains the city’s main library as well as an exhibition center, a shopping mall, museums, several large hotels, and one of China’s largest bookstores.",
+    "imageCredits": "Carl Guan Imaging / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_19.jpg?versionId=3ZcodesxHUU7PaICKzQR0Yzr75HfV0jD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_19.jpg?versionId=Ce8yI.r9EKQ.fQNy8xoZwLACTZAtUZAr",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U19_Lesson.mp3?versionId=4gIXOUMHUgZv357oxFw3eno5FdeSFElL",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2230570,
+    "cultureContent": {
+    "imageLocation": "Singapore",
+    "imageDescription": "Known as the King of Fruits, durian is distinctive both for its size (up to a foot in circumference and weighing up to 7 pounds), and for its odor. Some find it sweet and pleasant, while others are revolted, comparing it to rotten onions and turpentine. The odor can be so offensive that it’s been banned from Singapore’s mass transit system, as well as from many hotels and airports.",
+    "imageCredits": "Michael Luhrenberg / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_20.jpg?versionId=encpVKexDpCZ7W5dDb7Sc8G_TdmkJNoq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_20.jpg?versionId=Bwup83CEkwGwEWfsh4Y2VEHMRsA_Gyyg",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U20_Lesson.mp3?versionId=LOUcg2hDjRLf3n_XahsZWLZFzx_En4or",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2231998,
+    "cultureContent": {
+    "imageLocation": "Shanghai, China",
+    "imageDescription": "The Shanghai Ocean Aquarium in Pudong is one of the largest in the world. It includes a 390-foot-long tunnel that gives visitors a close up view of a shark cove, a coral reef and a kelp cave. Exhibits include an estimated 15,000 sea creatures, including many rare and endangered species.",
+    "imageCredits": "Peter Stuckings / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_21.jpg?versionId=F1pteeCs7oFJYcJGJ9IPlQHeRPnZw3OP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_21.jpg?versionId=xcLl4rkm7EXf5adg6HzPsI.rK8vJHsuu",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U21_Lesson.mp3?versionId=ldk3whOpQZhf.FKp1NBJV4VrwTUnG_lA",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2232516,
+    "cultureContent": {
+    "imageLocation": "Nanjing, China",
+    "imageDescription": "China has the world’s largest manufacturing workforce with over 112 million workers. Roughly 70% of the world’s umbrellas, shoes, and holiday lights, and 50% of US toys and kitchen appliances are made in China. This man is working on building a shipping container.",
+    "imageCredits": "Cultura Travel / Mick Ryan Cultura Exclusive / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_22.jpg?versionId=9YMR1S2Db_ZFs8gRbu7.HqR9fpl2eFqa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_22.jpg?versionId=w0maIk0PGMeVdBYoJL_pR5hF_bYDPPM3",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U22_Lesson.mp3?versionId=CvLuul64zffAllSyfa_I2WLLgEn8ckeC",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2232918,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "Pangu Plaza stretches the length of seven football fields, and is currently home to one of only two of the world’s 7 star-hotels, a shopping mall, office space, residential apartments, and world-class restaurants.  The taller \"dragon’s head\" building features seven massive LCD screens. One, at 900 square meters, is the biggest in China.",
+    "imageCredits": "Christian Kober / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_23.jpg?versionId=.PjtxOr85MbUy9GT8H4qPOZ205KsPmSw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_23.jpg?versionId=LjAqZNn_Srrai93Kn29g_j2HaNFzenAM",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U23_Lesson.mp3?versionId=cgaTAQE47yf0L5BW0fMohJkVEyrM7VTp",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2233337,
+    "cultureContent": {
+    "imageLocation": "Shenzhen, Guangdong Province, China",
+    "imageDescription": "The Shenzhen Stock Exchange building, completed in 2013, has been described as the world’s first major stock exchange built for the digital era. The exchange, which lists 1,500 companies, occupies the first ten floors, with the rest of the building is leased out to private companies. There are also public spaces such as a roof-deck garden, an art exhibition area, and a ceremonial hall.  ",
+    "imageCredits": "Charles Bowman / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_24.jpg?versionId=dUaWEMiIyIex6.NevXUSQmMsI2uU1HNa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_24.jpg?versionId=Fg5xWi3RciEI7OAOdXrDpgT1uMvPtw7T",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U24_Lesson.mp3?versionId=IbljVnCGh5gCQhctAx5fIavvX8.UUW0Z",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2233741,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "Peking Duck may be the best known dish at traditional Beijing restaurants, but don’t miss the dumplings, hand-pulled noodles, Mongolian hot-pot, or “Tuckahoe pie,” a paper-thin round pastry stuffed with sugar, honey and nuts.",
+    "imageCredits": "Andrea Pistolesi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_25.jpg?versionId=N5O5BWciGgmaM8o.OVv4jGTzZNuusC4C",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_25.jpg?versionId=6iFFzp_dfXfMw3EZCHj.yKDDatm7Gn4g",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U25_Lesson.mp3?versionId=fZae2pixoa6Rp3sdNZtbh4kVdeEm5cZX",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2234159,
+    "cultureContent": {
+    "imageLocation": "Hong Kong, China",
+    "imageDescription": "This circular pebble garden in Victoria Park is designed to provide visitors with acupressure foot massage, believed to improve blood circulation and boost metabolism. There are at least 60 public pebble trails in Hong Kong, and hundreds at private residences and hotels.",
+    "imageCredits": "Lonely Planet / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_26.jpg?versionId=At07MXD7MEL3q1AR6B93WRtRMi013MVU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_26.jpg?versionId=Uljy.YTZqYMOfYx8DZN.Re4odTavoKLN",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U26_Lesson.mp3?versionId=7jiRlCPJ8wRQIktWZg702aLzcPurIRWH",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2234492,
+    "cultureContent": {
+    "imageLocation": "Shenzhen, Guangdong Province, China",
+    "imageDescription": "The Window of the World theme park in Shenzhen has over 100 reproductions of some of the most iconic tourist attractions in the world. The Eiffel Tower, the Pyramids, the Taj Mahal, and the Arc de Triomphe are just a few.",
+    "imageCredits": "Yann Layma / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_27.jpg?versionId=E_aXWN3XSi58eH1bOjk3CJersTeDmjJJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_27.jpg?versionId=dQbWVFX3sNbkkNFrzJbqoeTeEYzOS1DI",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U27_Lesson.mp3?versionId=YQGEsDIrjXeYf8SY0a5JTTn.jeJT8bA8",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2234862,
+    "cultureContent": {
+    "imageLocation": "Shaanxi Province, China",
+    "imageDescription": "Established in the 8th century during the Tang dynasty, Xi’an’s Great Mosque is the largest in China, and is still used for worship today.  An estimated 2% of the Chinese population is Muslim.",
+    "imageCredits": "Amar Grover / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_28.jpg?versionId=61T.B9g3f8E6lNrIQX35pjz0lboRncWf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_28.jpg?versionId=G_8KonieHc_eDN45bregU2T3_S4jOjOx",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U28_Lesson.mp3?versionId=kQNPfQWkliEqcsfcEH9c5t3G4cToPcfr",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2235326,
+    "cultureContent": {
+    "imageLocation": "Yunnan Province, China",
+    "imageDescription": "At 10,600 feet above sea level, Mount Jizu is considered holy by Buddhists, and at one time was home to hundreds of nunneries and monasteries. Today a few are still maintained, but the mountain is also a popular tourist destination, with a cable car to take visitors to the summit.",
+    "imageCredits": "BOISVIEUX Christophe / Hemis.Fr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_29.jpg?versionId=_A08N7ADryQLhrwho0NlLDmJQXD_wqFc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_29.jpg?versionId=iJwBW8bnMr9zt8DC_o27sJVgVnrSO1qt",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U29_Lesson.mp3?versionId=6pZty0KQWRq_Gt2gvKafOKp.WCYcp.Xh",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2235742,
+    "cultureContent": {
+    "imageLocation": "Taiwan, China",
+    "imageDescription": "The curved roofs common in traditional Chinese architecture date back to the Han Dynasty, when it was believed that the curves would ward off evil spirits, who were thought to be able to move only in a straight line. When a spirit dropped from the sky, the curve in the roof would deflect it skyward, away from the building and its occupants.",
+    "imageCredits": "Agui20 / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/full/MA_3_M_30.jpg?versionId=IHZdbSmVWX0kJoo366OxZVPq06TijwEM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/lesson_photo/thumb/MA_3_M_30.jpg?versionId=OV.CC6uwFXk5WrZxgv606tz79Z39NbqB",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/main_audio/9781442394896_Mandarin_Chinese3_U30_Lesson.mp3?versionId=5ESk6wACrjmJVXe9BysEXLBlPi_IyhdI",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2236146,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "At 29,035 feet, Mt. Everest is the highest mountain in the world, straddling the border of Tibet and Nepal. It takes a minimum of 40 days to get to the top, as the climbers’ bodies need time to adapt to the high altitude and lower oxygen levels. ",
+    "imageCredits": "Harry Kikstra / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 3 orig/asset/RL/9781442394896_Mandarin_Chinese_3_Alpha.pdf?versionId=oQZ5hq9HtpM9eA58XFWoTg.Y6xG3x0iF",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 3 orig/asset/RL/9781442394896_Mandarin_Chinese_3_Intro.pdf?versionId=.5ij0cXBpXP9ypR5U6MGENsRjsxU98bb",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit01_Reading.mp3?versionId=.yD6TADPFNp7RzJz83Ha61LsO6tALnb2",
+    "mediaItemId": 2223710
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit02_Reading.mp3?versionId=4RpMZmprF5C2XGW9BNEUoza5hwk5ODXp",
+    "mediaItemId": 2223822
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit03_Reading.mp3?versionId=MwLs35tFqcmjLA77H1LRo461iWm6aRzC",
+    "mediaItemId": 2223987
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit04_Reading.mp3?versionId=8y10jyH6gneg67LyRWN.QCApNuhDXp66",
+    "mediaItemId": 2224160
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit05_Reading.mp3?versionId=wUWTHZcSedWkYs.ySMMUFr7vW1NVceqO",
+    "mediaItemId": 2224364
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit06_Reading.mp3?versionId=ZsBiytjzbrNXR59zN7EjxEIgda5OeiCx",
+    "mediaItemId": 2224498
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit07_Reading.mp3?versionId=.riH2njpLWVUjgFYC5mLQXQ6oRTA4L33",
+    "mediaItemId": 2224697
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit08_Reading.mp3?versionId=pmtCWBj5uQjOlwRVoA4RJHYYGmNqpniz",
+    "mediaItemId": 2224818
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit09_Reading.mp3?versionId=dX5FghYUCXwEIIuH9DKKoVatPVgN9_6O",
+    "mediaItemId": 2225959
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit10_Reading.mp3?versionId=UyWAijUL_T1GsNH6kEmtNhaCXBd4R9_u",
+    "mediaItemId": 2228369
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit11_Reading.mp3?versionId=1txkNzlW7D7VWNbQg1UubPcEnhV4XNxF",
+    "mediaItemId": 2231720
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit12_Reading.mp3?versionId=V9_GbrTviG51wO1YmNibYF0.UtsKG9kV",
+    "mediaItemId": 2235130
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit13_Reading.mp3?versionId=qpClxR0_8ZfWeGpMhlNPn86kqZcU2g4i",
+    "mediaItemId": 2238383
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit14_Reading.mp3?versionId=PXwOWLWb0_lBUHEbhuEOleGuTOETTFGR",
+    "mediaItemId": 2241638
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit15_Reading.mp3?versionId=kgtCXGxS.847t_Yfptiby_PZQUAe3Wns",
+    "mediaItemId": 2244505
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit16_Reading.mp3?versionId=RAtlwBP3yESnQZRe_qG0JIAPf9HRgl6h",
+    "mediaItemId": 2247507
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit17_Reading.mp3?versionId=LUgc5Jut.hwy3mvojW6PsaFOpiPVrCn0",
+    "mediaItemId": 2250557
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit18_Reading.mp3?versionId=Ja6pAysiTGBYYMcJ5wyimXQgmU_Utsad",
+    "mediaItemId": 2253458
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit19_Reading.mp3?versionId=dJNNp42o1kY3oS0oy4dkHTWN92rvK0d9",
+    "mediaItemId": 2256269
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%203%20orig/asset/RL/9781442394896_Mandarin_Chinese3_Unit20_Reading.mp3?versionId=BBrX1IQACenDOD84n2e1LPzi2IY5Kfl9",
+    "mediaItemId": 2259061
+    }
+    ]
+    },
+    "languageCode": "zh",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442394896",
+    "level": 3,
+    "courseName": "Chinese (Mandarin) Level 3 Premium",
+    "simpleCourseName": "Chinese (Mandarin) Level 3",
+    "puArabic": false
+    }
+    ]

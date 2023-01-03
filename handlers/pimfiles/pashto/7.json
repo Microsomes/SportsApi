@@ -1,0 +1,624 @@
+[
+    {
+    "courseId": 3080,
+    "languageName": "Arabic Egyptian",
+    "languageId": 121,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_01.jpg?versionId=diRBuq7AnUkDc.kKY9zJCOwCODyEtqqJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_01.jpg?versionId=ITAIh7y0z8pgRbWekZvKYv1ivubGi0TH",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_01.mp3?versionId=HOE6Uwkl2m7kGtNmTxZ1.n6elhqB4DIv",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2321450,
+    "cultureContent": {
+    "imageLocation": "Egypt",
+    "imageDescription": "Along the banks of Nile, the world's longest river, lives fully 95% of Egypt's population. The majestic Nile is a precious resource for Egyptians, as the country is almost completely desert. Today the total population of Egypt is 110 million.",
+    "imageCredits": "Luis Alvarez / Digital Vision / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_02.jpg?versionId=7PeQan10.Rw..xvRljbBchvTRQFZ1n8N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_02.jpg?versionId=Rfn8HYZ3h.EYJsfxzqykyuIV2sPuxz0E",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_02.mp3?versionId=.aXjuTFT7BE0yrrn9RJBAJhZHWgTqXYk",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2321454,
+    "cultureContent": {
+    "imageLocation": "Aswan",
+    "imageDescription": "Felucca sailboats retain a similar structure to the wooden sailboats used in ancient Egypt. The open-decked boats are now used as a leisurely conveyance on the Nile, stopping at historic sites along the way. The Felucca boats are designed to ply shallow waters, and are an essential piece of Egypt's history.",
+    "imageCredits": "Peter Adams / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_03.jpg?versionId=P7nGHVaKEzeSokLOHXU5FmpECf9fgZOF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_03.jpg?versionId=8Ztj7r_vO8Mhz_WAHb2mJvs0A9KLKwJa",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_03.mp3?versionId=pjYoMceJBw0nqHRAzlibg2xafplDWtsd",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2321458,
+    "cultureContent": {
+    "imageLocation": "Giza",
+    "imageDescription": "Dating back to 2500 BCE, the Great Sphinx of Giza is an enormous limestone sculpture with a human head and the body of a lion. The face of the sphinx is likely the ruler from the Great Sphinx's time King Khafre. Using hammers and chisels it is estimated that the building of the massive monument took 100 workers three years to complete.",
+    "imageCredits": "Anton Aleksenko / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_04.jpg?versionId=WH_iHgo_y6y8.QvSxc0wP2dOmFazWg.V",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_04.jpg?versionId=fEpx7n5exIlNR596zBclSkLeaFf6LOZt",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_04.mp3?versionId=xpuZDvwEQ8dA_QrtAeambZJLvnQ1A9xD",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2321460,
+    "cultureContent": {
+    "imageLocation": "El Gouna",
+    "imageDescription": "The purpose-built resort town of El Gouna sits on the Red Sea. Known for its pristine beaches, coral reefs, and gentle lagoons, El Gouna is a popular destination for water sports. The town was founded with dedication to the environment by trying to minimize plastics, using recycled water from desalination plants, and encouraging hotels to commit to implementing green practices.",
+    "imageCredits": "Arsty / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_05.jpg?versionId=mOi.2NDVvdujgkJfjKawFPJ3hyOReJeY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_05.jpg?versionId=hGCT0wa9Xi1Vi_6fSaOcf4Uaz31_pUcZ",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_05.mp3?versionId=ekbYKb74uZTRQukzW5VmfKASh9nAxTz1",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2321465,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Egyptian folk dance al-tanoura is practiced in Sufism. The term “sufi” means \"to dress in wool” in Arabic, and the dancers, sometimes called whirling dervishes, wear colorful skirts and spin in circles for thirty minutes. Sufism follows the mystical dimension of Islam, and there are seventy-four orders of it in Egypt.",
+    "imageCredits": "Hugh Sitton / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_06.jpg?versionId=PMFnAqRl6b.IHiGClPs8.5adCMvuIu.v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_06.jpg?versionId=pAwPCu0A4coqwz0vXSoA4XVXgeU9uu4L",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_06.mp3?versionId=bzsbIRM9AaK4XhVmINoDnaszEdyijlxF",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2321470,
+    "cultureContent": {
+    "imageLocation": "Hurghada",
+    "imageDescription": "The magnificent El Mina Mosque is built entirely of marble, making its multiple domes and giant minarets stand out against the desert sky. The original building was replaced in 2006 and reopened to the public in 2012. Inside El Mina Mosque the impressive detailing of the walls and ceiling features religious writings and dazzling patterns.",
+    "imageCredits": "Ewg3D / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_07.jpg?versionId=lk0bNz1cN4n9q6AA.xsxGTfq8j2v__WI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_07.jpg?versionId=hCl0AoeBhBJtVZ9sMHgwB3WIgH5RFYD6",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_07.mp3?versionId=D057Ar_C0xZXEWXUsIG9WGC8EyIoBFm.",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2321476,
+    "cultureContent": {
+    "imageLocation": "Marsa Alam",
+    "imageDescription": "Marsa Alam is a quieter beach destination for visitors. The seaside resort on the Red Sea boasts prime scuba diving, and twenty miles south is Wadi El Gemal National Park, also known as the Valley of Camels, one of the largest national parks in Egypt.",
+    "imageCredits": "Balate Dorin / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_08.jpg?versionId=6Q45.IWGWSiCJ9VDt5CbDK.S0pgB8K3m",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_08.jpg?versionId=UBwl4U.OtYeqsHosxa4nbrZ5YL5PJzhm",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_08.mp3?versionId=TSnNbX.EYQyFIR1sXPRUBL8VBNTuK2Mb",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2321481,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "In 2021 a procession dubbed the Pharaohs' Golden Parade was held as twenty-two mummified Kings and Queens of Ancient Egypt were transferred from the Egyptian Museum in Cairo to the National Museum of Egyptian Civilization. Each mummy was carried in a vehicle decorated to look like an Egyptian funerary boat and labeled with its Pharoah's name in Arabic, hieroglyphs, and English.",
+    "imageCredits": "MAHMOUD KHALED / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_09.jpg?versionId=PMGwbn3KxAG7LYy1R2X8.NBO2EmB.Sqf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_09.jpg?versionId=xilP2rdbnwyQ7zVuRGx4af76bmyf4F3L",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_09.mp3?versionId=75_4GnDwFy82r04G5J9YUfV1yOP9.NvU",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2321488,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "Tahrir Square, meaning Liberation Square, is the focal point of downtown Cairo. The name dates to the first Egyptian revolution in 1919 and the square has been the site of several revolutions and demonstrations since, including the revolution of 2011 and the subsequent resignation of President Hosni Mubarak. Recent additions to the plaza include an obelisk from the reign of Ramses II and four sphinx statues.",
+    "imageCredits": "Anders Blomqvist / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_10.jpg?versionId=0QYIt7BnQ3G9wfDiFQlpD9WGiNRQ71gW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_10.jpg?versionId=v1HmlAazcYfROeOKYhdpU5Un9jGTr0v_",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_10.mp3?versionId=2ArWwPB8wurKIKjIsgtyNccPlcYt.i1r",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2321494,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "The City of the Dead is a four-mile-long section of Cairo where the living coexist with the dead. The low-rent neighborhood has many homes with ancient tombs around and inside of them, while the streets contain artisans revitalizing this liminal place. In 2014 the European Union funded several renovation projects in the growing neighborhood, which is an affordable option in the otherwise expensive capital city.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_11.jpg?versionId=8e41rh_oyZ9OnS5GreLs8sEQKvM6JwMw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_11.jpg?versionId=PQe.uTFgs0xvzSPn7JlrzTXV.BrA6St0",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_11.mp3?versionId=LcGwcZOiGJqaE2jeToZuoeAdUtXzMMoi",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2321501,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "Bustling Khan El-Khalili market has a rainbow of goods ranging from ornate lamps and shimmering metalware to handmade carpets and spices. Located in the historic heart of Cairo, the market is near the medieval Islamic architecture of Muizz Street and Al-Hussein Mosque. This neighborhood is like stepping back in time to old Cairo, which is likely why it has been used in several movies.",
+    "imageCredits": "Merydolla / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_12.jpg?versionId=4jw.WOC_DYn2VKVYNo0lwz2vYbfcM7YX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_12.jpg?versionId=DOSr3MgKEsrVMujP7PAj_BCI4YX8pNKC",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_12.mp3?versionId=wBh1JZOf_Z5G64vjLL.pRWpkF6XDKFMB",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2321506,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "The Cairo International Film Festival (CIFF) is the longest held and most attended feature film festival in the Arab world. Known as the Hollywood of the East, Egypt has been a prominent producer of cinema since the inception of movies. CIFF was created in 1976 by famed archaeologist and journalist Kamal el-Mallakh.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_13.jpg?versionId=fpL1BxqtA_KoQPTJbIhahrJ21eEH0cdX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_13.jpg?versionId=WD_qnypbOWH4omjs5KoSpBroTUh.vzBr",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_13.mp3?versionId=RDGNmJOxZn6IWlWbYE2jM2HETdLWq0Y9",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2321512,
+    "cultureContent": {
+    "imageLocation": "Sinai Peninsula",
+    "imageDescription": "Mount Sinai is believed to be the place where Moses received the Ten Commandments from God. At this place today can be found shrines pertaining to the three main monotheistic religions: Jewish, Islamic, and Christian. The medieval St. Catherine's Monastery is the oldest continuously inhabited Christian monastery in the world, and its library houses the world's largest collection of early codices and manuscripts.",
+    "imageCredits": "asmithers / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_14.jpg?versionId=Xb08PmqBPUGhlakYjUg0SA_elEYzbTV1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_14.jpg?versionId=rmRt_iXZJk51NRzCqFLqXM.uEKHS1pgX",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_14.mp3?versionId=76mvfPfggj_k7NVhxHb_W0vubZafU86U",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2321518,
+    "cultureContent": {
+    "imageLocation": "Sharm El Sheikh",
+    "imageDescription": "Once the Guinness world record holder for biggest metal sculpture, the Peace Icon Memorial stands at an impressive one hundred forty feet tall. The artwork was inspired by the Egyptian god Ra, god of the sun, and features the recognizable Egyptian lotus flower holding eight wings. The memorial stands for peace for the country of Egypt and the town it resides in, Sharm El Sheikh.",
+    "imageCredits": "VGORAN / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_15.jpg?versionId=yaktepLxhOuopy2EGCSLI5RDJTh.tnnI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_15.jpg?versionId=4MdLDKdvQFCQvySOd13_sdXOqeUoYuxK",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_15.mp3?versionId=U0B0k4Na3Hnq5ykKKCw_2OukagkXWUef",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2321523,
+    "cultureContent": {
+    "imageLocation": "Red Sea",
+    "imageDescription": "With proximity to the Mediterranean and the Red Sea, clear waters teeming with fish, coral reefs and quick access to depths, Egypt is a superb diving destination. From June to September hammerhead sharks can be spotted, along with the giant whale shark, which can reach 36 feet in length.",
+    "imageCredits": "Konoplytska / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_16.jpg?versionId=StN1HG7krrExnTR62zPra83VS1Ej9Clv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_16.jpg?versionId=Av.8oleOWRY5aN7J345blThGSIn.rPkh",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_16.mp3?versionId=lQDgU6CDfWI_HD8dStZafn7zvz8Goss6",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2321533,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "Cairo is one of the biggest cities in Africa and has a long, rich history. This metropolis along the banks of the Nile River emphasizes the contrast between antique and modern architecture, luscious green vegetation against tall skyscrapers. The shape of the city geographically looks like a fan, narrow in the south and fanning outwards towards the north with most of the city on the eastern bank of the Nile.",
+    "imageCredits": "Anton Aleksekno / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_17.jpg?versionId=U5GZlk5v1Dvi0u.sgBrwt1EsUQqEYTQL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_17.jpg?versionId=RN2dsp3kwgdr5vsbPZeo6tHOyIgLaLZ8",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_17.mp3?versionId=at6Pc64.MOz9jDay9B_x.4RibMsOcowV",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2321539,
+    "cultureContent": {
+    "imageLocation": "Siwa",
+    "imageDescription": "Cleopatra's Spring, located in remote Siwa, is a naturally occurring oasis along the path that leads to the Temple of the Oracle. The crystal clear waters are contained by a stone pool with natural rock formations. Cleopatra had a palace that overlooked the springs in the area, and the site is believed to be the bathing place of the powerful queen and her lover Mark Antony.",
+    "imageCredits": "Oleh_Slobodeniuk / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_18.jpg?versionId=I9ppfB9em3m_uv4aIk0LBKVBc9HGeTjn",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_18.jpg?versionId=5a_lDBEM.dtt7bTBRnkegL35XnGffqF3",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_18.mp3?versionId=i8EEc00T7DaTRAxtto7HQSmSqQKAWVmW",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2321544,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "Sultan Hassan Mosque is one of the most important historical landmarks in Cairo. Construction of the massive mosque during the 14the century was extremely costly and even supposedly included limestone taken from the Great Pyramid of Giza. Inside the mosque the ornate mosaics stand out against the ancient stonework.",
+    "imageCredits": "MOHAMED HUSSAIN YOUNIS / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_19.jpg?versionId=ioFPBR.kcD8fFeFF7yr2jO_xJKF.sVUB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_19.jpg?versionId=YwzWWUL8ZHCVnUox.V74TG_D_lDbKk31",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_19.mp3?versionId=Kl0swJitgP030YujptMM0CQWCMHkKwKW",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2321549,
+    "cultureContent": {
+    "imageLocation": "Giza",
+    "imageDescription": "The great statue of Ramses II was moved to the Grand Egyptian Museum in 2018. Weighing eighty-three tons and standing at thirty feet tall, moving the statue of solid granite is no small feat. A custom-built cage was designed around the statue which was transported on a bright yellow truck flying the Egyptian flag. The pharaoh Ramses II ruled from 1279 to 1213 B.C. and was considered one of the most powerful in history.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_20.jpg?versionId=0IxXdZCvYAIh.KgrK5exJ2iknS8AWHnO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_20.jpg?versionId=4PU7fgIcmz.PsmPd36AHukt.KxHA11oJ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_20.mp3?versionId=WC.ghG6lzbYis.VPrcKuOSW8QNM8.hB0",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2321555,
+    "cultureContent": {
+    "imageLocation": "Alexandria",
+    "imageDescription": "Overlooking the sea in the city of Alexandria lies the Bibliotheca Alexandrina, an eleven story library and cultural center. The crescent-shaped, tilting form is topped with sky lights and contains a planetarium. The contemporary edifice sits at what is believed to be the site of the original, ancient Library of Alexandria, which was in its day the biggest library in the world.",
+    "imageCredits": "kharps / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_21.jpg?versionId=TS9nbqzDm31ZoJKL.UDLJtVwFCYgRSC.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_21.jpg?versionId=ZqAaicCytF3P7F0JLIJkJwkhwy0kADdk",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_21.mp3?versionId=tIDJbLuVo4e8XKIHm7sn3OmsESiSybAD",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2321566,
+    "cultureContent": {
+    "imageLocation": "White Desert Protected Area",
+    "imageDescription": "Located northwest of the central point of Egypt, White Desert Protected Area is a mystical landscape of white sand dotted with gleaming white rock formations. The chicken and mushroom rock formation, likely formed by erosion and sandstorms, is a popular destination while hiking through the alien landscape. Juxtaposing the White Desert is the Black Desert, which features black capped dunes, while the White Desert appears to be frosted with snow-like sand.",
+    "imageCredits": "cinoby / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_22.jpg?versionId=QOTt5eqsjAbs8tDaAUzCT96MnEhxRP.5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_22.jpg?versionId=Km9Q1EIV24DrQLz7xsKIUz0o3ele2Tf.",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_22.mp3?versionId=felBE5pJhxCZu0mBgPiapkFIL58WsQl7",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2321571,
+    "cultureContent": {
+    "imageLocation": "Abu Simbel",
+    "imageDescription": "Pharoah Ramses II built two temples at Abu Simbel. Positioned on either side of the larger temple and standing at sixty-six feet tall are four seated statues of Ramses II himself, which are built into the cliff face on the western bank of Lake Nasser. The site was unknown for centuries until it was discovered by Swiss researcher Johann Ludwig Burckhardt in 1813. In 1959 the temples were moved, piece by massive piece, to higher ground to make room for the rising waters behind the new Aswan High Dam.",
+    "imageCredits": "Nick Brundle Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_23.jpg?versionId=JmX1LKuIztFM9qYS95wAuulKddw0aBdE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_23.jpg?versionId=nYhuQtW57yPKMA_LNY2cAkYDFDnZ_.bf",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_23.mp3?versionId=EIeHA08sSFebLanWl0aQcMyHj.u8qUlX",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2321576,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Wheat is a staple crop of Egypt, where bread is the main component of people's diets. For many years Egypt has relied on wheat imported from Russia and Ukraine but the war between the two countries in that year and the resulting global inflation and wheat shortage created a food crisis for Egyptians.",
+    "imageCredits": "KHALED DESOUKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_24.jpg?versionId=vEQnIpnadZFiV5V8OZozJKDgUg4v8mCU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_24.jpg?versionId=7K8VvzQXLibExmJuBr8APq.jB.QLdQ6j",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_24.mp3?versionId=uVsKPr9QirrxLJPBvRHXvOdDEjhvidxp",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2321581,
+    "cultureContent": {
+    "imageLocation": "Siwa",
+    "imageDescription": "Donkey carts are a primary means of transportation in Egypt, especially in provincial villages which are mainly motor vehicle-free. In recent years the government has tried to ban such carts, which they tend to view as a symbol of poverty. The carts can be easily maneuvered through city streets and landfill sites and are typically less expensive than cars.",
+    "imageCredits": "Oleh_Slobodeniuk / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_25.jpg?versionId=WkdzuUHkUw1sh4ubpPEmXCGcG5LUttlI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_25.jpg?versionId=hKH2._BL_5oXbnVfMjuspyr1.hUM2FKo",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_25.mp3?versionId=Gwmb0X1U4l12kA.y3AAEdJzA1PABg1_u",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2321587,
+    "cultureContent": {
+    "imageLocation": "Cairo",
+    "imageDescription": "As of the 2022 growing season, cotton growing has expanded to 85,000 hectares in Egypt. That is a 30% increase from the previous year. The expansion of cotton growing is intended to even out supply and demand so that crop prices will not drop drastically. Hisham Mosaad Hamod, chairman of the Cotton Research Institute, has stated that Egypt is able to produce a colored cotton with a degree of fiber strength of forty grams per tex, whereas regular cotton has a fiber strength of twenty.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_26.jpg?versionId=zd8ldVO91l6tV5u2VJdnwzjdmvuycbbF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_26.jpg?versionId=KXv1hu5cpuvoAJ8abj3GyCtt_mgaPFll",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_26.mp3?versionId=3HcPC82rB7oqe7rmsAOHPyJod3_dSQLE",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2321591,
+    "cultureContent": {
+    "imageLocation": "Luxor",
+    "imageDescription": "Two statues depicting Pharoah Amenhotep III face eastwards to the Nile in the city of Luxor, which was called Thebes in ancient times. The monuments depict the ruler with imagery of his mother, wife, and the god Hapi. The site is the necropolis of the pharaoh and the towering figures are meant to protect the area. The site is called the Colossi of Memnon, referring to the Greek hero Memnon whom ancient Egyptian historian Manetho believed to be the same person as Amenhotep III.",
+    "imageCredits": "Laurent Sauvel / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_27.jpg?versionId=QS0_4bAvhg3CPcd8qUlhTLW1kkdQWCiG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_27.jpg?versionId=5C6790xrN_HwGMdQcS_RznqegiB.yP6o",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_27.mp3?versionId=vi6RYXDYHJejASGLapDfV4Xv6AdMd7eW",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2321596,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "One of the oldest cultivated crops is the date palm. Egypt is the world's biggest producer of dates and most of the crop is consumed by Egyptians themselves. The red palm weevil is a pest that threatens the date crop but it can be eradicated with early detection.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_28.jpg?versionId=ki8kjaG16zm0Dufpt3k1ZQk5iUQlMnnU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_28.jpg?versionId=qYAJy748OXbbXQLpQPG6KkuhTfN_ArFI",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_28.mp3?versionId=vdtzd7AFdBnPdPOqcW5iNj43RukRx2hd",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2321600,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "One of the greatest African soccer players of all time is Egyptian Mohamed Salah, currently a forward for Liverpool in the Premier League. During his first season with Liverpool in 2017 Salah broke records for the most points scored during the season. He is also the captain of the Egyptian national team which has won a record seven titles in the African Cup.",
+    "imageCredits": "Alex Livesey / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_29.jpg?versionId=DKI0TIYK6f6XHu18ulXC52.BPfwRj_Br",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_29.jpg?versionId=uwopWXA6U2r.IX5qNzwCUcW6ybfSptFR",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_29.mp3?versionId=vKkoOGbQUtcPPFtJa1wthKkopl.ALTRX",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2321604,
+    "cultureContent": {
+    "imageLocation": "Egypt",
+    "imageDescription": "The red finger gorgonian coral grows in a distinct tree-like pattern. Coral is actually an animal that feeds on microorganisms called plankton. This species of coral can be found in the Red Sea along with many other types along the rich coasts of Egypt.",
+    "imageCredits": "tunart / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/full/ArabicEgyptian_1_9781797150710_M_30.jpg?versionId=OS.jmou07.EwktpksZu1s8qEUho0NKNN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/lesson_photo/thumb/ArabicEgyptian_1_9781797150710_M_30.jpg?versionId=wPbv_HHSeu8BWbPmBLm2uAvFaoc.FL88",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/main_audio/9781442317284_Unit_30.mp3?versionId=4WUKzDQFDRk.uM9XUMVy.pi34FLVsrcb",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2321606,
+    "cultureContent": {
+    "imageLocation": "Luxor",
+    "imageDescription": "The ancient complex of Karnak is located in what is called Upper Egypt, or the southern part of the country, near the city of Luxor. Here in what was the ancient city of Thebes lies the biggest collection of temples, pylons, chapels and other buildings in the country. Because the site has been added to throughout time the complex lacks an overall plan but is rather a blueprint of history set in stone.",
+    "imageCredits": "Theerawat Kaiphanlert / Moment / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Egyptian)/Arabic (Egyptian) Level 1 orig/asset/RL/ArabicEgyptian_1_9781797150710_Alpha.pdf?versionId=qXKfXEbPm6Bk0r1B6A2a5auvqyjlPYBj",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic (Egyptian)/Arabic (Egyptian) Level 1 orig/asset/RL/ArabicEgyptian_1_9781797150710_Intro.pdf?versionId=NBF9moES24KYFu5El0N2dHgCJTTbpLce",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading01.mp3?versionId=isZ1FSA2Xb_6O.IrKuDv8xWuf1svNgb9",
+    "mediaItemId": 2367330
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading02.mp3?versionId=57AD3l3_6Tx7sRSEKx3uSUBDOQ2PzaX_",
+    "mediaItemId": 2367332
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading03.mp3?versionId=NmPZHYlZva2oN0nMS9_0QtBRbkGZRxAP",
+    "mediaItemId": 2367331
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading04.mp3?versionId=H2qFQXQ.S_qNt4GQ49Ya5a2quQduS5QB",
+    "mediaItemId": 2367333
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading05.mp3?versionId=7O7g36jd52iqlCR.XyNimb6k11eZ2L5H",
+    "mediaItemId": 2367334
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading06.mp3?versionId=MEfiLnFdfMg5gkZbUqjukAUHSAp9tM7j",
+    "mediaItemId": 2367335
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading07.mp3?versionId=.22Tt7bFBh_R7iQewu8ncOUtABMjCtSq",
+    "mediaItemId": 2367336
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading08.mp3?versionId=8ND5mewBUxadsSNN1LkvujNeCHtHokJO",
+    "mediaItemId": 2367337
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading09.mp3?versionId=c7DNeM7MVU6J_FOBzO9gv8ASjdGnfmle",
+    "mediaItemId": 2367338
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading10.mp3?versionId=GSouSMYCe0N5U.bH5VHQ5PZXpttGiy5c",
+    "mediaItemId": 2367339
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading11.mp3?versionId=0T69wy9nNpoA5khQHp.xnIyL2dtDJhL5",
+    "mediaItemId": 2367340
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading12.mp3?versionId=FXoaP5e9jiCyCG.SAuf_WT_AqN__bocl",
+    "mediaItemId": 2367341
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading13.mp3?versionId=ApkYqU6D49dXVpyvtdaZ6M4WpQqz2jZT",
+    "mediaItemId": 2367342
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading14.mp3?versionId=XH1qKSlyxPacVfW81VZKPlDx835T59d_",
+    "mediaItemId": 2367343
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading15.mp3?versionId=.DTfLugaaIWsJUYXnpm3fGokGpENOSyr",
+    "mediaItemId": 2367344
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading16.mp3?versionId=nr8N2wc2zDvxkfZXRNLONKua6h6yMcm8",
+    "mediaItemId": 2367345
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading17.mp3?versionId=bS9B.gfqF4HuEWnGxxWSqWtncruKGK6n",
+    "mediaItemId": 2367346
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Arabic%20%28Egyptian%29/Arabic%20%28Egyptian%29%20Level%201%20orig/asset/RL/ArabicEgyptian_1_9781442317284_Reading18.mp3?versionId=zx_xMQpSzqhRiVMkjzHsg.eqHGjws4Xr",
+    "mediaItemId": 2367347
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797150710",
+    "level": 1,
+    "courseName": "Arabic (Egyptian) Level 1 Premium",
+    "simpleCourseName": "Arabic (Egyptian) Level 1",
+    "puArabic": true
+    }
+    ]

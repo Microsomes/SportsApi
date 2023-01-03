@@ -1,0 +1,412 @@
+[
+    {
+    "courseId": 5005,
+    "languageName": "Ojibwe",
+    "languageId": 160,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_01.mp3?versionId=H6agEFKizY8c_JH14.C0wx470u9tdueH",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323156,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_02.mp3?versionId=VQS.rxFnUf9XvjvjhzhJ7aRitPg2c1df",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323163,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_03.mp3?versionId=CMBjW1_lN2zC.Gi6PIpfjzpD9s9xirbU",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323170,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_04.mp3?versionId=bTgKJvtRAXG6UNRIr1UKiT3TmJ5jDn1E",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323177,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_05.mp3?versionId=EhCANfAOsFeuz8MKJbXw8B0FnMjwglin",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323185,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_06.mp3?versionId=l7hgddByEwUu183tufaOdpEgNLlMR2su",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323194,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_07.mp3?versionId=awgNCfWC_mA42f2Ow1Cy2Sf5IeyoY2Ff",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323203,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_08.mp3?versionId=U5.a5sr03iHuruz.5HTc1PMPmZBN9ul3",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323212,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_09.mp3?versionId=kbisCCxCtugCDf7VPHYJ1egnMMTAv94H",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323220,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_10.mp3?versionId=_n32kIZTqMvl90.9vxkDScPO34tGBK_M",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323233,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_11.mp3?versionId=H0ytk1KUDvYIoadgw1n0ZOT.ugeZYSzx",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323242,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_12.mp3?versionId=GESvjgu4.YIszB4FycJpGO4rPvQhwo5e",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323252,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_13.mp3?versionId=XuAoM8MyuBeANM4EQM_mmBvccer_smtl",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323259,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_14.mp3?versionId=_wA7cGgKkMR9OjrfKMY.aHaLIkRqKkgc",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323266,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_15.mp3?versionId=SF2eDGkdRvUdYSPGKK9uxlWYORxD0Vq6",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323276,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_16.mp3?versionId=so0d.IMv0KlsjqLB0p17kme0ajcpH76Z",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323289,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_17.mp3?versionId=wtwWwdxyeU2iYAxiUjFiiONBhDwgMhc.",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323301,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_18.mp3?versionId=6vPoQ1T_H_swbJ67gXrZxoFfP0e2lwnl",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323309,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_19.mp3?versionId=KKkZApRxyThuNIifzFD3Yiz8kCCVz6pE",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323330,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_20.mp3?versionId=N0CWX2r1xtbMgazQ0ikJ04fAI5aZTj39",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323341,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_21.mp3?versionId=R9lzhvN9feARqCDrCxgpZsxP0gXrL7yv",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323353,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_22.mp3?versionId=ZslJ3RzQhkW3uexPQZwys5EM6JiCiFu5",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323364,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_23.mp3?versionId=17LvR_eEkblPeewef1NX4bM0nRmGyJDz",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323374,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_24.mp3?versionId=CFMzK6uA79bZFzXgAT59Liqo2_ZMq.vb",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323383,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_25.mp3?versionId=LHZ.j_KKMViDoDFNv63EFZUXkyrWCM4a",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323393,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_26.mp3?versionId=sb_oiiedpnBBXnzC2LOwPaEpgzrQT7MV",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323401,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_27.mp3?versionId=JxTXaaquvJc4Qy_Xmkww3ZX0zYUw_Xhp",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323410,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_28.mp3?versionId=rl6Y8XNLhH3dGHjIclWy8uoa_VT2gY3f",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323421,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_29.mp3?versionId=hf9ijewW8mDnES8vfn3Enc9xB_tMoWLw",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323431,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/language_image.jpg?versionId=nPFRXumn_SRrkKLox9nWJx82KKZDWhwZ",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/main_audio/9781442322332_Unit_30.mp3?versionId=iGPFCiAq9vrfwOarhWg3XO1GyHSyYl0e",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323440,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/Ojibwe/Ojibwe%20Level%201%20orig/asset/standard_reading/9781442322332_Ojibwe_1_Bklt.pdf?versionId=1rOF9FQTRC1jLdCpn39SLQi2f70A0VD5"
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442322332",
+    "level": 1,
+    "courseName": "Ojibwe Level 1",
+    "simpleCourseName": "Ojibwe Level 1",
+    "puArabic": false
+    }
+    ]

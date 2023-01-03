@@ -1,0 +1,619 @@
+[
+    {
+    "courseId": 4343,
+    "languageName": "Greek",
+    "languageId": 148,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_01.jpg?versionId=icSDD048A73xlZvJNHn1EmDAIHhmU8A0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_01.jpg?versionId=.82IfozVbkU5QeoPVUHudh7nKvLvKBZ_",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_01.mp3?versionId=QcxWVajI0S7.ys1X0cIe5vxUx6u_UuNW",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2293919,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The population of Greece is composed almost entirely of ethnic Greeks, making up 98%.  Minority groups include the Turks of Thrace, Bulgarian Muslims, and Roma.",
+    "imageCredits": "ajr_images / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_02.jpg?versionId=sYKa6FXl2ugu.G7ObOMFYogPAJXvjZPt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_02.jpg?versionId=e4_trb0nMl5mBCpfy7FK6O6BCDWfopAs",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_02.mp3?versionId=3ioH7VK8PKw9ZJ.OVgaxQQkZhHfDwhG.",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2294141,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Dating to 161 AD, the Roman-style amphitheater called the Odeon of Herodes Atticus is located on the southwest slope of the Acropolis. This semi-circular theater overlooks the city of Athens and can seat 6,000 people.  Restored from ruins in the 1950s, it is used every summer for the popular Athens Festival.",
+    "imageCredits": "Kisa_Markiza / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_03.jpg?versionId=sHNjxMDx9hTPVgCutiKjCYksQQ4oYMYf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_03.jpg?versionId=WYr_v_JpbClscnftX6YbjZkwVrgxrEi5",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_03.mp3?versionId=Bu.ydCydRu5YPYDaRsaEola3dGx0aurr",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2294528,
+    "cultureContent": {
+    "imageLocation": "Santorini",
+    "imageDescription": "Of all the iconic blue-domed churches in Santorini, these two, situated right next to each other in the town of Oia are perhaps the most photographed. Many weddings are held here overlooking the shimmering azure waters of the Mediterranean. The cliff that holds up these churches has several shops built right into the face of the rock.",
+    "imageCredits": "marchello74 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_04.jpg?versionId=jw3w7J6eeqawvW0Rec2zdJW87BNG2GME",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_04.jpg?versionId=Ta9AN1quEiHYTwvmNjW6FhjYoWxDuW0y",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_04.mp3?versionId=D50SDmCsRqZGp38yGHghD5COs3uVOjSA",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2294804,
+    "cultureContent": {
+    "imageLocation": "Lefkada",
+    "imageDescription": "Porto Katsiki Beach is located on Lefkada Island which is part of the Ionian Islands. The steep cliff adjacent to the pebble beach has a 110-step staircase allowing beach access from the road. During sunset the light reveals the many colors in the giant concave rock face that surrounds the beach.",
+    "imageCredits": "Evgeni Dinev Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_05.jpg?versionId=nQgvm.FquXjRmgd2bEtkwej.F4_gp79D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_05.jpg?versionId=XE2J3z8QPk1jrxOVB.w3AOYFe5lqDTgY",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_05.mp3?versionId=JmODm2gIjL62YdWeo6dO4cnXBH4rrni4",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2295016,
+    "cultureContent": {
+    "imageLocation": "Kefalonia",
+    "imageDescription": "The Melissani Cave on the island of Kefalonia is a natural wonder. A large opening above the cave allows sunlight to reveal the pristine blue waters of the lake inside. The site was a place of worship for the ancient Greeks, but over time it was somehow forgotten. The cave was rediscovered in 1951 and is still explored with wonderment today.",
+    "imageCredits": "JordeAngjelovik / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_06.jpg?versionId=RywgthtlZQDCcF8cF0leT74G1M.7txl1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_06.jpg?versionId=JajNkssE56WbioEGcg2VdZ13M1sUGzdJ",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_06.mp3?versionId=taDb5W8WXFMg6mVXZSTRwoPAkt7Nqo7g",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2295262,
+    "cultureContent": {
+    "imageLocation": "Zakynthos",
+    "imageDescription": "Navagio Beach is famous for its shipwreck resting on the white sand. There were myths about the reason for the shipwreck, but the captain reported that the ship had had a mechanical failure.  The beach is surrounded by cliffs which make it accessible only by boat, but viewing it from the top of the cliff is a nice way to see the whole thing.",
+    "imageCredits": "DKart / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_07.jpg?versionId=VW2GBb8tCpXi6h2CCRBr4MJaVb14kHbU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_07.jpg?versionId=8nfzhUXebdYzxFzDYNfgYP7genoPABBf",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_07.mp3?versionId=RJpx1Yr43Nf2quxG4SwprnTidrZpLVbG",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2295569,
+    "cultureContent": {
+    "imageLocation": "Thessaloniki",
+    "imageDescription": "Famous Greek sculptor George Zongolopoulos created this installation in 1997 on the waterfront of Thessaloniki. Zongolopoulos frequently worked with umbrellas and incorporated movement into his sculptures. In the \"Umbrellas\" installation the umbrellas appear to be flying above the sea.",
+    "imageCredits": "SIAATH / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_08.jpg?versionId=80U.ugyg4bmCobg430OpLUCGImzNr.3n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_08.jpg?versionId=ZHu63sI2D11Fn7LPPM70zTbyZyUdyGjA",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_08.mp3?versionId=twT44kdqaKAnjI4prL.QvnCO.MppoAVH",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2295821,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "The National Museum of Contemporary Art in Athens holds an impressive and growing collection of work by both Greek and international artists. Beginning operations in 2000, the museum showed exhibitions in various locations around Athens until it found a permanent home in 2014.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_09.jpg?versionId=buHByr1bBk1OcLL0dpeozgkrajL_VD2M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_09.jpg?versionId=AxzYo352QcyJtCS0pI57HUNX3aURRkX4",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_09.mp3?versionId=9m3CcF7s2ZGYvjp4PFfedWvO3hWxM1lB",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2296094,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "The Athens Olympic Park has hosted several international games, including the Olympic in 2004. The complex was designed by Spanish architect Santiago Calatrava, whose style is considered to be neo-futurist. The center includes both indoor and outdoor facilities and the Agora, pictured here, is inspired by the model of the ancient Greek meeting place.",
+    "imageCredits": "CoinUp / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_10.jpg?versionId=qVtrQKq5U9nHhO_MH0ta4.8GnrrkJCw8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_10.jpg?versionId=nK6EYc4AcM4V0c97PJ9hbs.F9BFGbXMr",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_10.mp3?versionId=cD9wJGpn_czQmRmBDPXioRIfJr8xIBZz",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2296418,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "The Acropolis of Athens is one of the most recognized archaeological sites in the world. The buildings date to the fifth century BC, and this ancient place has had many roles including a royal home, a citadel, a religious site, and today of course a major tourist attraction. The term acropolis means high city, and this one sits on a rocky perch overlooking the modern city.",
+    "imageCredits": "Robert Breitpaul / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_11.jpg?versionId=AHvNgkijvP.5bk8l0LUt10FHsbknaFLX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_11.jpg?versionId=ppdzPEt0wLc3StezOyALmRoSzUzOXc9h",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_11.mp3?versionId=V2wz1SjENgM31M81tmUOJinLSrENlZXp",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2296658,
+    "cultureContent": {
+    "imageLocation": "Konitsa",
+    "imageDescription": "Arching above the Aoös River near the border with Albania, the Konitsa Bridge stretches 150 feet across. The single span stone footbridge was built in 1871 and is a symbol of the town of Konitsa. The bridge still has the bell underneath that warns of dangerous crossing due to high winds in the gorge.",
+    "imageCredits": "igabriela / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_12.jpg?versionId=GgxpZLwypDjUu95r1hTV9IInZJowQQeJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_12.jpg?versionId=N4Ag8vizfAJ.lCR6u.uwkKo1HYmO7uld",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_12.mp3?versionId=7HX6qYd0ymwGjl8bI8sFWfiwpMxBeLf5",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2296927,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Athens is Europe’s oldest capital city and is the capital of modern Greece. The city has experienced every type of government in its time. Athens’s first female mayor, Dora Bakoyannis, was responsible for installing non-skid tiles on sidewalks that were previously smooth marble and would become slippery in wet weather. ",
+    "imageCredits": "milangonda / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_13.jpg?versionId=xGzH.ybCvZ0KYk0zrX0Zi1Qp1qIRujnF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_13.jpg?versionId=TNGLmKPb2CYPTDTKHHfYEkbGLaP3nn4T",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_13.mp3?versionId=8QGsDmYIoVw8i1D26A6M7oYkyVqH77EL",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2297152,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Christmas season in Greece concludes on January 6 with the celebration of the Epiphany. The Greek Orthodox Church marks the feast day with the blessing the waters. Then a priest throws a cross into the chilly water and divers jump in in pursuit of the cross. Once the cross is retrieved the priest releases a white dove that symbolizes the Holy Spirit.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_14.jpg?versionId=dwYkPcCPJg57OjAAre68_5Qui2mFxEhq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_14.jpg?versionId=l8_oqrJi0.PqdOMDkWTV8htF2Qgsg.kk",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_14.mp3?versionId=kFfgj_g1PBGevAXoYybD9VdhLIHHSFbh",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2297423,
+    "cultureContent": {
+    "imageLocation": "Delos",
+    "imageDescription": "The museum on the tiny island of Delos exhibited renowned British sculptor Antony Gormley’s stark statues from his series “SIGHT.” The museum is accessible by shuttle from Mykonos and is known for its archaeological exhibits as well as contemporary art. ",
+    "imageCredits": "LOUISA GOULIAMAKI / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_15.jpg?versionId=i1d3rSzgetyrvk6YU07OSgFPLZz5f53W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_15.jpg?versionId=UwBQuwGmmvb4IBBsqRJNM5lNglGWZhEc",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_15.mp3?versionId=5qvkEaG2rKTU_aSEVlUh.NY6i4PRLVH0",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2297645,
+    "cultureContent": {
+    "imageLocation": "Skyros",
+    "imageDescription": "The ancient Goat Festival on the island of Skyros is a quirky celebration where people dress in goat skins and goat bells and dance through the streets for 48 hours, making a cacophony in wild abandon.  This springtime party coincides more or less with Carnival, but it's distinctly pagan and dates back millennia.  The town of Skyros prides itself on this strictly non-commercialized event.",
+    "imageCredits": "Photography By Jeremy Villasis. Philippines. / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_16.jpg?versionId=UwWb0WujxxFZGZkhyiZCIEKVG3pw9ApI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_16.jpg?versionId=v_sN_I1NRczRQ8Jl2ZX_qjhPXGaTv3zV",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_16.mp3?versionId=3_zwj0X8IglCJlMy0b1HrQ5xp7FGSu1U",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2297936,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Traditional Greek weddings feature a variety of rituals that make for an unforgettable event. In the past couples have celebrated their new life together by smashing plates, symbolizing breaking away from their old and separate lives. While the tradition is often shown in movies it is no longer so popular because of the expense and mess. ",
+    "imageCredits": "LOUISA GOULIAMAKI / AFP/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_17.jpg?versionId=.6blyLcMhsj4QuEP1PloqWahfy86FprX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_17.jpg?versionId=uwIl9H4vie5VsrYoM_OVvXrTcSo7B12f",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_17.mp3?versionId=hzwD2SJjElyfbk7DkwvvLbtR.AD3_6Ck",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2298210,
+    "cultureContent": {
+    "imageLocation": "Galaxidi",
+    "imageDescription": "The Flour War in the fishing village of Galixidi is a unique way to celebrate Clean Monday, the beginning of Great Lent in the Eastern Orthodox tradition.  Revelers don protective gear and take to the streets to toss bombs of colored flour into the air and at each other, while music is played and plenty of beer is drunk.",
+    "imageCredits": "ARIS MESSINIS / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_18.jpg?versionId=r4F01q8w3iM1C23RQ4QjbDXu7Puopjyv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_18.jpg?versionId=d7LA5z0_189mG5OkyqQVp8wwYgLk00VH",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_18.mp3?versionId=lOMlmtMsgGU0OSHmVWOUn7M2CQ6EkxNp",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2298453,
+    "cultureContent": {
+    "imageLocation": "Lefkada",
+    "imageDescription": "Established in 1962, the Lefkada International Folklore Festival celebrates music and dance from around the world. Founder Antonis Tzevelekis created the festival based on the principles of peace and friendship across political barriers. Today the festival remains as popular as ever.",
+    "imageCredits": "vasiliki / iStock Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_19.jpg?versionId=u4nz0IJuu0GrSZKBBFuhapGjNdi32mGX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_19.jpg?versionId=23SYOcFlAM7DzMkc86mqs3uPLV3ti5LA",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_19.mp3?versionId=8kGj0Wd.pQoXuwBRvM4vceWe0yEg8GQE",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2298659,
+    "cultureContent": {
+    "imageLocation": "Skiathos",
+    "imageDescription": "Skiathos is the most popular island in the Sporades archipelago. The gleaming sandy beaches and abundant pine forests make it a nature-lover's paradise.  As well its famed nightlife make it a hit with young people. The American movie Mamma Mia! was filmed here.",
+    "imageCredits": "mbbirdy / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_20.jpg?versionId=uEd_PhXm0VruAr6vj6xKjG8hXqVfzzdb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_20.jpg?versionId=SgeupTM.Dh5E.fZCXea_vO07niry7bxm",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_20.mp3?versionId=t.2YpWQHMoREOcTsKD2XFxNA9E0EWdkS",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2298862,
+    "cultureContent": {
+    "imageLocation": "Kalavrita",
+    "imageDescription": "While Greece is known for its beaches, Mt. Helmós in the Peloponnese provides snowy heights for winter sports. Located two hours from Athens the Kalavrita Ski Center is the second-largest ski resort in Greece. At the beginning and end of the winter season it is possible to ski and go for a swim in the ocean on the same day.",
+    "imageCredits": "Ioannis Tsotras / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_21.jpg?versionId=LdR18fbVHutCkL6.8wj7Vt1I61VypDhK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_21.jpg?versionId=zXy.tKrAJBym1YSz.L_NY20CDqu2i40R",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_21.mp3?versionId=A_up7IGUb_AYzd4nbPV4lGlnf5V3j8SY",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2299095,
+    "cultureContent": {
+    "imageLocation": "Kalabaka",
+    "imageDescription": "Nestled onto precipices in the Meteora rock formations of Greece's Thessaly region are Eastern Orthodox monasteries dating to the late Byzantine era. The tall rock pillars reach 2,000 feet straight up and make an incredible landscape for this important monastic community.",
+    "imageCredits": "Thomas Roche / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_22.jpg?versionId=Uv6IUFmWi3yvASDm000_9uuofafB1LJR",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_22.jpg?versionId=g.sIRNlOso1CE1CV62VkWMtl9quYvU9F",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_22.mp3?versionId=gWYimdXS.OyTkc27nrccVWF.hlGBF7Pq",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2299333,
+    "cultureContent": {
+    "imageLocation": "Naxos",
+    "imageDescription": "The Portara, also known as the Great Door, is a huge marble gate on Naxos Island. In 530 BC Naxos ruler Lygdamus ordered a massive temple to the god Apollo be built. But war broke out between Naxos and Samos and construction stopped. All that remains of the temple today is the gate.  In ancient times this spot was on a hill but since then sea level has risen.",
+    "imageCredits": "Freeartist / iStock  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_23.jpg?versionId=NLlvaHkhd_n0xtc0U8oNtO6ppANgwJxo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_23.jpg?versionId=WTuz7jZsbGVWW9SLZaVPc.XQACG.sOBu",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_23.mp3?versionId=F7.gySXinZvUPpwVv8yzSUvoyv6tPYpt",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2299534,
+    "cultureContent": {
+    "imageLocation": "Santorini",
+    "imageDescription": "Atlantis Books is located in Oia on the island of Santorini. Established in 2004, owners Craig and Oliver decided to open the bookstore after spending just a week on the enchanting island. The now-famous bookstore carries literature in several languages and has begun stocking rare first edition books.",
+    "imageCredits": "momo11353 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_24.jpg?versionId=VCzsLWCBds.SxGLoN5gp7wCBByzDZgxN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_24.jpg?versionId=YXdUJ69ls5fKVF_YKrP1Cnkb69vqLawM",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_24.mp3?versionId=hhLj8gCGCmspWNxhX2s5AShCkvMiFEMS",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2299742,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Pittaki Street in Athens has been transformed into an attractive, atmospheric pedestrian way. The street used to be thought of as the city’s public toilet, however in 2012 a non-profit transformed the street with lamps and lanterns of every design, found or donated from around the city. The unique lights are suspended over the street giving it a romantic vibe in the evening.",
+    "imageCredits": "Sanga Park / iStock Editorial  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_25.jpg?versionId=KGBFJTvk6iQaynnZ90.48rqeAZTgDfm0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_25.jpg?versionId=EJgnt7d4BYHid96OpTNAAlIgUmEPrIAD",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_25.mp3?versionId=FIOMpDXnDdYUIgPFLT.AwTNxqsvgYbVH",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2299998,
+    "cultureContent": {
+    "imageLocation": "Lemnos",
+    "imageDescription": "In the North Aegean lies the Greek island of Lemnos. On the northern edge of the island one finds the peculiar and entrancing rock formations called the fragokefala, or bald heads. They were formed eons ago by flowing and bubbling lava. In Greek mythology the location is believed to have been the furnace of Hephaestus, the god of blacksmiths and fire.",
+    "imageCredits": "Nurphoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_26.jpg?versionId=_ayKxagwwYTyQDaENSukU1Jie6W1ICHI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_26.jpg?versionId=sI4PmiLWRd0K4hxH1qEY8G3LPn.o3dJq",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_26.mp3?versionId=MIcH3cgN4TEy1IjJgylpI_YnFDmsRb3E",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2300328,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The legendary Acropolis Rally was one of the toughest rally car racing events on the circuit.  First run in 1951, this contest of driver teams and their machines dished out brutally high temperatures, dusty, rock-strewn courses on twisting mountain roads, and all while enthusiastic motorsports fans lined the way.  The checkered flag came down for the last time, though, with the 2018 edition.",
+    "imageCredits": "Alexey Udartsev / 500px / 500Px Unreleased Plus/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_27.jpg?versionId=NU_.pcMPr0qnt30pE8KI74QQa2bvdpJj",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_27.jpg?versionId=QOqF4DsFEKyyRSaTRk2VUNL4SSOaUl0d",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_27.mp3?versionId=Vgkfpyit66nabv6kbUuyhE.A4_KvXuT4",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2300491,
+    "cultureContent": {
+    "imageLocation": "Athens",
+    "imageDescription": "Lycabettus Hill makes a nice backdrop for Athens at sunset. The green slope of pine trees juts up from the white buildings of the city. This is the highest elevation point in Athens. At the top of the hill is the Chapel of Agios Georgios, which is open to the public. ",
+    "imageCredits": "G-o-o-d-M-a-n / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_28.jpg?versionId=W3f1kkpduVpOc7a_i2UVoeY6y8I1Ijyt",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_28.jpg?versionId=VpVCmRDlve1HVsDvsHrOwFJ_fdeQdO6d",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_28.mp3?versionId=ktzbCUJ4DdzX9ho0gMfrxpzDe22z80xE",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2300658,
+    "cultureContent": {
+    "imageLocation": "Gythio",
+    "imageDescription": "Located in the southern Peloponnese is the pretty harbor of Gythio. The seaside town is said to have been established by Hercules and was the port city for the ancient city-state of Sparta. Nowadays visitors to Gythio can find octopus on the menu in the local restaurants.",
+    "imageCredits": "@ Didier Marti / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_29.jpg?versionId=fYCJIBe5LR99ZovdSlYXWyPgbLeCCmlK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_29.jpg?versionId=EZ_qFO.uIZS.pgoFdGs7pCxDi2RKDnRc",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_29.mp3?versionId=HoHIbOMMrtqNUsD2vbZb5DrSTtIxQhG6",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2300803,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Olives are a staple of the Greek culture and diet. The Greeks were the first to cultivate the olive tree, and Sophocles wrote that it was “the tree that feeds the children.”  Greece has the highest per capita consumption of olive oil in the world, and is the second-largest exporter of it.",
+    "imageCredits": "Chris Mansfield / iStock  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/full/GK_1_M_30.jpg?versionId=SM_Z49WWL0dH9vP.6cie8hDb.0N5rE3T",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/lesson_photo/thumb/GK_1_M_30.jpg?versionId=EvPErojyO_KUq_tWDpWfURrtof.2kJox",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/main_audio/9781442319875_Greek_1_Lesson_30.mp3?versionId=hodE9QZxIpjgm962E4wrDfgB8Y8Xgrei",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2300958,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Greek philosopher Socrates is today considered the founding figure of Western thought, but during his time he was ridiculed and thought to be too radical to be taken seriously. Though Socrates never wrote down any of his teachings, his students recorded the thinker's work after his death. Statues of Socrates can be found in Athens, where he lived for most of his life.",
+    "imageCredits": "Panasevich / iStock  / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek Level 1 orig/asset/RL/9781797115375_Greek_1_Alpha.pdf?versionId=U1EFTcr_VreKiUbdNJJyErrcvzdRW_tn",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek Level 1 orig/asset/RL/9781797115375_Greek_1_Intro.pdf?versionId=kSTZqmxWJeqnUMx4BKsbLWKrRlYleVvs",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_01.mp3?versionId=WadLj1WRtj.gX02MEqBihrM8oiDBUkaP",
+    "mediaItemId": 2223753
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_02.mp3?versionId=S9QQS7RFE3ErfEPFbMw.VhnrYm_osYqR",
+    "mediaItemId": 2223861
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_03.mp3?versionId=jQ0yuyM9dzM.lQsLOAwC27ggpON_Axji",
+    "mediaItemId": 2224066
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_04.mp3?versionId=QpFySBQEvNVQ3ruh5xBo2Na.qE5zy.ev",
+    "mediaItemId": 2224206
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_05.mp3?versionId=liZOjUlzWEAhpOhJjqLOD5dSHIPH50dN",
+    "mediaItemId": 2224410
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_06.mp3?versionId=R4v3Nn8hogx5F4M9lEfGU8fjtcmy9X9i",
+    "mediaItemId": 2224539
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_07.mp3?versionId=SoQU1Cg0G_ln7XxhBdnqmW2Hw9BboHYS",
+    "mediaItemId": 2224720
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_08.mp3?versionId=JsBLM94h8pk0FDj7wSjH.C8wPOnOQT2x",
+    "mediaItemId": 2225026
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_09.mp3?versionId=76w546VxRelQq9Pjngo8OvjshcBJBTTZ",
+    "mediaItemId": 2226393
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_10.mp3?versionId=fizX7UsGtTNWxIjB8qf4xzxQ2WS2VmAA",
+    "mediaItemId": 2229062
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_11.mp3?versionId=wldSgjtg53xsaEIeg_BIlu59C3AOw6.b",
+    "mediaItemId": 2232492
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_12.mp3?versionId=hVRWyqCPAuY.PEGLtlq9e4P1TVYfCmHI",
+    "mediaItemId": 2236137
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_13.mp3?versionId=JrRJ_IajCLT524pwmzcEtXRMBiE7xc6z",
+    "mediaItemId": 2239479
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_14.mp3?versionId=_zHsep2XbQyir.YFLrC9kUhdtSliVcZl",
+    "mediaItemId": 2242400
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_15.mp3?versionId=gWA0zgLzDh0FUkll7mHghbsgDx.EVGMp",
+    "mediaItemId": 2245759
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_16.mp3?versionId=mx87wLzwHLDCH38JFuGG8fcnD_rWJmnn",
+    "mediaItemId": 2248683
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Greek/Greek%20Level%201%20orig/asset/RL/9781442319875_Greek_1_Reading_Lesson_17.mp3?versionId=RfjHobIyC8iKfhBlT6tfBhf0ZZaJl6ee",
+    "mediaItemId": 2251731
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797115375",
+    "level": 1,
+    "courseName": "Greek (Modern) Level 1 Premium",
+    "simpleCourseName": "Greek (Modern) Level 1",
+    "puArabic": false
+    }
+    ]

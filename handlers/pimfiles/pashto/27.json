@@ -1,0 +1,634 @@
+[
+    {
+    "courseId": 5732,
+    "languageName": "Finnish",
+    "languageId": 182,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_01.jpg?versionId=4MVXV5e656bBVR1dtwj01E2ZGBENCu3B",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_01.jpg?versionId=kw2VgJjR6Q5_PMp3x25gsPOpDPXZRJtP",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_01.mp3?versionId=mCGaDMtMLGAYXg4QGftgYkrwcTFbC4dV",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2323197,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "According to happiness polls conducted by World Gallup Foundation, Finland is ranked the happiest nation in the world. Many of the fellow Nordic countries score high on this list, in fact. Finland has a long-life expectancy, adequate social support systems and low corruption rates.",
+    "imageCredits": "Ranta Images / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_02.jpg?versionId=tADb4EnVkrvngpH4owR.AMV232uSH.Oy",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_02.jpg?versionId=3QYjq3tbFeCXjTGNePXbgy7dRJnIz_qH",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_02.mp3?versionId=kS47pFfNsqUo1NjJMFpNKvH.cnTetoNM",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2323207,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "Though there are less than six hours of light during the wintertime, Helsinki is still an exciting place to explore during the cold months. Cheerful lights illuminate the city and Christmas markets pop up in parks and squares. LUX Helsinki is a popular light show which exhibits artists from around the globe.",
+    "imageCredits": "scanrail / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_03.jpg?versionId=UQ45JMy74tqHc7Xz1sJC0G3VDgoTWaZT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_03.jpg?versionId=53mlwQkfKNfLNfPrg5wZqkBc7jjyxkWp",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_03.mp3?versionId=qFYIuOyQaZOo872GwP7G3bAKA1wmTPLK",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2323217,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "The Art Nouveau style took hold in Finland during the rise of its independence movement against Russia at the turn of the 20th century. Helsinki Central Railway Station is an example of one of the many Art Nouveau-crafted buildings in the city. Two pairs of stone men holding spherical lamps guard either side of the entrance to the station.",
+    "imageCredits": "frankix / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_04.jpg?versionId=gZk5s_JuRQ986Yr.nAA3Pi13.NQYbQcZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_04.jpg?versionId=qB0RLYWxZnNeWJ2cQ.gn9gVWDsgyXwZp",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_04.mp3?versionId=Ll1EQHZPp9nI32F6rND.Q7U24IqfZDyJ",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2323226,
+    "cultureContent": {
+    "imageLocation": "Lapland",
+    "imageDescription": "Kakslauttanen Arctic Resort is a perfect place to view the northern lights. Glass igloos are available to visitors for overnight stays, and a three-course meal is provided with the lodging. There are tons of activities on the resort which rotate seasonally, including hiking, fishing, saunas, dog sledding, reindeer sleighing, and skiing.",
+    "imageCredits": "Lingxiao Xie / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_05.jpg?versionId=Xca1JRchiOv3GWSVL5ySN7q8Mmu3jMHU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_05.jpg?versionId=tYtVx1lbfZis.h18UHZTwiQ3HJdtRmPh",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_05.mp3?versionId=GDyHYKf.aLPvx0CNHA7EcYYvPdyngRX4",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2323234,
+    "cultureContent": {
+    "imageLocation": "Finland",
+    "imageDescription": "Over seventy-five percent of Finland is covered in forests. The woodlands are a valuable resource, but the amount harvested has been less than the amount of forest growth in the past decades. Nearly all the trees growing in Finland are indigenous to the area, and much of the wilderness has been undisturbed for thousands of years.",
+    "imageCredits": "Miemo Penttinen - miemo.net / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_06.jpg?versionId=S7O6ERbVLAr9mzU3rsHWLQ1gEw6BpTpu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_06.jpg?versionId=o.sPfu4urc_XiD9FzrFCmegp.iqR.SkH",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_06.mp3?versionId=6xmooWTilULM8ve_tin7xGcAyEnCpzdc",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2323249,
+    "cultureContent": {
+    "imageLocation": "Iso-Syöte",
+    "imageDescription": "Iso-Syöte Ski Resort offers spectacular viewing of the northern lights. An evening snowmobile safari through snowy Finnish forests explores the quiet beauty of the Lapland sky. A new glass-enclosed walkway above the hotel offers a panoramic view of the colorful heavens.",
+    "imageCredits": "Samuli Vainionpää / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_07.jpg?versionId=byGuqIy4XJ6VAuJqSQA5A6uu4neaxbvv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_07.jpg?versionId=4QAeOswPZ7JPJ9z51Un6gYf2fYWB8vi.",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_07.mp3?versionId=pNipROQ1gjhm3FM7ADMthAXGd3oEZXMZ",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2323260,
+    "cultureContent": {
+    "imageLocation": "Kemi",
+    "imageDescription": "Newly constructed every winter, the SnowHotel in northern Lapland is a unique complex. Divided into a hotel, a chapel that is used for weddings and religious services, and a restaurant, which offers chilly dining at tables made of ice slabs. Inside the SnowHotel are exquisitely carved sculptures crafted by the best snow architects in the world for the hotel’s annual theme. For the 2022 season SnowHotel is featuring happiness as the theme.",
+    "imageCredits": "Giles Clarke / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_08.jpg?versionId=hbUCq4xDrzTJxGmgrg3fTTW1xE6Y7VnX",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_08.jpg?versionId=LuZm_zGmxpdNJRTO06ctpEfwvNsO5Kyk",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_08.mp3?versionId=xlx1uFkyOGwVpoKd5qGqnKGxEmKatdRP",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2323270,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "The world’s northernmost metro system lies in Finland. Helsinki Metro, opened in 1982, carries over ninety-two million riders each year and is the cheapest way to travel around the city. Expansion of the system continues to the east, west and north.",
+    "imageCredits": "Tuomas A. Lehtinen / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_09.jpg?versionId=lRd53w.UtrMftQE.fRWpwIaatQaUCC2N",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_09.jpg?versionId=g4fwYHyzGMX9X.qLSChpPOme4O5V1we.",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_09.mp3?versionId=owMkSOL2ubJOYZN5o.uTdDYF2ZTo0YnL",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2323277,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Karelian pies are a savory pastry introduced to Finland in the 1600s. They are often prepared with a rye crust and rice filling and topped with egg butter. There are many variations of the pies, and some are sweetened with blueberries.",
+    "imageCredits": "Kati Finell / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_10.jpg?versionId=SHNScG00btT3aTTmJIAb14uYUFaRmr8J",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_10.jpg?versionId=OUDNW_yDJ3jiN9lMuu91wCtCSukFMgOF",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_10.mp3?versionId=zfLL_DoR2pmC3fIqi1sgrYwkK95Y5DRS",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2323293,
+    "cultureContent": {
+    "imageLocation": "Rovaniemi",
+    "imageDescription": "Santa Claus Village in Rovaniemi is a special place where visitors can meet Santa Claus and straddle the Arctic Circle. The jolly old elf's office is open every day of the year and is free of charge. A new feature for people who can't make the trip to meet Santa in person is a video call with the man himself.",
+    "imageCredits": "RomanBababkin / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_11.jpg?versionId=ZMha6NL_F45ZAFq8tWmwcoDP5ARNH.Rh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_11.jpg?versionId=LgigD7QbufeBDI6V6VgLWCz8xe73YXFg",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_11.mp3?versionId=XY3fhFWjYFBDMcP2zxvSBFnOm8WmAYzl",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2323302,
+    "cultureContent": {
+    "imageLocation": "Lapland",
+    "imageDescription": "Reindeer are plentiful in the Finnish Lapland. Born in early May, reindeer calves start growing antlers within the first few weeks of life. Reindeer antlers are the fastest growing bone in the world, sprouting two centimeters a day! Female reindeer grow horns that fall off once they've given birth, but the horns grow back quickly.",
+    "imageCredits": "SakariLampola / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_12.jpg?versionId=eg4BH0O6m2h8qLtAspLv5l.3lX6kbSGf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_12.jpg?versionId=kv6lrw.UWFmXuKwEm7mMVszHKEvf017t",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_12.mp3?versionId=of2bfjN7a614YRy5rkBxTGgw21t.cqWO",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2323313,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Finland is one of the most progressive countries in the world and is accepting of the LGBT+ community. Homosexuality was legalized in 1971, however gay marriage was not lawful until 2017. While same sex partnerships are recognized, transgender rights still have a ways to go in Finland. To change one's legal name a trans person must be sterilized or deemed sterile by a doctor, a rule that is under great scrutiny.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_13.jpg?versionId=92MovHbk3QP01uj94d2aziyLZlxPE02R",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_13.jpg?versionId=ALMRamupl3ONe.AJMmfIATQiXJuBU.Ow",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_13.mp3?versionId=BrMtz0Pnwui2s7vSg49OP556Y0xRXmq0",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2323321,
+    "cultureContent": {
+    "imageLocation": "Lahti",
+    "imageDescription": "Held every odd-numbered year, the FIS Nordic World Ski Championships includes Nordic skiing's three main disciplines, with competitors coming from around the globe. The contest, consisting of Nordic combined, ski jumping, and cross-country skiing, was established in 1925 for men, and nearly thirty years later women were able to compete. Many times the event has been hosted in Finland, which is a distant second to Norway for the most medals won.",
+    "imageCredits": "Matthias Hangst / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_14.jpg?versionId=.jwQjCHcvh9dqWP3sNy33D0IXde00e1D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_14.jpg?versionId=Qpu08_dIxl6Oe8D4VXhwtUQYWr0hAUqu",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_14.mp3?versionId=5o9QYIl5th42I1ia8tBmvmPikzGgxlvi",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2323337,
+    "cultureContent": {
+    "imageLocation": "Oulo",
+    "imageDescription": "The peace-promoting Air Guitar World Championship has been held in Oulo since 1996. Open to literally everyone who is willing to shamelessly flaunt their air instrumental skills, the competition's mission states, \"Wars will end, climate change stop and all bad things disappear, when all the people in the world play the air guitar.\"",
+    "imageCredits": "EEVA RIIHELA / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_15.jpg?versionId=lYGuuZYtRznYH0GOZbycpLDQ.A3GSgc6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_15.jpg?versionId=kY0zOZ1aOFkEerrAY7ZLDEpNK4.zUYKK",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_15.mp3?versionId=4087c4snTbInF.HjDGMJwbAj4.TLA5Zq",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2323345,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "Erected in 1967, the Sibelius Monument honors the Finnish composer Jean Sibelius. Sculptor Eila Hiltunen created the abstract structure with 600 steel pipes which resembles a sound wave. Some critics argued that the abstractness of the sculpture did not honor Sibelius’ music, so eventually Hiltunen created a face of the composer to sit next to the pipes.",
+    "imageCredits": "Allan Baxter / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_16.jpg?versionId=BYcQKxofYXHdsSAZtZRgydCh_s536E4n",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_16.jpg?versionId=smpqn_tkY.H2nJP5h4dA7MPngS9BhzT.",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_16.mp3?versionId=cwX34rtM4kFXf5aJXPZHXoCdIJbaJP1s",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2323354,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Midsummer was historically a popular time for weddings, and today celebrations of this holiday take place around bonfires, in saunas, and in post-party swims. Bonfires were thought to keep away evil spirits while promising a full harvest. Midnight Sun mythology tells of a story of a maiden who put seven flowers under her pillow and while she slept her future fiancée entered her dreams. Midsummer is a time of fertility and folklore says it is the best time to cast love spells.",
+    "imageCredits": "olaser / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_17.jpg?versionId=uPPVCBIgpF5wOvDC2hr8aKb15SzamBGU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_17.jpg?versionId=1QD7IpwjAAwlUolcdRXiOD4rW2LgW8zp",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_17.mp3?versionId=3j1pizUr2rVaWxQgo5T8Oq0nL50nvBK3",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2323363,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Finland has nearly 200,000 lakes ranging in size from five acres to 2,500 acres. The Lakeland district is located on the border with Russia and comprises some thousand lakes. Lake Pielinen is particularly popular for its clear waters, bountiful supply of fish, and the several islands dotting the water.",
+    "imageCredits": "LuCaAr / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_18.jpg?versionId=I0.2QxMARJrhiAFN4RwHcjzldUkUgrq6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_18.jpg?versionId=B7Q4WvHmxv8x8J3rT8a9s4eCbeRnIXN2",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_18.mp3?versionId=YlEUD7va5e2EJdrfV3D_bzWQYbtH1g.D",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2323373,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Finland is a leader in the utilization of renewable energy sources, such as wind energy, wood-based fuels, hydropower, and geothermal energy. Finland is a party to the European Union's commitment to achieving carbon neutrality by 2050.",
+    "imageCredits": "wmaster890 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_19.jpg?versionId=SFP7gzMfdDQ19bnjGwzhUlX2M7EiUJ3K",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_19.jpg?versionId=K7EHV8EQTO.Ohwo.naSGlUNaH4xqbyNx",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_19.mp3?versionId=wM1bglvV1ay2H6VRu5D5Esrg9ielx3We",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2323384,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "Finlandia Hall is an event space with a gallery and café. The structure was created entirely by iconic Finnish architect Alvar Aalto, who paid as much attention to the details inside the building as outside. The building features large asymmetrical sections that appear to interact with other objects in the landscape when regarded from varying vantage points.",
+    "imageCredits": "ahavelaar / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_20.jpg?versionId=FIVRqaLOFFVKKUZfEsLo9kqkU2s8eyfp",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_20.jpg?versionId=YG.Lbz9N_5CcZKqMhH2SCSmq0KWok2Xg",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_20.mp3?versionId=3UVSHE80qLxl_RizsfO8rdelEjC1Wrpj",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2323394,
+    "cultureContent": {
+    "imageLocation": "Koskenkorva",
+    "imageDescription": "Distilled in its namesake village, Koskenkorva Vodka is produced by local barley farmers. The company's commitment to sustainable practices is evident in their use of bioenergy generated in their own plant, and a fifty percent reduction in carbon dioxide emissions since 2014. Koskenkorva makes several different products including Koskenkorva 7 Botanicals, a Midsummer-inspired libation.",
+    "imageCredits": "Xinhua News Agency / Xinhua News Agency / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_21.jpg?versionId=8W18tfPdLoePLIxQreFYCNTB9hoIZ0HO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_21.jpg?versionId=gw2h9rBMzr.dYbnBV.LqaBEHUrnm5B7L",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_21.mp3?versionId=SNk2_1FyV3C2U6OJJftgL4Pa5dA9EUad",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2323404,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Ice fishing is a popular pastime for Finns. No permit is necessary to set up a hole in the ice and wait for the country's national fish, the perch, to tug on your jig line. In the Saariselka Region in Lapland is Inari, a 75-mile-long lake that is considered the heart of this ice fishing haven.",
+    "imageCredits": "VW Pics / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_22.jpg?versionId=V1wdvd1dx1TZUKgR3iwtNLaXBIWw9fVD",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_22.jpg?versionId=8xB3ezcEaX1Alod3Shd753cAI6hRSjux",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_22.mp3?versionId=ibZDEzXvDFx7su.VrQKTd5wWMlhAKduS",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2323413,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Edible mushrooms grow wild throughout Finnish forests, making mushroom hunting a favorite fall pastime. The extreme changes in weather make Finland an ideal oasis for porcini mushrooms. Chanterelles, boletes, and false morels are just some of the species of mushrooms one might find while foraging. It is best to accompany an experienced forager because there are dozens of toxic mushrooms as well.",
+    "imageCredits": "BUKET TOPAL / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_23.jpg?versionId=sy4LlXshYNk91Q56Z3ortNi2DWmEoYPH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_23.jpg?versionId=DLAUV5nQYyZfmxPGnrbLjcjNu_655xke",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_23.mp3?versionId=ni45Elyi6gGkSm5t78QEOJKAeqsUG1Vs",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2323420,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "In 2018 the city of Helsinki dedicated its newest library, called Helsinki Central Library Oodi. The public space blends traditional library aesthetic with a modern twist, making room for aspects of the internet to be central to visitors' experiences. The publicly funded library is meant to be a social and cultural hotspot with amenities including a café, cinema, recording studio, and 3D printing center.",
+    "imageCredits": "Subodh Agnihotri / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_24.jpg?versionId=ZlNSp2Tqz_IyMw4g7KPY8.LbQt6rODXl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_24.jpg?versionId=ZiGw_8f99GVjZ7wWZchd5gjvGoGYjwAK",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_24.mp3?versionId=nKcjx9J3zJ3bGHRR1KZLI2o1deF5kcMg",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2323428,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Marimekko is a renowned Finnish design company known for its anti-fashion aesthetic. Bold, vibrant prints and historical references make Marimekko stand out in the design world. The company prides itself on the perfectly imperfect, allowing the artists' processes to be visible in the final products.",
+    "imageCredits": "Bloomberg / Bloomberg / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_25.jpg?versionId=SNDlbfrMYnXRi96M0_UkRMeZ5Rme6BYN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_25.jpg?versionId=kW1asuwssrrasNDb6Pa2KIoDU0AtUvCB",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_25.mp3?versionId=QaBhoSFklSAsNrsNg.1V291dKvBNy3CE",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2323436,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Commissioned in 2016, Polaris is a dual-fuel-engine ship designed for breaking ice. Historically Finland would have to stop nearly all international trade during the annual \"ice blockade,\" when the waters would freeze over. In 1890 the Finnish Board of Navigation commissioned its first-ever icebreaker vessel. Polaris stands out as the first icebreaker to run partially on liquified natural gas.",
+    "imageCredits": "Amanda Hanson / EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_26.jpg?versionId=NkokN2PJv0EkJP6jTBftQfRaPQnRqwmh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_26.jpg?versionId=Chw4PlwsCTx1SaI2DNFQ1xlBcpaiX8yn",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_26.mp3?versionId=OP2evf0W4q7BS8Z31ec5ODpxbWLRy9qR",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2323443,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Euro Hockey Tour is an annual tournament open to men's hockey teams from the Czech Republic, Finland, Sweden, and Russia. Teams compete in four tournaments hosted by each of the countries, where teams play a total of three games per tournament. After each team has competed in twelve games total, the teams are seeded based on the total number of points gained. The Karjala Tournament is hosted by Finland.",
+    "imageCredits": "VESA MOILANEN / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_27.jpg?versionId=0H63azbmBflsX6ccqPpCijLXDZoec2ep",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_27.jpg?versionId=dNCKr5MHWjcOY_MgUOKzGj_VsqovyUn9",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_27.mp3?versionId=toSrkp4Phkh1tUVvufqaDKQfzaxH4u4E",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2323451,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "The Fortress of Suomenlinna has stood off the coast of Helsinki since 1748. The bastion has defended three different sovereign states including the Kingdom of Sweden, the Russian Empire and finally the Republic of Finland. After World War II use of the military activities at the site lessened and the fortress is now a spot for civilians to explore.",
+    "imageCredits": "Sasha64f / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_28.jpg?versionId=HK8dSg5EHOXxSGummy0b_c792o0ARqBO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_28.jpg?versionId=TixzOWounGgpp3OyjW4yAWvLrAxRGd22",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_28.mp3?versionId=WrCPWzDCb6rJ92ZE8mLVEsHjMIyoSjGR",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2323459,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Saunas are a way of life in Finland, and the word sauna is in fact Finnish. Historically saunas were used as a warm place to bathe during the long winter months, but now they are ingrained in Finnish culture. There are approximately three million saunas in Finland, which has a population of over five million.",
+    "imageCredits": "beronb / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_29.jpg?versionId=YPKuvihtiQxxNizMqDqAUxHaVcWoPoZN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_29.jpg?versionId=hVXtgGCjt_ynOEnO.kkwz6uGO.3m77Nm",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_29.mp3?versionId=0FJtRtmW62r7IgQIAytTddxYtLeXTYsh",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2323468,
+    "cultureContent": {
+    "imageLocation": "Helsinki",
+    "imageDescription": "Known as \"the daughter of the Baltic,\" Helsinki was awarded World Design Capital in 2012 and won Creative City of Design in 2014. The capital city is filled with art nouveau influence and colorful edifices. Huvilakatu Street showcases classic Nordic design with its symmetrical villas lining the street.",
+    "imageCredits": "Subodh Agnihotri / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/full/Finnish_1_9781797145303_M_30.jpg?versionId=kgAaki7OuOr0JUU.nmESk2qvZsx2YBN.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/lesson_photo/thumb/Finnish_1_9781797145303_M_30.jpg?versionId=8tXZ.ILS8M0ArzflWezOBeFchI2EopAZ",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/main_audio/9781442358416_Unit_30.mp3?versionId=VbsxBTeSne9BNTvBhDul0J6AwMhOqu0Y",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2323478,
+    "cultureContent": {
+    "imageLocation": "Hanko",
+    "imageDescription": "Hanko is the southernmost city in Finland, making it a popular summer destination. Under Russian rule, Hanko was once a well-known spa resort for the nobility. The gleaming coast makes Hanko an ideal summer getaway, featuring the tallest lighthouse in the Nordic countries, Bengtskär.",
+    "imageCredits": "Ilya Nesterenko / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish Level 1 orig/asset/RL/Finnish_1_9781797145303_Intro.pdf?versionId=o7.i03BXRZjSedycWTDs5WPPRJoSneEj",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings11.mp3?versionId=fEOlV61U0b03qmSZMZtpy10SfwYfL8IM",
+    "mediaItemId": 2354941
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings12.mp3?versionId=W..PPWh0eKLENN5EZnU9oGZ__9x_sx1o",
+    "mediaItemId": 2354942
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings13.mp3?versionId=cWMRoY7aR.NRwDz.YePAHbX7wv9apuR7",
+    "mediaItemId": 2354943
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings14.mp3?versionId=ZK1zwrCKOOTBYPQAa0CMys_y3CAoaQLw",
+    "mediaItemId": 2354944
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings15.mp3?versionId=EvzTX4HQ4a2J1i2mYP0gzaXcd1tlgJIU",
+    "mediaItemId": 2354945
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings16.mp3?versionId=d94UukTNxxnml02_Jfr1bsJGEQjhc6Cl",
+    "mediaItemId": 2354946
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings17.mp3?versionId=KrZeVfN3XpyfcbtGu6TCzypb3.tRUY3T",
+    "mediaItemId": 2354947
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings18.mp3?versionId=AOZPtputgf.oqnSf5olI1YkcdDakAc5b",
+    "mediaItemId": 2354948
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings19.mp3?versionId=J8skd9sny9SIy_We79WzTLdCS7KZuZ_P",
+    "mediaItemId": 2354949
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings20.mp3?versionId=FcKueJwX_Ki66NbZ7DEzARvnlC7rfdvT",
+    "mediaItemId": 2354950
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings21.mp3?versionId=50p3ofAY0lAnpsBqRwUOaEcibfak7cXs",
+    "mediaItemId": 2354951
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings22.mp3?versionId=uAz81W7DRSXI2rlae1ihCjMs_Hd4o3C0",
+    "mediaItemId": 2354952
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings23.mp3?versionId=r6gAYVeMAwj5y3WEcejSTysPxGbLBxPs",
+    "mediaItemId": 2354953
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings24.mp3?versionId=Corito8idc5BcipqswwYMwQb2qiSa3BY",
+    "mediaItemId": 2354954
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings25.mp3?versionId=7Unu0Y2oAOP3gcBpJjxPUgKUd74DtoHy",
+    "mediaItemId": 2354955
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings26.mp3?versionId=kLNhzqZH9reS5ha8KGOzZAkf5wLfDD3V",
+    "mediaItemId": 2354956
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings27.mp3?versionId=zCaEDwNZNB.OAIQcR1vZTEGRC2UvokdK",
+    "mediaItemId": 2354957
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings28.mp3?versionId=.rGvp3XaWyU7CnT5OlmPE3sGHgAlCcqf",
+    "mediaItemId": 2354958
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings29.mp3?versionId=vntz_Lw7c51egbaUMmn3WNCZFe4aMhgt",
+    "mediaItemId": 2354959
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Finnish/Finnish%20Level%201%20orig/asset/RL/Finnish_1_9781442358416_Readings30.mp3?versionId=_FCqOpjjAqE_1zAZQMn_9qOp1TGa61oH",
+    "mediaItemId": 2354960
+    }
+    ]
+    },
+    "languageCode": "fi-FI",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781797145303",
+    "level": 1,
+    "courseName": "Finnish Level 1 Premium",
+    "simpleCourseName": "Finnish Level 1",
+    "puArabic": false
+    }
+    ]

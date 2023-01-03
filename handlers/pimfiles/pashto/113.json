@@ -1,0 +1,633 @@
+[
+    {
+    "courseId": 5517,
+    "languageName": "Tagalog",
+    "languageId": 170,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_01.jpg?versionId=eYukXO9RCeYNzJix.yL6UpQkepmZUSas",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_01.jpg?versionId=eMV4eV5Iu9S8uxg04CWtwX1vhLpmsSG8",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_01.mp3?versionId=EFGY1CWfhyGFLhuBkJo1G0_4p7MvrNOY",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2309970,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Philippines has a population of 80 million and a workforce of some 30 million. The majority of jobs are in the agriculture, fishing and forestry industries. Rice, corn, coconuts, sugarcane, bananas, and pineapples are the main export crops.",
+    "imageCredits": "Josep Gutierrez / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_02.jpg?versionId=TEYh7HDeemrvl7tCLz1gojBYQLQl6XXb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_02.jpg?versionId=qJZP1uJX1d.7lKOK7VN8lwSq6czFtc1S",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_02.mp3?versionId=Mo4.9m9hl6orHHNHfVhRLzfh1E2Esugo",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2310130,
+    "cultureContent": {
+    "imageLocation": "Banaue",
+    "imageDescription": "Located in the central region of the Philippines’ main island of Luzon are the Banaue Rice Terraces, which look like luscious green steps carved into the side of a mountain. Ancient indigenous people created this agriculture system using a complex irrigation system to draw water from the rainforest. The terraces are still being cultivated but increasing tourism is leading to erosion of the delicate landscape.",
+    "imageCredits": "R.M. Nunes / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_03.jpg?versionId=b1NswbHTkd5b.V1j8wNdnd7dCCTaWsfK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_03.jpg?versionId=Ut04AtOOOPD3eYvdAsszzdC4gITKJrdv",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_03.mp3?versionId=h7YuMwGPPW3cKAnHWvwutLsg9PUWQ5j9",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2310267,
+    "cultureContent": {
+    "imageLocation": "Bacolod",
+    "imageDescription": "The MassKara Festival is a colorful celebration held every October in the city of Bacolod. It originated in 1980 when the price of sugar fell and the province faced a severe financial struggle.  The people decided to introduce mask making as a form of livelihood, and the festival was held to encourage people to buy the intricate, colorful masks.  MassKara means “multitude of faces.”",
+    "imageCredits": "Dinno Sandoval / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_04.jpg?versionId=4THoEdHnYIgYyWcj41ox9slATCss_Spo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_04.jpg?versionId=NkN2elCR2Ik7bSCNzN39okEzojVucMgW",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_04.mp3?versionId=9WvY6olWfcMlEM.9VG9MILY0mepfSr3n",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2310406,
+    "cultureContent": {
+    "imageLocation": "Famous Person",
+    "imageDescription": "Manny “PacMan” Pacquiao is a world-famous professional boxer from Kibawe, Philippines. He learned how to box while living on the streets at age 14 and from there progressed to be the only eight-weight-division world champion in history, winning twelve world titles in all. Pacquiao has been considered by many publications and sports columns to be the best boxer of all time.  He also serves as a senator in the Philippines.",
+    "imageCredits": "Chris Hyde / Getty Images Sport / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_05.jpg?versionId=0wRBw_rf93VOrugWObL7XUt3UdSsy7cb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_05.jpg?versionId=0FOQvWa7zn7dGbG9H4gA2zz_4EZDxE8O",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_05.mp3?versionId=gp2g5YMoMt3Ovii876aBRjKOM.khLEkw",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2310921,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Christmas is a jovial time of celebration and tasty treats in the Philippines. The holiday season is the peak time for roasted suckling pig.  This special-occasion meat is roasted until the skin forms a crispy, thick crust. Some traditional yuletide treats include leche flan, buttery flat cake served on banana leaves and shaved coconut, and several special pasta dishes.",
+    "imageCredits": "Noel Celis / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_06.jpg?versionId=Gx7nLfKPA4fZC8kTv1Wl_Lvnigd0dgwb",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_06.jpg?versionId=.hp2Z2w6hhT77nL13seu6ffJlMpu.AM7",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_06.mp3?versionId=LpkDT.5GCxMNh6skKXbEQnkqazJgD7ac",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2311104,
+    "cultureContent": {
+    "imageLocation": "Manila Bay",
+    "imageDescription": "During World War II Japan campaigned to take over the Philippines, resulting in the Battle of Corregidor, fought May 5-6, 1942. Built by the US in 1909 after the Spanish-American War, Fort Drum, a battleship-shaped, turreted structure nicknamed “the concrete battleship,” was among four Manila Bay forts under siege that day. It fell to the Japanese and remained under their rule until the island was liberated by Allied forces in 1945.",
+    "imageCredits": "Patrick Aventurier / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_07.jpg?versionId=74wK5o_Bf2Bd5ZQhizCO6iQFsgvQm0.Z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_07.jpg?versionId=xKLMUGwnXPK9A0K5XfO7MhAhTEPEh7N0",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_07.mp3?versionId=PUsMGlavdTezTErqHP7FsWyrHCOkhvWT",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2311257,
+    "cultureContent": {
+    "imageLocation": "Sagada",
+    "imageDescription": "Hanging coffins is an ancient funeral custom practiced by some tribes in the Philippines. The coffins are nailed or hung to the side of a cliff to keep them out of reach of animals and people. It was thought to bring the dead closer to their ancestors, but another reason was that people feared being buried underground, figuring that water would seep into the coffin and rot their corpses.",
+    "imageCredits": "John Crux Photography / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_08.jpg?versionId=WTY6VoamgL2Y.LHc3RiivsGgW6K8EHQg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_08.jpg?versionId=nVyJ2O1gmDn8Oxgn_SFMaNPqB8bvXfmg",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_08.mp3?versionId=3Zy7Qqn7AkRpBa_5ZftYNapjrl72nPq5",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2311420,
+    "cultureContent": {
+    "imageLocation": "Nature",
+    "imageDescription": "The Philippine tarsier is one of the smallest primates in the world, measuring just 4 to 6 inches in height. The tarsier has multiple sets of breasts of which only one set is functional, the others serve as an anchor point for the baby. This tiny creature prefers to inhabit low-level vegetation in secondary forests. During the day it sleeps in shallow hollows close to the ground.  This endangered animal is under threat from deforestation and predation by humans, cats, and owls.",
+    "imageCredits": "Loeskiboom / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_09.jpg?versionId=IMnvYNdKB8oy5_Qw37Dbxwc.Go8GtFBL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_09.jpg?versionId=oKRV.Cyc9LS1tGVZa_cBuzaxgM_IJlxq",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_09.mp3?versionId=fM4jztQ9wL4P2bb4vJEE332.Af8.W3b5",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2311697,
+    "cultureContent": {
+    "imageLocation": "Kabayan, Benguet",
+    "imageDescription": "Mummification was a common practice in ancient times to preserve the bodies of the dead. The Ibaloi people of the Benguet province would preserve the deceased by smoking the bodies, thus they are sometimes called fire mummies. This process was fairly uncommon because it was so lengthy and was often reserved for tribal leaders.",
+    "imageCredits": "Alexis Duclos / Gamma Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_10.jpg?versionId=6Jbz_mRLCjEywGEBM8lHICMjY_qcE0Te",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_10.jpg?versionId=2F1vtqQdaa0YeVsntlNXwV.XxAZBRtj9",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_10.mp3?versionId=RiNDebRlQeRTaOKVm7rAt2q2gTcQpr.z",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2311910,
+    "cultureContent": {
+    "imageLocation": "Manila",
+    "imageDescription": "Political protests are common in the Philippines, as it is the people’s right to take a stand in this democracy. Most protests are peaceful demonstrations but occasionally violence breaks out. Protesters recently have organized against extrajudicial killings in the brutal crackdown on the illicit drug trade by increasingly-autocratic president Rodrigo Duterte.",
+    "imageCredits": "Ted Aljibe / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_11.jpg?versionId=REHA7IQE01T5N_smOXwiuCYKC9EaZytC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_11.jpg?versionId=IKdC0aP0mWmDAgnrTDK6wWtzs25I4_Xc",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_11.mp3?versionId=145X0Ne3MzeZ10TmwBkab.QbmDmCLIu3",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2312132,
+    "cultureContent": {
+    "imageLocation": "Sport",
+    "imageDescription": "Cockfighting is a common sport in the Philippines, and in fact the first documentation of modern cockfighting was by Magellan during his voyage to the Philippines in the 1500s. The sport is a bloody fight to the death between two gamecocks, specially bred for strength and fighting ability.  Special metal blades are attached to the rooster’s legs in order to increase the damage the bird does to its opponent.",
+    "imageCredits": "Jacob Maentz / Corbis Documentary  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_12.jpg?versionId=KggIPTom_NoaqR7TfbjADGVT6g88lyrs",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_12.jpg?versionId=JzevGuWz133Z6X_S4S4paAPPpN37E6tm",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_12.mp3?versionId=TrQqhx6_R1GnkHncVOId5mDUS.rSZcut",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2312349,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Jeepneys are old U.S. military vehicles left over from World War II which have been converted to public transportation in the Philippines. The buses are decorated in elaborate designs and are symbols of Filipino pop culture. There are several generations of Jeepneys and the most modern ones feature Wifi, speed limiters, and GPS systems.",
+    "imageCredits": "Chel Beeson / Stockbyte / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_13.jpg?versionId=7PnFKybWX23675fz6TeAgF8nz37nvJqM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_13.jpg?versionId=l34ACNtbQYn2Kuj9sUAU36j0jcMdOVH1",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_13.mp3?versionId=6GlVdZgUvrm4JzM.bOpbDDrGvfNj5t5B",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2312537,
+    "cultureContent": {
+    "imageLocation": "Alamada, Cotabato",
+    "imageDescription": "Asik-Asik Falls is a recent discovery for Filipinos. Located in the province of Cotabato, the falls are pristine freshets from a mysterious source cascading down a great, leafy cliff into a pool. The oasis was revealed after the destruction of the forest surrounding it by wildfires, floods, and typhoons.",
+    "imageCredits": "VW Pics / Universal Images Group / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_14.jpg?versionId=tibSPnlQBnC_LndYzVwREcwaKCziNB6Y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_14.jpg?versionId=o_.Qv1MhQRcLj10wI9_k6icV8Ue03wzk",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_14.mp3?versionId=OsvM9nGswrDhjsxoS0zirv03t_pHkwsR",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2312699,
+    "cultureContent": {
+    "imageLocation": "Coron, Palawan",
+    "imageDescription": "Coron is an island paradise in Palawan Province. It has a gorgeous oceanic landscape with crystal clear waters, coral reefs, and the iconic CORON sign which overlooks the town. Coron is a popular stop for tourists who are island hopping in Palawan.",
+    "imageCredits": "Sean3810 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_15.jpg?versionId=alxYeWupMXTNtMLcZSa29wfZaeBRSgog",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_15.jpg?versionId=zqzv4fqzew.3l5nQ_d7OinkxCpN7jyKp",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_15.mp3?versionId=PBU.StKbsP5XWhgyYCyT9KKPOcM.Gd.x",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2312912,
+    "cultureContent": {
+    "imageLocation": "Boracay",
+    "imageDescription": "Located about 200 miles from the capital Manila, Boracay is a scenic island that is extremely popular with tourists. In 2018 the island closed to tourists for six months to undergo renovations of the sewer system. The island was originally used for agriculture, one of its main exports being coconuts.",
+    "imageCredits": "R.M. Nunes / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_16.jpg?versionId=ILRJ_OX7INc7BWiyLjt_IHTlWpkw_Ijv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_16.jpg?versionId=moA4PC0Ldo4WqxWDMDmzCi_wE_ypKHpA",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_16.mp3?versionId=V8.Q2akuBiFwgHzoRPW8vKmHIN8KVoB.",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2313064,
+    "cultureContent": {
+    "imageLocation": "Makati City",
+    "imageDescription": "The Caracol Festival in Makati evolved fairly recently to become a kind of Philippines version of Mardi Gras, but with the focus on celebrating and preserving Mother Earth.  In this annual late-winter fiesta student groups representing different tribes compete to see who has the best costumes.  Costumes will be of animals and things from the natural world.",
+    "imageCredits": "Pacific Press / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_17.jpg?versionId=lCjsJy57YgofSnYB3.sXiCuY.iFJFHHA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_17.jpg?versionId=hUauSNve0DyKcHU8QV_tcClGAgBwFi9W",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_17.mp3?versionId=qdlQlT4R56wNRvjRxDua.HUF3lIr9SCf",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2313262,
+    "cultureContent": {
+    "imageLocation": "Food",
+    "imageDescription": "Balut is a Filipino delicacy. It is a fertilized bird egg, usually duck, which is boiled and then the contents, including the nearly-developed embryo, carefully eaten out of the shell. This protein-rich snack is a controversial food among tourists, who might cite the “ick” factor.",
+    "imageCredits": "NaLha / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_18.jpg?versionId=AyNSGYcLUnIIazgSHfrlPqydvyUroJH0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_18.jpg?versionId=ncMc7hoKcT90mL41fHjahii5Y6fLmG2N",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_18.mp3?versionId=pTvX1khUduqSbOFiUy_UqEAyN_.jM3Vc",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2313509,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Philippines are a predominantly Christian country, and All Saints Day is widely observed in the islands. Filipinos tend to the graves of deceased family by cleaning or repairing them and decorating the tombs with flowers, candles, and incense.",
+    "imageCredits": "AFP / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_19.jpg?versionId=3MdcHkh5UuH3Qnr_pfClASqNqINUJm.6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_19.jpg?versionId=Esm3OgsnevBX12Bag6Hm9Bgo9zg8Xlun",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_19.mp3?versionId=RZCUcPYzpDkdVvfNGXUN25kc7nLYsCQ2",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2313678,
+    "cultureContent": {
+    "imageLocation": "Coron, Palawan",
+    "imageDescription": "The Philippines is known for its stretches of islands surrounded by white sand and pristine waters. The province of Palawan is a grouping of islands and is named after the largest of the islands, Palawan. The economy is mainly agricultural and the staple crops are coconuts, rice, and corn.",
+    "imageCredits": "Matt277 / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_20.jpg?versionId=5DtGW0nMKXN4TxT9dIURi2tW9D80f4Iz",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_20.jpg?versionId=0hoBP0YDea_IYbq6VwHwDo_DhDU0hXZZ",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_20.mp3?versionId=QADuhIGUbzjNDeEwnqJnlqKK08QmAucA",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2313895,
+    "cultureContent": {
+    "imageLocation": "Bohol",
+    "imageDescription": "The Chocolate Hills are a geological formation of round hills in Bohol. The hills are covered in grass that turns brown, thus giving it its name. They are the third National Geological Monument of the Philippines.",
+    "imageCredits": "GoodOlga / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_21.jpg?versionId=ZyytQiJ60VLX4FTPqevBA3Fnqm_cj530",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_21.jpg?versionId=uZiDDigxZbKJAKO3k9BhnjlNJZhipz7A",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_21.mp3?versionId=coR1OiMi7VjAptz7q0F0ZHqa_VujfZBt",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2314069,
+    "cultureContent": {
+    "imageLocation": "Manila",
+    "imageDescription": "With 33 known eruptions, the Taal volcano is the second most active volcano in the Philippines. It is a complex volcano, meaning that it is a mixed landform and fairly uncommon. The last eruption was in 1977 but the volcano has shown signs of unrest since 1991.",
+    "imageCredits": "Saiko3p / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_22.jpg?versionId=zi.VpGlIUKl86M1JcRfpNYDl8FEKwSOE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_22.jpg?versionId=o9ICfMioYOh8FO7fPo3IStzNrHWBluu8",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_22.mp3?versionId=Cd_lhHn7LLreYSJOm4w64OdwXI0.xBOT",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2314313,
+    "cultureContent": {
+    "imageLocation": "Bibiclat, Aliaga, Nueva Acija",
+    "imageDescription": "The “Mud People” festival is celebrated in the village of Bibiclat.  It dates to the time of Japanese occupation during World War II.  Japanese soldiers captured young villagers to be executed, and the people prayed to St. John the Baptist for protection.  Suddenly rain poured from the sky causing the Japanese to flee, and the Filipinos were so happy to be freed that they rolled in the mud and organized an annual festival in St. John’s honor.",
+    "imageCredits": "Pacific Press / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_23.jpg?versionId=ZRo1qd.C4zc9Pr5WsW5Q8goE8aHj3BgG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_23.jpg?versionId=cHN4Bq9uMvNl.xGl88Ax6cNqaM2PjUOy",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_23.mp3?versionId=UwI18DUIhEMb3FkAYKKw7dUbfxrVmDXs",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2314530,
+    "cultureContent": {
+    "imageLocation": "Manila",
+    "imageDescription": "On Good Friday, prisoners of Manila City Jail perform self-flagellation to repent of their sins and bring good fortune to their families. The inmates are beaten symbolically at fourteen different stations by their fellow inmates, re-creating Jesus’ crucifixion in the Stations of the Cross.",
+    "imageCredits": "Gerhard Joren / LightRocket / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_24.jpg?versionId=KLQpyqBnAPmzFSXGur5EGgZQXiR5LBar",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_24.jpg?versionId=5vAnBvvhjFpjtKkKXd9wnTIgVOazxxxN",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_24.mp3?versionId=Aqkx7Im2dHvfpC9acjosFPN8GG.gfvvI",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2314702,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Philippines has many festivals throughout the year. Many of them originated from Christian tradition and have a patron saint associated with each feast, or fiesta.  Many are a mash-up between Christian and indigenous aspects.",
+    "imageCredits": "@ Mario Sayno/Husayno.com / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_25.jpg?versionId=GeaQsnPpk1pKESyQ_XJkB.hpG5liFQFr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_25.jpg?versionId=Tt8t0iA_m7A5ZIAwq2Me7v.sVsx15Mid",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_25.mp3?versionId=.OE77f88w7t9r9QtuR4JCjgTBU9CRAUC",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2314876,
+    "cultureContent": {
+    "imageLocation": "Camiguin",
+    "imageDescription": "The cross of the Sunken Cemetery on Camiguin Island marks the place where the city of Catarmin once stood. In the 1870s a nearby volcano erupted causing the city and its surroundings to sink below sea level. The cross is accessible by boat and is a common place for tourists of the Philippines to visit.",
+    "imageCredits": "holgs / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_26.jpg?versionId=ijDMKzZvxAgnqkCPcVOO05R_n9JDui8t",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_26.jpg?versionId=UTkhOHItTIlLpBCKHhBUTg531Q_YhRAg",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_26.mp3?versionId=iX3pVsB_V0b1A3wrU80k3nzbsTQmPwFn",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2315072,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "When the explorer Ferdinand Magellan conquered the Philippines in the 1500s, one of his primary goals was to convert the islands to Christianity.  Today the Philippines is home to the world’s third-largest population of Roman Catholics, with hundreds of churches among the nation’s 7000 islands.",
+    "imageCredits": "Dave Barger / 500px / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_27.jpg?versionId=pCQHDraeOKeVbT55OrR8G5OKXjkL7JUa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_27.jpg?versionId=E8hlKtgmE_K9OaOKuejl69Br1e8CCQkM",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_27.mp3?versionId=v9nuPs0r82O3qscoIKN6urdh4c_nvkUS",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2315294,
+    "cultureContent": {
+    "imageLocation": "Legazpi City, Albay",
+    "imageDescription": "Mayon Volcano is an active volcano. Its most destructive eruption was in 1814 and killed 2,000 people. In 2018 the volcano began spewing ash and rock and thousands of people nearby had to evacuate their homes. The threat level is currently Alert Level 2 meaning there is a moderate level of volcanic unrest.",
+    "imageCredits": "Mark Downey Lucid Images / Corbis / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_28.jpg?versionId=DCy.NYcm9OGn8A6cCKXgjEFBL9mvMun6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_28.jpg?versionId=CfTKhe6pxpogYYjsvJ5o.A5jut1ScZS0",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_28.mp3?versionId=pvDElcGz5RfUVFI_ICq0K_Kyx7VP6LNh",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2315495,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "A place of immaculate natural beauty and religious communities, meditation and yoga retreats can be found throughout the Philippines. Many tourists visit the islands to find peace amongst the tropical rainforests, white sandy beaches, and exquisite churches.",
+    "imageCredits": "Gerardo Aguilar/ EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_29.jpg?versionId=sH8.GCKAvJukxQTQcP966kElmy52RkjT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_29.jpg?versionId=nq5kaEKMrsD_3jARH9.qwbWImYYk_Mq0",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_29.mp3?versionId=_gioJkyrjpcrwdXgTwlL1JO0pIegWeUc",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2315690,
+    "cultureContent": {
+    "imageLocation": "Palawan",
+    "imageDescription": "The Bacuit Archipelago in northern Palawan is a gorgeous collection of islands that have sandstone cliffs and jagged ridges surrounded by pristine white sandy beaches. Many of the islands have strict development laws and visitors are required to purchase passes that protect the islands from pollution and destruction. Visitors can snorkel around the islands and see the reefs and sea creatures who call the archipelago home.",
+    "imageCredits": "Michael Runkel / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/full/TA_1_M_30.jpg?versionId=FwopILM.EOJe39GOmr_0V6eM1S8ZGR__",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/lesson_photo/thumb/TA_1_M_30.jpg?versionId=hwcLrjxHus84XoG4PCy1KdjljzjI1lq1",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/main_audio/9781508298984_Tagalog_1_Lesson_30.mp3?versionId=twMX1N037N54WstV2ga4hWyqrr0nKYCL",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2315870,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The Philippines had been controlled by foreign powers for centuries, and Filipino art reflects the influences of those countries in paintings, sculptures, and calligraphy. There are two branches of Filipino art, those being traditional art forms and non-traditional, and Filipinos are now delving into their indigenous roots for artistic inspiration.",
+    "imageCredits": "LordRunar / E+ / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog Level 1 orig/asset/RL/9781508298984_Tagalog_1_Intro.pdf?versionId=ugfs3dDWjBpigXaGQKNV3yXfj6oQLK3s",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_01.mp3?versionId=ATn5m0SsvYbGstAXV.ZPHUQ69sWVsCnw",
+    "mediaItemId": 2223836
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_02.mp3?versionId=V.bZjQ4bQHwNrdNjTm8XOUlzGmonvxTT",
+    "mediaItemId": 2224015
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_03.mp3?versionId=5C9QuC.7Db9TS83wc4tmFx2E_6GRS8ye",
+    "mediaItemId": 2224172
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_04.mp3?versionId=TAc3xXDBc4l6zVt3M9ePFJkomzRumTuz",
+    "mediaItemId": 2224375
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_05.mp3?versionId=wYX6LxPeyt3d87uk.lmJmlOQizHg7FEa",
+    "mediaItemId": 2224501
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_06.mp3?versionId=VHIfW2E0DhC3mhefigcTTmeT3_vmirlb",
+    "mediaItemId": 2224696
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_07.mp3?versionId=DSLZLX_Bzzfi1m3yteEXXWxnjIXZpRl2",
+    "mediaItemId": 2224859
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_08.mp3?versionId=DeyoA_JZcrEmXkcaGIH9WR2PLhevXQHH",
+    "mediaItemId": 2225977
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_09.mp3?versionId=qVliXqsycKb6uq4lYfc6LzmVBhq1dyn8",
+    "mediaItemId": 2228410
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_10.mp3?versionId=4igdT4n5QwgglmlHjTIOcgpAC6EjmS3s",
+    "mediaItemId": 2231803
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_11.mp3?versionId=yVg3DBsMPIPBdHE_Az1ENNKrAxYL3bSi",
+    "mediaItemId": 2235297
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_12.mp3?versionId=Q9n93Uq2_6NA0di1Wu4GEzPYHMmU882W",
+    "mediaItemId": 2238735
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_13.mp3?versionId=dmVYujk9wXYfOeNozlstJ5akYN4C2dQt",
+    "mediaItemId": 2241807
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_14.mp3?versionId=KoZhwpmWh78eYzaNvb9cjQr2prus1fF5",
+    "mediaItemId": 2244951
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_15.mp3?versionId=dWFVe_rZzGxsoBsx3biL2SU7KsfI_BWs",
+    "mediaItemId": 2247804
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_16.mp3?versionId=AsS6IBszm7MzHdaK7g1Tiyk2vgwfd2kU",
+    "mediaItemId": 2250802
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_17.mp3?versionId=Rs98rprNNsCcQhviracyp9nY9qEhw4Ai",
+    "mediaItemId": 2253656
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_18.mp3?versionId=QzXBumHMnTbY7tzK6oJc_BPVBhFtUDJV",
+    "mediaItemId": 2256370
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_19.mp3?versionId=qDICOJudXproVrQVy1g30lWyCp9IPivd",
+    "mediaItemId": 2259201
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Tagalog/Tagalog%20Level%201%20orig/asset/RL/9781508298984_Tagalog_1_Reading_Lesson_20.mp3?versionId=O3vJaZAUQqMvk4qgnX9v48219srWR5On",
+    "mediaItemId": 2261817
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781508298984",
+    "level": 1,
+    "courseName": "Tagalog Level 1 Premium",
+    "simpleCourseName": "Tagalog Level 1",
+    "puArabic": false
+    }
+    ]

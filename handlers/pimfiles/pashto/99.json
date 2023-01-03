@@ -1,0 +1,591 @@
+[
+    {
+    "courseId": 3564,
+    "languageName": "ESL French",
+    "languageId": 134,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_01.mp3?versionId=9hVbkq2vjKjQP21ImkInNRI5XkFpUNMp",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322532,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_02.mp3?versionId=Z0eG7wvUglJZH8ZTukbt1fIv1qk78W0n",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322534,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_03.mp3?versionId=Zm7VzX5HoF.oGmXekTfFnRAqbEWxVJdU",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322537,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_04.mp3?versionId=7Qrs4N.KBVPhE._0DhaIeWV1Oy8SsmeS",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322540,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_05.mp3?versionId=gbOGsrvE5ConEXybCpqDKbKDN7a4Ss2M",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322543,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_06.mp3?versionId=L.PoaIWfkxhXzGdWdvE7ysg0hUOnnEJ3",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322547,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_07.mp3?versionId=IT8SfuJG.2O6JcVyrfnOr1I2oc2FpVTI",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322552,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_08.mp3?versionId=uzoXaqkT3NfmIoZymOpHxj93Emm7axTC",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322557,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_09.mp3?versionId=3j8hfLlem.BMESMrY7fpgqbvD2oyUyEw",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322562,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_10.mp3?versionId=GyVoX__EPtJ__J.Aavet6wnhnazxslMx",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322570,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_11.mp3?versionId=wBCgqmalk_Wf56pT8GVSXzBl7lMzWpKO",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322574,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_12.mp3?versionId=EZeaz1ghWOpMMO8lx8byXjG8KSHeSH9A",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322579,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_13.mp3?versionId=kNFBexvBU0VLX7wfEks6hQehF8TXlwjw",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322586,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_14.mp3?versionId=ZzchM075wikUJAFRv0tXQUUr8GuvVyWr",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322592,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_15.mp3?versionId=9gIfvIcQ7SVRpJpfe1sZE7UJvlrXj62g",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322600,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_16.mp3?versionId=pdg8V_IGyIub1yJz.b9uESXw2t1QiP5d",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2322610,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_17.mp3?versionId=9s5QfaXXXs11p3WruOmKNBq4ZXZSK5sP",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2322616,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_18.mp3?versionId=2XBdgEh_PTA6dfbcZ9ETt5CMenVo7k1q",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2322623,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_19.mp3?versionId=yNiBk4l3pnRgez6lIiym90xD8ipI3aDM",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2322632,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_20.mp3?versionId=6MohpQyXfrPvJFF.9DfLm_TGt8JhzPIl",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2322642,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_21.mp3?versionId=WKAbm2CEk8CwuCire_17YhoAQAdkBBPT",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2322650,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_22.mp3?versionId=uYqqiz3Y3qbW3_D9XJmb0VLBLS8t13aC",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2322661,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_23.mp3?versionId=VPrLogcBHIPW9gnPxEfy3ejGkbtr90A.",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2322676,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_24.mp3?versionId=GhVVwB0W3V5Gy1mkpC1dtfyCkCsZ5vv9",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2322690,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_25.mp3?versionId=7wCx8BHozbRLT.__wdhNXO8FO2dXoR5f",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2322697,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_26.mp3?versionId=jVem6YU.7YY0APtVUiQsVRW0QMqcLATE",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2322713,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_27.mp3?versionId=9VSX9Cy5hVGANhtRoc3EnETDAoSanxML",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2322727,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_28.mp3?versionId=ZNLGY3uGGHycAJ77UBYUd2dkUVsu7cE1",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2322743,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_29.mp3?versionId=E2JRqWdB4nNGbrQ7tjKVKWcn6pOWZhEq",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2322754,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/language_image.jpg?versionId=0XD5TkKbuiYKmU5i._FNV4cAFLFHqeik",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/main_audio/9781442332669_Unit_30.mp3?versionId=Q7Y7l3EkasGmh5kRJi_mIg7zOSWYWHjQ",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2322772,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_ESL_French_1_Bklt.pdf?versionId=DUWVXAFn0tZnGZQfvap8Zq8dckV08Il6",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U09.mp3?versionId=J7vtR8ON0ljonsnuieoiPA5ireOzun8B",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2224338
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U10.mp3?versionId=suAgfXbnfL9Okvu8ki9krwIuiYyTaS36",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2224651
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U11.mp3?versionId=fZWeUu4QUn5a7rWMQpx4hjNo32ZdKbD_",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2225169
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U12.mp3?versionId=zzbaXPkVCMhbnv090B0xnuDiDHAmLK66",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2229114
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U13.mp3?versionId=YSA5iSH0QS8UrNXMpXyDYUOLSLROrtfZ",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2234569
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U14.mp3?versionId=SXOaL2sn5KakJYgl3Ainm4EIJ_hXjrnh",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2240251
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U15.mp3?versionId=blo_WWzMcMWHY_qfl7G4h0lmQVWux9ve",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2245325
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U16.mp3?versionId=krwaS2GkUEYkDdURy069tuWiqtNbzMIm",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2250452
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U17.mp3?versionId=Zj6dWcOy.7UE621tQ2rTgO1YVnsA3Nrw",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2255167
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U18.mp3?versionId=y1xh0XcWSCSLfzPjD332AvkYWUf6n6GF",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2260490
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U19.mp3?versionId=XasfBOkScDzgw65oUS0SeWBjvk3Mitmk",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2266163
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U20.mp3?versionId=4dBlbOF2dDAF0ML8cLbV7jtXwgAVHuG4",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2271312
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U21.mp3?versionId=ox8dGRQ_Jg5f4_e2jBeeW.rXzhkbXXgW",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2276314
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U22.mp3?versionId=2hDK2a6wUnlEPbMVaKmT0OX0JhZIRbU_",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2281238
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U23.mp3?versionId=UUqZYkxzL4TPfHtiLQH26CXaIpsLQa7W",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2286589
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U24.mp3?versionId=rj4_sKAxoJ7fwqFej5yuWq4cfBju8MsV",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2290831
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U25.mp3?versionId=VRLC301NRFCwSogU5JQH35faigQCmHoB",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2293608
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U26.mp3?versionId=6hQPqWnqWy_gu6R3WLBI2z8XTewUE7rO",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2296396
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U27.mp3?versionId=c7IF5TTlijCB.S4nNLh6lU7BwyzlHXxY",
+    "startPage": 28,
+    "pageCount": 1,
+    "mediaItemId": 2298872
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U28.mp3?versionId=X3i3DdppKsiSoZmu_f_cUO0K20mJljkN",
+    "startPage": 29,
+    "pageCount": 1,
+    "mediaItemId": 2300405
+    },
+    {
+    "order": 21,
+    "title": "Reading Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U29.mp3?versionId=2G3TW0wBCemVjsEnIwJWu.noGbgPHMV7",
+    "startPage": 30,
+    "pageCount": 1,
+    "mediaItemId": 2300841
+    },
+    {
+    "order": 22,
+    "title": "Reading Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20French%20Speakers/English%20for%20French%20Speakers%20Level%201%20orig/asset/standard_reading/9781442332669_Reading_U30.mp3?versionId=1AHUHjoZdGvLUYdISbkBzaWKH07w4lJB",
+    "startPage": 31,
+    "pageCount": 1,
+    "mediaItemId": 2301041
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442332669",
+    "level": 1,
+    "courseName": "English for French Speakers Level 1",
+    "simpleCourseName": "English for French Speakers Level 1",
+    "puArabic": false
+    }
+    ]

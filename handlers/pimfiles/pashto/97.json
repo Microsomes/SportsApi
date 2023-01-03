@@ -1,0 +1,583 @@
+[
+    {
+    "courseId": 3490,
+    "languageName": "ESL Chinese Cantonese",
+    "languageId": 131,
+    "isOneOfNineBig": false,
+    "isFree": false,
+    "isEsl": true,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_01.mp3?versionId=tzqan7cVwdMfpzE7bDAEYondKQQYTxRA",
+    "level": 1,
+    "lessonNumber": "01",
+    "mediaItemId": 2322550,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_02.mp3?versionId=KW6PO21yMfqnuZXCleB.Tk1.7fnp35SL",
+    "level": 1,
+    "lessonNumber": "02",
+    "mediaItemId": 2322555,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_03.mp3?versionId=H1kvfN4vOnYzf_y_qrLB7wKFOkthWQlU",
+    "level": 1,
+    "lessonNumber": "03",
+    "mediaItemId": 2322560,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_04.mp3?versionId=UFAHbJimvmheJO185gka_oI4uY9siQgi",
+    "level": 1,
+    "lessonNumber": "04",
+    "mediaItemId": 2322566,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_05.mp3?versionId=wJHcSmDJCBJg_2dTh59HIGViJmKUWpVN",
+    "level": 1,
+    "lessonNumber": "05",
+    "mediaItemId": 2322572,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_06.mp3?versionId=DfKbxp0szX3yXGJbRlAh9LKIHsZDeA10",
+    "level": 1,
+    "lessonNumber": "06",
+    "mediaItemId": 2322577,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_07.mp3?versionId=pUhq1Xnz.CnWw_pqWCbc1cXVisMgMGFc",
+    "level": 1,
+    "lessonNumber": "07",
+    "mediaItemId": 2322583,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_08.mp3?versionId=F3LpO0Qa3TZZjN1ObhhBo1I8AjuZocCZ",
+    "level": 1,
+    "lessonNumber": "08",
+    "mediaItemId": 2322589,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_09.mp3?versionId=NgpDq64u2oLEy.k3HA2Uj_QEPVx0zSHY",
+    "level": 1,
+    "lessonNumber": "09",
+    "mediaItemId": 2322595,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_10.mp3?versionId=pB9cUZbaoEp2ofbWbk6P4zNImszf1H87",
+    "level": 1,
+    "lessonNumber": "10",
+    "mediaItemId": 2322603,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_11.mp3?versionId=yy_9EqvS0OZebIdL4JRt8U0B0xeIfRrr",
+    "level": 1,
+    "lessonNumber": "11",
+    "mediaItemId": 2322612,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_12.mp3?versionId=siXzzsVynwWxNb9i6bnUs5NjuMTUTh4v",
+    "level": 1,
+    "lessonNumber": "12",
+    "mediaItemId": 2322618,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_13.mp3?versionId=jj_X6PwoSVBfc7VCi9VoFonh2NkpFtTd",
+    "level": 1,
+    "lessonNumber": "13",
+    "mediaItemId": 2322626,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_14.mp3?versionId=hb2lZ0Vp_6QtYhSS6F.IB_g.CSzvwaQh",
+    "level": 1,
+    "lessonNumber": "14",
+    "mediaItemId": 2322635,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_15.mp3?versionId=PgwdoA9xdWlpc4u49S2DhYz3EsgYpzid",
+    "level": 1,
+    "lessonNumber": "15",
+    "mediaItemId": 2322646,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_16.mp3?versionId=ziC7yyf59r3i78cOixpcA0sq6hCpj6cy",
+    "level": 1,
+    "lessonNumber": "16",
+    "mediaItemId": 2322656,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_17.mp3?versionId=Q1UzZvO24KU3ntUk2B2VSFDcl2tV.NL4",
+    "level": 1,
+    "lessonNumber": "17",
+    "mediaItemId": 2322665,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_18.mp3?versionId=OroB3V5KOB_LK5O24ZkgobEpUQ3M5skW",
+    "level": 1,
+    "lessonNumber": "18",
+    "mediaItemId": 2322677,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_19.mp3?versionId=ZbMHkn25jzldvR_kVRNgvUJDwYl2XefR",
+    "level": 1,
+    "lessonNumber": "19",
+    "mediaItemId": 2322689,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_20.mp3?versionId=CsLGIoA9W.y77w51XpdBLlMIpIOa8U9O",
+    "level": 1,
+    "lessonNumber": "20",
+    "mediaItemId": 2322703,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_21.mp3?versionId=U9KhXqsPBIcJdBLRHwJ7Ig3IPo.gEuQc",
+    "level": 1,
+    "lessonNumber": "21",
+    "mediaItemId": 2322716,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_22.mp3?versionId=shruUxiHNRDo4GfASl0cQo05A2PzH61E",
+    "level": 1,
+    "lessonNumber": "22",
+    "mediaItemId": 2322737,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_23.mp3?versionId=7RTO3RpXiiIZBus8SS7FwMmbvc7iG_tw",
+    "level": 1,
+    "lessonNumber": "23",
+    "mediaItemId": 2322755,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_24.mp3?versionId=wSX9vNu_ZQDbGkp7fcZct7tqvohhrX7s",
+    "level": 1,
+    "lessonNumber": "24",
+    "mediaItemId": 2322766,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_25.mp3?versionId=q41ExD_oj6sIiyCJxkI4urFhdzLNe6Qt",
+    "level": 1,
+    "lessonNumber": "25",
+    "mediaItemId": 2322783,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_26.mp3?versionId=InAO2L3acT_uHTjx0B7Ij_fUyiaHcJef",
+    "level": 1,
+    "lessonNumber": "26",
+    "mediaItemId": 2322796,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_27.mp3?versionId=QQEJB7CYFZ0jU8dBMgXmMipoDz9CXJ1Y",
+    "level": 1,
+    "lessonNumber": "27",
+    "mediaItemId": 2322807,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_28.mp3?versionId=_QDWAtl9TTRk6GBlzkS36eI16s_YNqmO",
+    "level": 1,
+    "lessonNumber": "28",
+    "mediaItemId": 2322820,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_29.mp3?versionId=A99mJOojPP95vbvR39PuzFmePPHboLBK",
+    "level": 1,
+    "lessonNumber": "29",
+    "mediaItemId": 2322831,
+    "cultureContent": null
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/language_image.jpg?versionId=ySjPe0nzWP5sgK8gUZeVC1W1G1gLQqNB",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/main_audio/9781442331921_Unit_30.mp3?versionId=BVtIILAOKZN4ayHYUMtzMbGdVXs61ZnN",
+    "level": 1,
+    "lessonNumber": "30",
+    "mediaItemId": 2322847,
+    "cultureContent": null
+    }
+    ],
+    "readings": {
+    "pdf": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_ESL_Chinese_Cantonese_1_Bklt.pdf?versionId=GNCfYgDFBoGeoVb5a7spXh_1Ut3pJgbK",
+    "pdfName": "Reading Booklet",
+    "audios": [
+    {
+    "order": 1,
+    "title": "Reading Lesson 01",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U01.mp3?versionId=CbjgvdnRlAnIX3TGrNoYuhqEhNdadG8N",
+    "startPage": 8,
+    "pageCount": 1,
+    "mediaItemId": 2224248
+    },
+    {
+    "order": 2,
+    "title": "Reading Lesson 02",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U02.mp3?versionId=tLZLnlM8vXr1yza12EZ.m_Xi3pZf5Myg",
+    "startPage": 9,
+    "pageCount": 1,
+    "mediaItemId": 2224572
+    },
+    {
+    "order": 3,
+    "title": "Reading Lesson 03",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U03.mp3?versionId=S9drj9OfwI3mOXdY7Xv0xmCRNg.zBjd4",
+    "startPage": 10,
+    "pageCount": 1,
+    "mediaItemId": 2224930
+    },
+    {
+    "order": 4,
+    "title": "Reading Lesson 04",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U04.mp3?versionId=GPdjugOgCb49VvWIJFAl.ZajLfEMValL",
+    "startPage": 11,
+    "pageCount": 1,
+    "mediaItemId": 2227962
+    },
+    {
+    "order": 5,
+    "title": "Reading Lesson 05",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U05.mp3?versionId=gugQQcP9.NTyBt_jZR7OP_Tt7jHWtd84",
+    "startPage": 12,
+    "pageCount": 1,
+    "mediaItemId": 2233433
+    },
+    {
+    "order": 6,
+    "title": "Reading Lesson 06",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U06.mp3?versionId=cMZcCZ86y7RlFdnd8tnoabNDtlNnT.fN",
+    "startPage": 13,
+    "pageCount": 1,
+    "mediaItemId": 2239072
+    },
+    {
+    "order": 7,
+    "title": "Reading Lesson 07",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U07.mp3?versionId=I2Hw6lIGmqpRawZnO.Wb17TOG.wlfXAQ",
+    "startPage": 14,
+    "pageCount": 1,
+    "mediaItemId": 2244196
+    },
+    {
+    "order": 8,
+    "title": "Reading Lesson 08",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U08.mp3?versionId=wrA8nLrS..xz2T9MIL01sX4yQXuJinGE",
+    "startPage": 15,
+    "pageCount": 1,
+    "mediaItemId": 2249249
+    },
+    {
+    "order": 9,
+    "title": "Reading Lesson 09",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U09.mp3?versionId=_xVsSojzxkNjIC_PWw5q9kD7ukutZq38",
+    "startPage": 16,
+    "pageCount": 1,
+    "mediaItemId": 2254211
+    },
+    {
+    "order": 10,
+    "title": "Reading Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U10.mp3?versionId=6PdL7aD1rbId0KKBl.sa3d8GZFfxgBv1",
+    "startPage": 17,
+    "pageCount": 1,
+    "mediaItemId": 2259359
+    },
+    {
+    "order": 11,
+    "title": "Reading Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U11.mp3?versionId=iBkLC54sWKsyVumIM_f8qlIH9rYjH.Gt",
+    "startPage": 18,
+    "pageCount": 1,
+    "mediaItemId": 2264632
+    },
+    {
+    "order": 12,
+    "title": "Reading Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U12.mp3?versionId=igck4Borcoe7LvoIuWez7afCStxLj7HJ",
+    "startPage": 19,
+    "pageCount": 1,
+    "mediaItemId": 2269933
+    },
+    {
+    "order": 13,
+    "title": "Reading Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U13.mp3?versionId=LGkREcIVgLjjOwu41nBzHJyMgic9a860",
+    "startPage": 20,
+    "pageCount": 1,
+    "mediaItemId": 2274700
+    },
+    {
+    "order": 14,
+    "title": "Reading Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U14.mp3?versionId=92iBpcDJATheAVwfph_g7M52_KUx60LV",
+    "startPage": 21,
+    "pageCount": 1,
+    "mediaItemId": 2279788
+    },
+    {
+    "order": 15,
+    "title": "Reading Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U15.mp3?versionId=Ghpg1kRtWQxvKWkX7LQTeu1QgmrHD.bD",
+    "startPage": 22,
+    "pageCount": 1,
+    "mediaItemId": 2285035
+    },
+    {
+    "order": 16,
+    "title": "Reading Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U16.mp3?versionId=LoGHUZF5byOAqw6twD_AQR2b3Tj4sTz.",
+    "startPage": 23,
+    "pageCount": 1,
+    "mediaItemId": 2289666
+    },
+    {
+    "order": 17,
+    "title": "Reading Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U17.mp3?versionId=r6fY6_WqRD2CE9RF7j.xKiC5WbpLnrI_",
+    "startPage": 24,
+    "pageCount": 1,
+    "mediaItemId": 2292710
+    },
+    {
+    "order": 18,
+    "title": "Reading Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U18.mp3?versionId=ZUZAFAU_705pBujEyMfyWuuTJNG3IkSq",
+    "startPage": 25,
+    "pageCount": 1,
+    "mediaItemId": 2295366
+    },
+    {
+    "order": 19,
+    "title": "Reading Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U19.mp3?versionId=C1SKB8c80IMh8P7p2a7aFe7H.RCfyoH6",
+    "startPage": 26,
+    "pageCount": 1,
+    "mediaItemId": 2297829
+    },
+    {
+    "order": 20,
+    "title": "Reading Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U20.mp3?versionId=ZmO5p02toLzMMkCWtHaOYui8RqR7kOT_",
+    "startPage": 27,
+    "pageCount": 1,
+    "mediaItemId": 2300006
+    },
+    {
+    "order": 21,
+    "title": "Reading Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/English%20for%20Cantonese%20Chinese%20Speakers/English%20for%20Cantonese%20Chinese%20Speakers%20Level%201%20orig/asset/standard_reading/9781442331921_Reading_U21.mp3?versionId=ExcKXpNG2jr.xODQG8mwVaj182VWUCK2",
+    "startPage": 28,
+    "pageCount": 1,
+    "mediaItemId": 2300665
+    }
+    ]
+    },
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781442331921",
+    "level": 1,
+    "courseName": "English for Chinese (Cantonese) Speakers Level 1",
+    "simpleCourseName": "English for Chinese (Cantonese) Speakers Level 1",
+    "puArabic": false
+    }
+    ]

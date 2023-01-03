@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 6425,
+    "languageName": "Chinese Mandarin",
+    "languageId": 125,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_01.jpg?versionId=yFLNCvRARQ0VS4qmXtZt3Ie5YiiDH2CN",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_01.jpg?versionId=9_hlAo4AcHgudTyxRZqqbSXsb.SxEgBU",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U01_Lesson.mp3?versionId=40ZI7NltKP725vze3ASi_H5tiybIpV2W",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2321921,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "Chinese is the oldest written language in the world, in use for at least 6,000 years. Depending on how they are counted, there are between 40,000 and 54,000 characters in Chinese, although only around 2,500 of them are used in everyday communication.",
+    "imageCredits": "XiXinXing / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_02.jpg?versionId=_O_ccCb_trnQlVCXbCOLvqJAObQo7xKg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_02.jpg?versionId=LsEvCM2cyPt_HFcMcPSxL2epDmZB2Fs7",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U02_Lesson.mp3?versionId=s2TcC3mEbVuA0H1MXKaCYnAM9q2MoRet",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2321951,
+    "cultureContent": {
+    "imageLocation": "Longsheng County, Guangxi, China",
+    "imageDescription": "The Longjii (“Dragon’s Backbone”) rice terraces span 66 square kilometers and 800 vertical meters along the slopes of the Longsheng Mountains. When flooded with water in the spring they are said to resemble the scales on the back of a dragon.",
+    "imageCredits": "BIHAIBO/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_03.jpg?versionId=hcSJOqbeNnd7B7P8sfEXRlaeDS6ZKkEm",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_03.jpg?versionId=K2ejM1RS5cox7jQ5wDP3f3nkojuELe9d",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U03_Lesson.mp3?versionId=aLgDDnpXVjLwCNmCNVExlt8Dt5YU6RaB",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2321981,
+    "cultureContent": {
+    "imageLocation": "Li River, Guangxi, China",
+    "imageDescription": "A fisherman on the Li River sets out on his traditional gas-lit bamboo raft to practice the 1,000 year-old art of cormorant fishing. The trained birds dive into schools of fish in the clear river, catch and return them alive to their owner.  A snare is tied around the cormorants’ throats, allowing them to eat the smaller fish, while the larger fish are spit up and deposited into the fisherman’s net, ready to bring to market.",
+    "imageCredits": "BI HAIBO / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_04.jpg?versionId=boc0YU3f9IOPM.6GbajJudJwA.m_XBln",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_04.jpg?versionId=gLL7EgBj0BokfjipSqKuzhbMR0G75_AR",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U04_Lesson.mp3?versionId=0.H6.aSnNQO0aWIwhThbRL6Y7WbmX9n9",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2322007,
+    "cultureContent": {
+    "imageLocation": "Singapore, Republic of Singapore",
+    "imageDescription": "’The Lunar New Year festival on Singapore’s river Hongbao is a lively and colorful celebration of Chinese culture in a city where over 75% claim Chinese heritage. From giant, stories-high lanterns and amusement rides to acres of food kiosks and spectacular fireworks displays, this twelve-day event is a magical experience.",
+    "imageCredits": "Gavin Hellier / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_05.jpg?versionId=O3ezB2VCKlIk_EO8zItBDbZhm2N8qceh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_05.jpg?versionId=_ZFBb0EOg_tZnbNOmNBh3ZZyTlEBtWq_",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U05_Lesson.mp3?versionId=grjAUxhaOkssQLR_ZFBaEuxVRp205eAY",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2322034,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "Firecrackers were first used during China’s Han dynasty in approximately 200 B.C. On the Lunar New Year, farmers would toss rods of green bamboo into bonfires. The bamboo would burst loudly, and was believed to frighten evil spirits. Sometime around 600-900 AD, Chinese alchemists started filling the rods with an early form of gunpowder. Over time, paper replaced the bamboo, and fireworks became a customary way to celebrate special occasions.",
+    "imageCredits": "View Stock / View Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_06.jpg?versionId=7m7Yb2EwJiLFKHYopARuGjJdGe6Pz_Uk",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_06.jpg?versionId=es0Alnx_lWA0m7mGwdbiGxAh3oNlXFuI",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U06_Lesson.mp3?versionId=0AYyvpar_ce9rkb2jUlMLtBbVYU4tlEF",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2322066,
+    "cultureContent": {
+    "imageLocation": "Macao Science Center, Macau",
+    "imageDescription": "Designed by eminent Chinese-American architect, I.M. Pei, the distinctively asymmetrical Macau Science Center has become an icon of technology and modern design on the Macau harbor. The Center’s planetarium is the highest-resolution 3D planetarium in the world.",
+    "imageCredits": "MelindaChan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_07.jpg?versionId=wbZ31hjj12yTioHqUquCQ0fPpTQUON4l",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_07.jpg?versionId=46W_4qsdhUiVqSt1Mrrojdvw_ao1mhql",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U07_Lesson.mp3?versionId=TySKURsIO6O8rajBvTKZ6SJ3BGGNsdr8",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2322093,
+    "cultureContent": {
+    "imageLocation": "Wuhan, Hubei Province, China",
+    "imageDescription": "The ancient port city of Wuhan, capital of Hubei province, is the most populous city in Central China. It’s also one of the country’s most important transportation hubs, linking rail traffic and shipping at the confluence of the Yangtze and Hanshui Rivers.",
+    "imageCredits": "Feifei Cui-Paoluzzo / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_08.jpg?versionId=BUUsGCFI82UGCNclCNWyxGCBxtC4so8v",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_08.jpg?versionId=VgTqP7nlWSZkbmhSOgAel30UglBTnYp8",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U08_Lesson.mp3?versionId=y1A7.xOF1qr2Fe5DRz0s6.KRknhSb.cj",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2322117,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "Wangjing SOHO, a landmark on the highway leading into the city center from Beijing International Airport, was designed by Iraqi-born, London-based architect Zaha Hadid.  The mixed-use office and retail space consists of three towers swathed in shimmering ribbons of aluminum and glass. Hadid has compared the towers to a “trio of Chinese fans that appear to move around each other in an intricate dance.”",
+    "imageCredits": "Linghe Zhao / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_09.jpg?versionId=mCOEeSlb9LcWgzpHYN8Hs7FXScanQzFe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_09.jpg?versionId=KFpM674T5WgfEsf7T5bkB6naWDmr0wmY",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U09_Lesson.mp3?versionId=Pghmy1k3vAMsbpylYJyhOsxL86WC8B9a",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2322140,
+    "cultureContent": {
+    "imageLocation": "Niujie, China",
+    "imageDescription": "Each spring, golden seas of canola blossoms carpet the fields of Luoping in Eastern China’s Yunnan province. The Niujie canola flower fields are known as the Snail Farms, due to the distinctive snail-shell pattern of the terraces.",
+    "imageCredits": "Katie Garrod / AWL Images/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_10.jpg?versionId=cQ_haZTjDYEThNV0Qk475R4pIVyySul0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_10.jpg?versionId=1E3jPwg6iYrIynLJh6T.CCFeqWlJaB4Y",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U10_Lesson.mp3?versionId=18bh.qZAE20NHtJ0C3pJsRToGFkOSglw",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2322173,
+    "cultureContent": {
+    "imageLocation": "Shanghai, China",
+    "imageDescription": "One of the most ancient of Chinese traditions, aromatic incense is burned to purify temples, make sacrificial offerings to gods and ancestors, aid in meditation, treat illness, dispel negative energy and perfume the air.  Graduated incense sticks were even used to measure time.",
+    "imageCredits": "Nigel Hicks / National Geographic /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_11.jpg?versionId=Z9dYTeEAPIsbU2YyaMIjBILELa_h0GuI",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_11.jpg?versionId=PfhJFsubkeo0v0iJlgKJ672.F.cgkTm5",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U11_Lesson.mp3?versionId=3Zu0PTZZUHYh.isujcbe3LcDR7xjYvKy",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2322203,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "Traditional Chinese Medicine is an ancient set of holistic practices arising from the Taoist belief that the processes of the human body are interrelated and connected to the larger outside world.  Practitioners use herbal medicines, acupuncture, massage, and tai chi to both prevent and treat health problems.",
+    "imageCredits": "Shannon Fagan / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_12.jpg?versionId=cKPlQVzdjTMG6V8FWibXDirLsMWzKxOg",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_12.jpg?versionId=wsKstcWw9DBe9COkyA5WvlCLXHqopPTx",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U12_Lesson.mp3?versionId=zr47AoiJMO5mxeFjsykxYnOzRXrJJ7xm",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2322233,
+    "cultureContent": {
+    "imageLocation": "Anhui Province, China",
+    "imageDescription": "Designated a UNESCO World Heritage Site, the Huangshan Mountains in eastern China’s rural Anhui province contain some of the country’s most significant and treasured natural areas. The Bamboo Forest of Mukeng Village provided the setting for the treetop martial arts battle in the Ang Lee film Crouching Tiger, Hidden Dragon.",
+    "imageCredits": "Bernie DeChant / Phontonica / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_13.jpg?versionId=ZsahnkBQLKb_ts9V76rpF_MI1DRdtjJ0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_13.jpg?versionId=c6Yqg1ux9D0VmMvLgZJJOUpQpyq1ZoNN",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U13_Lesson.mp3?versionId=RIrx9S2spQ4GcAhIlA5FNXiw2KutKT9b",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2322284,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "In China, it is customary to use an inked seal in lieu of, or in addition to, a hand-written signature on documents and letters. Nearly everyone in China owns his or her own “name-stamp” or “chop.” The seals are rectangular or square blocks hand-carved with intricate handles and heads. These are typically made of stone or wood, although some are crafted in ivory, jade and gold.",
+    "imageCredits": "Carlina Teteris / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_14.jpg?versionId=hPMGvROCLIyUGV1x4rAA4VaelpqVPNqv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_14.jpg?versionId=eLMKQLzblff58uRFt8xGb6jbZakPB4st",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U14_Lesson.mp3?versionId=yzqPn_fGazRrRFFviB.YDHQp7q6_tBYF",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2322314,
+    "cultureContent": {
+    "imageLocation": "Taiwan, China",
+    "imageDescription": "The Lanyang Museum in Yilan’s architecture and exhibitions pay homage to the area’s rich natural and cultural heritage. The museum was designed to resemble the asymmetrical, stony outcroppings, or cuestas, that line the Yilan coast.",
+    "imageCredits": "Vincent Ting / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_15.jpg?versionId=x8.wZZ0TAPJdcy3ehgH4v8rstWs0uA6O",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_15.jpg?versionId=G3G_tUOgkVITSd3YbMjDjgMste.LVw7X",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U15_Lesson.mp3?versionId=OZ0G8g7poAT5YardN8X01mfGj0NRlYuu",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2322336,
+    "cultureContent": {
+    "imageLocation": "Macau, China",
+    "imageDescription": "A Portuguese colony for 500 years, Macau has a unique blend of Chinese and Mediterranean culture. After reverting to Chinese control in 1999, it became the country’s only territory where casino gambling is legal. Macau is now the world’s largest and most prosperous gambling town, with yearly revenues five times greater than Las Vegas.",
+    "imageCredits": "Tom Cockrem / Lonely Planet Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_16.jpg?versionId=gMbmY4dwP5gSA1pC1yyv3oJKU4uIQALT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_16.jpg?versionId=BwytFW_8T2uKKWaqNmZlTTCxfzqKMt97",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U16_Lesson.mp3?versionId=.dqOOUxpJnBpYgUbFIenJbj6OZ9EIIW_",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2322357,
+    "cultureContent": {
+    "imageLocation": "Mt. Shishapangma, China",
+    "imageDescription": "Only 33 climbers have successfully summited all of the “Eight-Thousanders;” the world’s 14 highest mountains, whose peaks soar to 8,000 meters and beyond into the oxygen-starved “death-zone.”  Mt. Shishapangma, shown here, is located in south-central Tibet.",
+    "imageCredits": "Istvan Hernadi photography / Mountain Visions / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_17.jpg?versionId=ECfwDR1kx2Vc7DnmZXgbY77YF2IuRGR.",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_17.jpg?versionId=rDl.MV7MDPlYMX6fl8R.fyrMbL4uVXRI",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U17_Lesson.mp3?versionId=utnft.AJdoLNnrkC3GDhwudii2XyZ3JH",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2322379,
+    "cultureContent": {
+    "imageLocation": "Sanlitun, Beijing, China",
+    "imageDescription": "Sanlitun, a shopping and entertainment area of the Chaoyang District, is popular both with foreign visitors and with locals. Over 40% of Beijing’s bars are in the Sanlitun area, as is the largest Adidas store in the world.",
+    "imageCredits": "Han JiWei / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_18.jpg?versionId=2RTVWrSgEFv25uZyb40yikHWvOI7LXAc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_18.jpg?versionId=SldcyfTX4VUf7zFoPmiiiB6HcSTc102v",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U18_Lesson.mp3?versionId=ps7YPSBn8nOVE8g.xc88t.EhAPkxI9n0",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2322400,
+    "cultureContent": {
+    "imageLocation": "Suzhou, Jiangsu Province, China",
+    "imageDescription": "Zhouzhuang Water Town, about 60 miles northeast of Shanghai, is built on an ancient system of canals. Often called the “Venice of the East,” Zhouzhuang’s classical buildings, bridges and waterways have remained unchanged for centuries.",
+    "imageCredits": "Sino Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_19.jpg?versionId=6UkcY_RRZLISTSHMaH0PiBzL1OiCgSXc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_19.jpg?versionId=Xscws5wfs.XO_IN7aPtuPVq_voe_N7H4",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U19_Lesson.mp3?versionId=w.K7KzdYKVfObqZlZHPhMlR6XqTkilCK",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2322416,
+    "cultureContent": {
+    "imageLocation": "Hangzhou, Zhejiang Province, China",
+    "imageDescription": "Originally built in 975 A.D., Leifeng Pagoda, on the southern side of West Lake, was destroyed by Japanese invaders, who set fire to the structure in the mid-1500’s. For several centuries, superstitious Chinese looted the pagoda’s burned-out shell in the belief that pulverizing and ingesting the tower’s bricks would prevent illness and miscarriages.  The octagonal, five-story pagoda was finally restored in 2002.",
+    "imageCredits": "Andy Brandl / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_20.jpg?versionId=S4t05Mg2PUQOBy5B792XaUhj0fmvO_Ux",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_20.jpg?versionId=PajwvMn_jQJWdMQLHQLyslmB3RfK3XZi",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U20_Lesson.mp3?versionId=_l1pxN3gPC6sj8PIGaQ0ZJebYxIeIbVB",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2322431,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "The ribbon dance is a traditional Chinese folk dance which dates back to the Han dynasty (206 B.C. to 420 A.D.). The dance was inspired by the legend of Hsiang Po, who bravely saved the Han Emperor’s life by blocking an assassin’s sword with the sleeve of his robe.  This act of bravery is memorialized by a dance which uses long silk ribbons to represent Po’s sleeve.",
+    "imageCredits": "Ron Watts / First Light / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_21.jpg?versionId=nhPL_FyOWcqD1iUt6IdoMNVByGh.D6mY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_21.jpg?versionId=klVlxlyF48XxWUHLfUD34GCdMpfhbUBS",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U21_Lesson.mp3?versionId=QopEOLZbHxbD63NznHxWCWH.VHas7KPT",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2322443,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "The Chinese government has made Olympic success a national priority, feeling that “Olympic gold medals are capable of inspiring nations.”  Using a network of well-funded, state-run sports academies, the Chinese have gone from 32 medals in the 1984 Los Angeles games to 100 in the 2008 Beijing Olympics.",
+    "imageCredits": "Ben Stansall / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_22.jpg?versionId=z2DjqSZwcRY_WzgvlU8WOU5SsGWEx0iP",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_22.jpg?versionId=pkHZTw0PC2NglV6FvHziyiQ6_d1.TEqH",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U22_Lesson.mp3?versionId=JwMGBV6Pi9wigJm.iGHqjast07iNKx.b",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2322456,
+    "cultureContent": {
+    "imageLocation": "Chongqing municipality, China",
+    "imageDescription": "Fengdu Ghost City, on the northern bank of the Yangtze River, got its name when two Imperial court officials married and settled in Ming Mountain to practice Taoism and seek immortality. When combined, their names (“Yin” and “Wang”) sound like “King of Hell” in Chinese.  According to legend, the couple came to be responsible for passing judgment in the afterlife, subjecting the newly-dead to tests designed to separate good from evil. The Ghost Palace depicts the punishments awaiting those unfortunate souls sentenced to hell.",
+    "imageCredits": "Huang Xin / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_23.jpg?versionId=271JeINYO7ozx3.fV0xNzp6GCZYJol1W",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_23.jpg?versionId=BYnBgK9ipwcMHKY6o1puplRqWMgS1VCa",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U23_Lesson.mp3?versionId=PMIOS3tr9g6E0DnOW5NZBiKGxagkaa4V",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2322465,
+    "cultureContent": {
+    "imageLocation": "Baochu Pagoda, Hangzhou, Zhejiang province of China",
+    "imageDescription": "The Buddhist Baochu Pagoda, sitting at the top of Baoshi Hill by the north bank of West Lake, has a magnificent bird’s eye view of Hangzhou in Zhejiang Province. Built of wood and bricks sometime during the Northern Song Dynasty (960 A.D. -1127 A.D.), the pagoda has been destroyed and rebuilt several times over the centuries, losing and gaining stories with each rebuild.  Currently seven stories high, the pagoda was most recently rebuilt in 1933, entirely of bricks and iron.",
+    "imageCredits": "Feng Wei Photography / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_24.jpg?versionId=HXgWk7yJyX4hfkVp6wkaID4vt9L43o4y",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_24.jpg?versionId=JhwQgNPa0W.IPRh9.G3xu0z0S999YEy5",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U24_Lesson.mp3?versionId=VOsX0_hv.pt5_jvJZ5Qqu82C8VU1Eflo",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2322474,
+    "cultureContent": {
+    "imageLocation": "Taipei, Taiwan",
+    "imageDescription": "Unlike the evil, fire-breathing dragons of Western lore, Chinese dragons are thought to be benevolent and wise creatures, symbolizing good fortune, and credited with the power to control the rain, rivers and seas.",
+    "imageCredits": "Maxchu / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_25.jpg?versionId=kOr06YQAcHKk3Cg2yuz4xjhU5zcXtKph",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_25.jpg?versionId=_pZee30QDxEzDGHCfPkmS64sHFTQ84L3",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U25_Lesson.mp3?versionId=uCmrOheEjYXFOue7PkNzRaOIwwgFwIom",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2322483,
+    "cultureContent": {
+    "imageLocation": "Westlake Park, Hangzhou, China",
+    "imageDescription": "Widely considered one of the most iconic and scenic sights in China, West Lake, in the city of Hangzhou, is said to be the incarnation of Xi Shi, one of the Four Beauties of ancient China. The lake has inspired poets, painters and philosophers since the Tang Dynasty (AD 618-907), and its numerous temples, pagodas, pavilions, and gardens have influenced the design of gardens throughout Asia. ",
+    "imageCredits": "Michael Shi / Moment Select / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_26.jpg?versionId=uPJYulS8_t4Bt1hxA0.8EV3Laf5Yyo9z",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_26.jpg?versionId=StNpxBKraUzeulHgck3RKzB2COuNkahi",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U26_Lesson.mp3?versionId=71ap2gtJV29RNXRP44RL0fJkWAN88j.w",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2322492,
+    "cultureContent": {
+    "imageLocation": "Chinese Culture",
+    "imageDescription": "The giant panda has become one of the world’s most endangered species, with fewer than 2,000 bears remaining in the wild.  Pandas were once widespread across central, southern, and eastern China, but due to farming and logging practices, their habitat has shrunk to a few patches of mountainous bamboo forest around Chengdu in Sichuan Province.",
+    "imageCredits": "Tier Und Naturfotografie J und C Sohns / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_27.jpg?versionId=kZp0uPJj7_2044yH1mMfrBjNOhJOrws_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_27.jpg?versionId=RHrqCVaWpAjSW2TnGAkVrZKIY5mPktTe",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U27_Lesson.mp3?versionId=dNuVbbSO9PvvJYpA7mMMZtWPPgt0qju1",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2322501,
+    "cultureContent": {
+    "imageLocation": "Sichuan Province, China.",
+    "imageDescription": "Known as the birthplace of tea civilization, Mengding Mountain was home to Taoist monk Wu Lizhen (200 BC-53 AD), thought to be the first person to cultivate the plant. Today, China’s tea production is expected to surpass two million tons yearly.",
+    "imageCredits": "Michael S. Yamashita / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_28.jpg?versionId=QNTD3.pGX5rg_tQRrfKagi0TI__p1_6G",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_28.jpg?versionId=gUwHQzC.KaNFCSM2EOPFUp2W3dRrtEC6",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U28_Lesson.mp3?versionId=OxgmGlCKM3ngd9CpxEUW8.tnuytB54pK",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2322510,
+    "cultureContent": {
+    "imageLocation": "Beigang, Taiwan, China",
+    "imageDescription": "The three major religious traditions in China are Confucianism, which focuses on humaneness, righteousness and propriety; Taoism, which centers around a life filled with balance and virtue; and Buddhism, which advocates renouncing material attachments and purifying the mind as a path to enlightenment.",
+    "imageCredits": "Toby Williams / Photographer’s Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_29.jpg?versionId=erQ1ANYB4kyfczBRe0yBjUxTDfOf9kgY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_29.jpg?versionId=IrT42O0QUCWrRFefuIchHtdgs4pZ_Z2v",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U29_Lesson.mp3?versionId=AEgT4azFAvWDYu2JTp_FQCT.iiVcHJb1",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2322516,
+    "cultureContent": {
+    "imageLocation": "Guangzhou, Guangdong, China",
+    "imageDescription": "Vendors sell fresh coconut water out of pushcarts to provide relief from Guangzhou’s hot and humid subtropical climate. Summer weather there can last from May to November.",
+    "imageCredits": "Ian Trower / Robert Harding World Imagery / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/full/MA_4_M_30.jpg?versionId=h3fBQuOxVPWHplmjKQuZYK7mkpCMh9bF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/lesson_photo/thumb/MA_4_M_30.jpg?versionId=ilJGn3cgNTOxBfN0xRTNu6IkE8SWoUy6",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/main_audio/9781442394902_Mandarin_Chinese4_U30_Lesson.mp3?versionId=O_OL5zNeRd3H4UInJjtTjELeAagQanZJ",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2322519,
+    "cultureContent": {
+    "imageLocation": "Beijing, China",
+    "imageDescription": "The 15th century Temple of Heaven is actually a complex of temples constructed so that the Yongle  Emperor, known as the Son of Heaven, could pray for good harvests. The hall is built on three levels of a square marble base, which represents earth and supports a three-tiered conical roof representing heaven. The structure above the base is completely wooden, built with no nails.",
+    "imageCredits": "Tim Draper / Dorling Kindersley/ Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 4 orig/asset/RL/9781442394902_Mandarin_Chinese_4_Alpha.pdf?versionId=lgr_PT_zgedRYr01EO4f7uDVAZxFIJ_n",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese (Mandarin)/Chinese (Mandarin) Level 4 orig/asset/RL/9781442394902_Mandarin_Chinese_4_Intro.pdf?versionId=7TTtMgbC30vWMj16TlQAeHygxRQ_nQDe",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit01_Reading.mp3?versionId=mRMPiq770u7rVQE6G13MQXU08vpVvgOJ",
+    "mediaItemId": 2223859
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit02_Reading.mp3?versionId=ayYdum2CHP6qjwFhvP0yNybWxv3.ZGhV",
+    "mediaItemId": 2224062
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit03_Reading.mp3?versionId=jxuiepZ9eXFL0UUHZc.I.u98Pf7Oj7yu",
+    "mediaItemId": 2224197
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit04_Reading.mp3?versionId=KMUrELB52ssbxPz8y27qe.DtTOcsZhVC",
+    "mediaItemId": 2224408
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit05_Reading.mp3?versionId=qOUtiqO80eo3IGWVhN2bzCuj.bihQ0V7",
+    "mediaItemId": 2224545
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit06_Reading.mp3?versionId=JfFgR5WHFUmkmwldgyQUG17AQaLZ_Y75",
+    "mediaItemId": 2224721
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit07_Reading.mp3?versionId=UywuEpbrkRuplwvCIHRWueKZo6_KnBP9",
+    "mediaItemId": 2224998
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit08_Reading.mp3?versionId=ruc7zKhRcUnDn7tE3xK3V6vvyc7H4Wtl",
+    "mediaItemId": 2226373
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit09_Reading.mp3?versionId=mm6KUIdXNg.d6G3SvU2NJ3QlGpgSQTgw",
+    "mediaItemId": 2229121
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit10_Reading.mp3?versionId=QnM9LgLcIV9w526bj8b4reRNk2r.T0JQ",
+    "mediaItemId": 2232451
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit11_Reading.mp3?versionId=weyzyfKe9vw0qdEEA2D.y1EoJxj6HRtU",
+    "mediaItemId": 2235958
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit12_Reading.mp3?versionId=UpHnUx1hzXgHo8cmIJxT8Y2i7Z1Nuv7g",
+    "mediaItemId": 2239112
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit13_Reading.mp3?versionId=DJpW2LPsASg0NqJuvB5ZpLDEdZN5DKhm",
+    "mediaItemId": 2242184
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit14_Reading.mp3?versionId=yVHXYFGBMSXqJc322TRcS3J5MDHiHDZb",
+    "mediaItemId": 2245394
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit15_Reading.mp3?versionId=wY5G64oY9o4HR.H0MFOFkXRsMsd9dwiS",
+    "mediaItemId": 2248310
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit16_Reading.mp3?versionId=i1YwRJAWW_u2UiQNWC6UgTBLwrKrPGod",
+    "mediaItemId": 2251400
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit17_Reading.mp3?versionId=cNsz9iigu0XG8ovNQvZ6JaN9.WdR6D0G",
+    "mediaItemId": 2254056
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit18_Reading.mp3?versionId=.wrTFiUBkW58rVAKLLB6Za5xPXGeiZze",
+    "mediaItemId": 2256890
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit19_Reading.mp3?versionId=qie.X7rmzyp93iOiQdxWGNVYz5BDf6X.",
+    "mediaItemId": 2259731
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Chinese%20%28Mandarin%29/Chinese%20%28Mandarin%29%20Level%204%20orig/asset/RL/9781442394902_Mandarin_Chinese4_Unit20_Reading.mp3?versionId=.3qfAo6OGU1bNHrCXKzLiiasBXh8Vg_4",
+    "mediaItemId": 2262156
+    }
+    ]
+    },
+    "languageCode": "zh",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781442394902",
+    "level": 4,
+    "courseName": "Chinese (Mandarin) Level 4 Premium",
+    "simpleCourseName": "Chinese (Mandarin) Level 4",
+    "puArabic": false
+    }
+    ]

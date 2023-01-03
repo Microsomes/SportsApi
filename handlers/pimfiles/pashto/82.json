@@ -1,0 +1,635 @@
+[
+    {
+    "courseId": 30255,
+    "languageName": "Russian",
+    "languageId": 165,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_01.jpg?versionId=3lZ.CxeliTv6w7fDceTD2wr8tEy8W5ZZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_01.jpg?versionId=BhHXQnCYXVSoY637gtUYkapcsPucI4xI",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U01_Lesson.mp3?versionId=l1dBHD1YdD42zMpYIxWNJzk1sMVIpAsx",
+    "level": 4,
+    "lessonNumber": "01",
+    "mediaItemId": 2225079,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "In recent years, Russia's tech industry has been growing thanks to a flood of venture capital. From secure instant messaging, to facial-recognition technology, to e-commerce, Russian's young startup founders are changing the shape of business. ",
+    "imageCredits": "Ajr_images / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_02.jpg?versionId=chKChJ_Qqp9ya06JCZ42qnU.GEWIaMtl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_02.jpg?versionId=cdR4ib90_WYz_cE88CoF1WiXaCNeXQTL",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U02_Lesson.mp3?versionId=PrbuNykA4S9OJ6Zhg747PXPsLldNvAC_",
+    "level": 4,
+    "lessonNumber": "02",
+    "mediaItemId": 2225183,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Constructed in the early 1950s, The People's Friendship Fountain is made up of 16 gold-plated sculptures representing the member nations of the former Soviet Union.  Situated in VDNH Park, it’s part of an exhibit known as “Soviet Versailles” which includes formal gardens, mosaics, and murals.  ",
+    "imageCredits": "Agustavop / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_03.jpg?versionId=cp5A4DgvB9em4fb.y7ae8_i0s7DucCHd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_03.jpg?versionId=ZT_G2A8Ptk.TUBikcsD3ZcKeR04lRIqT",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U03_Lesson.mp3?versionId=2Sa25uaMpLcOICbyFfvNqCqm3497s5RS",
+    "level": 4,
+    "lessonNumber": "03",
+    "mediaItemId": 2225264,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Once the favored residence of Tsar Alexis I, the original wooden palace of Kolomenskoye was torn down by Catherine II in 1768. Fortunately, detailed plans of the whimsical palace remained, and a full-scale reconstruction was completed in 2010. ",
+    "imageCredits": "Efesenko / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_04.jpg?versionId=UGQRSoCj3w3mBhmilk6RX60_EQKZK8Jl",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_04.jpg?versionId=qltUe1PjPUs24OmeHjo.KCIFsht9aIhj",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U04_Lesson.mp3?versionId=qx76tszD63wDtJXc2xikEvXkKEIOt1a3",
+    "level": 4,
+    "lessonNumber": "04",
+    "mediaItemId": 2225466,
+    "cultureContent": {
+    "imageLocation": "Rostov-on-Don",
+    "imageDescription": "This upside-down house is the anchor for a shopping center.  Located in Southern Russia, the city is known as \"The Gateway to the Caucasus.\"  It’s a major transportation hub, and a host city for the 2018 FIFA World Cup.",
+    "imageCredits": "Aleks0649 / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_05.jpg?versionId=nhh3nqDxcwu4x6V4cLrnLUGdKpFTGJEq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_05.jpg?versionId=o743w.glELZFalLRhQ1SkVQKqC9A1yFG",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U05_Lesson.mp3?versionId=pzuEvLPGw5e7lViZUn8w.guL5UxroQOT",
+    "level": 4,
+    "lessonNumber": "05",
+    "mediaItemId": 2225644,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Nearly 75% of Russian citizens are Orthodox Christians, and the Epiphany is broadly celebrated. One way believers mark the event is by plunging into the freezing water of lakes, ponds, and rivers in mid January, to re-enact the baptism of Christ.  ",
+    "imageCredits": "Sasha Mordovets / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_06.jpg?versionId=2NIceSgV0f8UMRr0JKKQ1Ujp8REtA8b0",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_06.jpg?versionId=zwywBn2gXab61_w8J05gKBSQfyBbs9P3",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U06_Lesson.mp3?versionId=e.o1.ImzV5QPlYUHAIKPRpfSZPnHZQAe",
+    "level": 4,
+    "lessonNumber": "06",
+    "mediaItemId": 2225825,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "A dacha is a cottage outside the city used as a second home by many residents, and which often serves as a retirement home for older family members.  It’s a place to relax.  Popular activities include taking a sauna, cooking outside, fishing, hunting, and gardening. ",
+    "imageCredits": "Oneinchpunch / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_07.jpg?versionId=LYh9bWpV6XL87Fu_O1L3VR4TRKta3WC8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_07.jpg?versionId=dgB63HRe0s0.7MoE9AByAxyEMld7ul9c",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U07_Lesson.mp3?versionId=2qI5zl4xUyPBgL_BTty8bvQv41MrIALt",
+    "level": 4,
+    "lessonNumber": "07",
+    "mediaItemId": 2226141,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Russia has the eighth largest oil reserves in the world, and is the world's largest exporter of natural gas. Despite sanctions put in place by the U.S. and the European Union, the Russian petroleum industry continues to benefit from foreign investment. ",
+    "imageCredits": "Vladimirovic / E+ / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_08.jpg?versionId=fcenpDOcLwwLokQzURSPUCXZ7wf5hQju",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_08.jpg?versionId=KaeEKbSQFf9tUo7mQzxq.7zxiBz7LO_L",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U08_Lesson.mp3?versionId=zmXaBT7dsvOrah_SLi6OXKw3xKYLf5LD",
+    "level": 4,
+    "lessonNumber": "08",
+    "mediaItemId": 2226392,
+    "cultureContent": {
+    "imageLocation": "Siberia, Russia",
+    "imageDescription": "In winter, the ice covering Lake Baikal is thick enough to support ice roads, including the 7-mile ice road from Kurkut to Olkhon Island.  Located in southern Siberia, it has the largest volume of any freshwater lake in the world; more water than all of the Great Lakes combined. ",
+    "imageCredits": "Wachirawit Narkborvornwichit / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_09.jpg?versionId=NmOz9365Ww7ZD4EcJeZA_FpiqoItB.xK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_09.jpg?versionId=jzYKXW0CbNe2wwujyWPqJ9o2gY7eXKMq",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U09_Lesson.mp3?versionId=DhmskJPhlkBtu5nvaaT9bwsj7OnJTtge",
+    "level": 4,
+    "lessonNumber": "09",
+    "mediaItemId": 2226647,
+    "cultureContent": {
+    "imageLocation": "Rostov the Great, Yaroslavl, Russia",
+    "imageDescription": "Nestled on the shores of Lake Nero, about 125 miles northeast of Moscow, the town of Rostov is one of the oldest in the country.  The Assumption Cathedral there features some of the largest and most famous bells in Russia – each has it’s own name.  The largest, Sysoy, named after the city’s founding father, was cast in 1688, and weighs 71,000 pounds.",
+    "imageCredits": "Shpakus / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_10.jpg?versionId=8XUgQY148vzyulUeNbiTcyEC8QyeANOv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_10.jpg?versionId=XYuDSblNMuTirm3EJoh.SiOim3Xh7K32",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U10_Lesson.mp3?versionId=qyPAK9nj.WQyambLhNR.e0h8sWF81bIt",
+    "level": 4,
+    "lessonNumber": "10",
+    "mediaItemId": 2226942,
+    "cultureContent": {
+    "imageLocation": "Red Square, Moscow, Russia",
+    "imageDescription": "This exaggerated goose step, usually reserved for formal military parades, is part of a Victory Day commemoration held annually on May 9th, to mark the victory of the Soviet Union over Nazi Germany in 1945. ",
+    "imageCredits": "KIRILL KUDRYAVTSEV / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_11.jpg?versionId=L3xEfUaloJZalNwDXjuuxaT9dVFP.Tt1",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_11.jpg?versionId=CXoH7G8g6KIQITRm0VtTt2mC01ucT1SB",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U11_Lesson.mp3?versionId=lADi99b8eBVNUBWlz2Do8Pd9Hv.w2Iem",
+    "level": 4,
+    "lessonNumber": "11",
+    "mediaItemId": 2227216,
+    "cultureContent": {
+    "imageLocation": "Volgograd, Russia",
+    "imageDescription": "Towering 287 feet over the memorial complex of Mamayev Kurgan, Motherland Calls honors the heroes of the Battle of Stalingrad. It’s the tallest statue of a woman in the world (The Statue of Liberty is 150 feet). 200 steps lead up to the statue from the bottom of its supporting hill, symbolizing the 200 days of the battle. ",
+    "imageCredits": "Alexander_Tarassov / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_12.jpg?versionId=wZYof12AMe9_vchQx.bJLuNMjqj5GX9_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_12.jpg?versionId=MZ2dwhRanAVSmUt7LpF2rdl5Uz0TLFBs",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U12_Lesson.mp3?versionId=xAcKb7yK2mhYGu1g8y_lFT59gu9Heg82",
+    "level": 4,
+    "lessonNumber": "12",
+    "mediaItemId": 2227477,
+    "cultureContent": {
+    "imageLocation": "Volgograd, Russia",
+    "imageDescription": "Considered the communal grave of the civilians and soldiers who perished in the Battle of Stalingrad, the Mamayev Kurgan complex contains many memorial sculptures, including this one in the Hall of Military Glory, guarded twenty-four hours a day. The walls of the hall are hung with wreaths marked with the names of over 7,000 soldiers.",
+    "imageCredits": "ElenaMirage / iStock Editorial / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_13.jpg?versionId=yOsiZcj5VTP8WmjRSt3luknmg7.wh6TT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_13.jpg?versionId=v6CcB0G0UU7mmXL3gJEJrHcQQgaW9jvo",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U13_Lesson.mp3?versionId=h6rC9CrJ5qyinMz8aHZ.39madzhYl.JN",
+    "level": 4,
+    "lessonNumber": "13",
+    "mediaItemId": 2227757,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The right to freedom of speech and artistic expression has been a source of conflict and criticism plaguing Russia for decades, affecting not only journalism and media, but also the overall culture. The imprisonment of three female political activists and artists in 2012 sparked global protest, leading to their eventual release. ",
+    "imageCredits": "Sean Gallup / Getty Images News / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_14.jpg?versionId=TV7cxi_BdeUmTT855pUhCUaWbdeDVmiS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_14.jpg?versionId=t39KDJCvHWQXW5zwgO7Q9cPslUE89hNV",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U14_Lesson.mp3?versionId=aud9EIKcmSa8KczD9MuT5glea7cIW54M",
+    "level": 4,
+    "lessonNumber": "14",
+    "mediaItemId": 2228122,
+    "cultureContent": {
+    "imageLocation": "Bolshoye Zavidovo, Tver, Russia",
+    "imageDescription": "One of the largest open-air rock festivals in Russia, Nashestvie is held each year during the first weekend of July. The festival's name is a play on words, combining the Russian word for \"invasion\" with the name of the festival's organizer, Nashe Radio Station.",
+    "imageCredits": "Alexander Ryumin / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_15.jpg?versionId=NbdxAqFdHwsKwcFpW3r_GEf1WAvm2ne8",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_15.jpg?versionId=5NEoSwGkHXV8QPvCXPnKRCsiaqAIuodX",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U15_Lesson.mp3?versionId=De3I5u2kTwBRQkd_nYUtIUgJqStzKveI",
+    "level": 4,
+    "lessonNumber": "15",
+    "mediaItemId": 2228510,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The Golden Mask is a Russian National Theater Award celebrating excellence in all genres of theater arts, including drama, opera, ballet, modern dance, operetta, musical, and puppet theater. ",
+    "imageCredits": "Valery Sharifulin / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_16.jpg?versionId=ZCZ1CxW7F9OFN5mol8Cenw.NyqCxBG9D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_16.jpg?versionId=dyURX0ZWzWjASzBTH7z.T2kLPC4x.q72",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U16_Lesson.mp3?versionId=LdgqxN38xXxe55wnKFLmc6fawNXEdr_C",
+    "level": 4,
+    "lessonNumber": "16",
+    "mediaItemId": 2228865,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Borscht is to Russians what chowder is to New Englanders – every cook has their favorite recipe.  The mostly vegetable soup was first made in the Ukraine from the young shoots of cow parsnip, a plant we know as Queen Anne’s Lace. ",
+    "imageCredits": "LarisaBlinova / iStock /Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_17.jpg?versionId=Ahw4NqDXSLj4PPA7DUwYT8a.ASNNwz8U",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_17.jpg?versionId=WpIwS_hXRYKL5cmuZjFzGpN06pnrAbo5",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U17_Lesson.mp3?versionId=umiND5KykL8fe5EbejQAz5LlxbIb3gkw",
+    "level": 4,
+    "lessonNumber": "17",
+    "mediaItemId": 2229238,
+    "cultureContent": {
+    "imageLocation": "Bolsherechye, Omsk, Russia",
+    "imageDescription": "The Slavic folk holiday of Maslenitsa is a weeklong sun-festival celebrating the end of winter. During the week, consuming meat is forbidden, thus supporting the tradition of eating blinis, thin pancakes. People spend the holiday sledding, ice-skating, creating snow forts, and having sleigh rides.",
+    "imageCredits": "Dmitry Feoktistov / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_18.jpg?versionId=fwS0_tza3p2njADLq7ZI5qwzYd24QKpu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_18.jpg?versionId=hTYKuMJ0i0absNdXZVxST6Y31hWHrgD4",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U18_Lesson.mp3?versionId=pfq9bbnfAHIAQ0MoxEgYP_umgSMLRDpB",
+    "level": 4,
+    "lessonNumber": "18",
+    "mediaItemId": 2229595,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Young Russian chefs are breaking down old stereotypes of Russian food, elevating the cuisine beyond borscht, piroshki, and caviar. Bolstered by Putin's 2014 embargo on imported goods, Russian producers have stepped up their game, and as a result, restaurants like The White Rabbit in Moscow are gaining global prestige.",
+    "imageCredits": "NurPhoto / NurPhoto / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_19.jpg?versionId=U1isFyJlRTKAagc2olE9fQNVgbbL0UWq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_19.jpg?versionId=TeOYT221TPhuLsHd974jXkol_6Nxiijd",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U19_Lesson.mp3?versionId=uFMixd4WZeBCW0QZinxcYHMjFKiK78PP",
+    "level": 4,
+    "lessonNumber": "19",
+    "mediaItemId": 2229923,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Moscow, the capital of Russia, is one of the world’s largest cities.  As such, it’s a major hub for politics, finance, culture and the sciences. The Federation Tower at the Moscow International Business Center is the tallest skyscraper in Europe, at over 1,200 feet. ",
+    "imageCredits": "Miles Ertman / robertharding / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_20.jpg?versionId=ROK8aeWUUleSe0zC7k4Y6yn7x08z6QKT",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_20.jpg?versionId=amt8TDLUSdne8oLjF21QfNt7pMz1HQ4X",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U20_Lesson.mp3?versionId=QtjVsebXeWL2UeUzAHiR6SIcmejTfCxT",
+    "level": 4,
+    "lessonNumber": "20",
+    "mediaItemId": 2230290,
+    "cultureContent": {
+    "imageLocation": "Pushkin, Russia",
+    "imageDescription": "Opened in 1860, the Mariinsky Theater was the preeminent music venue of the late 19th century, premiering masterworks by Tchaikovsky, Mussorgsky, and Rimsky-Korsakov. The Stars of the White Nights Festival, held from May to July each year, presents a series of classical ballet, opera, and orchestral performances. ",
+    "imageCredits": "Sean Gallup / Getty Images Entertainment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_21.jpg?versionId=jbqsAiUWFpKbD1MYW8PZDu6XzcL2y1aZ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_21.jpg?versionId=SH.bbNSMKR_RbMcNxj6isD2U7h6RTA1j",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U21_Lesson.mp3?versionId=WUtTxGBgUBbVYpUL.HiQkbH4DtwWcQ.J",
+    "level": 4,
+    "lessonNumber": "21",
+    "mediaItemId": 2230847,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "The seat of power in Russia, the Kremlin is a fortified complex in the heart of Moscow, and includes five palaces, four cathedrals and the Kremlin Wall and towers. A fortress inside a city, it’s the official residence of the President of the Russian Federation. ",
+    "imageCredits": "Agustavop / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_22.jpg?versionId=aVjKDg7nh4YBgFqQyNB0D8OCSQz3Q1W9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_22.jpg?versionId=ltePmm6V5FB6cZKfS59WiE3DCV1GOfZc",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U22_Lesson.mp3?versionId=DQ.fB6G.a5Ko.UQx7aG4hFCVV281ZyYs",
+    "level": 4,
+    "lessonNumber": "22",
+    "mediaItemId": 2231348,
+    "cultureContent": {
+    "imageLocation": "St. Petersburg, Russia",
+    "imageDescription": "Modeled after St. Peter's Basilica in Rome, the Kazan Cathedral was completed in 1811. It’s dedicated to the Russian holy icon of Our Lady of Kazan.  Legend has it that this highly venerated icon was miraculously recovered in pristine condition in 1579 after having been missing for 140 years. ",
+    "imageCredits": "Anton Vaganov / EyeEm EyeEm / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_23.jpg?versionId=nRGZPTY_tMAe76yNqLMwNB4eIx69FFCv",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_23.jpg?versionId=Dli4.Tj4Y_vQoLMtugJbWNg.tkB9VtsD",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U23_Lesson.mp3?versionId=4ffleLx4IC9fwF_lBgYFpSBtiPPmmuZj",
+    "level": 4,
+    "lessonNumber": "23",
+    "mediaItemId": 2231783,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Much of Russia's Extreme North region is located north of the Arctic Circle. On the Finnish border, the city of Murmansk receives over 40 days of uninterrupted night each year, making it a premier destination for viewing the Aurora Borealis. ",
+    "imageCredits": "Anton Petrus / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_24.jpg?versionId=P5.ChZOsY7D2tEFFunPQ7aPJjcgEh515",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_24.jpg?versionId=M.4afoATCF33mERiLD.gJMBM7NiMlU4r",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U24_Lesson.mp3?versionId=yI6woUYFZUAgD8Adn2B.y1FeL5mssD.V",
+    "level": 4,
+    "lessonNumber": "24",
+    "mediaItemId": 2232120,
+    "cultureContent": {
+    "imageLocation": "Kaluga, Russia",
+    "imageDescription": "Founded in the mid-14th century, Kaluga was the ancestral home of the famed Vorotynsky princes. The city motto is \"The Cradle of Space Exploration\" to honor resident Konstantin Tsiolkovsky, a pioneer of rocket science.",
+    "imageCredits": "Artyom Geodakyan / TASS / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_25.jpg?versionId=Tg8ntOftDLYQlSKFFavaeWL50mVzIFhW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_25.jpg?versionId=WQxaEx4eSoRgQDeD8lzVA9swyPj5WM58",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U25_Lesson.mp3?versionId=LecEwv49w_5_EcnvFxXfk4XKj7vMYaKf",
+    "level": 4,
+    "lessonNumber": "25",
+    "mediaItemId": 2232486,
+    "cultureContent": {
+    "imageLocation": "Kamchatka, Russia",
+    "imageDescription": "The Kamchatka brown bear is native to Russia, and is thought to be the ancestor of the Kodiak bear. Feeding primarily on blueberries, nuts, and fish, this massive bear can grow to reach up to 1,433 pounds, and to heights of 10 feet when up on its hind legs. ",
+    "imageCredits": "Michael Melford / National Geographic / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_26.jpg?versionId=k7F.NagiOZYUf1fagmLIljXCSMnrIhoO",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_26.jpg?versionId=vwctFHt13jccgGnD2GhqGP7Ndww1wMCw",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U26_Lesson.mp3?versionId=Vmj8mUvwN6bdRWTv6UToEmXyV1bT33wE",
+    "level": 4,
+    "lessonNumber": "26",
+    "mediaItemId": 2232838,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Opened in 2003, the Moscow International House of Music is situated on the Kosmodamianskaya embankment. Its auditorium is constructed of Siberian larch wood, to maximize the acoustics. It is home to the largest pipe organ in Russia, with over 5,500 pipes. ",
+    "imageCredits": "Pavel Losevsky / Hemera / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_27.jpg?versionId=v36n4cC4PIYyVMsVVLOWD04JE7ufWDiY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_27.jpg?versionId=4uB0BcqusIsUAQKFcxAMFuLs5qClaZF5",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U27_Lesson.mp3?versionId=0obL1eWkGWKUqtQCLOF8HoKGu06uFSIy",
+    "level": 4,
+    "lessonNumber": "27",
+    "mediaItemId": 2233390,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Beginning at Nikitsky Boulevard, and ending at Pushkin Square, Tverskoy Boulevard, dating to 1796, is among the oldest of Moscow's boulevards. Tolstoy, Chekhov and Pushkin have included it in their writings. It is considered one of the cultural centers of Moscow due to the prevalence of museums, theaters and galleries in proximity. ",
+    "imageCredits": "Max Ryazanov / Moment Open / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_28.jpg?versionId=7g95HaHtIDr9YV3U_PQ5ktGF.1T0pIDu",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_28.jpg?versionId=RugchIXDY.dE8mz9gNZgMXZ9ceL1rwLh",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U28_Lesson.mp3?versionId=0ZpQ3hsAPKS975jKFpOQXQRbeUINa3p_",
+    "level": 4,
+    "lessonNumber": "28",
+    "mediaItemId": 2233834,
+    "cultureContent": {
+    "imageLocation": "Moscow, Russia",
+    "imageDescription": "Manezhnaya Square was originally the home of the Moiseyevsky Monastery, demolished in 1932 by the Communist regime. The square has since become a venue for public demonstrations and celebrations, including one held following the fall of Communism in the early 90s, and riots involving prominent Russian football matches.",
+    "imageCredits": "Demetrio Carrasco / AWL Images / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_29.jpg?versionId=.9SU.b.CcVKbj6Y9tbOk1KVwpi0lWNNK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_29.jpg?versionId=ONbetHoSLivvH5BotyhqVQa1QbY6jiHH",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U29_Lesson.mp3?versionId=kGfEF2RYGfdkQwGsY8PSRqMTFeR18F2O",
+    "level": 4,
+    "lessonNumber": "29",
+    "mediaItemId": 2234211,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "Bast shoes, constructed from a fiber taken from the bark of linden or birch trees, were the traditional footwear of the people of the forest regions of Northern Europe. Today they are most commonly sold as souvenirs, though are still sometimes worn for folk dance performances. ",
+    "imageCredits": "DmyTo / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/full/RU_4_M_30.jpg?versionId=kf9IRQdMDJ7cmkWgCEo9I7JI7lor4Uo9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/lesson_photo/thumb/RU_4_M_30.jpg?versionId=mwPxaa8lL.O3tR_M.mvBGUgoU5N_Wb2e",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/main_audio/9781508236030_Russian4_U30_Lesson.mp3?versionId=5wSZLZz3FjFu1WPDRr87CvmvBoeF9SDq",
+    "level": 4,
+    "lessonNumber": "30",
+    "mediaItemId": 2234552,
+    "cultureContent": {
+    "imageLocation": "Russian Culture",
+    "imageDescription": "The double-headed golden eagle has been associated with the concept of Empirical rule since its origins in the ancient Near East. The original coat of arms of the Russian Empire was abolished in Russia during the revolution in 1917, but was restored after the constitutional crisis in 1993. ",
+    "imageCredits": "Oknebulog / iStock / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 4 orig/asset/RL/9781508236030_Russian_4_Alpha.pdf?versionId=wI28DoiJZBC54Rqbu8EkjrHzUlFhC11s",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian Level 4 orig/asset/RL/9781508236030_Russian_4_Intro.pdf?versionId=BPXsVKdDC7sl93MzK9yI4MNc_H9nkG77",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit01_Reading.mp3?versionId=_7cI.bQOK2gIx5JalWWtVlQLLOuSwzQ6",
+    "mediaItemId": 2223899
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit02_Reading.mp3?versionId=YN8GZCWFgk50TmrtG9gXCcwLhczudqFZ",
+    "mediaItemId": 2224112
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit03_Reading.mp3?versionId=QbL7E0rPNbpVYcAKJe2MoswO3u6kQ_4h",
+    "mediaItemId": 2224254
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit04_Reading.mp3?versionId=gRiwEC_y.Tjn3YnaT1AxwL1TBM1pDHpn",
+    "mediaItemId": 2224446
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit05_Reading.mp3?versionId=.Ml_CkcwXxu09slLzxqH.Gh6KKFs.viR",
+    "mediaItemId": 2224625
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit06_Reading.mp3?versionId=jQbRYw6L9EbsojWCGJlpRnGi6V.f5y1_",
+    "mediaItemId": 2224751
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit07_Reading.mp3?versionId=gu2MmAheb0GQlI6GlkUlkKxkqOSwkfSk",
+    "mediaItemId": 2225372
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit08_Reading.mp3?versionId=1wETdC5pA04AZjJGaauHNPIiXRAT3dhi",
+    "mediaItemId": 2227261
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit09_Reading.mp3?versionId=fKEFk7eD5m9tEi72QQ2mFhTg0M2LcL_t",
+    "mediaItemId": 2230141
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit10_Reading.mp3?versionId=ftSDDrRf0RjUbzQxnob3FQcxWJ1a8910",
+    "mediaItemId": 2233682
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit11_Reading.mp3?versionId=S4Wv6TnstcJAQy8MrMXP3O7Iejt8HMEv",
+    "mediaItemId": 2237078
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit12_Reading.mp3?versionId=GYKSgl9a723HSeH8igLr1bwb1dWjzk0M",
+    "mediaItemId": 2240553
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit13_Reading.mp3?versionId=oXKAI3owKAjfRZHc6l7IxCnPzvw87F9P",
+    "mediaItemId": 2243549
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit14_Reading.mp3?versionId=FCuc._n5nHfFVNIFr0UltyfUFCvyXWGA",
+    "mediaItemId": 2246725
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit15_Reading.mp3?versionId=xge8Uw_WKQtKE5fVSP3getJNwTVZq4Tx",
+    "mediaItemId": 2249766
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit16_Reading.mp3?versionId=QnAQLseXrGzHFe3iLn0ytxTiFCk3Iye4",
+    "mediaItemId": 2252815
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit17_Reading.mp3?versionId=kFPuWPVxEHqgpVH_UsrASPsiG.m7sgS2",
+    "mediaItemId": 2255676
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit18_Reading.mp3?versionId=XWiucUFnTft64Ts5EpWOOoMN1aETqz8i",
+    "mediaItemId": 2258527
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit19_Reading.mp3?versionId=3Ox9hs7ILTbDCzqKop5eiX56zoihcRSf",
+    "mediaItemId": 2261296
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Russian/Russian%20Level%204%20orig/asset/RL/9781508236030_Russian4_Unit20_Reading.mp3?versionId=KJe8bRtXRYNLOZqLIWMZxwuo0HeeH4nA",
+    "mediaItemId": 2263589
+    }
+    ]
+    },
+    "languageCode": "ru-RU",
+    "recognitionTier": 2,
+    "hasBreakdown": false,
+    "productCode": "9781508236030",
+    "level": 4,
+    "courseName": "Russian Level 4 Premium",
+    "simpleCourseName": "Russian Level 4",
+    "puArabic": false
+    }
+    ]

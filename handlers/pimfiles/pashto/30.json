@@ -1,0 +1,684 @@
+[
+    {
+    "courseId": 51620,
+    "languageName": "French",
+    "languageId": 146,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_01.jpg?versionId=V539sTGueE_SF91C9u26Ymyrix74SF_D",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_01.jpg?versionId=FUuN90FdI3OAZr0imq.DQdos2pN1Khg3",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_01.mp3?versionId=58ILAEBLnpxl479YnLL.3x5vq8ky4d.H",
+    "level": 3,
+    "lessonNumber": "01",
+    "mediaItemId": 2309944,
+    "cultureContent": {
+    "imageLocation": "French Culture",
+    "imageDescription": "Between December and March in Paris, depending on the temperature, a variety of ice-skating rinks open up to the public.  The most spectacular is on the first level of the Eiffel Tower nearly 200 feet in the air.",
+    "imageCredits": "Carlo A. / Flickr / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_02.jpg?versionId=iXJ9JYjfiQxTth_W_2EmNbNZjEVj2_0e",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_02.jpg?versionId=FzgC2fJobIBDeses_1lEjUeTnQM_Oucs",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_02.mp3?versionId=kf4ZEqmfLt0tTWVJrij8j9_C9kO.jlOl",
+    "level": 3,
+    "lessonNumber": "02",
+    "mediaItemId": 2310080,
+    "cultureContent": {
+    "imageLocation": " Paris, France",
+    "imageDescription": "The Sainte-Chapelle, or Holy Chapel of Paris was built by King Louis IX in 1248. The chapel was intended to house the King's Christian relics, including the Crown of Thorns and the True Cross. Throughout history the building has been preserved and is open for visitors today.",
+    "imageCredits": "David Clapp / Oxford Scientific / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_03.jpg?versionId=0IOenJdJdfeSh_59rdnge0o18ePZNi.s",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_03.jpg?versionId=qqxF4DLZ9XfUefwXqzntp1bq1yUDBCDr",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_03.mp3?versionId=MlxxkBxRg5vbU2tzv48h4i0fql5uQolA",
+    "level": 3,
+    "lessonNumber": "03",
+    "mediaItemId": 2310202,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Poppies  bloom in early spring in the south of France. The poppy has a significant meaning to France as a flower of remembrance. Amidst the destruction that occurred during the Great War, thousands of bright red poppies bloomed along the trenches and battlefields.",
+    "imageCredits": "Cyril Novello / 500Px Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_04.jpg?versionId=hKPxr.uxLwWYlJCmFyTksM44QKXB49uK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_04.jpg?versionId=sj2pFB.VIit.rLFkqw.WEYc.ZIf1pNKK",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_04.mp3?versionId=6CFUqYRz1G1J62r9FpkxTo8qWEno16Ut",
+    "level": 3,
+    "lessonNumber": "04",
+    "mediaItemId": 2310337,
+    "cultureContent": {
+    "imageLocation": "Canal du Midi, Languedoc-Roussillon",
+    "imageDescription": "It took nearly 12,000 workers over 15 years to build the 150-mile-long Canal du Midi. The canal stretches between the city of Toulouse and opens up to the Mediterranean Sea in Séte. The canal passes through many historical towns and exhibits the picturesque French landscape with planted willows and mulberry trees along the shore.",
+    "imageCredits": "Bruno Morandi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_05.jpg?versionId=O3i9r9yYsNymfUNF12tBLa6RDtsN6zRf",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_05.jpg?versionId=njWsuGSriWyH29SWYQp_L15vDm4S30te",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_05.mp3?versionId=NJOg46_IxFweSTIk2rW5yIlctbru2w5t",
+    "level": 3,
+    "lessonNumber": "05",
+    "mediaItemId": 2310470,
+    "cultureContent": {
+    "imageLocation": "Provence-Alpes-Côte d'Azur",
+    "imageDescription": "The Camargue region's famous light grey horses are native to the marshy Rhone delta. Living wild in the area for centuries, they have developed stamina and agility prized by the French cowboys, or gardians, of the region.",
+    "imageCredits": "Thomas Kokta / Workbook Stock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_06.jpg?versionId=8n7isgWsWDxP00Z6mqTBpS4HFPcgpJmQ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_06.jpg?versionId=QfkVpte.zPMpneGDcgxmHcJdU5zOwm_c",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_06.mp3?versionId=cNAfNc9x_q18lIKbNE8QSu4H0yrLLtyk",
+    "level": 3,
+    "lessonNumber": "06",
+    "mediaItemId": 2310598,
+    "cultureContent": {
+    "imageLocation": "Marqueyssac, France",
+    "imageDescription": "The romantic Château de Marqueyssac were built at the end of the 17th Century. The gardens consist of meticulously groomed boxwood trees that overlook the Dordogne Valley. The gardens of Marquayssac offer spectacular walking paths and workshops for visitors.",
+    "imageCredits": "Copyrights By Sigfrid López / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_07.jpg?versionId=aW0HvYke2KDPIerioEXeoU5GR5B9JVZe",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_07.jpg?versionId=nmPdGEZX2U14uJqNgAOQgvJZ.cmf0zVe",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_07.mp3?versionId=X9QsONZKUMgaxfkB.FOSoJHLCSe2Esg1",
+    "level": 3,
+    "lessonNumber": "07",
+    "mediaItemId": 2310771,
+    "cultureContent": {
+    "imageLocation": "Auckland, New Zealand",
+    "imageDescription": "French rugby player, Vincent Clerc, scores against England during the 2011 IRB Rugby World Cup. The French rugby team's emblem is a golden Gallic rooster, or le coq gaulois, set against a red shield.",
+    "imageCredits": "Phil Walter / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_08.jpg?versionId=qtnwbrgMMl3Wz143knfoTZlZQblam96_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_08.jpg?versionId=AcT7j5TUSsfMXjqwMkI1._L9ureDK0fC",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_08.mp3?versionId=KCE3XrYiLUjSEY2DlSoZZSVnKe7e3M37",
+    "level": 3,
+    "lessonNumber": "08",
+    "mediaItemId": 2310936,
+    "cultureContent": {
+    "imageLocation": "Saint-Guilhem-le-Désert, France",
+    "imageDescription": "The Abbey of Saint-Guilhem-le-Désert has a complicated history. The Benedictine abbey was built in 804 by Saint William of Gellone, and since has gone through many occupations until its historical protection in the 1800s. The buildings exhibit several different styles of church architecture, embedding its history in its stone walls.",
+    "imageCredits": "Martin Sandberg / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_09.jpg?versionId=KO2i4ZGy4ciSItPPRzrZ8xanp8jUgNRq",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_09.jpg?versionId=GUw50xXOKRAnC68tEdI5Wzzy6nBZ4kvx",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_09.mp3?versionId=adoXPZNIKgZcDY7TiTDKb77izvc9p6M0",
+    "level": 3,
+    "lessonNumber": "09",
+    "mediaItemId": 2311117,
+    "cultureContent": {
+    "imageLocation": "Chambord, Center",
+    "imageDescription": "The Chateau de Chambord was commissioned in the 1500s by Francis I, who built it to house his retinue of thousands who would join his hunting trips. There is speculation that it was designed by Leonardo da Vinci, who is rumored to be responsible for the palace's elaborate double helix staircase.",
+    "imageCredits": "Shaun Egan / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_10.jpg?versionId=Wun3wOD7stZ7UknY6VxqjW5HwkmVbUmJ",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_10.jpg?versionId=elMd7uK46NHsLcf4J2vwBHN4xVSlWS31",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_10.mp3?versionId=SPTsDL1retYpSxHFWw_ILniv2P.qEcp2",
+    "level": 3,
+    "lessonNumber": "10",
+    "mediaItemId": 2311323,
+    "cultureContent": {
+    "imageLocation": "Nice, France",
+    "imageDescription": "Around the tram tracks at Place Massena is a contemporary art installation by artist Jaume Plensa. Seven tall posts with opaque sitting figures atop represent the seven continents as ever changing, ever conversing places. The statues are lit with colors that blend into the next creating an atmosphere of peaceful flow.",
+    "imageCredits": "Maremagnum / Corbis Documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_11.jpg?versionId=Xi2I0DoKesDP.avWxs4zG.n2ify_UQfS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_11.jpg?versionId=UvszEhBLrKGC__t.bwV.m9PGavIFW7P_",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_11.mp3?versionId=2ruiPe0I3DBy9L4CGtuZ13xX_FcqKgJd",
+    "level": 3,
+    "lessonNumber": "11",
+    "mediaItemId": 2311553,
+    "cultureContent": {
+    "imageLocation": "Plougonvelin, Finistère",
+    "imageDescription": "The Saint-Mathieu Lighthouse is located on the shore Plougonvelin, Finistère. The original lighthouse that stood in its place was built in the 1600s and was only lit on particularly dark autumn and winter nights. The original lighthouse was destroyed in a storm and replaced by the current lighthouse that has stood since 1835. ",
+    "imageCredits": "MathieuRivrin / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_12.jpg?versionId=WrQ36ZgD23DKcozQlzZimmO6LPPZR6YG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_12.jpg?versionId=hv5_Ei7GBm8qiQpiHOA53pwshY0NQ8t7",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_12.mp3?versionId=gCaGkNrmjFm6SiioN9RRbODmdZONe.C3",
+    "level": 3,
+    "lessonNumber": "12",
+    "mediaItemId": 2311855,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The western coastline of France is where prime surf is backed by beautiful coastal landscape. The Silver Coast which touches the border of Spain is the best place to surf. Hossegor brings experienced surfers from all over Europe who tackle the large surf in the area. ",
+    "imageCredits": "OLIVIER MORIN / AFP / Getting Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_13.jpg?versionId=f_CRDPhwwQSKuvWDkwOxgQPytU79QwmV",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_13.jpg?versionId=vAhjUqWfyHS631L9uaStK8mYDrY5FQxy",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_13.mp3?versionId=nAt9kNyXNBIDWdmmjGcXbgvIzDnpy580",
+    "level": 3,
+    "lessonNumber": "13",
+    "mediaItemId": 2312060,
+    "cultureContent": {
+    "imageLocation": "Paris,  France",
+    "imageDescription": "The Notre Dame Cathedral is rich with history, evident in its battle scars that remain from the French Revolution. The gargoyles on top of the cathedral are actually modern structures, added to the building in the 19th century. The architect Viollet-le-Duc, who built the gargoyles, added his own face to those of the twelve apostles that stood circling the spire until a destructive fire collapsed the spire in 2019.",
+    "imageCredits": "John Elk III / The Image Bank  / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_14.jpg?versionId=uNSEa4Y5.wKUwkqlgdBwbLc2bqsFO80f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_14.jpg?versionId=xVO2W5PbuWL3VqxKsNqbRM63tU3JhM3O",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_14.mp3?versionId=BN9roaotx6auRn.2P3cuAWBA8mUadSaB",
+    "level": 3,
+    "lessonNumber": "14",
+    "mediaItemId": 2312237,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Boules is a popular game where competitors throw heavy balls aiming for a target on the ground. The game is based on the old French game jeu provençal. Boules is a social game enjoyed outside in public spaces and open to anyone who can throw a ball.",
+    "imageCredits": "ANNE-CHRISTINE POUJOULAT / AFP / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_15.jpg?versionId=QR.LsnbaQXmm9q466KCiIwVfEG276Ll6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_15.jpg?versionId=SCYJrsSoqKz_q4T9GjXTys7VeBkIiTyD",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_15.mp3?versionId=wjd6_zTadK_O6HWslyBJwPOWYHio5tJf",
+    "level": 3,
+    "lessonNumber": "15",
+    "mediaItemId": 2312416,
+    "cultureContent": {
+    "imageLocation": "Normandy, France",
+    "imageDescription": "Mont-Saint Michel is known as the monastery in the sea. Surrounded by wildlife, the monastery rests on top of a small isalnd that encompasses a medieval  village. The spectacular structure is a popular spot for tourists, attracting millions of viewers to Normandy each year to explore the island.",
+    "imageCredits": "Westend61 / Westend61 / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_16.jpg?versionId=a17kiRyhRzkvKDceKsmZJHYCvORen0ws",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_16.jpg?versionId=1DIC9c4qYgSIfKufrrocOqnpUuqMf9M_",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_16.mp3?versionId=rZds5EqFVaieQwYdSOlsOYJ6OuEvDEUD",
+    "level": 3,
+    "lessonNumber": "16",
+    "mediaItemId": 2312564,
+    "cultureContent": {
+    "imageLocation": "Port Barcarés, Leucate, France",
+    "imageDescription": "Port Barcarés is a family friendly resort area in the south of France. Located on a strip of land that was uninhabited until the 20th century, Le Barcarés is popular for its beaches and fish markets. One of the delights of the town is the Lydia, a beached ship that houses a restaurant and casino.",
+    "imageCredits": "Phil Walter / Getty Images Sport"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_17.jpg?versionId=hxFad2fvBHbz9pc7f716YLjHpV4VlWbA",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_17.jpg?versionId=x8fxioWWEBoIErp8XvUEggvwltMgtyGY",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_17.mp3?versionId=JNG6FUdj40po3ioTaihpvsakBcXg6wJs",
+    "level": 3,
+    "lessonNumber": "17",
+    "mediaItemId": 2312739,
+    "cultureContent": {
+    "imageLocation": "Paris,  France",
+    "imageDescription": "A French brasserie offers a relaxed yet higher-end meal, often with elaborate decor, table service, white linens and a printed menu. \"Brasserie\" translates to \"brewery\" and beer and wine is usually served along with meals. Most brasseries are open early and remain open late, sometimes past midnight.",
+    "imageCredits": "Thomas Craig / Photolibrary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_18.jpg?versionId=FfRU7nUl3V2Eok.h0CKP4GDmVfYfXtO_",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_18.jpg?versionId=Zeg4oGK.elWyurghSu2n2FBUxjwwy5Go",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_18.mp3?versionId=7y7vGL4VMCCPt8vwZBlRS6od7Qh1do6e",
+    "level": 3,
+    "lessonNumber": "18",
+    "mediaItemId": 2312920,
+    "cultureContent": {
+    "imageLocation": "Carcassonne, Languedoc-Roussillon",
+    "imageDescription": "Vacationers enjoy boating on the Canal du Midi.  The 150-mile-long canal was designed for irrigation and to transport wheat and wine, but is now primarily used for recreation.",
+    "imageCredits": "Travelpix Ltd  / Photographer's Choice / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_19.jpg?versionId=tX3efWr_xV6LBnbGaDxOk7APTtz2wjQh",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_19.jpg?versionId=Eq7sslYAfNx9nDT0PUvMbYNwLmWD7hGh",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_19.mp3?versionId=avadoqDhrg563fKcz9s_cD5Ajgsa.Z94",
+    "level": 3,
+    "lessonNumber": "19",
+    "mediaItemId": 2313096,
+    "cultureContent": {
+    "imageLocation": "Villandry, Center",
+    "imageDescription": "The Chateau Villandry was built in the 16th century by Jean Le Breton, on the grounds of a 14th-century fortress where Philip II met with Richard the Lionheart to sign the Peace of Colombiers treaty. It was extensively restored with elaborate gardens in the early 1900's.",
+    "imageCredits": "Bruno Morandi / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_20.jpg?versionId=XUcn2ot7ZWvNgXAQsHoCRSSbzJpJS0FW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_20.jpg?versionId=Zqk.pdFrmorkbSM_USRlSCvcLoLO1j4U",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_20.mp3?versionId=7aaVE.JN9CSJuF444fkBst0RZaxYmJ1C",
+    "level": 3,
+    "lessonNumber": "20",
+    "mediaItemId": 2313273,
+    "cultureContent": {
+    "imageLocation": "Bordeaux, France",
+    "imageDescription": "Place de la Bourse in Bordeaux is an elegant square built in the 18th century. The imposing square's architecture represents a breaking away from feudal times during which the city of Bordeaux was enclosed by massive walls.  The Water Mirror is a vast reflecting pool in the middle of the square, constructed in 2006.",
+    "imageCredits": "Allan Baxter / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_21.jpg?versionId=E9bhitihhH8.RFt3Z5x9xNpL6pYW5jDU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_21.jpg?versionId=CXzoI8ZlMF27aQgFYFuno0mCeqwLrnKb",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_21.mp3?versionId=x.ymUEyNgbOIYkqcRwqDNjyXtNV7.nU1",
+    "level": 3,
+    "lessonNumber": "21",
+    "mediaItemId": 2313467,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Paris is well-known for its exquisite restaurants, and dessert is no exception to the city's high standards. Many popular pastries originate in France, including croissants, eclairs, macarons and beignets.",
+    "imageCredits": "Yiset Hong / 500Px Plus / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_22.jpg?versionId=hbY9EBpqe3sn3Oi2dfMWKz8CHdnBHmL9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_22.jpg?versionId=JQxDZkAUP2YU_H.1NoZ4hNjLKgZUhd6.",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_22.mp3?versionId=9d57PKBaSTqMpQbtyf4ijNvdvifetRdK",
+    "level": 3,
+    "lessonNumber": "22",
+    "mediaItemId": 2313665,
+    "cultureContent": {
+    "imageLocation": "Chambord, Center",
+    "imageDescription": "King Francis I's 16th-century Château de Chambord took 30 years to build and holds 426 rooms, 282 fireplaces and 83 staircases, all topped by turrets, chimneys and lanterns that crowd the rooftop.",
+    "imageCredits": "Bruno Barbier  / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_23.jpg?versionId=DuVyRocXS.kXxdo6U4wfHNhkWoIhf4wE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_23.jpg?versionId=CdqBmI4ZqaueELw9TVNsqbHQ4JMeqimQ",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_23.mp3?versionId=ATIkLRz.xFItJ6xYeozIm_gGoy5KMe0h",
+    "level": 3,
+    "lessonNumber": "23",
+    "mediaItemId": 2313888,
+    "cultureContent": {
+    "imageLocation": "Lyon, France",
+    "imageDescription": "Rich with history, Lyon is one of the largest urban cities in France. One of the more modern structures is the Lyon-Satolas train station which connects the airport and the city of Lyon. The winged-building was designed by architect Santiago Calatrava and features symmetrical architecture.",
+    "imageCredits": "Philippe RENAULT / Gamma-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_24.jpg?versionId=S1uY3e06RZWdvzLa7JvE96abpP9Ti4Un",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_24.jpg?versionId=S1viNF8D7QEnQIbMKhO5vXPLiiFLyru9",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_24.mp3?versionId=aGCqxFhQApA67_i6TveaCS8nkK1BFc0a",
+    "level": 3,
+    "lessonNumber": "24",
+    "mediaItemId": 2314059,
+    "cultureContent": {
+    "imageLocation": "Le Puy-en-Velay, France",
+    "imageDescription": "Located in south-central France is the town Le Puy-en-Velay. The town is in the middle of a basin surrounded by unique volcanic structures. On top of the tallest peak in the town is a red cast-iron statue of Our Lady of France which is lit up after sundown.",
+    "imageCredits": "Marco Bottigelli / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_25.jpg?versionId=jJ7oJ32Jw2nxNFaG3WHqkFl_MaeC6gzc",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_25.jpg?versionId=nsjvxcgTDjpAknAodvD.WbHhKwKpyrso",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_25.mp3?versionId=.VTEikBlnum.mUHOzDfALeOmlUjATJ.R",
+    "level": 3,
+    "lessonNumber": "25",
+    "mediaItemId": 2314242,
+    "cultureContent": {
+    "imageLocation": "Paris,  France",
+    "imageDescription": "A Bateaux-Mouches™ riverboat tour is a popular way to take in the sights along the Seine.  A typical one-hour tour, which might include lunch or dinner, offers views of the Eiffel Tower, Notre-Dame, and the Orsay and Louvre Museums.",
+    "imageCredits": "Julien Capmeil / The Image Bank / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_26.jpg?versionId=ULeLGBBe9sYKgcEA9VCa1zeFFC6SItj5",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_26.jpg?versionId=TK7KlsaGv4eLOZYM_Mfv9FnAEL5iY84j",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_26.mp3?versionId=.vUm1efWFeU1Hw9qvgU__HAblI4rA5f6",
+    "level": 3,
+    "lessonNumber": "26",
+    "mediaItemId": 2314423,
+    "cultureContent": {
+    "imageLocation": "Toulouse, France",
+    "imageDescription": "The Basilica of Saint-Sernin is a Romanesque pilgrimage church. The martyred Saint Sernin was claimed to have silenced the pagan idols of the city of Toulouse, and thus was killed by the towns people. Approximately 800 years later the Saint was consecrated as a church, and since has been a site for religious pilgrimages.",
+    "imageCredits": "David Sailors / Corbis documentary / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_27.jpg?versionId=ENtIe.TWUPvUvkofUlH3qQCw0fNmWIAH",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_27.jpg?versionId=epT9Tjf7L7xYbHaSTVCrvn80jSfTwuex",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_27.mp3?versionId=SBVV83q3nrA5KJ2yo.H5mwGzcVk0yK_I",
+    "level": 3,
+    "lessonNumber": "27",
+    "mediaItemId": 2314618,
+    "cultureContent": {
+    "imageLocation": "Grau-du-Roi, France",
+    "imageDescription": "Le Grau-du-Roi is a coastal French city that was created after a flooding of the Rhone in the 16th Century. Now Grau-du-Roi is one of the largest French fishing ports on the Mediterranean. The city has grown thanks to tourism, and features old charm from the architecture, sunny beaches, and fish markets.",
+    "imageCredits": "Gerard SIONEN / Gamme-Rapho / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_28.jpg?versionId=5vrj3JIkPUpq3RmVYCP6Ez6aGvy9fMaS",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_28.jpg?versionId=6BQbuImAbKHM_Bz62iFu1eZsdt3zG5Rl",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_28.mp3?versionId=V3ZJFakHHhNBOxGU7o9xV0YFsl3CBwau",
+    "level": 3,
+    "lessonNumber": "28",
+    "mediaItemId": 2314794,
+    "cultureContent": {
+    "imageLocation": "Paris, France",
+    "imageDescription": "The Basilica of the Sacred Heart was built between 1875 and 1914 as the cornerstone of a national vow to seek religious and secular unity.  Combining Romanesque and Byzantine features, the basilica overlooks Paris from Montmartre, the city's highest point.",
+    "imageCredits": "Chris Ladd  / Photographer's Choice RF / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_29.jpg?versionId=4GnItawAatOfUkEmiMmNwXxYyPaPvmSG",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_29.jpg?versionId=m13niBlZSEr_s0ezFW1fnxG5kBO_IQ3J",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_29.mp3?versionId=Lq6aau.YBezY4m_QuqW_mHKiGHsny55j",
+    "level": 3,
+    "lessonNumber": "29",
+    "mediaItemId": 2314980,
+    "cultureContent": {
+    "imageLocation": "Calanques National Park",
+    "imageDescription": "Calanques National Park is the only European national park to include sea, land, and peri-urban spaces. Calanques park preserves bio-diversity by protecting 140 animal and plant species and 60 marine species. The impressive limestone cliffs give way to the Mediteranean making it an ideal hiking place.",
+    "imageCredits": "Marco Bottigelli / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/full/FR_3_M_30.jpg?versionId=0BRIR4k0Z_V.S3psPdQa2PjmzdWWBh5M",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/lesson_photo/thumb/FR_3_M_30.jpg?versionId=mKNcbXHZV.slkbjTfz98k.ztsk.aA5DK",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/main_audio/9781797109213_French_3_Lesson_30.mp3?versionId=uB_Xu.tXZVXQlJOxbAydRBoEhXscgJeQ",
+    "level": 3,
+    "lessonNumber": "30",
+    "mediaItemId": 2315143,
+    "cultureContent": {
+    "imageLocation": "Lyon, France",
+    "imageDescription": "The bronze horse statue of King Louis XIV is a symbol Place Bellecour in Lyon. The statue was built in 1714 by two brothers of Lyon, Guillaume and Nicolas Coustou. During the French Revolution, the statue was hidden in the Hôtel de Ville and once again erected in 1826.",
+    "imageCredits": "Frederic Prochasson / 500Px Plus / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/French/French Level 3 2020/asset/RL/9781797109213_French_3_Intro.pdf?versionId=0SH92W.ae6qoSzNOo5.HH5W3BIdU7U..",
+    "audios": [
+    {
+    "order": 1,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_01.mp3?versionId=lXDPX4ccYlgAdojJJhd_L56ReZzEQLP6",
+    "mediaItemId": 2223937
+    },
+    {
+    "order": 2,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_02.mp3?versionId=9PsaT7d2RK39rSyZ.Fb5mfl4UFNBhQsb",
+    "mediaItemId": 2224139
+    },
+    {
+    "order": 3,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_03.mp3?versionId=OvqmwzqNxozMITV5r7VuEsPzxnntDfPf",
+    "mediaItemId": 2224326
+    },
+    {
+    "order": 4,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_04.mp3?versionId=6prYfICgryt.ad.12Jg7e0JuasbDAgqk",
+    "mediaItemId": 2224473
+    },
+    {
+    "order": 5,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_05.mp3?versionId=biMOZmMX0rV9DwaK5Vi9YvdJltkpqIT8",
+    "mediaItemId": 2224671
+    },
+    {
+    "order": 6,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_06.mp3?versionId=LfanwkHGN0hLvZR6qx6o6QfHs31Av4mP",
+    "mediaItemId": 2224765
+    },
+    {
+    "order": 7,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_07.mp3?versionId=Gq.fn8vGXUZG9BIre76ljD4.k0_ReFvj",
+    "mediaItemId": 2225738
+    },
+    {
+    "order": 8,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_08.mp3?versionId=3u5P3VdyumLwSZ5l9tbdjeemmuKHcakp",
+    "mediaItemId": 2227797
+    },
+    {
+    "order": 9,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_09.mp3?versionId=bfpdx0W8CJm4RyQ68qcGOHzt3dO7KMPs",
+    "mediaItemId": 2231007
+    },
+    {
+    "order": 10,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_10.mp3?versionId=ZmuLgG6fDErtSJESGEaZL2s8gKTzBAyQ",
+    "mediaItemId": 2234411
+    },
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_11.mp3?versionId=wK.l_f33DaWXYyo2Egmjyeq_iVEZWmyi",
+    "mediaItemId": 2237729
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_12.mp3?versionId=HlEs6RhHU918o6jYpCOx_AqdSOUJ7x3B",
+    "mediaItemId": 2241111
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_13.mp3?versionId=Y5CQehsVvn.ibU9AmxtJ1LYEGskfxIBQ",
+    "mediaItemId": 2243939
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_14.mp3?versionId=nF1DZ4A8F0CdhP_jRL3s_.WyE88wUbZw",
+    "mediaItemId": 2247082
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_15.mp3?versionId=l0uljbDPg5kYbYJx7mRxESd3hXw2Vutz",
+    "mediaItemId": 2250089
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_16.mp3?versionId=mXesVGjcIbeHMbFrowCp27JTOBUkgKyl",
+    "mediaItemId": 2253057
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_17.mp3?versionId=OICOP4BoYtZ9NqPxSjCQO3W2vd8OE3yS",
+    "mediaItemId": 2255779
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_18.mp3?versionId=8Yqj6Kb8YbhCtV6XXT4Fu3gzneynMsC0",
+    "mediaItemId": 2258556
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_19.mp3?versionId=seZXhnuf64uO03t7cET9lPNJkpDCBMsF",
+    "mediaItemId": 2261326
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_20.mp3?versionId=PVNcGZaXL6iX3q13lLTh7uywVgIW0Ffm",
+    "mediaItemId": 2263765
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_21.mp3?versionId=CoQM9IsiPQV6YZDRM0SsC85HJd3yu7PL",
+    "mediaItemId": 2265288
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_22.mp3?versionId=hcsF6i2tDEf2AfFVpA2a7hLVJnV1D.Mh",
+    "mediaItemId": 2266141
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_23.mp3?versionId=0qrPaAV4LGTe2_.yoNnOH3W3_h4rdLYx",
+    "mediaItemId": 2266563
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_24.mp3?versionId=zCms52SvGGjZJYrXZSFotdN1tjlNXd1n",
+    "mediaItemId": 2267006
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_25.mp3?versionId=4zPGHxOICo0FKJxUYB2WzN6YeIk2Spdk",
+    "mediaItemId": 2267476
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_26.mp3?versionId=tyuvPGLmkFnUfhutIzYohS6vhaBWZ80b",
+    "mediaItemId": 2267929
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_27.mp3?versionId=a9HHyrHdw9RheDjuTzgsi63XNX_kWwpj",
+    "mediaItemId": 2268401
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_28.mp3?versionId=81ZzvsZ0VglJKWqILclyS39vnj9Z0reX",
+    "mediaItemId": 2268783
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_29.mp3?versionId=V1zsvXfDwGSi4buRqldlnJEML.gSyvR5",
+    "mediaItemId": 2269207
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/French/French%20Level%203%202020/asset/RL/9781797109213_French_3_Reading_Lesson_30.mp3?versionId=yrbpUzJ6rFNsbO7AtPsGD3CDYwteHPiu",
+    "mediaItemId": 2269664
+    }
+    ]
+    },
+    "languageCode": "fr-FR",
+    "recognitionTier": 2,
+    "hasBreakdown": true,
+    "productCode": "9781797109213",
+    "level": 3,
+    "courseName": "French Level 3 Premium",
+    "simpleCourseName": "French Level 3",
+    "puArabic": false
+    }
+    ]

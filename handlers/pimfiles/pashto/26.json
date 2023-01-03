@@ -1,0 +1,636 @@
+[
+    {
+    "courseId": 30223,
+    "languageName": "Farsi (Persian)",
+    "languageId": 145,
+    "isFree": false,
+    "isEsl": false,
+    "lessons": [
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_01.jpg?versionId=f1knesT4LGiikUyFr_qxJqd4PyGMgiPB",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_01.jpg?versionId=C8KEzH7BGeC88O1JDuojWevFtgPjjjUO",
+    "credits": null
+    },
+    "name": "Lesson 1",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_01.mp3?versionId=wVRmzMhWhFwE9D0mCsH58E0RlR.2s43O",
+    "level": 2,
+    "lessonNumber": "01",
+    "mediaItemId": 2321427,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Iranians are famous for their warmth and hospitality, even to complete strangers. There is a proud attachment to local culture, religion and especially family, with a strong reverence for one’s parents.",
+    "imageCredits": "amazingmikael/ iStock/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_02.jpg?versionId=UKxt37ad2Y0HbMhxQSS7sIsqtgKGBWso",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_02.jpg?versionId=XdguFSA7RQ1R83nux5uU425DveZpSpZW",
+    "credits": null
+    },
+    "name": "Lesson 2",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_02.mp3?versionId=0Kj3C5S7w.hplhu7kdkEg9ihvYKKUY.9",
+    "level": 2,
+    "lessonNumber": "02",
+    "mediaItemId": 2321430,
+    "cultureContent": {
+    "imageLocation": "Shiraz",
+    "imageDescription": "Iran produces more than one million tons of nuts every year, consuming close to 800,000 tons domestically and exporting the rest. Nuts and dried fruits are considered a favorite snack whenever people gather.",
+    "imageCredits": "Emad Aljumah / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_03.jpg?versionId=agfXJLl.6FaXBKSI.12GoAe0zEWvxrdE",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_03.jpg?versionId=uHuSmR_hE_wK_tKO96rIjosDaV8.Md67",
+    "credits": null
+    },
+    "name": "Lesson 3",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_03.mp3?versionId=U3cv_x7VXiccv1nJFaUlaNWkiBsbX8NW",
+    "level": 2,
+    "lessonNumber": "03",
+    "mediaItemId": 2321433,
+    "cultureContent": {
+    "imageLocation": "Isfahan ",
+    "imageDescription": "Bazaars are important for their commercial activity, but also function as centers of social, cultural, and civic life. The Grand Bazaar of Isfahan, built in the 11th century, is the longest roofed market in the world and one of the oldest and largest bazaars in the Middle East. Carpets, handicrafts, spices, and all sorts of local goods are on display.",
+    "imageCredits": "Andrea Pistolesi / Stone / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_04.jpg?versionId=CJymzW9V7Jo2GJeW29eOGsu4dgkQFl9O",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_04.jpg?versionId=aU3Wuq4Dr1_Mq.tcq.Esg4UI6REebTNK",
+    "credits": null
+    },
+    "name": "Lesson 4",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_04.mp3?versionId=NNK7A7CEv4c2dAVSbH4jYBcAFDnk2WfD",
+    "level": 2,
+    "lessonNumber": "04",
+    "mediaItemId": 2321436,
+    "cultureContent": {
+    "imageLocation": "Isfahan ",
+    "imageDescription": "In central Iran, Isfahan has one of the world’s largest city squares surrounded by brilliant Persian architecture from the Savafid era. The Shah Mosque is of particular interest for its stunning tile work covering the interior and exterior of the intricate buildings. A palette of seven colors was used in the mosaic tiles which allows the dome and minarets to stand out as a turquoise gem that can be seen for miles.",
+    "imageCredits": "Lukas Bischoff / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_05.jpg?versionId=.kHgSV0lgUZb8FqoK06IXQRNx5GQTQRd",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_05.jpg?versionId=ptpv56ngMieF99KlcFNNkhSJQMh4LbmW",
+    "credits": null
+    },
+    "name": "Lesson 5",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_05.mp3?versionId=1CIUFhlFUxCY2elJ1PEhnYnBn13f4Owx",
+    "level": 2,
+    "lessonNumber": "05",
+    "mediaItemId": 2321438,
+    "cultureContent": {
+    "imageLocation": "Maqbaratoshoara, Tabriz",
+    "imageDescription": "The Mausoleum of Poets in Tabriz houses the tombs of more than 400 classic and contemporary poets, mystics, and other notable figures from the last 800 years. Although destroyed by several earthquakes, the monument remained a venerable site and was redesigned and rebuilt in the 1970’s and 1980’s. Iranians place such a cultural emphasis on poets and scholars that many such mausoleums exist in the country and most Iranians can recite poetry by heart.",
+    "imageCredits": "Germán Vogel / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_06.jpg?versionId=OYGYowBKFsVNEugnAbQIWW7ylHLUnUkr",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_06.jpg?versionId=8CKZYu462.YGBV2.AwGYNKvlO2kZiafm",
+    "credits": null
+    },
+    "name": "Lesson 6",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_06.mp3?versionId=rQVUXit7a6_bET6Y1IEmJpuyGFccMy44",
+    "level": 2,
+    "lessonNumber": "06",
+    "mediaItemId": 2321442,
+    "cultureContent": {
+    "imageLocation": "Meybod, Yazd Province",
+    "imageDescription": "Pigeon towers, or dovecotes are built with a calculated artistic and practical design. Entry holes are small, to prevent bigger birds from forcing their way inside; the stone foundation prevents rats from burrowing in, and smooth plaster makes it difficult for snakes to climb the walls.",
+    "imageCredits": "Smartshots International / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_07.jpg?versionId=2ukmzXVCTyf.R2ESZus1vOmxDY_OT1ha",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_07.jpg?versionId=K0RtggYrfFJhCHvrKiZno.ray651Xe.0",
+    "credits": null
+    },
+    "name": "Lesson 7",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_07.mp3?versionId=5YOCjZRakzuU0pASl2RGpztCfX1mFX1t",
+    "level": 2,
+    "lessonNumber": "07",
+    "mediaItemId": 2321447,
+    "cultureContent": {
+    "imageLocation": "Qeshm Island, Hormozgan",
+    "imageDescription": "Located off the southern coast of Iran, Qeshm Island is a large, pristine island in the Persian Gulf. Shipbuilding is one of the oldest indigenous industries in this area where traditional wooden boats are still made by hand, sometimes taking years to complete. Qeshm Island is also mentioned as a possible site of the Garden of Eden by Cassell’s Bible.",
+    "imageCredits": "Andrea Ricordi, Italy / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_08.jpg?versionId=B40Rhd3fK4ZyX3u4k1EhiEPj0mTAcEr2",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_08.jpg?versionId=I6Uh6nk54yJmeZZochZl9FvJoBpp05QB",
+    "credits": null
+    },
+    "name": "Lesson 8",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_08.mp3?versionId=btiJzpYEFxhqFwAHCOqGm5sU1XH0NUhG",
+    "level": 2,
+    "lessonNumber": "08",
+    "mediaItemId": 2321451,
+    "cultureContent": {
+    "imageLocation": "Tehran",
+    "imageDescription": "Tehran is a cosmopolitan city, the third largest metropolitan area in the Middle East, surpassed by only Cairo and Istanbul. Along with its great museums and restaurants, there are more than 800 parks. At the center of the Chitgar Recreational Complex is a man-made lake, perfect for boat riding, cycling around the lake, and bird watching in winter.",
+    "imageCredits": "Morteza Nikoubazl / NurPhoto / Gettty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_09.jpg?versionId=KhyF1t3wCouXObtMDJgD14hyC.vkY7JC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_09.jpg?versionId=diqgdkQbv41hLp9qqj_z5Urb3oQlEYJ9",
+    "credits": null
+    },
+    "name": "Lesson 9",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_09.mp3?versionId=ZZDrvgxCnSt74dlgUiMB0OohTNyq8cvM",
+    "level": 2,
+    "lessonNumber": "09",
+    "mediaItemId": 2321455,
+    "cultureContent": {
+    "imageLocation": "Chabahar",
+    "imageDescription": "Ramin fishing port is one of several wharves in Chabahar and is a spectacular area for watching and photographing fishermen and colorful boats on the water. The name Chabahar means “ever spring” for its pleasant spring-like weather all year round.",
+    "imageCredits": "ArefBarahuie / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_10.jpg?versionId=uHyWW18OGaJVQHHIuNfsjuhDRpi8_a1f",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_10.jpg?versionId=BWHkoBkOOERj2HE2T8l9ibscHSE.FK3Z",
+    "credits": null
+    },
+    "name": "Lesson 10",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_10.mp3?versionId=5reM97xhXds4U4mv88qoHah_RubxuEI6",
+    "level": 2,
+    "lessonNumber": "10",
+    "mediaItemId": 2321457,
+    "cultureContent": {
+    "imageLocation": "Yazd",
+    "imageDescription": "In Zoroastrianism, the religion practiced by much of Persia before the arrival of Islam, fire is considered sacred, and prayers are performed in its presence. Fire temples predate Zoroastrianism and people would take a small amount of fire home in a firebox to their own hearth. The Zoroastrian Fire Temple of Yazd was built in 1934 to house a sacred fire which originated 1500 years ago and traveled to different fire temples until finding its final home there. ",
+    "imageCredits": "Jasmina Mihoc / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_11.jpg?versionId=yEBAXR4g1kRuNlEvoptkRY6Q_DtJBbpF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_11.jpg?versionId=7F.nxg8NpNOK_kx5HZO_7WArQaDbprbM",
+    "credits": null
+    },
+    "name": "Lesson 11",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_11.mp3?versionId=K_aIyR0_9R3tCKrhOIgRSeNp7RWgFirV",
+    "level": 2,
+    "lessonNumber": "11",
+    "mediaItemId": 2321462,
+    "cultureContent": {
+    "imageLocation": "Tehran",
+    "imageDescription": "The multipurpose Milad tower, in Tehran’s western suburbs, represents the modern face of the Iranian capital. The tallest building in Iran, it serves as a telecommunication tower, offers observation decks to visitors, and hosts events and exhibitions. The geometric design of the head symbolizes traditional Iranian architecture, and the concrete shaft is said to resemble a chess piece.",
+    "imageCredits": "Germán Vogel / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_12.jpg?versionId=TF.XPz._nLDL3erUWKNyAM7SHokqUDDx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_12.jpg?versionId=4unmLQj4OC2xipiJkYhnem.WrAhbDx_d",
+    "credits": null
+    },
+    "name": "Lesson 12",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_12.mp3?versionId=p0y0nDrUpg5_hMqm8CeFUXa3qTHrz09D",
+    "level": 2,
+    "lessonNumber": "12",
+    "mediaItemId": 2321467,
+    "cultureContent": {
+    "imageLocation": "Tehran",
+    "imageDescription": "Iran is one of the world’s most mountainous countries, with two main ranges, Alborz and Zagros offering great snow conditions for skiing and snowboarding. Although not typically as large or modern as resorts in Europe, Iranian ski resorts are located at high altitudes and offer long vertical drops, powdery snow, and a unique experience. If you’d like to visit when Iranians are working, avoid Thursday and Friday which is the weekend in Iran.",
+    "imageCredits": "Mohammad Nouri / iStock Editorial/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_13.jpg?versionId=P2anEQ2p5KOF7ONOFlRoxPotkJXmDt8g",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_13.jpg?versionId=n2SuLYjoUeEkTejo4r4YNEs4J.DP4yPS",
+    "credits": null
+    },
+    "name": "Lesson 13",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_13.mp3?versionId=unLuGvo1SFMagCeLDqjl5kYIdgeXWQj9",
+    "level": 2,
+    "lessonNumber": "13",
+    "mediaItemId": 2321473,
+    "cultureContent": {
+    "imageLocation": "Yazd",
+    "imageDescription": "Two large carved bronze doors are at the entrance of the Pir-e-Sabz Fire Temple, perched on a steep cliff in the desert. This Zoroastrian temple is sometimes just called Chak Chak which is the name of the hamlet it is in and translates to “drip drip” in reference to the freshwater spring inside the temple.",
+    "imageCredits": "Jean-Philippe Tournut / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_14.jpg?versionId=5Krs_0kfRkTaeoPnSpIoW0qsNsGcPqSK",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_14.jpg?versionId=i_5LCBrOTcou5oshTG4VRgIW.sFiUIcB",
+    "credits": null
+    },
+    "name": "Lesson 14",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_14.mp3?versionId=5_9vfJ0rH5xZ1uXvdNhSAG4ajYwnZK1v",
+    "level": 2,
+    "lessonNumber": "14",
+    "mediaItemId": 2321480,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Camels thrive in the sunbaked desert climate, spending their days grazing on thorny desert plants that other animals would reject. Their doubled rows of eyelashes protect their eyes from the blowing sand. They can go several months without food because of fatty tissue in their humps that is metabolized into water and energy when other nourishment is unavailable.",
+    "imageCredits": "Ayla Hashemi / 500px / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_15.jpg?versionId=Y8RWe_qETPynbHIPT36vDJ_eBZMHfff9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_15.jpg?versionId=1MJxhPBwOxXEQh.CLAHEr4_uJG0kiX_C",
+    "credits": null
+    },
+    "name": "Lesson 15",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_15.mp3?versionId=xhMuGR09WfaCIehsoW9TUYYWTAbcan0F",
+    "level": 2,
+    "lessonNumber": "15",
+    "mediaItemId": 2321487,
+    "cultureContent": {
+    "imageLocation": "Meybod, Yazd Province",
+    "imageDescription": "This yakhchal (icehouse) is an example of the ancient natural refrigerators built to capture and store ice in the desert. Thick walls made from clay, sand, egg whites, lime, goat hair, and ash combined with below freezing nighttime temperatures kept an icehouse cool all year round.",
+    "imageCredits": "Giovanni Mereghetti / Education Images / Universal Images Group via Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_16.jpg?versionId=GBHKPy5ZMVT2tvfEFvzxnw_IGYd6kRq7",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_16.jpg?versionId=e6JE9dDxt2V6aqiF6qN4OMqF4HeFysNn",
+    "credits": null
+    },
+    "name": "Lesson 16",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_16.mp3?versionId=xBzbdVefnN2KEt.KMNDEVtXnkzkdL_bZ",
+    "level": 2,
+    "lessonNumber": "16",
+    "mediaItemId": 2321492,
+    "cultureContent": {
+    "imageLocation": "Tonekabon Bazaar, Mazandaran Province",
+    "imageDescription": "Black garlic is the product of aging regular garlic bulbs over the course of weeks or months under strict temperature and humidity conditions to achieve its sticky, date-like consistency, and soft, molasses-like flavor. It is a much sought-after ingredient used in both home cooking and upscale cuisine.",
+    "imageCredits": "Jean-Philippe Tournut / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_17.jpg?versionId=ffRWicEvo9qOLgFzvzBftDTU_N_WpJpC",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_17.jpg?versionId=cVFCkmc0H_a46hnyNxYcmKETg4bMnl.0",
+    "credits": null
+    },
+    "name": "Lesson 17",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_17.mp3?versionId=X3tszxhsqz.fmHHYrAUzKjmxBROicigy",
+    "level": 2,
+    "lessonNumber": "17",
+    "mediaItemId": 2321499,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "On December 21, the winter solstice, Iranians gather to celebrate Yalda night with family and friends. Tables are set with watermelon, pomegranates, nuts, and confections. One of the most popular traditions is reading Hafez poems as a form of fortune telling; silently, people make a wish or ask a question and then randomly open Hafez’s book of poems and recite the poem, interpreting it to their wishes.",
+    "imageCredits": "Jasmin Merdan / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_18.jpg?versionId=ljGM2O.9AR30WS2rbMLYBQ6lLk0Hy_uw",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_18.jpg?versionId=RPbbciETntFo43nShgpRDD0pPz07gN44",
+    "credits": null
+    },
+    "name": "Lesson 18",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_18.mp3?versionId=JgZoJR1KzMK_UGG7ul4qW6LCnMBXKSVZ",
+    "level": 2,
+    "lessonNumber": "18",
+    "mediaItemId": 2321504,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Traditional medicine in Iran goes back several thousand years and retains a prominent status alongside modern medicines. Iran has 8,000 medicinal plants, of which 2,000 grow exclusively inside the country. The dried flowers of echium anoenum, a member of the borage family, can be prepared as an herbal infusion to guard against bronchitis, cough, fever, and flu.",
+    "imageCredits": "Jean-Philippe Tournut / Moment / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_19.jpg?versionId=823p8eFoe7eE0oONzCISbom_59j.8CSU",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_19.jpg?versionId=atOjK3vNfG7TO0bjw0Auk840i79ZsugC",
+    "credits": null
+    },
+    "name": "Lesson 19",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_19.mp3?versionId=a3FHVqzRRNmv25PAyWMfOtXhsFtAa23a",
+    "level": 2,
+    "lessonNumber": "19",
+    "mediaItemId": 2321510,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "Persian meals are typically accompanied by rice or taftoon, a traditional bread with a long history. This circular flatbread is baked in a clay oven called a tanoor. Recipes vary from province to province but most bakeries in Iranian cities bake this popular bread daily.",
+    "imageCredits": "Richard I'Anson / The Image Bank Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_20.jpg?versionId=bpHabBlLIut0oIE27pfJJ1Wzqz_e9gz6",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_20.jpg?versionId=OSERN_CoFOfuARznVfqQ5CJW6HnQR4c2",
+    "credits": null
+    },
+    "name": "Lesson 20",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_20.mp3?versionId=3bKrhDgMJIaj6PiTjQxxuorhgMDJYHO0",
+    "level": 2,
+    "lessonNumber": "20",
+    "mediaItemId": 2321516,
+    "cultureContent": {
+    "imageLocation": "Tehran",
+    "imageDescription": "Football (or soccer), Iran’s most popular sport, is played in schools, streets, and competitive clubs. With the sport taking off at the youth level, girls and women have become increasingly interested in playing for fun as well as serious competition. The Iranian Women’s National Football Team represents Iran in international women’s football competitions around the world.",
+    "imageCredits": "Saeid Zareian / ATPImages / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_21.jpg?versionId=qQaKeOdtALexAfWXCwhdNwP4RfcHh_zY",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_21.jpg?versionId=5FCC7uOupAXI7M.6cHmYM.k2bKCzdNuE",
+    "credits": null
+    },
+    "name": "Lesson 21",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_21.mp3?versionId=oYt2PCqb7InMLWJChgPFza81BdWIbUyV",
+    "level": 2,
+    "lessonNumber": "21",
+    "mediaItemId": 2321524,
+    "cultureContent": {
+    "imageLocation": "Caspian Sea, Babolsar, Mazandaran Province",
+    "imageDescription": "After the Revolution in 1979, Islamic rules were put into place requiring women to essentially cover their whole body except for the face and hands, even while swimming. In practicality, there is some room for interpretation allowing women to dress fashionably while still covering their heads with a hijab (head scarf) and their upper body with a manteau (cloak). Covering the full length of the body, the chador is still common in more conservative areas or at mosques.",
+    "imageCredits": "Andrea Ricordi, Italy / Moment Unreleased / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_22.jpg?versionId=BXYKrLh.AZ7zWuEH8.NxaQVbK4ThHFsx",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_22.jpg?versionId=UDTY0HGYmkiyXHZ12X_8HoxkXG7mNyHD",
+    "credits": null
+    },
+    "name": "Lesson 22",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_22.mp3?versionId=55cBUAS5.0FAJTnjbMwelWuEumwwnoBO",
+    "level": 2,
+    "lessonNumber": "22",
+    "mediaItemId": 2321529,
+    "cultureContent": {
+    "imageLocation": "Nashtifan",
+    "imageDescription": "The centuries-old windmills in Nashtifan utilize the strong winds in the region to turn grindstones that mill grain into flour. The name Nashtifan is derived from words that mean “storm’s sting.” Still in use today, the earthen structures could continue functioning for centuries as long as there are caretakers willing to maintain them.",
+    "imageCredits": "Abdolhamid Ebrahimi / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_23.jpg?versionId=X00n0pGJXhiqdTieKptjrfNivYuh3WpF",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_23.jpg?versionId=uGdmqgyGtiuOW7Y0OXEoYo2Sqx42mY6Z",
+    "credits": null
+    },
+    "name": "Lesson 23",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_23.mp3?versionId=lN4OdH2oIeIWbKmxw4IrjuDE0geAcn2g",
+    "level": 2,
+    "lessonNumber": "23",
+    "mediaItemId": 2321535,
+    "cultureContent": {
+    "imageLocation": "Bam, Kerman Province",
+    "imageDescription": "The historic city of Bam was an agricultural center located on the Silk Road and known for its large fortress until the late 19th century. The city served as an active military barracks for the Iranian army until the 1930s, then was completely abandoned until restoration began in the 1950’s. But in 2003, the region was struck by a powerful earthquake that killed over 26,000 people and the ancient fortress was largely destroyed.",
+    "imageCredits": "Luigi Farrauto / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_24.jpg?versionId=72_3YPL8eG9lbYuH2AjYeVNblKXSShd9",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_24.jpg?versionId=c6MdsStNECK.3ad_2zjpt3CEzKcrW1h7",
+    "credits": null
+    },
+    "name": "Lesson 24",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_24.mp3?versionId=_Vnq2jU4Cj3IMOUgAf9MVgRH2a7EXi80",
+    "level": 2,
+    "lessonNumber": "24",
+    "mediaItemId": 2321542,
+    "cultureContent": {
+    "imageLocation": "Kandovan, East Azerbaijan Province",
+    "imageDescription": "One of the most fascinating villages in Iran, Kandovan is famous for cave dwellings carved into hardened volcanic ash and debris. Many structures have elaborate kitchens, halls, rooms, porches, and stairwells, as well as colorful windows and doors.",
+    "imageCredits": "Monik-A / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_25.jpg?versionId=MhhrzaM043U2ttm9qLjz6JpQjDSLbkUa",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_25.jpg?versionId=DzAIlTQ0t9zvs.eeWxuSxXxdI46uCYHS",
+    "credits": null
+    },
+    "name": "Lesson 25",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_25.mp3?versionId=d2fB0SqXCh30XVA51raE12f9u.Aw50pK",
+    "level": 2,
+    "lessonNumber": "25",
+    "mediaItemId": 2321550,
+    "cultureContent": {
+    "imageLocation": "Darband, Tehran Province",
+    "imageDescription": "Darband in northern Tehran borders the southern slopes of the Alborz mountain range. In addition to being a hiking destination, it is especially known for its delicious foods. Although there are traditional restaurants, Tehran street foods abound - kebabs, grilled corn, cooked beans, and beetroot along with Persian fruit conserves, cookies and drinks are available at the many snack stalls.",
+    "imageCredits": "
+    Mansoreh Motamedi / Moment / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_26.jpg?versionId=be6xglU5XCp2VhUNljhBMNYBDo2F21vM",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_26.jpg?versionId=cqQbsYpfYw_WwJ.84vM8rvexTbpPpLug",
+    "credits": null
+    },
+    "name": "Lesson 26",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_26.mp3?versionId=qEzYyomBWRhMR7kCiEPAZ1mApCIS43as",
+    "level": 2,
+    "lessonNumber": "26",
+    "mediaItemId": 2321556,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The zurkhaneh is a traditional gymnasium with a sunken pit in the center where a workout that originated hundreds of years ago is still practiced. The “ancient sport” workout is a unique mixture of calisthenics, weightlifting, wrestling, and gymnastics combined in a session of an hour or more while utilizing equipment modeled on medieval weapons. The athletes move in unison to the rhythmic beating of a drum and singing or chanting of verses all meant to prepare a warrior for battle.",
+    "imageCredits": "MindStorm-inc / iStock Editorial / Getty Images "
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_27.jpg?versionId=O9J4aVICCeJsjCaKj4G67cgffyQLIcCW",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_27.jpg?versionId=yxAOQSrS40IYAod6__en.ZkWJkEZF4Vq",
+    "credits": null
+    },
+    "name": "Lesson 27",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_27.mp3?versionId=weqzaqpTpN_EUxl7tJNGMCsN07b3UKjx",
+    "level": 2,
+    "lessonNumber": "27",
+    "mediaItemId": 2321561,
+    "cultureContent": {
+    "imageLocation": "Lake Urmia+D31",
+    "imageDescription": "Lake Urmia, the sixth largest saltwater lake in the world, spans an area larger than the Dead Sea and the Great Salt Lake combined. At the end of the 1990s, the lake was becoming smaller and saltier due to the drought in Iran and water use issues, causing microscopic organisms to periodically turn the water shades of pink, red or orange. The dry spell was broken in 2019 and along with restoration actions, the lake has had periods of recovery, but the threat of the unhealthy state remains.",
+    "imageCredits": "DogoraSun / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_28.jpg?versionId=nlU2TfJmJJTOw0pi1HyoeyMu4oq2EN8B",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_28.jpg?versionId=yetxBF6WLFpqtrcMDyicq1VueGW29GXU",
+    "credits": null
+    },
+    "name": "Lesson 28",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_28.mp3?versionId=QOIgCrXA.wH9Lt7kALo_xmhXXJhg5jug",
+    "level": 2,
+    "lessonNumber": "28",
+    "mediaItemId": 2321567,
+    "cultureContent": {
+    "imageLocation": "Baluchestan Province",
+    "imageDescription": "The Baloch of Iran are the majority ethnic inhabitants in the Balochistan region in the largely undeveloped southeastern part of the country. They have formed a unique cultural identity by living in rugged, remote terrain where their society is organized along tribal and clan lines. Most of the Baluch are Sunni Muslims, living in a predominately Shiite country.",
+    "imageCredits": "Mohammad Nouri / iStock Editorial/ Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_29.jpg?versionId=gceO5oTnZFxtXgrdWwQtndjoqtW5x5Xo",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_29.jpg?versionId=QEbPmCXvMajXkj24J1COlKciUiQZJYID",
+    "credits": null
+    },
+    "name": "Lesson 29",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_29.mp3?versionId=smykbG6GLrlBzpHT5c584K5z6g6WlUN.",
+    "level": 2,
+    "lessonNumber": "29",
+    "mediaItemId": 2321572,
+    "cultureContent": {
+    "imageLocation": "Culture",
+    "imageDescription": "The holiday of Novruz has its roots in Zoroastrianism which spread across Asia via the Silk Road, so each country and region celebrates it a bit differently. Novruz means “new day” and is Iran’s biggest public holiday celebrated for two weeks in March starting at the beginning of spring. It’s traditional to kick off the holiday with a house cleaning ritual, khoneh takooni, which translates to “shaking down the house” before friends and relatives visit during the holiday.",
+    "imageCredits": "geckophotos / iStock / Getty Images"
+    }
+    },
+    {
+    "image": {
+    "fullImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/full/FarsiPersian_2_9781797139937_M_30.jpg?versionId=40PXPtNN.qZ.gsweliqhTyVh3_iAQLbL",
+    "thumbImageAddress": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/lesson_photo/thumb/FarsiPersian_2_9781797139937_M_30.jpg?versionId=DXC88gbuDOqSG9ji_ZBquVmiQCi98G1m",
+    "credits": null
+    },
+    "name": "Lesson 30",
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/main_audio/9781508231189_Unit_30.mp3?versionId=VFgTpbf4yx91KvnZnlDdxjHqjb7LhhEe",
+    "level": 2,
+    "lessonNumber": "30",
+    "mediaItemId": 2321579,
+    "cultureContent": {
+    "imageLocation": "Persepolis, Fars Province",
+    "imageDescription": "Built in 518 BC, Persepolis was once the ancient capital of the Persian Empire (considered the center of the known world) and is one of the world’s greatest archeological sites. Its ancient architecture, urban planning and art make it a top tourist destination. In recent years, nearby development, air pollution, climate and weathering have threatened the site and are being monitored to keep the wondrous remains intact.",
+    "imageCredits": "Christophe Boisvieux / Corbis Unreleased / Getty Images"
+    }
+    }
+    ],
+    "readings": {
+    "puReadingAlphabetPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi Persian/Farsi Persian Level 2 orig/asset/RL/FarsiPersian_2_9781797139937_Alpha.pdf?versionId=qnnoJ.Vg_OyOCeWc4HaDziDWaVLIMiOm",
+    "puReadingIntroPdf": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi Persian/Farsi Persian Level 2 orig/asset/RL/FarsiPersian_2_9781797139937_Intro.pdf?versionId=kgGTFc18F.VFl6gCmZ9IKYfLfYBCWyo2",
+    "audios": [
+    {
+    "order": 11,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading01.mp3?versionId=krM5vUA5MUBE_MKqOXamTubNMNOFvqn9",
+    "mediaItemId": 2345454
+    },
+    {
+    "order": 12,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading02.mp3?versionId=LrCbeMeHKQz6QC7NOiV0QKGjnpPI2skt",
+    "mediaItemId": 2345455
+    },
+    {
+    "order": 13,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading03.mp3?versionId=JTIcCsueUuKBoZH8aesF0MH.qr.dcg9Y",
+    "mediaItemId": 2345456
+    },
+    {
+    "order": 14,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading04.mp3?versionId=1jXHzuD6lSmZyn7YYX3X0QVit5oJ9JfE",
+    "mediaItemId": 2345457
+    },
+    {
+    "order": 15,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading05.mp3?versionId=d4NK22ogzYryt3LItD6E8oUhpVzWxhw.",
+    "mediaItemId": 2345458
+    },
+    {
+    "order": 16,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading06.mp3?versionId=W3.M22JVzfua9D.NlT6HHLnsiB1fcY2B",
+    "mediaItemId": 2345459
+    },
+    {
+    "order": 17,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading07.mp3?versionId=344oUjcA3CitHQIjOSVvkGFQ1ZNLjldP",
+    "mediaItemId": 2345460
+    },
+    {
+    "order": 18,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading08.mp3?versionId=RIN_nOXPsmyGqM1a33g7dKLI_I69iRtx",
+    "mediaItemId": 2345461
+    },
+    {
+    "order": 19,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading09.mp3?versionId=c4OHJ3Ti.b1lSC9ll7fSB8yN0Rp6NBbS",
+    "mediaItemId": 2345462
+    },
+    {
+    "order": 20,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading10.mp3?versionId=Kx.MKzNpJ8muPb93PjIlv2AR3YGrLjOI",
+    "mediaItemId": 2345463
+    },
+    {
+    "order": 21,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading11.mp3?versionId=tM6os0RYHrTc3.J4CW28C0JWZErk2SC7",
+    "mediaItemId": 2345464
+    },
+    {
+    "order": 22,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading12.mp3?versionId=W4OKXp7gkMhrxn4Ukh5b6XQNyBLeOhMu",
+    "mediaItemId": 2345465
+    },
+    {
+    "order": 23,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading13.mp3?versionId=fdHcgIgZ3SLh9RFEigddqqNBLo0hcdLS",
+    "mediaItemId": 2345468
+    },
+    {
+    "order": 24,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading14.mp3?versionId=aHNVSPLl3RMF_G11mBXN.O5zDFB_uCPH",
+    "mediaItemId": 2345466
+    },
+    {
+    "order": 25,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading15.mp3?versionId=5CIc7KvLeLnXKhOLBbkcVKBTsg.PkH5.",
+    "mediaItemId": 2345467
+    },
+    {
+    "order": 26,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading16.mp3?versionId=v6Mdy6z_Nj.o.RH271A_UzKKY1KWmsJo",
+    "mediaItemId": 2345469
+    },
+    {
+    "order": 27,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading17.mp3?versionId=1lfPvJocJsnxEmAGlPWLwYOP3RYe.4ab",
+    "mediaItemId": 2345470
+    },
+    {
+    "order": 28,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading18.mp3?versionId=5AdGbs_jL169uDaHf075SHcrK4Vupcbr",
+    "mediaItemId": 2345471
+    },
+    {
+    "order": 29,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading19.mp3?versionId=7dqb1jgCYDlHI3pj9PrBKLquqhtis6x2",
+    "mediaItemId": 2345472
+    },
+    {
+    "order": 30,
+    "audioLink": "https://d3kaeubvx0x0ex.cloudfront.net/Farsi%20Persian/Farsi%20Persian%20Level%202%20orig/asset/RL/FarsiPersian_2_9781508231189__Reading20.mp3?versionId=NKN_p7ea0cdkqkCjkoVsxzbsFlxKy__y",
+    "mediaItemId": 2345473
+    }
+    ]
+    },
+    "languageCode": "fa-IR",
+    "recognitionTier": 1,
+    "hasBreakdown": false,
+    "productCode": "9781797139937",
+    "level": 2,
+    "courseName": "Farsi Persian Level 2 Premium",
+    "simpleCourseName": "Farsi Persian Level 2",
+    "puArabic": true
+    }
+    ]
