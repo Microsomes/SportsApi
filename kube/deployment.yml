@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-api
-        image: tayyab7891/sportsapiv1:v11
+        image: tayyab7891/sportsapiv1:v12
         ports:
         - containerPort: 5001
