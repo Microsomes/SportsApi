@@ -43,10 +43,12 @@ type Audio struct {
 	PageCount int    `json:"pageCount"`
 }
 
-func PerformLessonDownload(dst *os.File, link string, guard chan struct{}) {
+func PerformLessonDownload(dst *os.File, imageFull *os.File, imageThumb *os.File, lesson Lesson, guard chan struct{}) {
 	defer dst.Close()
+	defer imageFull.Close()
+	defer imageThumb.Close()
 
-	resp, err := http.Get(link)
+	resp, err := http.Get(lesson.AduioLink)
 
 	if err != nil {
 		fmt.Println("cannot download")
@@ -54,15 +56,27 @@ func PerformLessonDownload(dst *os.File, link string, guard chan struct{}) {
 
 	defer resp.Body.Close()
 
-	lt, err := io.Copy(dst, resp.Body)
+	_, err = io.Copy(dst, resp.Body)
 
 	if err != nil {
 		panic(err)
 	}
 
-	fmt.Println("downloaded:", lt)
+	resp, err = http.Get(lesson.Image.FullImage)
+	if err != nil {
+		panic(err)
+	}
+	defer resp.Body.Close()
 
-	fmt.Println(dst.Name())
+	io.Copy(imageFull, resp.Body)
+
+	resp, err = http.Get(lesson.Image.ThumbImage)
+	if err != nil {
+		panic(err)
+	}
+	defer resp.Body.Close()
+
+	io.Copy(imageThumb, resp.Body)
 
 	<-guard
 
@@ -94,17 +108,17 @@ func DownloadLanguage(units []*Unit, concurrentLevel int) {
 
 		os.Mkdir(u.Name+"/readings", 0777)
 
-		for _, l := range u.Readings.Audios {
+		// for _, l := range u.Readings.Audios {
 
-			guard <- struct{}{}
+		// 	guard <- struct{}{}
 
-			readingOs, _ := os.Create(u.Name + "/readings/" + l.Title + ".mp3")
+		// 	readingOs, _ := os.Create(u.Name + "/readings/" + l.Title + ".mp3")
 
-			fmt.Println(":", u.Name)
+		// 	fmt.Println(":", u.Name)
 
-			go PerformReadingDownload(guard, l.AudioLink, readingOs)
+		// 	go PerformReadingDownload(guard, l.AudioLink, readingOs)
 
-		}
+		// }
 
 		for _, l := range u.Lessons {
 
@@ -113,13 +127,21 @@ func DownloadLanguage(units []*Unit, concurrentLevel int) {
 			if err != nil {
 				panic(err)
 			}
+
+			imageFullDst, err := os.Create(u.Name + "/" + l.Name + "_image_full.jpeg")
+			imageThumbDst, _ := os.Create(u.Name + "/" + l.Name + "_image_thumb.jpeg")
+
+			if err != nil {
+				panic(err)
+			}
+
 			fmt.Println(u.Name)
 			fmt.Println("performing download:", l.Name)
 
 			guard <- struct{}{}
 			fmt.Println("perform download")
 
-			go PerformLessonDownload(dst, l.AduioLink, guard)
+			go PerformLessonDownload(dst, imageFullDst, imageThumbDst, l, guard)
 
 		}
 
