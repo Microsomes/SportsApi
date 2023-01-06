@@ -3,6 +3,7 @@ package main
 import (
 	"io"
 	"net/http"
+	"os"
 
 	"github.com/sportsapiv1/handlers"
 )
@@ -11,10 +12,10 @@ type Server struct {
 	*http.Server
 }
 
-func NewServer(sm *http.ServeMux) *Server {
+func NewServer(sm *http.ServeMux, port string) *Server {
 	s := &Server{
 		Server: &http.Server{
-			Addr:    ":5001",
+			Addr:    ":" + port,
 			Handler: sm,
 		},
 	}
@@ -37,8 +38,16 @@ func main() {
 	sm.HandleFunc("/leagues", handlers.AllLeagues().ServeHTTP)
 
 	sm.HandleFunc("/languages", handlers.AllLanguages)
+	sm.HandleFunc("/language/", handlers.OneLanguage)
 
-	s := NewServer(sm)
+	var port string = ""
+	if os.Getenv("PORT") == "" {
+		port = "5001"
+	} else {
+		port = os.Getenv("PORT")
+	}
+
+	s := NewServer(sm, port)
 
 	s.ListenAndServe()
 

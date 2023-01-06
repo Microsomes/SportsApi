@@ -237,7 +237,7 @@ func main() {
 
 	// var units2 = sortLanguagesToUnits(units)
 
-	DownloadLanguage(units, 50)
+	//DownloadLanguage(units, 50)
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		b, _ := json.Marshal(units)

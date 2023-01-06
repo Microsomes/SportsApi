@@ -20,6 +20,10 @@ func AllDocs() *Docs {
 		Path:        "/leagues",
 		Description: "returns a list of supported leagues",
 	})
+	docs = append(docs, &HttpDoc{
+		Path:        "/language",
+		Description: "?language=",
+	})
 
 	docs = append(docs, &HttpDoc{
 		Path:        "/languages",

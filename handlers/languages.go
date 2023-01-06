@@ -3,9 +3,10 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
-	"io"
 	"net/http"
+	"net/url"
 	"os"
+	"regexp"
 )
 
 type Unit struct {
@@ -13,6 +14,7 @@ type Unit struct {
 	Language     string   `json:"languageName"`
 	TotalLessons int      `json:"total_lessons"`
 	Lessons      []Lesson `json:"lessons"`
+	Readings     Reading  `json:"readings"`
 }
 
 type Units []Unit
@@ -21,64 +23,29 @@ type Lesson struct {
 	Name      string `json:"name"`
 	AduioLink string `json:"audioLink"`
 	S3Audio   string
+	Image     LessonImage `json:"image"`
 }
 
-func PerformDownload(dst *os.File, link string, guard chan struct{}) {
-	defer dst.Close()
-
-	resp, err := http.Get(link)
-
-	if err != nil {
-		fmt.Println("cannot download")
-	}
-
-	defer resp.Body.Close()
-
-	lt, err := io.Copy(dst, resp.Body)
-
-	if err != nil {
-		panic(err)
-	}
-
-	fmt.Println("downloaded:", lt)
-
-	fmt.Println(dst.Name())
-
-	<-guard
-
+type LessonImage struct {
+	FullImage  string `json:"fullImageAddress"`
+	ThumbImage string `json:"thumbImageAddress"`
 }
 
-func DownloadLanguage(units []*Unit, concurrentLevel int) {
-
-	guard := make(chan struct{}, concurrentLevel)
-
-	for _, u := range units {
-		err := os.Mkdir(u.Name, 0777)
-		if err != nil {
-		}
-
-		for _, l := range u.Lessons {
-
-			fname := u.Name + "/" + l.Name
-			dst, err := os.Create(fname + ".mp3")
-			if err != nil {
-				panic(err)
-			}
-			fmt.Println(u.Name)
-			fmt.Println("performing download:", l.Name)
-
-			guard <- struct{}{}
-			fmt.Println("perform download")
-
-			go PerformDownload(dst, l.AduioLink, guard)
-
-		}
-
-	}
-
+type Reading struct {
+	Pdf     string  `json:"pdf"`
+	PdfName string  `json:"pdfName"`
+	Audios  []Audio `json:"audios"`
 }
 
-func GetAllUnits() []*Unit {
+type Audio struct {
+	Title     string `json:"title"`
+	AudioLink string `json:"audioLink"`
+	S3Link    string `json:"s3link"`
+	StartPage int    `json:"startPage"`
+	PageCount int    `json:"pageCount"`
+}
+
+func getAllUnits() []*Unit {
 	// allUnits := Units{}
 	alllangs := []*Unit{}
 	var i = 1
@@ -90,6 +57,7 @@ func GetAllUnits() []*Unit {
 
 		b, err := os.Open(fmt.Sprintf("./handlers/pimfiles/pashto/%d.json", i))
 		if err != nil {
+			panic(err)
 			break
 		}
 		defer b.Close()
@@ -109,11 +77,12 @@ func GetAllUnits() []*Unit {
 		if len(units) >= 1 {
 
 			var les = []Lesson{}
+			// var res = []Reading{}
 
 			for _, ll := range units[0].Lessons {
 				les = append(les, Lesson{
 					Name:      ll.Name,
-					AduioLink: "--",
+					AduioLink: ll.AduioLink,
 					S3Audio:   units[0].Name + "/" + ll.Name + ".mp3",
 				})
 			}
@@ -123,6 +92,7 @@ func GetAllUnits() []*Unit {
 				Language:     units[0].Language,
 				Lessons:      les,
 				TotalLessons: len(units[0].Lessons),
+				Readings:     units[0].Readings,
 			})
 		}
 		i++
@@ -138,7 +108,7 @@ func GetAllUnits() []*Unit {
 // 	Units []Unit
 // }
 
-func SortLanguagesToUnits(units []*Unit) map[string][]Unit {
+func sortLanguagesToUnits(units []*Unit) map[string][]Unit {
 
 	var langmap = make(map[string][]Unit)
 
@@ -149,6 +119,7 @@ func SortLanguagesToUnits(units []*Unit) map[string][]Unit {
 			Language:     ll.Language,
 			TotalLessons: ll.TotalLessons,
 			Lessons:      ll.Lessons,
+			Readings:     ll.Readings,
 		})
 
 	}
@@ -208,15 +179,86 @@ func DedublicateUnits(units []*Unit) []*Unit {
 
 }
 
+func LimitSectionOne(units map[string][]Unit) map[string][]Unit {
+
+	var units2 = make(map[string][]Unit)
+
+	for tri, l := range units {
+
+		units := []Unit{}
+
+		for _, uni := range l {
+			units = append(units, Unit{
+				Name:         uni.Name,
+				Language:     uni.Language,
+				TotalLessons: uni.TotalLessons,
+			})
+		}
+
+		units2[tri] = units
+	}
+
+	return units2
+}
+
 func AllLanguages(w http.ResponseWriter, r *http.Request) {
 
-	units := GetAllUnits()
+	re := regexp.MustCompile("\\?")
+
+	lt := re.MatchString(r.URL.String())
+
+	units := getAllUnits()
 
 	units = DedublicateUnits(units)
 
-	var units2 = SortLanguagesToUnits(units)
+	var units2 = sortLanguagesToUnits(units)
+
+	if lt {
+		units2 = LimitSectionOne(units2)
+	}
 
 	b, _ := json.Marshal(units2)
 	w.Write(b)
 
+}
+
+func OneLanguage(w http.ResponseWriter, r *http.Request) {
+
+	uri, err := url.Parse(r.URL.String())
+	if err != nil {
+		http.Error(w, "Bad Request", http.StatusBadRequest)
+		return
+	}
+
+	params, err := url.ParseQuery(uri.RawQuery)
+
+	if err != nil {
+		http.Error(w, "Bad Request", http.StatusBadRequest)
+		return
+	}
+
+	if params.Get("lang") == "" {
+		http.Error(w, "Param ?lang= missing", http.StatusBadRequest)
+		return
+	}
+
+	units := getAllUnits()
+
+	units = DedublicateUnits(units)
+
+	var units2 = sortLanguagesToUnits(units)
+
+	var toUnits = []Unit{}
+
+	for _, un := range units2 {
+		for _, unit := range un {
+			if unit.Language == params.Get("lang") {
+				toUnits = append(toUnits, unit)
+			}
+		}
+	}
+
+	b, _ := json.Marshal(toUnits)
+
+	w.Write(b)
 }
